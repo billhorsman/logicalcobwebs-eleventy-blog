@@ -1,0 +1,56 @@
+services:
+
+  lb:
+    image: traefik:v3.2
+    environment:
+      - DNSIMPLE_OAUTH_TOKEN
+      - DNSIMPLE_BASE_URL
+    command:
+      - --providers.docker
+      - --entrypoints.http.address=:80
+      - --entrypoints.https.address=:443
+      - --api.insecure=true
+      - --certificatesresolvers.letsencrypt.acme.dnsChallenge=true
+      - --certificatesresolvers.letsencrypt.acme.dnsChallenge.provider=dnsimple
+      - --certificatesresolvers.letsencrypt.acme.dnsChallenge.delayBeforeCheck=0
+      - --certificatesresolvers.letsencrypt.acme.email=${EMAIL}
+      - --certificatesresolvers.letsencrypt.acme.storage=/letsencrypt/acme.json
+    labels:
+      - traefik.http.routers.to-https.rule=HostRegexp(`{host:.+}`)
+      - traefik.http.routers.to-https.entrypoints=http
+      - traefik.http.routers.to-https.middlewares=to-https
+      - traefik.http.routers.traefik.rule=Host(`traefik.${DOMAIN}`)
+      - traefik.http.routers.traefik.entrypoints=https
+      - traefik.http.routers.traefik.service=api@internal
+      - traefik.http.routers.traefik.tls=true
+      - traefik.http.routers.traefik.tls.certresolver=${CERT_RESOLVER}
+      - traefik.http.middlewares.to-https.redirectscheme.scheme=https
+
+    ports:
+      - 80:80
+      - 8080:8080
+      - 443:443
+    volumes:
+      - ./data/letsencrypt:/letsencrypt
+      - /var/run/docker.sock:/var/run/docker.sock
+
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    labels:
+      - traefik.http.routers.https.rule=Host(`${DOMAIN}`)
+      - traefik.http.routers.https.entrypoints=https
+      - traefik.http.routers.https.tls=true
+      - traefik.http.routers.https.tls.certresolver=${CERT_RESOLVER}
+    depends_on:
+      - lb
+    container_name: logicalcobwebs
+    restart: always
+    volumes:
+      - ./:/app:cached
+    ports:
+      - 8082:8082
+
+volumes:
+  logicalcobwebs-app:
