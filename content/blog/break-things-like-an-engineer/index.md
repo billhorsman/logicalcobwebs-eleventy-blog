@@ -8,7 +8,14 @@ tags:
   - engineering
 ---
 
-<i class="fa-solid fa-bullhorn"></i> Originally posted on the [Team Tito blog](https://blog.tito.io/posts/break-things-like-an-engineer) on 30 September 2024.
+<div class="post-credit">
+  <i class="fa-solid fa-bullhorn"></i> 
+  <p>
+    Originally posted on the
+    <a href="https://blog.tito.io/posts/break-things-like-an-engineer">Team Tito blog</a>
+    on 30 September 2024.
+  </p>
+</div>
 
 Last Sunday morning I was emptying the ash from our wood pellet furnace — something I've done around 100 times.
 
