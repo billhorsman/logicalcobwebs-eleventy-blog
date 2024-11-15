@@ -102,6 +102,17 @@ export default async function(eleventyConfig) {
 		return (new Date()).toISOString();
 	});
 
+	eleventyConfig.addShortcode("currentYear", function () {
+		return new Date().getFullYear();
+	});
+
+	eleventyConfig.addFilter("yearsSince", (year) => {
+		const thisYear = new Date().getFullYear();
+		return thisYear - year;
+	});
+
+	
+
 	// Features to make your build faster (when you need them)
 
 	// If your passthrough copy gets heavy and cumbersome, add this line

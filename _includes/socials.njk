@@ -1,0 +1,69 @@
+<nav class="social">
+  <div>
+    {% if person.email %}
+    <a rel="me" href="mailto:{{ person.email }}" aria-label="Email">
+      <i class="fas fa-fw fa-envelope"></i>
+      <span>Email: {{ person.email }}</span>
+    </a>
+    {% endif %} {% if person.mastodon %}
+    <a rel="me" href="https://{{ person.mastodon }}" aria-label="Mastodon">
+      <i class="fa-brands fa-fw fa-mastodon"></i>
+      <span>Mastodon: {{ person.mastodon }}</span>
+    </a>
+    {% endif %} {% if person.linkedin %}
+    <a
+      rel="me"
+      href="https://uk.linkedin.com/in/{{ person.linkedin }}"
+      aria-label="LinkedIn"
+    >
+      <i class="fab fa-fw fa-linkedin"></i>
+      <span>LinkedIn: {{ person.linkedin }}</span>
+    </a>
+    {% endif %} {% if person.twitter %}
+    <a
+      rel="me"
+      href="https://twitter.com/{{ person.twitter }}/"
+      aria-label="Twitter"
+    >
+      <i class="fab fa-fw fa-twitter"></i>
+      <span>Twitter: @{{ person.twitter }}</span>
+    </a>
+    {% endif %} {% if person.instagram %}
+    <a
+      rel="me"
+      href="https://www.instagram.com/{{ person.instagram }}/"
+      aria-label="Instagram"
+    >
+      <i class="fab fa-fw fa-instagram"></i>
+      <span>Instagram: @{{ person.instagram }}</span>
+    </a>
+    {% endif %} {% if person.github %}
+    <a
+      rel="me"
+      href="https://github.com/{{ person.github }}"
+      aria-label="Github"
+    >
+      <i class="fab fa-fw fa-github"></i>
+      <span>GitHub: {{ person.github }}</span>
+    </a>
+    {% endif %} {% if person.medium %}
+    <a
+      rel="me"
+      href="https://medium.com/@{{ person.medium }}"
+      aria-label="Medium"
+    >
+      <i class="fab fa-fw fa-medium"></i>
+      <span>Medium: @{{ person.medium }}</span>
+    </a>
+    {% endif %} {% if person.keybase %}
+    <a
+      rel="me"
+      href="https://keybase.io/{{ person.keybase }}"
+      aria-label="Keybase"
+    >
+      <i class="fab fa-fw fa-keybase"></i>
+      <span>Keybase: {{ person.keybase }}</span>
+    </a>
+    {% endif %}
+  </div>
+</nav>

@@ -1,0 +1,161 @@
+---
+title: Bill Horsman
+description: Bill Horsman is a computer programmer
+excerpt: Bill Horsman is a computer programmer
+layout: layouts/home.njk
+eleventyComputed:
+  image: https://logicalcobwebs.com/img/bill-og.png
+eleventyNavigation:
+  key: Archive
+  order: 2
+person:
+  slug: bill
+  name: Bill Horsman
+  role: Computer Programmer
+  email: bill@logicalcobwebs.com
+  linkedin: billhorsman
+  mastodon: mastodon.scot/@billhorsman
+  instagram: billhorsman
+  github: billhorsman
+---
+
+<h1>{{ person.name }}</h1>
+
+<div class="avatar-and-social">
+  <img src="./bill.webp" alt="avatar" class="avatar">
+  {% include "socials.njk" %}
+</div>
+
+<p class="my-4">
+  I like to build beautiful interfaces that do useful jobs so that people can
+  get things done quickly, easily and with fewer mistakes.
+</p>
+
+<p class="my-4">
+  I've been adding things to the Internet since 1997 and have used lots of tools
+  to do so, but throughout it all runs
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>,
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a> and
+  <a href="https://developer.mozilla.org/en-US/docs/web/javascript"
+    >JavaScript</a
+  >.
+</p>
+
+<ol class="timeline">
+  <li>
+    <i class="fa-regular fa-calendar"></i>
+    <time>1982</time>
+    <span>
+      Sporadic coding in
+      <a href="https://en.wikipedia.org/wiki/BASIC">BASIC</a> for fun using computers like the <a href="https://en.wikipedia.org/wiki/BBC_Micro">BBC Micro</a>, <a href="https://en.wikipedia.org/wiki/ZX81">ZX81</a> and <a href="https://en.wikipedia.org/wiki/Commodore_PET">Commodore PET</a>.
+    </span>
+  </li>
+  <li>
+    <i class="fa-regular fa-calendar"></i>
+    <time>1985</time>
+    <span>Did surprisingly little coding as part of my engineering degree. What little I did was <a href="https://en.wikipedia.org/wiki/Fortran">Fortran</a>.</span>
+  </li>
+  <li>
+    <i class="fa-regular fa-calendar"></i>
+    <time>1992</time>
+    <span>Someone paid me a small amount to write code. My first gig.</span>
+  </li>
+  <li>
+    <i class="fa-regular fa-calendar"></i>
+    <time>1994</time>
+    <span>Started contracting for a big company and made enough money to pay the rent and buy food, like a grown-up.</span>
+  </li>
+  <li>
+    <i class="fa-regular fa-calendar"></i>
+    <time>1997</time>
+    <span>Wrote code that ran on the Interwebs.</span>
+  </li>
+  <li>
+    <i class="fa-regular fa-calendar"></i>
+    <time>2007</time>
+    <span
+      >Started using
+      <a href="https://rubyonrails.org/">Ruby on Rails</a>
+      version 1.
+    </span>
+  </li>
+  <li>
+    <i class="fa-regular fa-calendar"></i>
+    <time>2018</time>
+    <span>
+      Joined
+      <a href="https://teamtito.com/">Team Tito</a>, helping to build
+      <a href="https://ti.to">Tito</a> and
+      <a href="https://vi.to">Vito</a>
+      <i class="fa fa-heart text-red-800 fa-sm ml-2"></i>
+    </span>
+  </li>
+  <li>
+    <i class="fa-regular fa-calendar"></i>
+    <time>{% currentYear %}</time>
+    <span
+      >Still here, still using Ruby on Rails but also things like
+      <a href="https://hotwired.dev/">Hotwire</a></span
+    >.
+  </li>
+</ol>
+
+<div class="funnel">
+  <i class="fa-solid fa-filter fa-3x"></i>
+</div>
+
+
+<ul class="bullets">
+  <li>
+    <span
+      > {{ 1992 | yearsSince }} years worth of mistakes; doing
+      things the hard way; learning from what went wrong. Trying to learn even
+      more from what went right.</span
+    >
+  </li>
+  <li>
+    <span
+      >Finishing projects and standing by them in production. Coding isn't all
+      about the thrill of the latest thing - it's also about detail and making
+      it work.</span
+    >
+  </li>
+  <li>
+    <span
+      >Striving to make things as simple as possible - whether that's for the
+      end user or for another developer on my team. Or me, six months down the
+      road. Clever solutions aren't necessarily cool.</span
+    >
+  </li>
+  <li>
+    <span>It takes a lot of thought to make something simple.</span>
+  </li>
+  <li>
+    <span
+      >Rigorous, automatic testing so I have the confidence to make
+      changes.</span
+    >
+  </li>
+</ul>
+
+<p class="my-4">
+  I've worked for banks, telecoms, government, education, distribution, retail
+  and news media. Some of it has been at the leading edge using the latest
+  tools; some of it has been the rigor of maintaining a financial system. All of
+  it has taught me a great deal:
+</p>
+
+<ul class="bullets">
+  <li>
+    <span>Language skills like <i>Ruby</i>, <i>HTML</i>, <i>CSS</i> and <i>JavaScript</i></span>
+  </li>
+  <li>
+    <span
+      >Coding skills like <i>testing</i> and
+      <i class="hover:opacity-0 transition duration-1000">transparency</i></span
+    >
+  </li>
+  <li>
+    <span>Business skills like <i>communication</i> and <i>commitment</i></span>
+  </li>
+</ul>

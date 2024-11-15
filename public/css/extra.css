@@ -9,3 +9,106 @@ picture + p:has(em) {
   margin: 0 0 2rem;
   text-align: center;
 }
+
+.avatar {
+  border-radius: 50%;
+  height: 180px;
+  width: 180px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  clip-path: url(#myClip);
+}
+.avatar--img {
+  border-radius: 50%;
+  height: 160px;
+  width: 160px;
+  transition: all linear 0.1s;
+  position: absolute;
+  left: 10px;
+  top: 8px;
+  z-index: 1;
+  object-fit: cover;
+}
+a:hover .avatar--img,
+.avatar:hover .avatar--img {
+  top: 0px;
+  left: 6px;
+  width: 165px;
+}
+.avatar--circle {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background: gold;
+  border-radius: 50%;
+  height: 140px;
+  width: 140px;
+}
+
+.avatar-and-social {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: space-between;
+}
+
+.social {
+  align-items: flex-start;
+  border: 1px solid transparent;
+  border-radius: 0.5rem;
+  display: flex;
+  margin-bottom: 2rem;
+}
+.social > div {
+  display: flex;
+}
+.social a {
+  border: 0;
+  gap: 1rem;
+  opacity: 0.8;
+}
+.social a {
+  align-items: center;
+  color: var(--color);
+  display: flex;
+  font-size: clamp(1rem, 6vw, 2rem);
+  padding: 0.3rem;
+  text-decoration: none;
+}
+.social a span {
+  font-size: 1rem;
+}
+.social a:hover,
+.social a:focus-visible {
+  color: var(--color-red);
+}
+
+.social > div {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.fa-envelope {
+  color: var(--color);
+}
+.fa-twitter {
+  color: #4c9fec;
+}
+.fa-mastodon {
+  color: #5a59ff;
+}
+.fa-instagram {
+  color: #ed4a55;
+}
+.fa-medium {
+  color: #4ba57f;
+}
+.fa-keybase {
+  color: #ee783a;
+}
+.fa-github {
+  color: var(--color);
+}
