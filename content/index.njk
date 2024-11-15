@@ -1,11 +1,32 @@
----js
-const eleventyNavigation = {
-	key: "Home",
-	order: 1
-};
-
-const numberOfLatestPostsToShow = 3;
 ---
+title: Logical Cobwebs
+description: Bill Horsman is a computer programmer and Nonie Coulthard is a nature conservationist
+excerpt: Bill Horsman is a computer programmer and Nonie Coulthard is a nature conservationist
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+numberOfLatestPostsToShow: 3
+people:
+  - slug: bill
+    name: Bill Horsman
+    role: Computer Programmer
+  - slug: nonie
+    name: Nonie Coulthard
+    role: Nature Conservationist
+---
+
+{% include "clip-path.njk" %}
+<nav class="people">
+  {% for person in people %}
+  <a href="/{{ person.slug }}">
+    <span class="name">{{ person.name }}</span>
+    {% include "avatar.njk" %}
+    <span class="role">{{ person.role }}</span>
+  </a>
+  {% endfor %}
+</nav>
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>

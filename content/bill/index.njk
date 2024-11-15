@@ -22,7 +22,8 @@ person:
 <h1>{{ person.name }}</h1>
 
 <div class="avatar-and-social">
-  <img src="./bill.webp" alt="avatar" class="avatar">
+  {% include "clip-path.njk" %}
+  {% include "avatar.njk" %}
   {% include "socials.njk" %}
 </div>
 
