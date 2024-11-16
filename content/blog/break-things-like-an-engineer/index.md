@@ -2,6 +2,8 @@
 title: Being an engineer means I can break things in my spare time too
 description: Computers and furnaces are not that different
 excerpt: Last Sunday morning I was emptying the ash from our wood pellet furnace — something I've done around 100 times
+canonical: https://logicalcobwebs.com/blog/break-things-like-an-engineer/
+ogImage: content/blog/break-things-like-an-engineer/furnace.png
 date: 2024-11-15
 author: Bill Horsman
 tags:

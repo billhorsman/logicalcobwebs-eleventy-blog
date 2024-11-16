@@ -108,18 +108,20 @@ export default async function(eleventyConfig) {
 
 	eleventyConfig.addAsyncShortcode(
 		"shareImageUri",
-		async function shareImageUri(src) {
+		async function shareImageUri(src, format) {
 
 			// Full list of formats here: https://www.11ty.dev/docs/plugins/image/#output-formats
 			// Warning: Avif can be resource-intensive so take care!
-			let formats = ["jpeg"];
+
+			format = format || "png";
+			let formats = [format];
 			let metadata = await Image(src, {
 				widths: ["600px"],
 				formats,
 				outputDir: "./_site/img/", // Advanced usage note: `eleventyConfig.dir` works here because we’re using addPlugin.
 			});
 
-			const data = metadata.jpeg[0];
+			const data = metadata[format][0];
 			// data.url might be /blog/hello-world/xfO_genLg4-600.jpeg
 			// note the filename is a content hash-width combination
 			return data.url;
