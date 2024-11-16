@@ -115,7 +115,8 @@ export default async function(eleventyConfig) {
 			let formats = ["jpeg"];
 			let metadata = await Image(src, {
 				widths: ["600px"],
-				formats
+				formats,
+				outputDir: "./_site/img/", // Advanced usage note: `eleventyConfig.dir` works here because we’re using addPlugin.
 			});
 
 			const data = metadata.jpeg[0];
