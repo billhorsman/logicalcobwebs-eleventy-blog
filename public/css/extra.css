@@ -1,3 +1,11 @@
+.post-metadata + p {
+  margin-top: 2rem;
+}
+
+.ha-placeholder {
+  font-size: 0;
+}
+
 picture {
   & img {
     height: auto;
@@ -444,4 +452,39 @@ iframe {
   gap: 1rem;
   font-style: italic;
   margin: 2rem 0;
+}
+
+.icon-gallery {
+  align-items: flex-end;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin: 1rem 0;
+}
+
+.icon-gallery div {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.icon-gallery svg {
+  color: white;
+  fill: white;
+  font-size: 40px;
+  height: 40px;
+  width: 50px;
+}
+
+.icon-gallery i {
+  align-items: center;
+  background-color: black;
+  border-radius: 50%;
+  color: white;
+  display: flex;
+  font-size: 35px;
+  height: 60px;
+  justify-content: center;
+  width: 60px;
 }

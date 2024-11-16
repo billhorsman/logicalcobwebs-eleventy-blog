@@ -63,9 +63,7 @@ That's a simlar approach to Fontawesome, but a lot less elegant. Drawing icons i
 
 <section class="icon-gallery">
   <div>
-    <i>
-      <i class="fa fa-fw fa-person-running"></i>
-    </i>
+    <i class="fa fa-fw fa-person-running"></i>
     <span>Fontawesome</span>
   </div>
   <div>
