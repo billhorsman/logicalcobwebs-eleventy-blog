@@ -2,6 +2,7 @@ import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
+import Image from "@11ty/eleventy-img";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 import pluginFilters from "./_config/filters.js";
@@ -105,6 +106,25 @@ export default async function(eleventyConfig) {
 		return thisYear - year;
 	});
 
+	eleventyConfig.addAsyncShortcode(
+		"shareImageUri",
+		async function shareImageUri(src) {
+
+			// Full list of formats here: https://www.11ty.dev/docs/plugins/image/#output-formats
+			// Warning: Avif can be resource-intensive so take care!
+			let formats = ["jpeg"];
+			let metadata = await Image(src, {
+				widths: ["600px"],
+				formats
+			});
+
+			const data = metadata.jpeg[0];
+			// data.url might be /blog/hello-world/xfO_genLg4-600.jpeg
+			// note the filename is a content hash-width combination
+			return data.url;
+		}
+	);
+	
 	
 
 	// Features to make your build faster (when you need them)
