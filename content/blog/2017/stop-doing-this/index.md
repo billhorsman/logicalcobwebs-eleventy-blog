@@ -2,8 +2,8 @@
 title: Stop doing this
 description: Remembering to fail later (in your automatic tests)
 excerpt: Remembering to fail later (in your automatic tests)
-canonical: https://logicalcobwebs.com/blog/stop-doing-this
-ogImage: content/blog/stop-doing-this/stop-sign.jpg
+canonical: https://logicalcobwebs.com/blog/2017/stop-doing-this/
+ogImage: content/blog/2017/stop-doing-this/stop-sign.jpg
 date: 2017-11-27
 author: Bill Horsman
 tags:

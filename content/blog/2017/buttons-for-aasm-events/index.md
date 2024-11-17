@@ -2,8 +2,8 @@
 title: Buttons for AASM events
 description: Don't make your UI think harder than it has to
 excerpt: Don't make your UI think harder than it has to
-canonical: https://logicalcobwebs.com/blog/buttons-for-aasm-events/
-ogImage: content/blog/buttons-for-aasm-events/buttons.png
+canonical: https://logicalcobwebs.com/blog/2017/buttons-for-aasm-events/
+ogImage: content/blog/2017/buttons-for-aasm-events/buttons.png
 date: 2017-05-12
 author: Bill Horsman
 tags:
