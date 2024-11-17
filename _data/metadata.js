@@ -1,5 +1,5 @@
 export default {
-	title: "Bill Horsman's Blog",
+	title: "A Blog from Logical Cobwebs",
 	url: "https://logicalcobwebs.com/blog",
 	language: "en",
 	description: "Topics including coding, cycling, running, and the Hebrides.",

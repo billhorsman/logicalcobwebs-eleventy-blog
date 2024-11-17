@@ -58,7 +58,7 @@ export default async function(eleventyConfig) {
 		},
 		metadata: {
 			language: "en",
-			title: "Bill Horsman's Blog",
+			title: "A Blog from Logical Cobwebs",
 			subtitle: "Topics including coding, cycling, running, and the Hebrides.",
 			base: "https://logicalcobwebs.com/blog/",
 			author: {
