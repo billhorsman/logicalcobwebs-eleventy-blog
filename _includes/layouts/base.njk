@@ -13,7 +13,7 @@
 		<meta property="og:title" content="{{ title or metadata.title }}">
 		<meta property="og:description" content="{{ description or metadata.description }}">
 		{% if ogImage %}
-			<meta property="og:image" content="https://beta.logicalcobwebs.com{% shareImageUri ogImage %}">
+			<meta property="og:image" content="https://logicalcobwebs.com{% shareImageUri ogImage %}">
 		{% endif %}
 
 		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
