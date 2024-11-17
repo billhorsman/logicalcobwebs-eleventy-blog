@@ -446,6 +446,38 @@ iframe {
   }
 }
 
+.postlist-item {
+  flex-wrap: nowrap;
+}
+
+.postlist-item:before {
+  color: var(--color-highlight);
+}
+
+.postlist-item > div {
+  padding-left: 1rem;
+}
+
+.postlist-item a {
+  font-size: 1.2rem;
+  font-weight: normal;
+  padding: 0;
+  text-decoration: none;
+}
+
+.postlist-excerpt {
+  margin: 0.5rem 0;
+}
+
+.postlist-date {
+  font-size: 1rem;
+}
+
+.postlist-date:before {
+  content: "\2014";
+  margin-right: 0.5rem;
+}
+
 .post-credit {
   display: flex;
   align-items: center;
