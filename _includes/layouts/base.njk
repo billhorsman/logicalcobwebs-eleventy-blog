@@ -57,7 +57,7 @@
 			<nav>
 				<h2 class="visually-hidden">Top level navigation menu</h2>
 				{%- for entry in collections.all | eleventyNavigation %}
-					<a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
+					<a href="{{ entry.url }}"{% if entry.url == page.url or (entry.url == "/blog/" and page.url.startsWith(entry.url)) %} aria-current="page"{% endif %}>{{ entry.title }}</a>
 				{%- endfor %}
 			</nav>
 		</header>
