@@ -1,7 +1,7 @@
 ---
 title: Markdown with Pandoc and Netlify
 description: Publishing markdown as a webpage
-excerpt: Running a marathon, virtually.
+excerpt: Converting markdown to HTML with style.
 canonical: https://logicalcobwebs.com/blog/2024/markdown-with-pandoc-and-netlify
 ogImage: content/blog/2024/markdown-with-pandoc-and-netlify/step-2.png
 date: 2024-11-17
