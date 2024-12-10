@@ -19,6 +19,15 @@
       <i class="fab fa-fw fa-linkedin"></i>
       <span>LinkedIn: {{ person.linkedin }}</span>
     </a>
+    {% endif %} {% if person.bluesky %}
+    <a
+      rel="me"
+      href="https://bsky.app/profile/{{ person.bluesky }}.bsky.social/"
+      aria-label="Bluesky"
+    >
+      <i class="fab fa-fw fa-square-bluesky"></i>
+      <span>Bluesky: @{{ person.bluesky }}</span>
+    </a>
     {% endif %} {% if person.twitter %}
     <a
       rel="me"

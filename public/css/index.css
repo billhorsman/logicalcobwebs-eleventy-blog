@@ -451,8 +451,14 @@ ol.timeline code {
   color: var(--color);
   color: light-dark(var(--color), white);
 }
+.fa-square-bluesky {
+  color: #4489f6;
+}
 .fa-twitter {
   color: #4c9fec;
+}
+.fa-linkedin {
+  color: #2d65bc;
 }
 .fa-mastodon {
   color: #5a59ff;
