@@ -16,6 +16,8 @@
 			<meta property="og:image" content="https://logicalcobwebs.com{% shareImageUri ogImage %}">
 		{% endif %}
 
+		<meta name="color-scheme" content="light dark">
+
 		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 
 		{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
@@ -36,7 +38,6 @@
 		{%- css %}/* This is an arbitrary CSS string added to the bundle */{% endcss %}
 		{#- Add the contents of a file to the bundle #}
 		{%- css %}{% include "public/css/index.css" %}{% endcss %}
-		{%- css %}{% include "public/css/extra.css" %}{% endcss %}
 		{#- Or you can add from node_modules #}
 		{# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
 
