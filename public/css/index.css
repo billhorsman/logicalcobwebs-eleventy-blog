@@ -188,11 +188,17 @@ header {
 }
 
 .scheme-switcher {
-  display: flex;
-  padding: 0.125em;
-  width: fit-content;
-  border: 0.125em solid var(--color-text);
-  border-radius: calc(infinity * 1px);
+  display: none;
+}
+
+@supports (color: light-dark(black, white)) {
+  .scheme-switcher {
+    display: flex;
+    padding: 0.125em;
+    width: fit-content;
+    border: 0.125em solid var(--color-text);
+    border-radius: calc(infinity * 1px);
+  }
 }
 
 .scheme-switcher {
