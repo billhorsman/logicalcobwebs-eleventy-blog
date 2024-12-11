@@ -15,18 +15,17 @@
   --color-dark-gray-80: hsl(0, 0%, 20%, 0.8);
   --color-light-gray: hsla(0, 0%, 0%, 0.2);
   --color-crimson: hsl(350, 90%, 40%);
-  --color-light-crimson: hsl(350, 100%, 80%);
+  --color-light-crimson: hsl(350, 100%, 60%);
 
   --header-background: hsl(0, 10%, 90%, 0.8);
 
-  --background-color: var(--color-pale);
-  --background-color-80: var(--color-pale-80);
+  --background-color: light-dark(var(--color-pale), var(--color-dark-gray));
+  --background-color-80: light-dark(var(--color-pale-80), var(--color-dark-gray-80));
   --background-color-highlight: var(--color-light-gray);
-  --color: #121212;
-  --color-muted: #555;
-  --color-slight: #ccc;
-  --color-highlight: var(--color-crimson);
-  --link-color: var(--color-blue);
+  --color: light-dark(#121212, #fafafa);
+  --color-muted: light-dark(#555, #aaa);
+  --color-highlight: light-dark(var(--color-crimson), var(--color-light-crimson));
+  --link-color: light-dark(var(--link-color), var(--color-light-blue));
 }
 
 /* Global stylesheet */
@@ -43,10 +42,8 @@ body {
   padding: 0;
   margin: 0 auto;
   font-family: var(--font-family);
-  color: var(--text-color);
-  color: light-dark(var(--color), white);
+  color: var(--color);
   background-color: var(--background-color);
-  background-color: light-dark(var(--background-color), var(--color-dark-gray));
 }
 
 html {
@@ -204,7 +201,7 @@ header {
 
     &[aria-pressed='true'] {
       background-color: light-dark(black, white);
-      color: light-dark(white, black);
+      color: var(--background-color);
     }
   }
 }
@@ -292,7 +289,6 @@ a,
 a:visited,
 a:focus {
   color: var(--link-color);
-  color: light-dark(var(--link-color), var(--color-light-blue));
   text-decoration: underline;
   /*  text-decoration-thickness: 0.2ex;
   text-underline-offset: 0.2ex;
@@ -330,7 +326,6 @@ footer {
 .nav-header {
   backdrop-filter: blur(3px) grayscale(1);
   background-color: var(--background-color-80);
-  background-color: light-dark(var(--background-color-80), var(--color-dark-gray-80));
   padding: 0 0 0.5rem;
   position: sticky;
   top: 0;
@@ -475,7 +470,6 @@ h3 {
 .social a {
   align-items: center;
   color: var(--color);
-  color: light-dark(var(--color), white);
   display: flex;
   font-size: clamp(1rem, 6vw, 2rem);
   padding: 0.3rem;
@@ -525,7 +519,6 @@ ol.timeline code {
 
 .fa-envelope {
   color: var(--color);
-  color: light-dark(var(--color), white);
 }
 
 .fa-square-bluesky {
@@ -558,7 +551,6 @@ ol.timeline code {
 
 .fa-github {
   color: var(--color);
-  color: light-dark(var(--color), white);
 }
 
 ul.bullets {
@@ -629,7 +621,6 @@ nav.people a {
 
 nav.people .role {
   color: var(--color-muted);
-  color: light-dark(var(--color-muted), white);
 }
 
 .avatar {
