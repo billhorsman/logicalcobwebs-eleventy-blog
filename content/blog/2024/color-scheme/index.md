@@ -15,3 +15,70 @@ Following advice in the article [Native HTML light and dark color scheme switchi
 I've been wanting to do this for a while and finally got around to it. It uses the [light-dark](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark) CSS function which is now widely supported. 
 
 The controls are in the bottom right of the page. If you can't see them then you're using a browser that doesn't support the `light-dark` CSS function. The fallback is the browser's default color scheme.
+
+## How it works
+
+Some HTML:
+
+```html
+<html>
+  <head>
+    <meta name="color-scheme" content="auto">
+  </head>
+  <body>
+    <section class="scheme-switcher" aria-label="Color scheme switcher">
+      <button aria-pressed="false" value="light">
+        Light
+      </button>
+      <button aria-pressed="true" value="light dark">
+        Auto
+      </button>
+      <button aria-pressed="false" value="dark">
+        Dark
+      </button>
+    </section>			
+  </body>
+</html>
+```
+
+A little CSS (as an example):
+
+```css
+body {
+  background-color: light-dark(white, black);
+}
+```
+
+A some JavaScript to wire it up (simplified):
+
+```js
+button.addEventListener("click", () => {
+  colorScheme.content = button.value;
+  button.setAttribute("aria-pressed", true);
+  localStorage.setItem("color-scheme", button.value);
+});
+```
+
+As a bonus, make the controls only show up if the browser supports the `light-dark` CSS function:
+
+```css
+.scheme-switcher {
+  display: none;
+}
+
+@supports (color: light-dark(black, white)) {
+  .scheme-switcher {
+    display: flex;
+  }
+}
+```
+
+## Conclusion
+
+Some things I like about this implementation:
+
+- No flash of incorrect color scheme on page load ([FOUC](https://en.wikipedia.org/wiki/Flash_of_unstyled_content))
+- Responds to the system changing the color scheme without page reload
+- Graceful fallback to the browser's default color scheme
+
+Supported on most modern browsers and doesn't screw things up for those that don't.
