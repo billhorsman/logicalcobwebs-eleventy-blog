@@ -1,75 +1,90 @@
 <!doctype html>
 <html lang="{{ metadata.language }}">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>{{ title or metadata.title }}</title>
-		<meta name="description" content="{{ description or metadata.description }}">
-		{% if canonical or metadata.canonical %}
-			<link rel="canonical" href="{{ canonical or metadata.canonical }}" />
-			<meta property="og:url" content="{{ canonical or metadata.canonical }}">
-		{% endif %}
-		<meta property="og:type" content="website">
-		<meta property="og:title" content="{{ title or metadata.title }}">
-		<meta property="og:description" content="{{ description or metadata.description }}">
-		{% if ogImage %}
-			<meta property="og:image" content="https://logicalcobwebs.com{% shareImageUri ogImage %}">
-		{% endif %}
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+    {% if canonical or metadata.canonical %}
+      <link rel="canonical" href="{{ canonical or metadata.canonical }}" />
+      <meta property="og:url" content="{{ canonical or metadata.canonical }}">
+    {% endif %}
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ title or metadata.title }}">
+    <meta property="og:description" content="{{ description or metadata.description }}">
+    {% if ogImage %}
+      <meta property="og:image" content="https://logicalcobwebs.com{% shareImageUri ogImage %}">
+    {% endif %}
 
-		<meta name="color-scheme" content="light dark">
+    <meta name="color-scheme" content="light dark">
 
-		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 
-		{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
-		{#- <meta name="generator" content="{{ eleventy.generator }}"> #}
+    {#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
+    {#- <meta name="generator" content="{{ eleventy.generator }}"> #}
 
-		{#-
-		Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:
-		1. CSS:
-			* Add to a per-page bundle using `{% css %}{% endcss %}`
-			* Retrieve bundle content using `{% getBundle "css" %}` or `{% getBundleFileUrl "css" %}`
-		2. Or for JavaScript:
-			* Add to a per-page bundle using `{% js %}{% endjs %}`
-			* Retrieve via `{% getBundle "js" %}` or `{% getBundleFileUrl "js" %}`
-		3. Learn more: https://github.com/11ty/eleventy-plugin-bundle
-		#}
+    {#-
+    Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:
+    1. CSS:
+      * Add to a per-page bundle using `{% css %}{% endcss %}`
+      * Retrieve bundle content using `{% getBundle "css" %}` or `{% getBundleFileUrl "css" %}`
+    2. Or for JavaScript:
+      * Add to a per-page bundle using `{% js %}{% endjs %}`
+      * Retrieve via `{% getBundle "js" %}` or `{% getBundleFileUrl "js" %}`
+    3. Learn more: https://github.com/11ty/eleventy-plugin-bundle
+    #}
 
-		{#- Add an arbitrary string to the bundle #}
-		{%- css %}/* This is an arbitrary CSS string added to the bundle */{% endcss %}
-		{#- Add the contents of a file to the bundle #}
-		{%- css %}{% include "public/css/index.css" %}{% endcss %}
-		{#- Or you can add from node_modules #}
-		{# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
+    {#- Add an arbitrary string to the bundle #}
+    {%- css %}/* This is an arbitrary CSS string added to the bundle */{% endcss %}
+    {#- Add the contents of a file to the bundle #}
+    {%- css %}{% include "public/css/index.css" %}{% endcss %}
+    {#- Or you can add from node_modules #}
+    {# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
 
-		{#- Render the CSS bundle using inlined CSS (for the fastest site performance in production) #}
-		{#- <style>{% getBundle "css" %}</style> #}
-		{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
-		<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
+    {#- Render the CSS bundle using inlined CSS (for the fastest site performance in production) #}
+    {#- <style>{% getBundle "css" %}</style> #}
+    {#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
+    <link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
 
-		{#- Add the heading-anchors web component to the JavaScript bundle #}
-		{%- js %}{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}{% endjs %}
-		<script src="https://kit.fontawesome.com/7ad635dbf3.js" crossorigin="anonymous"></script>
-	</head>
-	<body>
-		<a href="#skip" class="visually-hidden">Skip to main content</a>
+    {#- Add the heading-anchors web component to the JavaScript bundle #}
+    {%- js %}{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}{% endjs %}
+    {%- js %}{% include "public/js/theme.js" %}{% endjs %}
+    <script src="https://kit.fontawesome.com/7ad635dbf3.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <a href="#skip" class="visually-hidden">Skip to main content</a>
 
-		<header class="nav-header" id="nav-header">
-			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-			<nav>
-				<h2 class="visually-hidden">Top level navigation menu</h2>
-				{%- for entry in collections.all | eleventyNavigation %}
-					<a href="{{ entry.url }}"{% if entry.url == page.url or (entry.url == "/blog/" and page.url.startsWith(entry.url)) %} aria-current="page"{% endif %}>{{ entry.title }}</a>
-				{%- endfor %}
-			</nav>
-		</header>
+    <header class="nav-header" id="nav-header">
+      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+      <nav>
+        <h2 class="visually-hidden">Top level navigation menu</h2>
+        {%- for entry in collections.all | eleventyNavigation %}
+          <a href="{{ entry.url }}"{% if entry.url == page.url or (entry.url == "/blog/" and page.url.startsWith(entry.url)) %} aria-current="page"{% endif %}>{{ entry.title }}</a>
+        {%- endfor %}
+      </nav>
+    </header>
 
-		<main id="skip">
-			<heading-anchors>
-				{{ content | safe }}
-			</heading-anchors>
-		</main>
+    <main id="skip">
+      <heading-anchors>
+        {{ content | safe }}
+      </heading-anchors>
+    </main>
 
-		<!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->
-		<script type="module" src="{% getBundleFileUrl "js" %}"></script>
-	</body>
+    <footer>
+      <section class="scheme-switcher" aria-label="Color scheme switcher">
+        <button aria-pressed="false" value="light">
+          Light
+        </button>
+        <button aria-pressed="true" value="light dark">
+          Auto
+        </button>
+        <button aria-pressed="false" value="dark">
+          Dark
+        </button>
+      </section>			
+    </footer>
+
+    <!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->
+    <script type="module" src="{% getBundleFileUrl "js" %}"></script>
+  </body>
 </html>
