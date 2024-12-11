@@ -26,6 +26,14 @@
   --color-muted: light-dark(#555, #aaa);
   --color-highlight: light-dark(var(--color-crimson), var(--color-light-crimson));
   --link-color: light-dark(var(--link-color), var(--color-light-blue));
+
+  --mastodon: light-dark(#5a59ff, #6364f6);
+  --linkedin: light-dark(#2d65bc, #2d65bc);
+  --bluesky: light-dark(#4489f6, #4489f6);
+  --twitter: light-dark(#4c9fec, #4c9fec);
+  --instagram: light-dark(#ed4a55, #ed4a55);
+  --keybase: light-dark(#ee783a, #ee783a);
+  --medium: light-dark(#4ba57f, #4ba57f);
 }
 
 /* Global stylesheet */
@@ -522,31 +530,31 @@ ol.timeline code {
 }
 
 .fa-square-bluesky {
-  color: #4489f6;
+  color: var(--bluesky);
 }
 
 .fa-twitter {
-  color: #4c9fec;
+  color: var(--twitter);
 }
 
 .fa-linkedin {
-  color: #2d65bc;
+  color: var(--linkedin);
 }
 
 .fa-mastodon {
-  color: #5a59ff;
+  color: var(--mastodon);
 }
 
 .fa-instagram {
-  color: #ed4a55;
+  color: var(--instagram);
 }
 
 .fa-medium {
-  color: #4ba57f;
+  color: var(--medium);
 }
 
 .fa-keybase {
-  color: #ee783a;
+  color: var(--keybase);
 }
 
 .fa-github {
