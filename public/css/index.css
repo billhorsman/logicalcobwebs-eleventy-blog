@@ -99,7 +99,7 @@ footer {
   gap: .5em 1em;
   list-style: "";
   border-top: 1px dashed var(--color-gray-20);
-  padding: 1em 0;
+  padding: 1em 0 0;
 }
 
 .links-nextprev>* {
@@ -322,7 +322,7 @@ main {
   line-height: 1.7rem;
   margin: 0 auto;
   max-width: 70ch;
-  padding: 0 1rem 2rem;
+  padding: 0 1rem;
 }
 
 @media (min-width: 640px) {
