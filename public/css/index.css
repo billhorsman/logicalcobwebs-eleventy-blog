@@ -25,7 +25,7 @@
   --color: light-dark(#121212, #fafafa);
   --color-muted: light-dark(#555, #aaa);
   --color-highlight: light-dark(var(--color-crimson), var(--color-light-crimson));
-  --link-color: light-dark(var(--link-color), var(--color-light-blue));
+  --link-color: light-dark(var(--color-blue), var(--color-light-blue));
 
   --mastodon: light-dark(#5a59ff, #6364f6);
   --linkedin: light-dark(#2d65bc, #2d65bc);
@@ -298,9 +298,8 @@ a:visited,
 a:focus {
   color: var(--link-color);
   text-decoration: underline;
-  /*  text-decoration-thickness: 0.2ex;
   text-underline-offset: 0.2ex;
-*/
+  transition: color 0.2s ease-in-out;
 }
 
 a:hover,
@@ -465,7 +464,7 @@ h3 {
   margin-bottom: 2rem;
 }
 
-.social>div {
+.social > div {
   display: flex;
 }
 
@@ -482,6 +481,10 @@ h3 {
   font-size: clamp(1rem, 6vw, 2rem);
   padding: 0.3rem;
   text-decoration: none;
+
+  & i {
+    transition: transform 0.2s ease-in-out;
+  }
 }
 
 .social a span {
@@ -491,9 +494,13 @@ h3 {
 .social a:hover,
 .social a:focus-visible {
   color: var(--color-red);
+
+  & i {
+    transform: scale(1.1);
+  }
 }
 
-.social>div {
+.social > div {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
