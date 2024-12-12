@@ -36,7 +36,7 @@ This is my `Dockerfile`. Not much going on here:
 3. Install the packages
 4. Tell it to run on port 8082
 
-```rb
+```docker
 FROM node:18.15-bullseye
 
 RUN mkdir -p /app

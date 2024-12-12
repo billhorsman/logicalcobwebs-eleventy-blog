@@ -4,11 +4,11 @@
 	--prism-punctuation: light-dark(#444, #f8f8f2);
 	--prism-property: light-dark(#b81b54, #fb4c8c);
 	--prism-boolean: light-dark(#4f3879, #ae81ff);
-	--prism-selector: light-dark(#456701, #a6e22e);
+	--prism-selector: light-dark(#00761a, #a6e22e);
 	--prism-operator: light-dark(#3b3b3a, #f8f8f2);
-	--prism-atrule: light-dark(#5d5401, #e6db74);
-	--prism-keyword: light-dark(#255963, #66d9ef);
-	--prism-regex: light-dark(#9a6e3a, #fd971f);
+	--prism-atrule: light-dark(#8b09f5, #e6db74);
+	--prism-keyword: light-dark(#027187, #66d9ef);
+	--prism-regex: light-dark(#825928, #fd971f);
 }
 
 /**
