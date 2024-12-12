@@ -1,3 +1,16 @@
+:root {
+	--prism-background: light-dark(#e6e6e6, #272822);
+	--prism-color: light-dark(#444, #f8f8f2);
+	--prism-punctuation: light-dark(#444, #f8f8f2);
+	--prism-property: light-dark(#b81b54, #fb4c8c);
+	--prism-boolean: light-dark(#4f3879, #ae81ff);
+	--prism-selector: light-dark(#456701, #a6e22e);
+	--prism-operator: light-dark(#3b3b3a, #f8f8f2);
+	--prism-atrule: light-dark(#5d5401, #e6db74);
+	--prism-keyword: light-dark(#255963, #66d9ef);
+	--prism-regex: light-dark(#9a6e3a, #fd971f);
+}
+
 /**
  * okaidia theme for JavaScript, CSS and HTML
  * Loosely based on Monokai textmate theme by http://www.monokai.nl/
@@ -6,9 +19,8 @@
 
 code[class*="language-"],
 pre[class*="language-"] {
-	color: #f8f8f2;
+	color: var(--prism-color);
 	background: none;
-	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
 	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
 	font-size: 1em;
 	text-align: left;
@@ -38,7 +50,7 @@ pre[class*="language-"] {
 
 :not(pre) > code[class*="language-"],
 pre[class*="language-"] {
-	background: #272822;
+	background: var(--prism-background);
 }
 
 /* Inline code */
@@ -52,11 +64,11 @@ pre[class*="language-"] {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-	color: #8292a2;
+	color: var(--prism-comment);
 }
 
 .token.punctuation {
-	color: #f8f8f2;
+	color: var(--prism-punctuation);
 }
 
 .token.namespace {
@@ -68,12 +80,12 @@ pre[class*="language-"] {
 .token.constant,
 .token.symbol,
 .token.deleted {
-	color: #f92672;
+	color: var(--prism-property);
 }
 
 .token.boolean,
 .token.number {
-	color: #ae81ff;
+	color: var(--prism-boolean);
 }
 
 .token.selector,
@@ -82,7 +94,7 @@ pre[class*="language-"] {
 .token.char,
 .token.builtin,
 .token.inserted {
-	color: #a6e22e;
+	color: var(--prism-selector);
 }
 
 .token.operator,
@@ -91,23 +103,23 @@ pre[class*="language-"] {
 .language-css .token.string,
 .style .token.string,
 .token.variable {
-	color: #f8f8f2;
+	color: var(--prism-operator);
 }
 
 .token.atrule,
 .token.attr-value,
 .token.function,
 .token.class-name {
-	color: #e6db74;
+	color: var(--prism-atrule);
 }
 
 .token.keyword {
-	color: #66d9ef;
+	color: var(--prism-keyword);
 }
 
 .token.regex,
 .token.important {
-	color: #fd971f;
+	color: var(--prism-regex);
 }
 
 .token.important,
