@@ -1,11 +1,12 @@
 :root {
-	--prism-background: light-dark(#e6e6e6, #272822);
+	--prism-background: light-dark(#ffffff, #000000);
+	--prism-border-color: light-dark(#cccccc, #333333);
 	--prism-color: light-dark(#444, #f8f8f2);
-	--prism-punctuation: light-dark(#444, #f8f8f2);
-	--prism-property: light-dark(#b81b54, #fb4c8c);
+	--prism-punctuation: light-dark(#746e01, #f8f8f2);
+	--prism-property: light-dark(#d3273e, #fb4c8c);
 	--prism-boolean: light-dark(#4f3879, #ae81ff);
-	--prism-selector: light-dark(#00761a, #a6e22e);
-	--prism-operator: light-dark(#3b3b3a, #f8f8f2);
+	--prism-selector: light-dark(#0041b2, #a6e22e);
+	--prism-operator: light-dark(#3b3b3a, #7b8ff4);
 	--prism-atrule: light-dark(#8b09f5, #e6db74);
 	--prism-keyword: light-dark(#027187, #66d9ef);
 	--prism-regex: light-dark(#825928, #fd971f);
@@ -42,6 +43,7 @@ pre[class*="language-"] {
 
 /* Code blocks */
 pre[class*="language-"] {
+	border: 1px solid var(--prism-border-color);
 	padding: 1em;
 	margin: .5em 0;
 	overflow: auto;
