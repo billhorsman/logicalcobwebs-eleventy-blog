@@ -525,11 +525,12 @@ ol.timeline {
 }
 
 ol.timeline>li {
+  list-style: disc;
   margin: 1rem 0;
 }
 
 ol.timeline>li::marker {
-  font-size: 0;
+  color: var(--color-highlight);
 }
 
 @media (min-width: 480px) {
@@ -538,8 +539,9 @@ ol.timeline>li::marker {
   }
 }
 
-ol.timeline .fa-calendar {
+ol.timeline time {
   color: var(--color-highlight);
+  font-family: var(--font-family-monospace);
   margin-right: 0.3em;
 }
 
