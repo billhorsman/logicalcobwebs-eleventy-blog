@@ -4,7 +4,7 @@
 	--prism-color: light-dark(#444, #f8f8f2);
 	--prism-punctuation: light-dark(#746e01, #f8f8f2);
 	--prism-property: var(--color-highlight);
-	--prism-boolean: light-dark(#4f3879, #ae81ff);
+	--prism-boolean: light-dark(#9063e4, #ae81ff);
 	--prism-selector: light-dark(#0041b2, #a6e22e);
 	--prism-operator: light-dark(#3b3b3a, #7b8ff4);
 	--prism-atrule: light-dark(var(--yellow-200), var(--yellow-900));
