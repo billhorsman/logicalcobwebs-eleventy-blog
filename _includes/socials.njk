@@ -37,6 +37,15 @@
       <i class="fab fa-fw fa-twitter"></i>
       <span>Twitter: @{{ person.twitter }}</span>
     </a>
+    {% endif %} {% if person.pixelfed %}
+    <a
+      rel="me"
+      href="{{ person.pixelfed.url }}/"
+      aria-label="Pixelfed"
+    >
+      <i class="fa-solid fa-fw fa-images"></i>
+      <span>Pixelfed: @{{ person.pixelfed.username }}</span>
+    </a>
     {% endif %} {% if person.instagram %}
     <a
       rel="me"
