@@ -16,7 +16,7 @@ Founded in 1994, Logical Cobwebs was a consultancy service for [Bill Horsman](/b
     href="https://find-and-update.company-information.service.gov.uk/company/02986705"
     >Company No. 2986705</a
   >
-  but it was dissolved in 2024, just shy of its 30th birthday. Bill and Nonie continue to work and our emails remain unchanged, but the comany itself is no more.
+  but it was dissolved in 2024, just shy of its 30th birthday. Bill and Nonie continue to work and our emails remain unchanged, but the company itself is no more.
 </p>
 
 <h2>About this website</h2>
