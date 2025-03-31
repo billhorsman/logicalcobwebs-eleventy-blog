@@ -17,6 +17,7 @@ You can donate on my <a href="https://www.justgiving.com/page/bill-runs-edinburg
 
 ![Me in 2024](cover.jpg)
 
+You can also find me on [Strava](https://www.strava.com/athletes/billhorsman).
 
 Thank you.
 
