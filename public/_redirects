@@ -16,6 +16,9 @@ https://nonie.lgc.li            https://logicalcobwebs.com/nonie 301!
 https://nonie.lgc.li/*          https://logicalcobwebs.com/:splat 301!
 https://lgc.li/*                https://logicalcobwebs.com/:splat 301!
 
+https://billhorsman.link            https://logicalcobwebs.com/bill 301!
+https://billhorsman.link/marathon   https://logicalcobwebs.com/blog/2025/edinburgh-marathon/ 302!
+
 /blog/stop-doing-this/ /blog/2017/stop-doing-this/
 /blog/buttons-for-aasm-events/ /blog/2017/buttons-for-aasm-events/
 /blog/not-the-heb/ /blog/2020/not-the-heb/
@@ -23,5 +26,3 @@ https://lgc.li/*                https://logicalcobwebs.com/:splat 301!
 /blog/just-rails/ /blog/2023/just-rails/
 /blog/vanilla-marathon/ /blog/2024/vanilla-marathon/
 /blog/break-things-like-an-engineer/ /blog/2024/break-things-like-an-engineer/
-
-https://billhorsman.link/marathon              https://logicalcobwebs.com/blog/2025/edinburgh-marathon/ 302!
