@@ -11,6 +11,11 @@ tags:
 
 I'm running the [Edinburgh Marathon](https://www.edinburghmarathon.com/) again on 25 May 2025. It's in aid of [Macmillan Cancer Support](https://www.macmillan.org.uk/) and I'd really appreciate your support. 
 
+<div class="cta">
+  <a href="https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025">Donate to Macmillan Cancer Support</a>
+</div>
+
+
 > Macmillan gives people with cancer everything they’ve got. If you’re diagnosed, your worries are Macmillan’s worries. Macmillan’s doing whatever it takes. But without your help, Macmillan can’t support everyone who needs them.
 >
 > £50 Can ensure a Macmillan Nurse is there when someone is diagnosed with cancer.
@@ -25,11 +30,11 @@ You can donate on my <a href="https://www.justgiving.com/page/bill-runs-edinburg
 
 <img src="./cover.jpg" alt="Near the end">
 
-*But too warm near the end*
+*But soon got too warm*
 
 
 You can also find me on [Strava](https://www.strava.com/athletes/billhorsman) and see my runs in [2022](https://www.strava.com/activities/7222828186/overview) and [2024](https://www.strava.com/activities/11503062473/overview). 
 
-Thank you.
+Thank you 🙏 ❤️
 
 <sup>*</sup> _or slower_

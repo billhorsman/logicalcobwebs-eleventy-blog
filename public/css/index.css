@@ -828,3 +828,22 @@ blockquote {
   padding-left: 1rem;
   margin-left: 0.5rem;
 }
+
+.cta {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.cta a {
+  background-color: light-dark(black, white);
+  color: light-dark(white, black);
+  border-radius: 0.5rem;
+  display: inline-block;
+  padding: 1rem;
+  text-decoration: none;
+  transition: background-color 0.1s ease-in-out;
+}
+
+.cta a:hover {
+  background-color: light-dark(#333, #eee);
+}
