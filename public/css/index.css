@@ -816,3 +816,7 @@ iframe {
   justify-content: center;
   width: 60px;
 }
+
+sup {
+  color: var(--color-highlight);
+}

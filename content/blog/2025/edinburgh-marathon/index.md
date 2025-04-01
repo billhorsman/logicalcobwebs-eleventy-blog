@@ -11,7 +11,7 @@ tags:
 
 I'm running the [Edinburgh Marathon](https://www.edinburghmarathon.com/) again on 25 May 2025. It's in aid of [Macmillan Cancer Support](https://www.macmillan.org.uk/) and I'd really appreciate your support. 
 
-I raised £412 in 2024 and I'd really like to beat that this year. In return, I promise to run a tiny bit faster*.
+I raised £412 in 2024 and I'd really like to beat that this year. In return, I promise to run a tiny bit faster.<sup>*</sup>
 
 You can donate on my <a href="https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025">Just Giving</a> page.
 
@@ -21,4 +21,4 @@ You can also find me on [Strava](https://www.strava.com/athletes/billhorsman).
 
 Thank you.
 
-\* _or slower_
+<sup>*</sup> _or slower_
