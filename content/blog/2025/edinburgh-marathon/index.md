@@ -15,9 +15,16 @@ I raised £412 in 2024 and I'd really like to beat that this year. In return, I 
 
 You can donate on my <a href="https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025">Just Giving</a> page.
 
-![Me in 2024](cover.jpg)
+<img src="./wet.jpg" alt="Rain!">
 
-You can also find me on [Strava](https://www.strava.com/athletes/billhorsman).
+*It was a wet start last year*
+
+<img src="./cover.jpg" alt="Near the end">
+
+*But too warm near the end*
+
+
+You can also find me on [Strava](https://www.strava.com/athletes/billhorsman) and see my runs in [2022](https://www.strava.com/activities/7222828186/overview) and [2024](https://www.strava.com/activities/11503062473/overview). 
 
 Thank you.
 
