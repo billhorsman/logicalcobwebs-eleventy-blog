@@ -23,7 +23,7 @@ I've run two different marathons (the [Dramathon](https://www.thedramathon.com/)
 
 20 October 2018, [5:25:19](https://www.thedramathon.com/wp-content/uploads/2018/12/Dramathon-full-2018.pdf) (aged 51)
 
-My first marathon and one for which I didn't train enough. I was under the impression that the second half would be slightly harder than the first half and that I could just grit my teeth and it would all be fine. I don't have any splits but I think the second half took a whole hour longer than the first half. I was "running" at a walking pace by the finish.
+My first marathon and one for which I didn't train enough. I was under the impression that the second half would be slightly harder than the first half and that I could just grit my teeth and it would all be fine. I don't have any splits but I think the second half took a whole hour longer than the first half. I was "running" at a walking pace by the finish. Drove 2 hours home without warming down or stretching and could barely walk for about a day.
 
 ### Dramathon 2019
 
@@ -41,19 +41,19 @@ My 3rd marathon. Splits were 10k: 57:14, Half: 2:06:55, 30k: 3:04:00. Race numbe
 
 15 October 2022, [4:52:52](Dramathon-2022.pdf) (aged 55)
 
-My 4th marathon. Didn't feel well a few weeks before the race and although I had recovered by the day it had an impact. Ran with George but he left me at 30k and easily beat me.
+My 4th marathon. Ran with George but he left me at 30k and easily beat me. Not a disaster but not as good as I'd hoped.
 
 ### Edinburgh 2024
 
 26 May 2024, [4:29:09](https://www.myrunning.uk/emf-marathon-2024/results-stats?entry_id=1388686&race_number=12968) (aged 57)
 
-My 5th marathon. Splits were 10k: 1:00:57, Half: 2:12:31, 30k: 3:11:16. Race number 12968. Not a PB but definitely a victory for pacing. 6 minutes slower at halfway than 2022 before but only 50 seconds slower overall. My plan was to not push it until 30k and then slowly wind up. In hindsight, I think I could have pushed _slightly_ harder from 25k onwards.
+My 5th marathon. Splits were 10k: 1:00:57, Half: 2:12:31, 30k: 3:11:16. Race number 12968. Not a PB but definitely a victory for pacing. 6 minutes slower at halfway than 2022 before but only 50 seconds slower overall. My plan was to not push it until 30k and then slowly wind up. In hindsight, I think I could have pushed _slightly_ harder from 25k onwards. For the first time, I was able to walk like a normal human the mile back to the car.
 
 ### Dramathon 2024
 
 19 October 2024, [4:40:31](dramathon-2024.pdf) (aged 57)
 
-My 6th marathon. A little slower than Dramathon 2022 but I felt good. Ran with George until about 30k then went on ahead (his training had not gone as well as mine). Finished feeling good (was able to do a jog warm down).
+My 6th marathon. A little slower than Dramathon 2022 but I felt good. Ran with George until about 30k then went on ahead (his training had not gone as well as mine). Finished feeling good. Jogged an extra 600 metres as a cool down (and, shamefully, to get my Strava to 42.2km). Did a 7k run 4 days later and felt good.
 
 ## Parkruns
 
