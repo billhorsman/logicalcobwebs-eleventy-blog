@@ -12,7 +12,7 @@ tags:
 I look to [Strava](https://www.strava.com/athletes/5349071) as the primary source for all my running data but I only joined Strava on 23 June 2014 and my brain is almost forgetting (has forgotten?) stuff I did before that. This is an attempt to remember and a work-in-progress.
 
 <div style="text-align: center">
-  <img src="./shoes.png" alt="A pair of running shoes" style="max-width: 150px; margin: auto;">
+  <img src="./shoes.png" alt="My pair of running shoes that I used in the Edinburgh 2024 marathon" style="max-width: 150px; margin: auto;">
 </div>
 
 ## Marathons
