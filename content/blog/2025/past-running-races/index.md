@@ -17,7 +17,11 @@ I look to [Strava](https://www.strava.com/athletes/5349071) as the primary sourc
 
 ## Marathons
 
-I've run two different marathons (the [Dramathon](https://www.thedramathon.com/) along the river Spey and [Edinburgh](https://www.edinburghmarathon.com/)) a total of six times.
+I've run two different marathons (the [Dramathon](https://www.thedramathon.com/) along the river Spey and [Edinburgh](https://www.edinburghmarathon.com/)) a total of six times. 
+
+They are very different races. The Dramathon is mostly on trails and has a few hills, including a big one at halfway and a long, steady climb to the finish. The scenery is beautiful. I think there are about 500 marathon runners so you're never far from someone but it's not crowded. You run past numerous distilleries and are handed about 8 minutures of whisky when you cross the finish line. There are very few spectators.
+
+Edinburgh is all paved, closed roads and over 10,000 marathon runners. Crowded to start with but it soon stretches out. There's a lot of spectator support which is motivating. Starting off in the centre of Edinburgh, through the suburbs and then down and along the coast.
 
 ### Dramathon 2018
 
@@ -35,7 +39,7 @@ My second marathon and I trained better for this one. Improved by around 47 minu
 
 29 May 2022, [4:28:19](https://www.myrunning.uk/emf-marathon-2022/results-stats?entry_id=1201689&race_number=10809&people_id=674652)
 
-My 3rd marathon. Splits were 10k: 57:14, Half: 2:06:55, 30k: 3:04:00. Race number 10809. Ran with George all the way. A PB by more than 10 minutes, but Edinburgh is a fast course (all paved, not very hilly). 
+My 3rd marathon. Splits were 10k: 57:14, Half: 2:06:55, 30k: 3:04:00. Race number 10809. Ran with George all the way. A PB by more than 10 minutes, but Edinburgh is a fast course. 
 
 ### Edinburgh 2023 (aged 56)
 
@@ -79,10 +83,10 @@ I started running Parkrun in 2019 at Camperdown, Dundee. I defer to [Parkrun](ht
 
 10k: 1 May 2011, [48:36](https://sportstats.one/results/38792) (aged 44)
 
-Tracked this result down online. I think I could get within a minute or two of this time now but I think this might be a PB I can't beat. This is a flatish run in Victoria, British Columbia (where we were living at the time). 
+Tracked this result down online. I think I could get within a minute or two of this time now but this might be a PB I won't beat. This is a flatish run in Victoria, British Columbia (where we were living at the time). 
 
 ### Robin Hood Half Marathon 1991
 
 21.1k: 1991, 1:38 (aged 24)
 
-I don't imagine the results for this exist anywhere, let alone online. My mind dimly remembers this race but I do remember being handed a Melton Mowbray pork pie at the finish (they were sponsors). I think my time was 1:38 but I could be wrong. It means a pace of 4:39/km which sounds possible. I was a very fit canoeist back then but didn't run much.
+I don't imagine the results for this exist anywhere, let alone online. My mind only dimly remembers this race but I do remember being handed a Melton Mowbray pork pie at the finish (they were sponsors). I think my time was 1:38 but I could be wrong. It means a pace of 4:39/km which sounds possible. I was a very fit canoeist back then but didn't run much.
