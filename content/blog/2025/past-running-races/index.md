@@ -35,7 +35,11 @@ My second marathon and I trained better for this one. Improved by around 47 minu
 
 29 May 2022, [4:28:19](https://www.myrunning.uk/emf-marathon-2022/results-stats?entry_id=1201689&race_number=10809&people_id=674652)
 
-My 3rd marathon. Splits were 10k: 57:14, Half: 2:06:55, 30k: 3:04:00. Race number 10809. Ran with George all the way. A PB by more than 10 minutes, but Edinburgh is a fast course (all paved, not very hilly).
+My 3rd marathon. Splits were 10k: 57:14, Half: 2:06:55, 30k: 3:04:00. Race number 10809. Ran with George all the way. A PB by more than 10 minutes, but Edinburgh is a fast course (all paved, not very hilly). 
+
+### Edinburgh 2023 (aged 56)
+
+Did Not Start due to toe injury. I [raised £110](https://www.justgiving.com/fundraising/bill-runs-edinburgh-marathon-2023) for Macmillan Cancer Support before I pulled out. 
 
 ### Dramathon 2022
 
@@ -47,13 +51,23 @@ My 4th marathon. Ran with George but he left me at 30k and easily beat me. Not a
 
 26 May 2024, [4:29:09](https://www.myrunning.uk/emf-marathon-2024/results-stats?entry_id=1388686&race_number=12968) (aged 57)
 
-My 5th marathon. Splits were 10k: 1:00:57, Half: 2:12:31, 30k: 3:11:16. Race number 12968. Not a PB but definitely a victory for pacing. 6 minutes slower at halfway than 2022 before but only 50 seconds slower overall. My plan was to not push it until 30k and then slowly wind up. In hindsight, I think I could have pushed _slightly_ harder from 25k onwards. For the first time, I was able to walk like a normal human the mile back to the car.
+My 5th marathon. Splits were 10k: 1:00:57, Half: 2:12:31, 30k: 3:11:16. Race number 12968. Not a PB but definitely a victory for pacing. 6 minutes slower at halfway than 2022 before but only 50 seconds slower overall. My plan was to not push it until 30k and then slowly wind up. In hindsight, I think I could have pushed _slightly_ harder from 25k onwards. For the first time, I was able to walk like a normal human the mile back to the car. I [raised £412](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2024) for Macmillan Cancer Support.
 
 ### Dramathon 2024
 
 19 October 2024, [4:40:31](dramathon-2024.pdf) (aged 57)
 
 My 6th marathon. A little slower than Dramathon 2022 but I felt good. Ran with George until about 30k then went on ahead (his training had not gone as well as mine). Finished feeling good. Jogged an extra 600 metres as a cool down (and, shamefully, to get my Strava to 42.2km). Did a 7k run 4 days later and felt good.
+
+### Edinburgh 2025
+
+25 May 2025 &hellip;
+
+I've [raised £435](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025) for Macmillan Cancer Support so far. 
+
+### Dramathon 2025
+
+18 October 2025 &hellip;
 
 ## Parkruns
 
