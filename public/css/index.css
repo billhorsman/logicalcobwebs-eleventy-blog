@@ -847,3 +847,7 @@ blockquote {
 .cta a:hover {
   background-color: light-dark(#333, #eee);
 }
+
+ul {
+  margin-bottom: 2rem;
+}
