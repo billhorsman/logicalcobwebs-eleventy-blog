@@ -47,7 +47,7 @@ My 4th marathon. Didn't feel well a few weeks before the race and although I had
 
 26 May 2024, [4:29:09](https://www.myrunning.uk/emf-marathon-2024/results-stats?entry_id=1388686&race_number=12968) (aged 57)
 
-My 5th marathon. Splits were 10k: 1:00:57, Half: 2:12:31, 30k: 3:11:16. Race number 12968. Not a PB but definitely a victory for pacing. 6 minutes slower at halfway than the year before but only 50 seconds slower overall. My plan was to not push it until 30k and then slowly wind up. In hindsight, I think I could have pushed _slightly_ harder from 25k onwards.
+My 5th marathon. Splits were 10k: 1:00:57, Half: 2:12:31, 30k: 3:11:16. Race number 12968. Not a PB but definitely a victory for pacing. 6 minutes slower at halfway than 2022 before but only 50 seconds slower overall. My plan was to not push it until 30k and then slowly wind up. In hindsight, I think I could have pushed _slightly_ harder from 25k onwards.
 
 ### Dramathon 2024
 
