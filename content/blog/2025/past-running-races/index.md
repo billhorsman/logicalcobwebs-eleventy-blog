@@ -26,6 +26,10 @@ They are very different races. The Dramathon is mostly on trails and has a few h
 
 Edinburgh is all paved, closed roads and over 10,000 marathon runners. Crowded to start with but it soon stretches out. There's a lot of spectator support which is motivating. Starting off in the centre of Edinburgh, through the suburbs and then down and along the coast.
 
+### ~~Dramathon 2017~~
+
+Did Not Start due to training too hard too late. I got what I thought was a stress fracture in my shin but turned out just to be bruising (which does not sound as good). It took me about six months to get running again. Lessons learned: 1) gradually increase volume over a long time; and 2) I need to be stronger (you can't rely just on running to train to be a runner). I definitely learned that first lesson but I continue to re-learn the second one.
+
 ### #1 Dramathon 2018
 
 20 October 2018, [5:25:19](https://www.thedramathon.com/wp-content/uploads/2018/12/Dramathon-full-2018.pdf) (aged 51)
