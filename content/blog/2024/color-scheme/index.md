@@ -82,3 +82,21 @@ Some things I like about this implementation:
 - Graceful fallback to the browser's default color scheme
 
 Supported on most modern browsers and doesn't screw things up for those that don't.
+
+### Update 4 May 2025
+
+By making use of CSS properties and the `@supports` syntax, we can more gracefully fallback to, say, light mode if `light-dark` is not supported.
+
+```css
+--background-color: #ffe;
+--color: #333;
+
+@supports (color: light-dark(black, white)) {
+  --background-color: light-dark(#ffe, #220);
+  --color: light-dark(#333, #ddd);
+}
+```
+
+My proposition is that literal colour values in CSS are only used as properties and these are all defined like the ones above. Try and limit the range of colours you are using. 
+
+That's a little bit nicer than just using the browser default colours if `light-dark` isn't supported.
