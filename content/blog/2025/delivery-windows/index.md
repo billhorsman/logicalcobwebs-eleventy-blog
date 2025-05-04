@@ -22,7 +22,7 @@ tags:
 _This m(i)nifesto inspired by a [Toot from Marga](https://social.lol/@whakkee/114421197636500320)._
 
 
-Delivery companies try to give you helpful information about when you delivery is coming. They often fall short in how truthful and transparent those messages are. This is my shout into the abyss.
+Delivery companies try to give you helpful information about when your delivery is coming. They often fall short in how truthful and transparent those messages are. This is my shout into the abyss.
 
 ### The email at 12:00
 
