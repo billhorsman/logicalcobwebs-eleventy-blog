@@ -19,8 +19,9 @@ https://nonie.lgc.li            https://logicalcobwebs.com/nonie 301!
 https://nonie.lgc.li/*          https://logicalcobwebs.com/:splat 301!
 https://lgc.li/*                https://logicalcobwebs.com/:splat 301!
 
-https://billhorsman.link            https://logicalcobwebs.com/bill 301!
 https://billhorsman.link/marathon   https://logicalcobwebs.com/blog/2025/edinburgh-marathon/ 302!
+https://billhorsman.link            https://logicalcobwebs.com/bill 301!
+https://billhorsman.link/*            https://logicalcobwebs.com/:splat 301!
 
 /blog/stop-doing-this/ /blog/2017/stop-doing-this/
 /blog/buttons-for-aasm-events/ /blog/2017/buttons-for-aasm-events/
