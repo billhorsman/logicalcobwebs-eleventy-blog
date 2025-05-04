@@ -19,9 +19,9 @@ tags:
   }
 </style>
 
-This manifesto inspired by [Toot from Marga](https://social.lol/@whakkee/114421197636500320).
-
 ## Truthful and transparent delivery windows
+
+_This m<b>(i)</b>nifesto inspired by [Toot from Marga](https://social.lol/@whakkee/114421197636500320)._
 
 Delivery companies try to give you helpful information about when you delivery is coming. They often fall short in how helpful those messages are. Here's an example of bad messaging and how it could be improved.
 
