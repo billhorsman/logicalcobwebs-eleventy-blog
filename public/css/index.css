@@ -35,7 +35,7 @@
   --color-muted: var(--gray-200);
   --color-highlight: var(--red-500);
   --link-color: var(--blue-mid);
-  --link-color-highligt: var(--color-highlight);
+  --link-color-highlight: var(--color-highlight);
   --cta-background-color: black;
   --cta-color: white;
   --cta-background-color-hover: #333;
@@ -341,7 +341,7 @@ a:focus {
 
 a:hover,
 a:focus-visible {
-  color: var(--link-color-highligt);
+  color: var(--link-color-highlight);
 }
 
 main {
@@ -529,7 +529,7 @@ h3 {
 
 .social a:hover,
 .social a:focus-visible {
-  color: var(--link-color-highligt);
+  color: var(--link-color-highlight);
 
   & i {
     transform: scale(1.1);
