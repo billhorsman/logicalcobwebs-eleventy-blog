@@ -1,11 +1,11 @@
 ---
-title: Delivery window manifesto
+title: Delivery window m(i)nifesto
 description: How they should work, what's not acceptable, general ranting
-canonical: https://logicalcobwebs.com/manifestos/delivery-windows
+canonical: https://logicalcobwebs.com/blog/2025/delivery-windows
 date: 2025-05-03
 author: Bill Horsman
 tags:
-  - manifesto
+  - minifesto
 ---
 
 <style>
@@ -19,11 +19,10 @@ tags:
   }
 </style>
 
-## Truthful and transparent delivery windows
+_This m(i)nifesto inspired by a [Toot from Marga](https://social.lol/@whakkee/114421197636500320)._
 
-_This m<b>(i)</b>nifesto inspired by [Toot from Marga](https://social.lol/@whakkee/114421197636500320)._
 
-Delivery companies try to give you helpful information about when you delivery is coming. They often fall short in how helpful those messages are. Here's an example of bad messaging and how it could be improved.
+Delivery companies try to give you helpful information about when you delivery is coming. They often fall short in how truthful and transparent those messages are. This is my shout into the abyss.
 
 ### The email at 12:00
 
