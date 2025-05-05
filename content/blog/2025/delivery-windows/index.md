@@ -24,7 +24,7 @@ _This m(i)nifesto inspired by a [Toot from Marga](https://social.lol/@whakkee/11
 
 Delivery companies try to give you helpful information about when your delivery is coming. They often fall short in how truthful and transparent those messages are. This is my shout into the abyss.
 
-### The email at 12:00
+## The email at 12:00
 
 <blockquote class="bad">
   <span class="sr-only">Bad example:</span>
@@ -38,7 +38,7 @@ Delivery companies try to give you helpful information about when your delivery 
   Your delivery is on its way and will arrive between 14:15 and 14:50
 </blockquote>
 
-### Click the link at 13:00
+## Click the link at 13:00
 
 <blockquote class="bad">
   <span class="sr-only">Bad example:</span>
@@ -52,7 +52,7 @@ Delivery companies try to give you helpful information about when your delivery 
   Your delivery is on its way. We did say we would arrive between 14:15 and 14:50 but we might be 10 minutes early. If you're not in then we'll wait until 14:15.
 </blockquote>
 
-### Refresh at 14:30
+## Refresh at 14:30
 
 <blockquote class="bad">
   <span class="sr-only">Bad example:</span>
@@ -66,7 +66,7 @@ Delivery companies try to give you helpful information about when your delivery 
   Your delivery is on its way. We did say we would arrive between 14:15 and 14:50 but we might be 10 minutes late. Sorry.
 </blockquote>
 
-### Refresh at 14:37
+## Refresh at 14:37
 
 <blockquote class="bad">
   <span class="sr-only">Bad example:</span>
@@ -80,7 +80,7 @@ Delivery companies try to give you helpful information about when your delivery 
   Your delivery is on its way. We did say we would arrive between 14:15 and 14:50 but we might be late. Sorry.
 </blockquote>
 
-### Refresh at 15:00
+## Refresh at 15:00
 
 <blockquote class="bad">
   <span class="sr-only">Bad example:</span>
