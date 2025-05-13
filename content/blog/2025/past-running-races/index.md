@@ -32,7 +32,7 @@ Did Not Start due to training too hard too late. I got what I thought was a stre
 
 ### #1 Dramathon 2018
 
-20 October 2018, [5:25:19](https://www.thedramathon.com/wp-content/uploads/2018/12/Dramathon-full-2018.pdf) (aged 51)
+20 October 2018, [5:25:19](Dramathon-2018.pdf) (aged 51)
 
 My first marathon and one for which I didn't train enough. I was under the impression that the second half would be slightly harder than the first half and that I could just grit my teeth and it would all be fine. I don't have any splits but I think the second half took a whole hour longer than the first half. I was "running" at a walking pace by the finish. Drove 2 hours home without warming down or stretching and could barely walk for about a day.
 

@@ -22,8 +22,8 @@ export default async function(eleventyConfig) {
 		.addPassthroughCopy({
 			"./public/": "/"
 		})
-		.addPassthroughCopy({
-			"./content/": "/"
+		.addPassthroughCopy("content/**/*.pdf", {
+			mode: "html-relative"
 		})
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
 
