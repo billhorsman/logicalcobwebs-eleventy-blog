@@ -28,7 +28,7 @@ Edinburgh is all paved, closed roads and over 10,000 marathon runners. Crowded t
 
 ### ~~Dramathon 2017~~
 
-Did Not Start due to training too hard too late. I got what I thought was a stress fracture in my shin but turned out just to be bruising (which does not sound as good). It took me about six months to get running again. Lessons learned: 1) gradually increase volume over a long time; and 2) I need to be stronger (you can't rely just on running to train to be a runner). I definitely learned that first lesson but I continue to re-learn the second one.
+Did Not Start due to training too hard too late. I got what I thought was a stress fracture in my shin but turned out just to be bruising (which does not sound as dramatic). It took me about six months to get running again. Lessons learned: 1) gradually increase volume over a long time; and 2) I need to be stronger (you can't rely just on running to train to be a runner). I definitely learned that first lesson but I continue to re-learn the second one.
 
 ### #1 Dramathon 2018
 
