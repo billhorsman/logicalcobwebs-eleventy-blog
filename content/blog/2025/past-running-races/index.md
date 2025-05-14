@@ -87,7 +87,7 @@ My 6th marathon. A little slower than Dramathon 2022 but I felt good. Ran with G
 
 25 May 2025 &hellip;
 
-I've [raised £505](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025) for Macmillan Cancer Support so far. 
+I've [raised £515](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025) for Macmillan Cancer Support so far. 
 
 ### Dramathon 2025
 

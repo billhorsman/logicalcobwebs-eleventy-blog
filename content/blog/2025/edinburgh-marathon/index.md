@@ -20,7 +20,7 @@ I'm running the [Edinburgh Marathon](https://www.edinburghmarathon.com/) again o
 >
 > £50 Can ensure a Macmillan Nurse is there when someone is diagnosed with cancer.
 
-I raised £412 in 2024 and I'd really like to beat that this year. In return, I promise to run a tiny bit faster.<sup>*</sup>
+I raised £412 in 2024 and I've already beaten that this year. In return, I promise to run a tiny bit faster.<sup>*</sup>
 
 You can donate on my <a href="https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025">Just Giving</a> page.
 
