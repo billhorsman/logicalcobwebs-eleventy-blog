@@ -87,7 +87,7 @@ My 6th marathon. A little slower than Dramathon 2022 but I felt good. Ran with G
 
 25 May 2025 [4:43:29](https://www.myrunning.uk/emf-marathon-2025/results-stats?entry_id=1605970&race_number=12047&people_id=674652) (aged 58)
 
-That was a hard one. I did the first half at around the same pace as last year but by heart rate was 5 - 10 bpm higher, which was a bad sign. My ego wouldn't let me slow down to a pace that I knew I should be at. Ended up doing the second half 11 minutes slower than the first half, slowing down considerable from 37k onwards. The 20mph headwwind for the last 12k didn't help though. Very pleased to have finished.
+That was a hard one. I did the first half at around the same pace as last year but my heart rate was 5 - 10 bpm higher, which was a bad sign. My ego wouldn't let me slow down to a pace that I knew I could sustain. Ended up doing the second half 11 minutes slower than the first half, slowing down considerable from 37k onwards. The 20mph headwind for the last 12k didn't help! Very pleased to have finished.
 
 I've [raised £1,080](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025) for Macmillan Cancer Support so far. 
 
