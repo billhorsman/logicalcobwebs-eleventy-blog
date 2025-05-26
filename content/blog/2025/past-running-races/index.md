@@ -71,7 +71,7 @@ Cancelled due to extreme weather (the route was flooded).
 
 26 May 2024, [4:29:09](https://www.myrunning.uk/emf-marathon-2024/results-stats?entry_id=1388686&race_number=12968) (aged 57)
 
-My 5th marathon. Not a PB but definitely a victory for pacing. 6 minutes slower at halfway than 2022 before but only 50 seconds slower overall. My plan was to not push it until 30k and then slowly wind up. In hindsight, I think I could have pushed _slightly_ harder from 25k onwards. For the first time, I was able to walk like a normal human the mile back to the car. I [raised £412](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2024) for Macmillan Cancer Support. Race number 12968.
+My 5th marathon. Not a PB but definitely a victory for pacing. 6 minutes slower at halfway than 2022 before but only 50 seconds slower overall. My plan was to not push it until 30k (18.5 miles) and then slowly wind up. In hindsight, I think I could have pushed _slightly_ harder from 25k onwards. For the first time, I was able to walk like a normal human the mile back to the car. I [raised £412](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2024) for Macmillan Cancer Support. Race number 12968.
 
 - 10k: 1:00:57
 - Half: 2:12:31
@@ -87,7 +87,7 @@ My 6th marathon. A little slower than Dramathon 2022 but I felt good. Ran with G
 
 25 May 2025 [4:43:29](https://www.myrunning.uk/emf-marathon-2025/results-stats?entry_id=1605970&race_number=12047&people_id=674652) (aged 58)
 
-That was a hard one. I did the first half at around the same pace as last year but my heart rate was 5 - 10 bpm higher, which was a bad sign. My ego wouldn't let me slow down to a pace that I knew I could sustain. Ended up doing the second half 11 minutes slower than the first half, slowing down considerable from 37k onwards. The 20mph headwind for the last 12k didn't help! Very pleased to have finished.
+That was a hard one. I did the first half at around the same pace as last year but my heart rate was 5 - 10 bpm higher, which was a bad sign. My ego wouldn't let me slow down to a pace that I knew I could sustain. Ended up doing the second half 11 minutes slower than the first half, slowing down considerably from 37k (23 miles) onwards. The 20mph headwind for the last 12k (7.5 miles) didn't help! Very pleased to have finished.
 
 I've [raised £1,080](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025) for Macmillan Cancer Support so far. 
 
