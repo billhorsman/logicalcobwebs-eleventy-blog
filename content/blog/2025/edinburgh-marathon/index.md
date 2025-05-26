@@ -38,3 +38,7 @@ You can also find me on [Strava](https://www.strava.com/athletes/billhorsman) an
 Thank you 🙏 ❤️
 
 <sup>*</sup> _or slower_
+
+## Update
+
+I finished in 4:43:29 and raised £1,080. Thank you everyone for raising that much for Macmillan Cancer Support and giving me the motivation not to walk in the last 5k.
