@@ -83,7 +83,7 @@ My 5th marathon. Not a PB but definitely a victory for pacing. 6 minutes slower 
 
 My 6th marathon. A little slower than Dramathon 2022 but I felt good. Ran with George until about 30k then went on ahead (his training had not gone as well as mine). Finished feeling good and managed a proper warm down. Did a 7k run 4 days later and felt good.
 
-### Edinburgh 2025
+### #7 Edinburgh 2025
 
 25 May 2025 [4:43:29](https://www.myrunning.uk/emf-marathon-2025/results-stats?entry_id=1605970&race_number=12047&people_id=674652) (aged 58)
 
