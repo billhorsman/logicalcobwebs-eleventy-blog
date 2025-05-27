@@ -109,6 +109,14 @@ export default async function(eleventyConfig) {
 		return thisYear - year;
 	});
 
+	eleventyConfig.addFilter("daysToGo", (date) => {
+		const event = new Date(date);
+		const now = new Date();
+		const diffTime = event - now;
+		const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+		return Math.max(diffDays, 0);
+	});
+
 	eleventyConfig.addAsyncShortcode(
 		"shareImageUri",
 		async function shareImageUri(src, format) {

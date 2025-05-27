@@ -93,7 +93,7 @@ I've [raised £1,100](https://www.justgiving.com/page/bill-runs-edinburgh-marath
 
 ### Dramathon 2025
 
-18 October 2025 &hellip;
+18 October 2025 &hellip; {{ "2025-10-18" | daysToGo }} days to go. This will be my 5th Dramathon.
 
 ## Parkruns
 
