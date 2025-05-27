@@ -89,7 +89,7 @@ My 6th marathon. A little slower than Dramathon 2022 but I felt good. Ran with G
 
 That was a hard one. I did the first half at around the same pace as last year but my heart rate was 5 - 10 bpm higher, which was a bad sign. My ego wouldn't let me slow down to a pace that I knew I could sustain. Ended up doing the second half 11 minutes slower than the first half, slowing down considerably from 37k (23 miles) onwards. The 20mph headwind for the last 12k (7.5 miles) didn't help! Very pleased to have finished.
 
-I've [raised £1,080](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025) for Macmillan Cancer Support so far. 
+I've [raised £1,100](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025) for Macmillan Cancer Support so far. 
 
 ### Dramathon 2025
 

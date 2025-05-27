@@ -39,6 +39,6 @@ Thank you 🙏 ❤️
 
 <sup>*</sup> _or slower_
 
-## Update
+## Update 26 May 2025
 
-I finished in 4:43:29 and raised £1,080. Thank you everyone for raising that much for Macmillan Cancer Support and giving me the motivation not to walk in the last 5k.
+I finished in 4:43:29 and raised £1,100. Thank you everyone for raising that much for Macmillan Cancer Support and giving me the motivation not to walk in the last 5k.
