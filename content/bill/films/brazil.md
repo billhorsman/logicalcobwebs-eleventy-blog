@@ -6,10 +6,10 @@ layout: layouts/home.njk
 <nav class="films">
   <a class="prev" href="../paris-texas">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../jean-de-florette">Next</a>
+  <a class="next" href="../withnail--i">Next</a>
 </nav>
 
-<p>27 / 100</p>
+<p>28 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/brazil.jpg" alt="">

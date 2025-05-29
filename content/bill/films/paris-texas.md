@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../brazil">Next</a>
 </nav>
 
-<p>26 / 100</p>
+<p>27 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/paris-texas.jpg" alt="">

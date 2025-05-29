@@ -6,7 +6,7 @@ layout: layouts/home.njk
 <nav class="films">
   <a class="prev" href="../diva">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../local-hero">Next</a>
+  <a class="next" href="../blade-runner">Next</a>
 </nav>
 
 <p>24 / 100</p>

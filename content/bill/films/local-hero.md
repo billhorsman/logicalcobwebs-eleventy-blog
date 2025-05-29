@@ -4,12 +4,12 @@ layout: layouts/home.njk
 ---
 
 <nav class="films">
-  <a class="prev" href="../gregorys-girl">Previous</a>
+  <a class="prev" href="../blade-runner">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../paris-texas">Next</a>
 </nav>
 
-<p>25 / 100</p>
+<p>26 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/local-hero.jpg" alt="">

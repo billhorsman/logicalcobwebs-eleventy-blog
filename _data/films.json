@@ -5124,6 +5124,158 @@
       "backdrop": "backdrops/gregorys-girl.jpg"
     },
     {
+      "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+      "id": 78,
+      "title": "Blade Runner",
+      "original_title": "Blade Runner",
+      "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+      "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        18,
+        53
+      ],
+      "popularity": 13.051,
+      "release_date": "1982-06-25",
+      "video": false,
+      "vote_average": 7.94,
+      "vote_count": 14151,
+      "slug": "blade-runner",
+      "year": "1982",
+      "director": "Ridley Scott",
+      "cast": [
+        {
+          "name": "Harrison Ford",
+          "character": "Deckard"
+        },
+        {
+          "name": "Rutger Hauer",
+          "character": "Batty"
+        },
+        {
+          "name": "Sean Young",
+          "character": "Rachael"
+        },
+        {
+          "name": "Edward James Olmos",
+          "character": "Gaff"
+        },
+        {
+          "name": "M. Emmet Walsh",
+          "character": "Bryant"
+        },
+        {
+          "name": "Daryl Hannah",
+          "character": "Pris"
+        },
+        {
+          "name": "William Sanderson",
+          "character": "Sebastian"
+        },
+        {
+          "name": "Brion James",
+          "character": "Leon"
+        },
+        {
+          "name": "Joe Turkel",
+          "character": "Tyrell"
+        },
+        {
+          "name": "Joanna Cassidy",
+          "character": "Zhora"
+        },
+        {
+          "name": "James Hong",
+          "character": "Chew"
+        },
+        {
+          "name": "Morgan Paull",
+          "character": "Holden"
+        },
+        {
+          "name": "Kevin Thompson",
+          "character": "Bear"
+        },
+        {
+          "name": "John Edward Allen",
+          "character": "Kaiser"
+        },
+        {
+          "name": "Hy Pyke",
+          "character": "Taffey Lewis"
+        },
+        {
+          "name": "Kimiko Hiroshige",
+          "character": "Cambodian Lady"
+        },
+        {
+          "name": "Bob Okazaki",
+          "character": "Sushi Master"
+        },
+        {
+          "name": "Carolyn DeMirjian",
+          "character": "Saleslady"
+        },
+        {
+          "name": "Ben Astar",
+          "character": "Abdul Ben Hassan"
+        },
+        {
+          "name": "Dawna Lee Heising",
+          "character": "Showgirl (uncredited)"
+        },
+        {
+          "name": "Alexis Rhee",
+          "character": "Geisha #1 (uncredited)"
+        },
+        {
+          "name": "Judith Burnett",
+          "character": "Ming-Fa (uncredited)"
+        },
+        {
+          "name": "Leo Gorcey Jr.",
+          "character": "Louie - Bartender (uncredited)"
+        },
+        {
+          "name": "Sharon Hesky",
+          "character": "Bar Patron (uncredited)"
+        },
+        {
+          "name": "Kelly Hine",
+          "character": "Showgirl (uncredited)"
+        },
+        {
+          "name": "Tom Hutchinson",
+          "character": "Bartender (uncredited)"
+        },
+        {
+          "name": "Charles Knapp",
+          "character": "Bartender (uncredited)"
+        },
+        {
+          "name": "Rose Mascari",
+          "character": "Bar Patron (uncredited)"
+        },
+        {
+          "name": "Jiro Okazaki",
+          "character": "Policeman (uncredited)"
+        },
+        {
+          "name": "Steve Pope",
+          "character": "Policeman (uncredited)"
+        },
+        {
+          "name": "Robert Reiter",
+          "character": "Policeman (uncredited)"
+        }
+      ],
+      "poster": "posters/blade-runner.jpg",
+      "backdrop": "backdrops/blade-runner.jpg"
+    },
+    {
       "backdrop_path": "/tfiFC0pw1ccJFBkYkhP9uWeQ1S1.jpg",
       "id": 11235,
       "title": "Local Hero",
@@ -5618,120 +5770,6 @@
       ],
       "poster": "posters/brazil.jpg",
       "backdrop": "backdrops/brazil.jpg"
-    },
-    {
-      "backdrop_path": "/qNBxyt60hnzBRSHo1uRkRU34fYE.jpg",
-      "id": 4480,
-      "title": "Jean de Florette",
-      "original_title": "Jean de Florette",
-      "overview": "In a rural French village, an old man and his only remaining relative cast their covetous eyes on an adjoining vacant property. They need its spring water for growing their flowers, and are dismayed to hear that the man who has inherited it is moving in. They block up the spring and watch as their new neighbour tries to keep his crops watered from wells far afield through the hot summer. Though they see his desperate efforts are breaking his health and his wife and daughter's hearts, they think only of getting the water.",
-      "poster_path": "/t4ObdDKWHEPvKIxMr6E8s4nrshV.jpg",
-      "media_type": "movie",
-      "adult": false,
-      "original_language": "fr",
-      "genre_ids": [
-        18
-      ],
-      "popularity": 1.3856,
-      "release_date": "1986-08-27",
-      "video": false,
-      "vote_average": 7.7,
-      "vote_count": 578,
-      "slug": "jean-de-florette",
-      "year": "1986",
-      "director": "Claude Berri",
-      "cast": [
-        {
-          "name": "Yves Montand",
-          "character": "César Soubeyran, aka 'le Papet'"
-        },
-        {
-          "name": "Gérard Depardieu",
-          "character": "Jean Cadoret, hunchback, son of Florette"
-        },
-        {
-          "name": "Daniel Auteuil",
-          "character": "Ugolin Soubeyran, nephew of Papet"
-        },
-        {
-          "name": "Elisabeth Depardieu",
-          "character": "Aimée Cadoret, wife of Jean"
-        },
-        {
-          "name": "Margarita Lozano",
-          "character": "Baptistine, Piedmontese of the cave"
-        },
-        {
-          "name": "Ernestine Mazurowna",
-          "character": "Manon Cadoret, daughter of Jean & Aimée"
-        },
-        {
-          "name": "Armand Meffre",
-          "character": "Philoxène, mayor"
-        },
-        {
-          "name": "André Dupon",
-          "character": "Pamphile,  joiner"
-        },
-        {
-          "name": "Pierre Nougaro",
-          "character": "Casimir"
-        },
-        {
-          "name": "Jean Maurel",
-          "character": "Anglade, believer"
-        },
-        {
-          "name": "Roger Souza",
-          "character": "Ange, hydrant man"
-        },
-        {
-          "name": "Didier Pain",
-          "character": "Eliacin"
-        },
-        {
-          "name": "Pierre-Jean Rippert",
-          "character": "Pascal, hydrant man"
-        },
-        {
-          "name": "Marc Betton",
-          "character": "Martial"
-        },
-        {
-          "name": "Clément Cal",
-          "character": "Méderic, bar boss"
-        },
-        {
-          "name": "Benedetto Bertino",
-          "character": "Giuseppe"
-        },
-        {
-          "name": "Marcel Champel",
-          "character": "Pique-Bouffigue"
-        },
-        {
-          "name": "Chantal Liennel",
-          "character": "Amandine, César Soubeyran's servant"
-        },
-        {
-          "name": "Fransined",
-          "character": "Florist"
-        },
-        {
-          "name": "Marcel Berbert",
-          "character": "Notary"
-        },
-        {
-          "name": "Christian Tamisier",
-          "character": "Doctor"
-        },
-        {
-          "name": "Jo Doumerg",
-          "character": "Muleteer"
-        }
-      ],
-      "poster": "posters/jean-de-florette.jpg",
-      "backdrop": "backdrops/jean-de-florette.jpg"
     },
     {
       "backdrop_path": "/bOgKCymrdPHPHozhRBNr9XhVD87.jpg",
@@ -22229,10 +22267,10 @@
     "1978": 1,
     "1979": 2,
     "1981": 2,
+    "1982": 1,
     "1983": 1,
     "1984": 1,
     "1985": 1,
-    "1986": 1,
     "1987": 1,
     "1991": 2,
     "1993": 2,
@@ -23948,6 +23986,10 @@
       "count": 3
     },
     {
+      "name": "Ridley Scott",
+      "count": 3
+    },
+    {
       "name": "Bill Forsyth",
       "count": 2
     },
@@ -23977,10 +24019,6 @@
     },
     {
       "name": "Paul Thomas Anderson",
-      "count": 2
-    },
-    {
-      "name": "Ridley Scott",
       "count": 2
     },
     {
