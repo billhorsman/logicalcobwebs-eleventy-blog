@@ -897,8 +897,41 @@ ul {
 .film-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+
+  & img {
+    filter: grayscale(40%);
+    transition: filter 0.1s ease-in-out;
+  }
+
+  & a:hover img {
+    filter: grayscale(0%);
+  }
 }
 
 .film-list picture {
   display: flex;
+}
+
+article.film {
+  img {
+    margin: 0 auto;
+    max-width: 200px;
+  }
+
+  & .director {
+    font-size: 1.25rem;
+  }
+
+  & h2 {
+    font-size: 1.25rem;
+  }
+
+  & ul {
+    list-style-type: "";
+    padding: 0 0 0 1rem;
+
+    & li {
+      padding: 0.25rem 0;
+    }
+  }
 }

@@ -13,6 +13,6 @@ In order of release date:
 
 <div class="film-list">
 {% for film in films.list %}
-  <img src="{{ film.poster }}" alt="{{ film.title }}">
+<div><a href="{{ film.slug }}"><img src="{{ film.poster }}" alt="{{ film.title }}"></a></div>
 {% endfor %}
 </div>
