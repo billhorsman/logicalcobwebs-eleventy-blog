@@ -9,6 +9,8 @@ layout: layouts/home.njk
 
 ## Top 100 Films
 
+In order of release date:
+
 <div class="film-list">
 {% for film in films.list %}
   <img src="{{ film.poster }}" alt="{{ film.title }}">
