@@ -7,19 +7,28 @@ ogImage: content/bill/bill.webp
 layout: layouts/home.njk
 ---
 
-## Top {{ films.count }} Films
+## Favourite Films
 
 {% set firstFilm = films.list[0] %}
 {% set lastFilm = films.list[films.count - 1] %}
-Starting from <a href="{{ firstFilm.slug }}">{{ firstFilm.title }}</a> in {{ firstFilm.year }} through to <a href="{{ lastFilm.slug }}">{{ lastFilm.title }}</a> in {{ lastFilm.year }} this is a list of my 100 favourite films. There are lots that are brilliant and don't make the cut but 100 seemed like a nice round number. 
+Starting from <a href="{{ firstFilm.slug }}">{{ firstFilm.title }}</a> in {{ firstFilm.year }} through to <a href="{{ lastFilm.slug }}">{{ lastFilm.title }}</a> in {{ lastFilm.year }}, these are my {{ films.list.length }} favourite films. There are lots that are brilliant and don't make the cut but it's a nice round number. 
 
 Based on these films, my favourite director is {{ films.top_directors[0].name }} ({{ films.top_directors[0].count }} films), followed by {{ films.top_directors[1].name }} ({{ films.top_directors[1].count }}) and {{ films.top_directors[2].name }} ({{ films.top_directors[2].count }}).
 
 A few films are in here because I watched them a long time ago and they have a nostalgic appeal. Films like <span class="sentence-list">{% for film in films.nostaligic %}<span><a href="{{ film.slug }}">{{ film.title }}</a></span>{% endfor %}</span>.
 
-One film is in here twice: <a href="purple-noon">Purple Noon</a> (aka Plan Soleil) and <a href="the-talented-mr-ripley">The Talented Mr. Ripley</a>. I would have added it three times for Steven Zaillian's 2024 TV miniseries <em>Ripley</em> with Andrew Scott but that's not a film.
+One film is in here twice: <a href="purple-noon">Purple Noon</a> (aka Plan Soleil) and <a href="the-talented-mr-ripley">The Talented Mr. Ripley</a>. I would have added it again for Steven Zaillian's 2024 TV miniseries <em>Ripley</em> with Andrew Scott but that's not a film.
 
-If you only watch {{ films.must_see.length }} films make sure they are <span class="sentence-list">{% for film in films.must_see %}<span><a href="{{ film.slug }}">{{ film.title }}</a></span>{% endfor %}</span>.
+### Top {{ films.must_see.length }}
+If you only watch {{ films.must_see.length }} films&hellip;
+
+<div class="film-short-list">
+{% for film in films.must_see %}
+<div><a href="{{ film.slug }}"><img src="{{ film.poster }}" alt="{{ film.title }}"></a></div>
+{% endfor %}
+</div>
+
+### All {{ films.list.length }}
 
 <div class="film-list">
 {% for film in films.list %}
