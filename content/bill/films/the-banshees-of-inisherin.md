@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../the-fabelmans">Next</a>
 </nav>
 
-<p>93 / 100</p>
+<p>94 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/the-banshees-of-inisherin.jpg" alt="">

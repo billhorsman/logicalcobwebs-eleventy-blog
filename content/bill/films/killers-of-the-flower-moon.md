@@ -4,7 +4,7 @@ layout: layouts/home.njk
 ---
 
 <nav class="films">
-  <a class="prev" href="../scrapper">Previous</a>
+  <a class="prev" href="../asteroid-city">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../all-of-us-strangers">Next</a>
 </nav>

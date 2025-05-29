@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../the-french-dispatch">Next</a>
 </nav>
 
-<p>83 / 100</p>
+<p>84 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/sweetheart.jpg" alt="">

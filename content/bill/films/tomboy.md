@@ -6,7 +6,7 @@ layout: layouts/home.njk
 <nav class="films">
   <a class="prev" href="../micmacs">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../all-is-lost">Next</a>
+  <a class="next" href="../le-havre">Next</a>
 </nav>
 
 <p>59 / 100</p>

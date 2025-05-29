@@ -4,12 +4,12 @@ layout: layouts/home.njk
 ---
 
 <nav class="films">
-  <a class="prev" href="../tomboy">Previous</a>
+  <a class="prev" href="../le-havre">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../dallas-buyers-club">Next</a>
 </nav>
 
-<p>60 / 100</p>
+<p>61 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/all-is-lost.jpg" alt="">

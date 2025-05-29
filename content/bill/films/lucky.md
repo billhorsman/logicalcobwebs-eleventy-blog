@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../cest-la-vie">Next</a>
 </nav>
 
-<p>68 / 100</p>
+<p>69 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/lucky.jpg" alt="">

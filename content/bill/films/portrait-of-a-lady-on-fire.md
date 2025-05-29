@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../first-cow">Next</a>
 </nav>
 
-<p>73 / 100</p>
+<p>74 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/portrait-of-a-lady-on-fire.jpg" alt="">

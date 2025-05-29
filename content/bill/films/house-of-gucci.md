@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../licorice-pizza">Next</a>
 </nav>
 
-<p>87 / 100</p>
+<p>88 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/house-of-gucci.jpg" alt="">

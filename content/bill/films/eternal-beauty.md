@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../limbo">Next</a>
 </nav>
 
-<p>76 / 100</p>
+<p>77 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/eternal-beauty.jpg" alt="">

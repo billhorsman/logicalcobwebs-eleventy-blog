@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../coda">Next</a>
 </nav>
 
-<p>80 / 100</p>
+<p>81 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/petite-maman.jpg" alt="">

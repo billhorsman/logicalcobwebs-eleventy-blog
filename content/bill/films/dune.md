@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../sweetheart">Next</a>
 </nav>
 
-<p>82 / 100</p>
+<p>83 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/dune.jpg" alt="">

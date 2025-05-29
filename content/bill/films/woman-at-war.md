@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../sink-or-swim">Next</a>
 </nav>
 
-<p>70 / 100</p>
+<p>71 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/woman-at-war.jpg" alt="">

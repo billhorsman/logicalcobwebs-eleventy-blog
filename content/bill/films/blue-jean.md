@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../asteroid-city">Next</a>
 </nav>
 
-<p>96 / 100</p>
+<p>97 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/blue-jean.jpg" alt="">

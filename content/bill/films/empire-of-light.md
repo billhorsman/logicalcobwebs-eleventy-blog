@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../blue-jean">Next</a>
 </nav>
 
-<p>95 / 100</p>
+<p>96 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/empire-of-light.jpg" alt="">

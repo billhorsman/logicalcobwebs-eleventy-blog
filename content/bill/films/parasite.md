@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../portrait-of-a-lady-on-fire">Next</a>
 </nav>
 
-<p>72 / 100</p>
+<p>73 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/parasite.jpg" alt="">

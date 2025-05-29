@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../lucky">Next</a>
 </nav>
 
-<p>67 / 100</p>
+<p>68 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/the-party.jpg" alt="">

@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../belfast">Next</a>
 </nav>
 
-<p>85 / 100</p>
+<p>86 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/the-power-of-the-dog.jpg" alt="">

@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../the-grand-budapest-hotel">Next</a>
 </nav>
 
-<p>61 / 100</p>
+<p>62 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/dallas-buyers-club.jpg" alt="">

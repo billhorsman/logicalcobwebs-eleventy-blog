@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../empire-of-light">Next</a>
 </nav>
 
-<p>94 / 100</p>
+<p>95 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/the-fabelmans.jpg" alt="">

@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../maudie">Next</a>
 </nav>
 
-<p>65 / 100</p>
+<p>66 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/the-handmaiden.jpg" alt="">

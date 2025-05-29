@@ -11,7 +11,7 @@ layout: layouts/home.njk
 
 {% set firstFilm = films.list[0] %}
 {% set lastFilm = films.list[films.count - 1] %}
-Starting from <a href="{{ firstFilm.slug }}">{{ firstFilm.title }}</a> in {{ firstFilm.year }} through to <a href="{{ lastFilm.slug }}">{{ lastFilm.title }}</a> in {{ lastFilm.year }}, these are my {{ films.list.length }} favourite films. There are lots that are brilliant and don't make the cut but it's a nice round number. 
+Starting from <a href="{{ firstFilm.slug }}">{{ firstFilm.title }}</a> in {{ firstFilm.year }} through to <a href="{{ lastFilm.slug }}">{{ lastFilm.title }}</a> in {{ lastFilm.year }}, here are my {{ films.list.length }} favourite films. There are lots that are brilliant and don't make the cut but it's a nice round number. 
 
 Based on these films, my favourite director is {{ films.top_directors[0].name }} ({{ films.top_directors[0].count }} films), followed by {{ films.top_directors[1].name }} ({{ films.top_directors[1].count }}) and {{ films.top_directors[2].name }} ({{ films.top_directors[2].count }}).
 

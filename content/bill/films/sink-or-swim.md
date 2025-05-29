@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../parasite">Next</a>
 </nav>
 
-<p>71 / 100</p>
+<p>72 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/sink-or-swim.jpg" alt="">

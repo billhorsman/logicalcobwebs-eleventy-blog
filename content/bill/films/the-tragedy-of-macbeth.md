@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../between-two-worlds">Next</a>
 </nav>
 
-<p>89 / 100</p>
+<p>90 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/the-tragedy-of-macbeth.jpg" alt="">

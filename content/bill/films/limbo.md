@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../the-truffle-hunters">Next</a>
 </nav>
 
-<p>77 / 100</p>
+<p>78 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/limbo.jpg" alt="">

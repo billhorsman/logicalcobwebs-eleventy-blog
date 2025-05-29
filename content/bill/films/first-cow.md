@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../schemers">Next</a>
 </nav>
 
-<p>74 / 100</p>
+<p>75 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/first-cow.jpg" alt="">

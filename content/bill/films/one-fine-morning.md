@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../the-banshees-of-inisherin">Next</a>
 </nav>
 
-<p>92 / 100</p>
+<p>93 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/one-fine-morning.jpg" alt="">

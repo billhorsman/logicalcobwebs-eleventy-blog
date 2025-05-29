@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../woman-at-war">Next</a>
 </nav>
 
-<p>69 / 100</p>
+<p>70 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/cest-la-vie.jpg" alt="">

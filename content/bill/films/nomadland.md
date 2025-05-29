@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../petite-maman">Next</a>
 </nav>
 
-<p>79 / 100</p>
+<p>80 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/nomadland.jpg" alt="">

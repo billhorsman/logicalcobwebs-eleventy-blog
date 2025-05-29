@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../one-fine-morning">Next</a>
 </nav>
 
-<p>91 / 100</p>
+<p>92 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/eo.jpg" alt="">

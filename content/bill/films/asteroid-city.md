@@ -6,10 +6,10 @@ layout: layouts/home.njk
 <nav class="films">
   <a class="prev" href="../blue-jean">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../scrapper">Next</a>
+  <a class="next" href="../killers-of-the-flower-moon">Next</a>
 </nav>
 
-<p>97 / 100</p>
+<p>98 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/asteroid-city.jpg" alt="">

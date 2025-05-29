@@ -6160,7 +6160,7 @@
       "release_date": "1993-08-06",
       "video": false,
       "vote_average": 7.467,
-      "vote_count": 4410,
+      "vote_count": 4411,
       "slug": "the-fugitive",
       "year": "1993",
       "director": "Andrew Davis",
@@ -8045,7 +8045,7 @@
       "release_date": "1999-10-15",
       "video": false,
       "vote_average": 8.438,
-      "vote_count": 30304,
+      "vote_count": 30305,
       "slug": "fight-club",
       "year": "1999",
       "director": "David Fincher",
@@ -12477,6 +12477,285 @@
       ],
       "poster": "posters/tomboy.jpg",
       "backdrop": "backdrops/tomboy.jpg"
+    },
+    {
+      "backdrop_path": "/eAtg0bP9vySbT8pGs14yLJU6Jwf.jpg",
+      "id": 73532,
+      "title": "Le Havre",
+      "original_title": "Le Havre",
+      "overview": "In the French harbor city of Le Havre, fate throws young African refugee Idrissa into the path of Marcel Marx, a well-spoken bohemian who works as a shoe-shiner. With innate optimism and the tireless support of his community, Marcel stands up to officials pursuing the boy for deportation.",
+      "poster_path": "/zCoGiKr8hn9fPYnxECjUhpaP8TI.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "fr",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "popularity": 1.0035,
+      "release_date": "2011-09-08",
+      "video": false,
+      "vote_average": 7.028,
+      "vote_count": 441,
+      "slug": "le-havre",
+      "year": "2011",
+      "director": "Aki Kaurismäki",
+      "cast": [
+        {
+          "name": "André Wilms",
+          "character": "Marcel Marx"
+        },
+        {
+          "name": "Kati Outinen",
+          "character": "Arletty"
+        },
+        {
+          "name": "Jean-Pierre Darroussin",
+          "character": "Monet"
+        },
+        {
+          "name": "Blondin Miguel",
+          "character": "Idrissa"
+        },
+        {
+          "name": "Elina Salo",
+          "character": "Claire"
+        },
+        {
+          "name": "Evelyne Didi",
+          "character": "Yvette"
+        },
+        {
+          "name": "Quoc Dung Nguyen",
+          "character": "Chang"
+        },
+        {
+          "name": "François Monnié",
+          "character": "Greengrocer"
+        },
+        {
+          "name": "Roberto Piazza",
+          "character": "Little Bob"
+        },
+        {
+          "name": "Pierre Étaix",
+          "character": "Dr. Becker"
+        },
+        {
+          "name": "Jean-Pierre Léaud",
+          "character": "The Whistleblower"
+        },
+        {
+          "name": "Vincent Lebodo",
+          "character": "Francis"
+        },
+        {
+          "name": "Umban U'kset",
+          "character": "Mahamat"
+        },
+        {
+          "name": "Patrick Bonnel",
+          "character": "Detention Centre Manager"
+        },
+        {
+          "name": "Ilkka Koivula",
+          "character": "The Italian"
+        },
+        {
+          "name": "Myriam \"Mimie\" Piazza",
+          "character": "Mimie"
+        },
+        {
+          "name": "Luce Vigo",
+          "character": "Sandwich Vendor"
+        },
+        {
+          "name": "Valérie Caron",
+          "character": "Greengrocer's Wife"
+        },
+        {
+          "name": "Jérôme Boyer",
+          "character": "Border Police"
+        },
+        {
+          "name": "Jean-Luc Guion-Firmin",
+          "character": "Calais Refugee"
+        },
+        {
+          "name": "Pierre Morineau",
+          "character": "Container Park Night Guard"
+        },
+        {
+          "name": "Johann Rioux",
+          "character": "CRS Commander"
+        },
+        {
+          "name": "Julien Flematti",
+          "character": "Trigger-happy CRS Guard"
+        },
+        {
+          "name": "Éric Duteil",
+          "character": "Medic"
+        },
+        {
+          "name": "Corinne Belet",
+          "character": "Nurse"
+        },
+        {
+          "name": "Dominique Lepagne",
+          "character": "Nurse"
+        },
+        {
+          "name": "Anne Lizy",
+          "character": "Nurse"
+        },
+        {
+          "name": "Pierre Richards",
+          "character": "Dock Worker"
+        },
+        {
+          "name": "Loïc Jamet",
+          "character": "Dock Worker 2"
+        },
+        {
+          "name": "Nico Garotin",
+          "character": "Band Member"
+        },
+        {
+          "name": "Bertrand Couloume",
+          "character": "Band Member"
+        },
+        {
+          "name": "Nicolas Noël",
+          "character": "Band Member"
+        },
+        {
+          "name": "Gilles Mallet",
+          "character": "Band Member"
+        },
+        {
+          "name": "Gilles Adam",
+          "character": "\"La Moderne\" Regular / Prefect of Police (voice)"
+        },
+        {
+          "name": "Patrick Leboucher",
+          "character": "\"La Moderne\" Regular"
+        },
+        {
+          "name": "Michel Lacaille",
+          "character": "\"La Moderne\" Regular"
+        },
+        {
+          "name": "Stéphane Livonnen",
+          "character": "\"La Moderne\" Regular"
+        },
+        {
+          "name": "Arnaud Clément",
+          "character": "\"La Moderne\" Customer"
+        },
+        {
+          "name": "Dominique Comont",
+          "character": "\"La Moderne\" Customer"
+        },
+        {
+          "name": "Alain Guillot",
+          "character": "\"La Moderne\" Customer"
+        },
+        {
+          "name": "Philippe Hubschwerlin",
+          "character": "\"La Moderne\" Customer"
+        },
+        {
+          "name": "Franck Durand",
+          "character": "\"La Moderne\" Customer"
+        },
+        {
+          "name": "Christian Amyard",
+          "character": "Docker"
+        },
+        {
+          "name": "Rudy Amyard",
+          "character": "Docker"
+        },
+        {
+          "name": "Brice Augé",
+          "character": "Docker"
+        },
+        {
+          "name": "Lucas Loubaresse",
+          "character": "Assassin"
+        },
+        {
+          "name": "Ireneusz (Irek) Spiewak",
+          "character": "Assassin"
+        },
+        {
+          "name": "Gilles Charmant",
+          "character": "Shoe Shop Manager"
+        },
+        {
+          "name": "Mary Berkelmans",
+          "character": "Housewife"
+        },
+        {
+          "name": "Seluna Lemercier",
+          "character": "Housewife"
+        },
+        {
+          "name": "Fanette Martinie",
+          "character": "Housewife"
+        },
+        {
+          "name": "Rémi Pradinas",
+          "character": "Priest"
+        },
+        {
+          "name": "Stéphane Parthenay",
+          "character": "Priest"
+        },
+        {
+          "name": "Alain Chapelain",
+          "character": "Accordionist"
+        },
+        {
+          "name": "Rachid Bessal",
+          "character": "Calais Refugee"
+        },
+        {
+          "name": "Oumar Ly",
+          "character": "Calais Refugee"
+        },
+        {
+          "name": "Emmanuel Ingweiller",
+          "character": "Photographer"
+        },
+        {
+          "name": "Matthieu Hébert",
+          "character": "Bartender"
+        },
+        {
+          "name": "Frank Atinault",
+          "character": "Fisherman"
+        },
+        {
+          "name": "Dominique Mare",
+          "character": "Fisherman"
+        },
+        {
+          "name": "Brice Niel",
+          "character": "Fisherman"
+        },
+        {
+          "name": "Alban Rutten",
+          "character": "Fisherman"
+        },
+        {
+          "name": "Franck Rutten",
+          "character": "Fisherman"
+        }
+      ],
+      "poster": "posters/le-havre.jpg",
+      "backdrop": "backdrops/le-havre.jpg"
     },
     {
       "backdrop_path": "/tGy0zyeljUFV20qjVmAigwnlWKv.jpg",
@@ -21199,137 +21478,6 @@
       "backdrop": "backdrops/asteroid-city.jpg"
     },
     {
-      "backdrop_path": "/8VwWeOAgVZDgWYzmOeLswRGqIcg.jpg",
-      "id": 935906,
-      "title": "Scrapper",
-      "original_title": "Scrapper",
-      "overview": "A resourceful 12-year-old, who secretly lives alone in her flat in a working-class suburb of London, makes money stealing bikes with her best friend Ali and keeps the social workers off her back by pretending to live with an uncle. But when her estranged father turns up out of the blue, she's forced to confront reality.",
-      "poster_path": "/fezRPcjrd4whodnVVcFRCgDpK11.jpg",
-      "media_type": "movie",
-      "adult": false,
-      "original_language": "en",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "popularity": 1.2467,
-      "release_date": "2023-08-25",
-      "video": false,
-      "vote_average": 6.708,
-      "vote_count": 144,
-      "slug": "scrapper",
-      "year": "2023",
-      "director": "Charlotte Regan",
-      "cast": [
-        {
-          "name": "Lola Campbell",
-          "character": "Georgie"
-        },
-        {
-          "name": "Harris Dickinson",
-          "character": "Jason"
-        },
-        {
-          "name": "Alin Uzun",
-          "character": "Ali"
-        },
-        {
-          "name": "Laura Aikman",
-          "character": "Kaye"
-        },
-        {
-          "name": "Ambreen Razia",
-          "character": "Zeph"
-        },
-        {
-          "name": "Asheq Akhtar",
-          "character": "Youseff"
-        },
-        {
-          "name": "Olivia Brady",
-          "character": "Vicky"
-        },
-        {
-          "name": "Sam Buchanan",
-          "character": "Henry"
-        },
-        {
-          "name": "Matt Brewer",
-          "character": "Suited Bloke"
-        },
-        {
-          "name": "Joshua Frater-Loughlin",
-          "character": "Shopkeeper"
-        },
-        {
-          "name": "Freya Bell",
-          "character": "Layla"
-        },
-        {
-          "name": "Aylin Tezel",
-          "character": "Nina"
-        },
-        {
-          "name": "Cary Crankson",
-          "character": "Mr Buchanan"
-        },
-        {
-          "name": "Jessica Fostekew",
-          "character": "Sian"
-        },
-        {
-          "name": "Carys Bowkett",
-          "character": "Emily"
-        },
-        {
-          "name": "Ayokunle Oyesanwo",
-          "character": "Kunle"
-        },
-        {
-          "name": "Ayobami Oyesanwo",
-          "character": "Bami"
-        },
-        {
-          "name": "Ayooluwa Oyesanwo",
-          "character": "Luwa"
-        },
-        {
-          "name": "Aysa Uzun",
-          "character": "Ali's Little Sister #1"
-        },
-        {
-          "name": "Ezel Uzun",
-          "character": "Ali's Little Sister #2"
-        },
-        {
-          "name": "Tejal Rathore",
-          "character": "Girl in the Street"
-        },
-        {
-          "name": "Daniel Burt",
-          "character": "Young Jason"
-        },
-        {
-          "name": "Harry Sydes",
-          "character": "Kid 1"
-        },
-        {
-          "name": "Mitchell Brown",
-          "character": "Kid 2"
-        },
-        {
-          "name": "Ramison Bernardo",
-          "character": "Kid 3"
-        },
-        {
-          "name": "Sue King-Spear",
-          "character": "Lady in Lilac (uncredited)"
-        }
-      ],
-      "poster": "posters/scrapper.jpg",
-      "backdrop": "backdrops/scrapper.jpg"
-    },
-    {
       "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
       "id": 466420,
       "title": "Killers of the Flower Moon",
@@ -22287,7 +22435,7 @@
     "2007": 2,
     "2008": 2,
     "2009": 3,
-    "2011": 1,
+    "2011": 2,
     "2013": 2,
     "2014": 3,
     "2016": 2,
@@ -22297,7 +22445,7 @@
     "2020": 5,
     "2021": 11,
     "2022": 6,
-    "2023": 5
+    "2023": 4
   },
   "decades": {
     "1940": 2,
@@ -22307,8 +22455,8 @@
     "1980": 7,
     "1990": 14,
     "2000": 15,
-    "2010": 15,
-    "2020": 27
+    "2010": 16,
+    "2020": 26
   },
   "nostaligic": [
     {
