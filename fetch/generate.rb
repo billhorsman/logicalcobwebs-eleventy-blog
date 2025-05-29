@@ -88,7 +88,9 @@ if ARGV[0] == "refresh"
   # 5. Write the list to global data
   IO.write("../_data/films.json", JSON.pretty_generate(
     list:,
-    count: list.length
+    count: list.length,
+    years: list.map { |film| film["year"] }.tally,
+    decades: list.map { |film| "#{film["year"][0, 3]}0" }.tally,
   ))
 
 else

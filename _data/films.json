@@ -513,7 +513,7 @@
       "popularity": 0.773,
       "release_date": "1949-06-16",
       "video": false,
-      "vote_average": 6.843,
+      "vote_average": 6.8,
       "vote_count": 134,
       "slug": "whisky-galore",
       "year": "1949",
@@ -714,8 +714,8 @@
       "popularity": 4.9237,
       "release_date": "1959-07-08",
       "video": false,
-      "vote_average": 7.981,
-      "vote_count": 4216,
+      "vote_average": 7.98,
+      "vote_count": 4217,
       "slug": "north-by-northwest",
       "year": "1959",
       "director": "Alfred Hitchcock",
@@ -3035,7 +3035,7 @@
       "release_date": "1968-12-21",
       "video": false,
       "vote_average": 8.282,
-      "vote_count": 4535,
+      "vote_count": 4536,
       "slug": "once-upon-a-time-in-the-west",
       "year": "1968",
       "director": "Sergio Leone",
@@ -4467,7 +4467,7 @@
       "release_date": "1979-05-19",
       "video": false,
       "vote_average": 8.271,
-      "vote_count": 8502,
+      "vote_count": 8503,
       "slug": "apocalypse-now",
       "year": "1979",
       "director": "Francis Ford Coppola",
@@ -11466,7 +11466,7 @@
       "release_date": "2007-06-13",
       "video": false,
       "vote_average": 7.947,
-      "vote_count": 12391,
+      "vote_count": 12392,
       "slug": "no-country-for-old-men",
       "year": "2007",
       "director": "Joel Coen, Ethan Coen",
@@ -12907,8 +12907,8 @@
       "popularity": 11.8346,
       "release_date": "2014-02-26",
       "video": false,
-      "vote_average": 8.0,
-      "vote_count": 15194,
+      "vote_average": 8.039,
+      "vote_count": 15198,
       "slug": "the-grand-budapest-hotel",
       "year": "2014",
       "director": "Wes Anderson",
@@ -13647,7 +13647,7 @@
       "release_date": "2014-11-05",
       "video": false,
       "vote_average": 8.455,
-      "vote_count": 37192,
+      "vote_count": 37193,
       "slug": "interstellar",
       "year": "2014",
       "director": "Christopher Nolan",
@@ -15682,7 +15682,7 @@
       "release_date": "2021-01-29",
       "video": false,
       "vote_average": 7.189,
-      "vote_count": 3099,
+      "vote_count": 3100,
       "slug": "nomadland",
       "year": "2021",
       "director": "Chloé Zhao",
@@ -16185,7 +16185,7 @@
       "release_date": "2021-09-15",
       "video": false,
       "vote_average": 7.782,
-      "vote_count": 13569,
+      "vote_count": 13570,
       "slug": "dune",
       "year": "2021",
       "director": "Denis Villeneuve",
@@ -21532,8 +21532,8 @@
       "popularity": 13.142,
       "release_date": "2023-10-18",
       "video": false,
-      "vote_average": 7.427,
-      "vote_count": 3622,
+      "vote_average": 7.426,
+      "vote_count": 3623,
       "slug": "killers-of-the-flower-moon",
       "year": "2023",
       "director": "Martin Scorsese",
@@ -22436,552 +22436,63 @@
     }
   ],
   "count": 100,
-  "earliest": {
-    "backdrop_path": "/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
-    "id": 1585,
-    "title": "It's a Wonderful Life",
-    "original_title": "It's a Wonderful Life",
-    "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
-    "poster_path": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
-    "media_type": "movie",
-    "adult": false,
-    "original_language": "en",
-    "genre_ids": [
-      18,
-      10751,
-      14
-    ],
-    "popularity": 6.9345,
-    "release_date": "1946-12-20",
-    "video": false,
-    "vote_average": 8.278,
-    "vote_count": 4503,
-    "slug": "its-a-wonderful-life",
-    "year": "1946",
-    "director": "Frank Capra",
-    "cast": [
-      {
-        "name": "James Stewart",
-        "character": "George Bailey"
-      },
-      {
-        "name": "Donna Reed",
-        "character": "Mary Hatch"
-      },
-      {
-        "name": "Lionel Barrymore",
-        "character": "Mr. Potter"
-      },
-      {
-        "name": "Thomas Mitchell",
-        "character": "Uncle Billy"
-      },
-      {
-        "name": "Henry Travers",
-        "character": "Clarence"
-      },
-      {
-        "name": "Beulah Bondi",
-        "character": "Mrs. Bailey"
-      },
-      {
-        "name": "Frank Faylen",
-        "character": "Ernie"
-      },
-      {
-        "name": "Ward Bond",
-        "character": "Bert"
-      },
-      {
-        "name": "Gloria Grahame",
-        "character": "Violet"
-      },
-      {
-        "name": "H.B. Warner",
-        "character": "Mr. Gower"
-      },
-      {
-        "name": "Frank Albertson",
-        "character": "Sam Wainwright"
-      },
-      {
-        "name": "Todd Karns",
-        "character": "Harry Bailey"
-      },
-      {
-        "name": "Samuel S. Hinds",
-        "character": "Pa Bailey"
-      },
-      {
-        "name": "Mary Treen",
-        "character": "Cousin Tilly"
-      },
-      {
-        "name": "Virginia Patton",
-        "character": "Ruth Dakin"
-      },
-      {
-        "name": "Charles Williams",
-        "character": "Cousin Eustace"
-      },
-      {
-        "name": "Sarah Edwards",
-        "character": "Mrs. Hatch"
-      },
-      {
-        "name": "William Edmunds",
-        "character": "Mr. Martini"
-      },
-      {
-        "name": "Lillian Randolph",
-        "character": "Annie"
-      },
-      {
-        "name": "Argentina Brunetti",
-        "character": "Mrs. Martini"
-      },
-      {
-        "name": "Robert J. Anderson",
-        "character": "Little George"
-      },
-      {
-        "name": "Ronnie Ralph",
-        "character": "Little Sam"
-      },
-      {
-        "name": "Jeanne Gail",
-        "character": "Little Mary"
-      },
-      {
-        "name": "Jeanine Ann Roose",
-        "character": "Little Violet"
-      },
-      {
-        "name": "Danny Mummert",
-        "character": "Little Marty Hatch"
-      },
-      {
-        "name": "Georgie Nokes",
-        "character": "Little Harry Bailey"
-      },
-      {
-        "name": "Sheldon Leonard",
-        "character": "Nick"
-      },
-      {
-        "name": "Frank Hagney",
-        "character": "Potter's Bodyguard"
-      },
-      {
-        "name": "Ray Walker",
-        "character": "Joe (Luggage Shop)"
-      },
-      {
-        "name": "Charles Lane",
-        "character": "Real Estate Salesman"
-      },
-      {
-        "name": "Edward Keane",
-        "character": "Tom (Bldg. & Loan)"
-      },
-      {
-        "name": "Carol Coombs",
-        "character": "The Bailey Child - Janie"
-      },
-      {
-        "name": "Karolyn Grimes",
-        "character": "The Bailey Child - Zuzu"
-      },
-      {
-        "name": "Larry Simms",
-        "character": "The Bailey Child - Pete"
-      },
-      {
-        "name": "Jimmy Hawkins",
-        "character": "The Bailey Child - Tommy"
-      },
-      {
-        "name": "Jean Acker",
-        "character": "Townswoman (uncredited)"
-      },
-      {
-        "name": "Ernie Adams",
-        "character": "Ed (uncredited)"
-      },
-      {
-        "name": "Monya Andre",
-        "character": "Elderly Woman (uncredited)"
-      },
-      {
-        "name": "Stanley Andrews",
-        "character": "Mr. Welch (uncredited)"
-      },
-      {
-        "name": "Sam Ash",
-        "character": "Nervous Banker (uncredited)"
-      },
-      {
-        "name": "Jack Bailey",
-        "character": "One of Vi's Suitors (uncredited)"
-      },
-      {
-        "name": "Louise Bates",
-        "character": "Building & Loan Depositor (uncredited)"
-      },
-      {
-        "name": "Mary Bayless",
-        "character": "Townswoman (uncredited)"
-      },
-      {
-        "name": "Beth Belden",
-        "character": "Young Girl (uncredited)"
-      },
-      {
-        "name": "Brooks Benedict",
-        "character": "Military Officer in Montage (uncredited)"
-      },
-      {
-        "name": "Joseph E. Bernard",
-        "character": "Townsman (uncredited)"
-      },
-      {
-        "name": "Al Bridge",
-        "character": "Sheriff (uncredited)"
-      },
-      {
-        "name": "Buz Buckley",
-        "character": "Young Boy (uncredited)"
-      },
-      {
-        "name": "Marian Carr",
-        "character": "Jane Wainwright (uncredited)"
-      },
-      {
-        "name": "Adriana Caselotti",
-        "character": "Singer at Martini's (uncredited)"
-      },
-      {
-        "name": "Lane Chandler",
-        "character": "Policeman (uncredited)"
-      },
-      {
-        "name": "Michael Chapin",
-        "character": "Young George's Friend (uncredited)"
-      },
-      {
-        "name": "Tom Chatterton",
-        "character": "Townsman (uncredited)"
-      },
-      {
-        "name": "Jack Cheatham",
-        "character": "Cop Arresting Violet (uncredited)"
-      },
-      {
-        "name": "Harry Cheshire",
-        "character": "Dr. Campbell (uncredited)"
-      },
-      {
-        "name": "Edward Clark",
-        "character": "Building & Loan Board Member (uncredited)"
-      },
-      {
-        "name": "Tom Coleman",
-        "character": "Building & Loan Customer (uncredited)"
-      },
-      {
-        "name": "Ellen Corby",
-        "character": "Ms. Davis (uncredited)"
-      },
-      {
-        "name": "Bryn Davis",
-        "character": "Elderly Woman (uncredited)"
-      },
-      {
-        "name": "Lew Davis",
-        "character": "High School Teacher at Poolside (uncredited)"
-      },
-      {
-        "name": "Harry Denny",
-        "character": "(uncredited)"
-      },
-      {
-        "name": "Helen Dickson",
-        "character": "Woman at Graduation Dance (uncredited)"
-      },
-      {
-        "name": "Dick Elliott",
-        "character": "Man on Porch (uncredited)"
-      },
-      {
-        "name": "Tom Fadden",
-        "character": "Tollhouse Keeper (uncredited)"
-      },
-      {
-        "name": "Frank Fenton",
-        "character": "Violet's Boyfriend (uncredited)"
-      },
-      {
-        "name": "Eddie Fetherston",
-        "character": "Horace (uncredited)"
-      },
-      {
-        "name": "Sam Flint",
-        "character": "Relieved Banker in Potter's Office (uncredited)"
-      },
-      {
-        "name": "Lee Frederick",
-        "character": "(uncredited)"
-      },
-      {
-        "name": "Dick Gordon",
-        "character": "Photographer with Sheriff (uncredited)"
-      },
-      {
-        "name": "Jack Gordon",
-        "character": "Bar Patron (uncredited)"
-      },
-      {
-        "name": "Herschel Graham",
-        "character": "Townsman (uncredited)"
-      },
-      {
-        "name": "Joseph Granby",
-        "character": "Elderly Man (voice) (uncredited)"
-      },
-      {
-        "name": "Charles Halton",
-        "character": "Carter (uncredited)"
-      },
-      {
-        "name": "Carl Eric Hansen",
-        "character": "(uncredited)"
-      },
-      {
-        "name": "Herbert Heywood",
-        "character": "Building & Loan Depositor (uncredited)"
-      },
-      {
-        "name": "Harry Holman",
-        "character": "Mr. Partridge (uncredited)"
-      },
-      {
-        "name": "Art Howard",
-        "character": "Building & Loan Board Member (uncredited)"
-      },
-      {
-        "name": "Bert Howard",
-        "character": "Building & Loan Board Member (uncredited)"
-      },
-      {
-        "name": "Arthur Stuart Hull",
-        "character": "Mr. Randall (uncredited)"
-      },
-      {
-        "name": "John Indrisano",
-        "character": "Man in Fantasy (uncredited)"
-      },
-      {
-        "name": "Eddie Kane",
-        "character": "Building & Loan Depositor (uncredited)"
-      },
-      {
-        "name": "Carl Kent",
-        "character": "Townsman (uncredited)"
-      },
-      {
-        "name": "Milton Kibbee",
-        "character": "Building & Loan Board Member (uncredited)"
-      },
-      {
-        "name": "Effie Laird",
-        "character": "Townswoman (uncredited)"
-      },
-      {
-        "name": "Mike Lally",
-        "character": "Building & Loan Customer (uncredited)"
-      },
-      {
-        "name": "Harold Landon",
-        "character": "Marty Hatch (uncredited)"
-      },
-      {
-        "name": "Meade 'Lux' Lewis",
-        "character": "Pianist in Nick's Place (uncredited)"
-      },
-      {
-        "name": "Jack Lomas",
-        "character": "Bar Patron (uncredited)"
-      },
-      {
-        "name": "J. Farrell MacDonald",
-        "character": "Man Whose Grandfather Planted Tree (uncredited)"
-      },
-      {
-        "name": "Irene Mack",
-        "character": "Townswoman (uncredited)"
-      },
-      {
-        "name": "Wilbur Mack",
-        "character": "Building & Loan Customer (uncredited)"
-      },
-      {
-        "name": "Charles Meakin",
-        "character": "Elderly Man (uncredited)"
-      },
-      {
-        "name": "Priscilla Montgomery",
-        "character": "Student in Gym (uncredited)"
-      },
-      {
-        "name": "Bert Moorhouse",
-        "character": "Man with Sheriff (uncredited)"
-      },
-      {
-        "name": "Evelyn Moriarty",
-        "character": "Bar Patron (uncredited)"
-      },
-      {
-        "name": "Philip Morris",
-        "character": "Building & Loan Customer (uncredited)"
-      },
-      {
-        "name": "George Noisom",
-        "character": "School Dancer (uncredited)"
-      },
-      {
-        "name": "Bob O'Connor",
-        "character": "Bar Patron (uncredited)"
-      },
-      {
-        "name": "Frank O'Connor",
-        "character": "Military Officer in Montage (uncredited)"
-      },
-      {
-        "name": "Lynn O'Leary-Jameson",
-        "character": "Infant Janie Bailey (uncredited)"
-      },
-      {
-        "name": "Moroni Olsen",
-        "character": "Senior Angel (voice) (uncredited)"
-      },
-      {
-        "name": "Garry Owen",
-        "character": "Bill-Poster (uncredited)"
-      },
-      {
-        "name": "Netta Packer",
-        "character": "Elderly Woman (uncredited)"
-      },
-      {
-        "name": "Franklin Parker",
-        "character": "Photographer / Reporter (uncredited)"
-      },
-      {
-        "name": "Suzanne Ridgway",
-        "character": "Nick's Waitress (uncredited)"
-      },
-      {
-        "name": "Mark Roberts",
-        "character": "Mickey (uncredited)"
-      },
-      {
-        "name": "Constantine Romanoff",
-        "character": "Bar Patron (uncredited)"
-      },
-      {
-        "name": "Cy Schindell",
-        "character": "Nick's Bouncer (uncredited)"
-      },
-      {
-        "name": "Almira Sessions",
-        "character": "Potter's Secretary (uncredited)"
-      },
-      {
-        "name": "Cedric Stevens",
-        "character": "Townsman (uncredited)"
-      },
-      {
-        "name": "Brick Sullivan",
-        "character": "Man in Fantasy (uncredited)"
-      },
-      {
-        "name": "Charles Sullivan",
-        "character": "Nick's Bartender (uncredited)"
-      },
-      {
-        "name": "Carl Switzer",
-        "character": "Freddie Othello (uncredited)"
-      },
-      {
-        "name": "Max Wagner",
-        "character": "Cashier / Nick's Assistant Bouncer (uncredited)"
-      },
-      {
-        "name": "Larry Wheat",
-        "character": "Building & Loan Board Member (uncredited)"
-      },
-      {
-        "name": "Charles C. Wilson",
-        "character": "Charlie (uncredited)"
-      },
-      {
-        "name": "Finn Zirzow",
-        "character": "Bar Patron (uncredited)"
-      }
-    ],
-    "poster": "posters/its-a-wonderful-life.jpg",
-    "backdrop": "backdrops/its-a-wonderful-life.jpg"
+  "years": {
+    "1946": 1,
+    "1949": 1,
+    "1954": 1,
+    "1959": 2,
+    "1960": 3,
+    "1967": 1,
+    "1968": 3,
+    "1969": 1,
+    "1971": 1,
+    "1973": 1,
+    "1975": 2,
+    "1976": 1,
+    "1978": 1,
+    "1979": 2,
+    "1981": 2,
+    "1983": 1,
+    "1984": 1,
+    "1985": 1,
+    "1986": 1,
+    "1987": 1,
+    "1991": 2,
+    "1993": 2,
+    "1994": 3,
+    "1996": 1,
+    "1997": 1,
+    "1998": 1,
+    "1999": 5,
+    "2000": 1,
+    "2001": 2,
+    "2002": 3,
+    "2003": 1,
+    "2004": 1,
+    "2007": 2,
+    "2008": 2,
+    "2009": 3,
+    "2011": 1,
+    "2013": 2,
+    "2014": 3,
+    "2016": 2,
+    "2017": 3,
+    "2018": 2,
+    "2019": 2,
+    "2020": 5,
+    "2021": 11,
+    "2022": 6,
+    "2023": 5
   },
-  "latest": {
-    "backdrop_path": "/8yjHiSuSEhzR916LcIecuQ8tETG.jpg",
-    "id": 994108,
-    "title": "All of Us Strangers",
-    "original_title": "All of Us Strangers",
-    "overview": "One night in his near-empty tower block in contemporary London, Adam has a chance encounter with a mysterious neighbor Harry, which punctures the rhythm of his everyday life.",
-    "poster_path": "/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg",
-    "media_type": "movie",
-    "adult": false,
-    "original_language": "en",
-    "genre_ids": [
-      10749,
-      18,
-      14
-    ],
-    "popularity": 5.0488,
-    "release_date": "2023-12-22",
-    "video": false,
-    "vote_average": 7.4,
-    "vote_count": 846,
-    "slug": "all-of-us-strangers",
-    "year": "2023",
-    "director": "Andrew Haigh",
-    "cast": [
-      {
-        "name": "Andrew Scott",
-        "character": "Adam"
-      },
-      {
-        "name": "Paul Mescal",
-        "character": "Harry"
-      },
-      {
-        "name": "Carter John Grout",
-        "character": "Young Adam"
-      },
-      {
-        "name": "Jamie Bell",
-        "character": "Dad"
-      },
-      {
-        "name": "Claire Foy",
-        "character": "Mum"
-      },
-      {
-        "name": "Ami Tredrea",
-        "character": "Waitress"
-      }
-    ],
-    "poster": "posters/all-of-us-strangers.jpg",
-    "backdrop": "backdrops/all-of-us-strangers.jpg"
+  "decades": {
+    "1940": 2,
+    "1950": 3,
+    "1960": 8,
+    "1970": 8,
+    "1980": 7,
+    "1990": 15,
+    "2000": 15,
+    "2010": 15,
+    "2020": 27
   }
 }
