@@ -22272,69 +22272,6 @@
     "2010": 15,
     "2020": 27
   },
-  "top_directors": [
-    {
-      "name": "Wes Anderson",
-      "count": 4
-    },
-    {
-      "name": "Céline Sciamma",
-      "count": 3
-    },
-    {
-      "name": "Joel Coen",
-      "count": 3
-    },
-    {
-      "name": "Bill Forsyth",
-      "count": 2
-    },
-    {
-      "name": "Federico Fellini",
-      "count": 2
-    },
-    {
-      "name": "George Roy Hill",
-      "count": 2
-    },
-    {
-      "name": "Jean-Pierre Jeunet",
-      "count": 2
-    },
-    {
-      "name": "Jim Jarmusch",
-      "count": 2
-    },
-    {
-      "name": "Martin McDonagh",
-      "count": 2
-    },
-    {
-      "name": "Mike Leigh",
-      "count": 2
-    },
-    {
-      "name": "Paul Thomas Anderson",
-      "count": 2
-    },
-    {
-      "name": "Ridley Scott",
-      "count": 2
-    },
-    {
-      "name": "Sergio Leone",
-      "count": 2
-    }
-  ],
-  "languages": [
-    "en",
-    "it",
-    "fr",
-    "es",
-    "ko",
-    "is",
-    "pl"
-  ],
   "nostaligic": [
     {
       "backdrop_path": "/pO5HrkwArFKtdofntDD2UiGBPB6.jpg",
@@ -23969,6 +23906,86 @@
       ],
       "poster": "posters/portrait-of-a-lady-on-fire.jpg",
       "backdrop": "backdrops/portrait-of-a-lady-on-fire.jpg"
+    }
+  ],
+  "top_cast": [
+    {
+      "name": "Robert Redford",
+      "count": 5
+    },
+    {
+      "name": "Colin Farrell",
+      "count": 3
+    },
+    {
+      "name": "Frances McDormand",
+      "count": 3
+    },
+    {
+      "name": "Matt Damon",
+      "count": 3
+    },
+    {
+      "name": "Robert De Niro",
+      "count": 3
+    },
+    {
+      "name": "Sally Hawkins",
+      "count": 3
+    }
+  ],
+  "top_directors": [
+    {
+      "name": "Wes Anderson",
+      "count": 4
+    },
+    {
+      "name": "Céline Sciamma",
+      "count": 3
+    },
+    {
+      "name": "Joel Coen",
+      "count": 3
+    },
+    {
+      "name": "Bill Forsyth",
+      "count": 2
+    },
+    {
+      "name": "Federico Fellini",
+      "count": 2
+    },
+    {
+      "name": "George Roy Hill",
+      "count": 2
+    },
+    {
+      "name": "Jean-Pierre Jeunet",
+      "count": 2
+    },
+    {
+      "name": "Jim Jarmusch",
+      "count": 2
+    },
+    {
+      "name": "Martin McDonagh",
+      "count": 2
+    },
+    {
+      "name": "Mike Leigh",
+      "count": 2
+    },
+    {
+      "name": "Paul Thomas Anderson",
+      "count": 2
+    },
+    {
+      "name": "Ridley Scott",
+      "count": 2
+    },
+    {
+      "name": "Sergio Leone",
+      "count": 2
     }
   ]
 }

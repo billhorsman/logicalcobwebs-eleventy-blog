@@ -19,6 +19,8 @@ A few films are in here because I watched them a long time ago and they have a n
 
 One film is in here twice: <a href="purple-noon">Purple Noon</a> (aka Plan Soleil) and <a href="the-talented-mr-ripley">The Talented Mr. Ripley</a>. I would have added it again for Steven Zaillian's 2024 TV miniseries <em>Ripley</em> with Andrew Scott but that's not a film.
 
+Actors that crop up a lot are <span class="sentence-list">{% for cast in films.top_cast %}<span>{{ cast.name }}</span>{% endfor %}</span>.
+
 ### Top {{ films.must_see.length }}
 If you only watch {{ films.must_see.length }} films&hellip;
 

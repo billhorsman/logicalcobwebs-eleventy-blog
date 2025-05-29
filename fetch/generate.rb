@@ -85,31 +85,66 @@ if ARGV[0] == "refresh"
     end
   end
 
+  # Nostaligic films
+  nostaligic = list.select { |film| 
+    %w[
+      im-all-right-jack
+      bullitt
+      gregorys-girl
+      three-days-of-the-condor
+    ].include?(film["slug"]) 
+  }
+
+  # Must see films
+  must_see =  list.select { |film| 
+    %w[
+      diva
+      ghost-dog-the-way-of-the-samurai
+      night-on-earth
+      portrait-of-a-lady-on-fire
+      woman-at-war
+    ].include?(film["slug"]) 
+  }
+
+  # Top cast
+  top_cast = list.map { |film| 
+    film["cast"].slice(0, 3).map { |cast| cast[:name] }
+  }.flatten.tally.sort_by { |cast_name, count| 
+    [-count, cast_name.downcase] 
+  }.map { |cast_name, count| 
+    { name: cast_name, count: } 
+  }
+
+  cut_off = 10
+  (1..5).each do |i|
+    if top_cast.length < cut_off
+      break
+    else
+      top_cast = top_cast.select { |cast| cast[:count] > i }
+    end
+  end
+
+  # Top directors
+  top_directors = list.map { |film| 
+    film["director"] 
+  }.tally.select { |director, count| 
+    count > 1 
+  }.sort_by { |director, count| 
+    [-count, director.downcase] 
+  }.map { |director, count| 
+    { name: director, count: count } 
+  }
+  
   # 5. Write the list to global data
   IO.write("../_data/films.json", JSON.pretty_generate(
     list:,
     count: list.length,
     years: list.map { |film| film["year"] }.tally,
     decades: list.map { |film| "#{film["year"][0, 3]}0" }.tally,
-    top_directors: list.map { |film| film["director"] }.tally.select { |director, count| count > 1 }.sort_by { |director, count| [-count, director.downcase] }.map { |director, count| { name: director, count: count } },
-    languages: list.map { |film| film["original_language"] }.uniq,
-    nostaligic: list.select { |film| 
-      %w[
-        im-all-right-jack
-        bullitt
-        gregorys-girl
-        three-days-of-the-condor
-      ].include?(film["slug"]) 
-    },
-    must_see: list.select { |film| 
-      %w[
-        diva
-        ghost-dog-the-way-of-the-samurai
-        night-on-earth
-        portrait-of-a-lady-on-fire
-        woman-at-war
-      ].include?(film["slug"]) 
-    }
+    nostaligic:,
+    must_see:,
+    top_cast:,
+    top_directors:
   ))
 
 else
