@@ -898,14 +898,18 @@ ul {
 .film-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  margin: 4rem 0 1rem;
 
   & img {
-    filter: grayscale(40%);
-    transition: filter 0.1s ease-in-out;
+    filter: grayscale(60%);
+    transition: filter 0.3s ease-in-out;
   }
 
   & a:hover img {
+    border-radius: 5px;
     filter: grayscale(0%);
+    outline: 5px solid var(--color-highlight);
+    z-index: 1;
   }
 }
 
@@ -979,5 +983,22 @@ nav.films {
     font-family: var(--font-family-monospace);
     font-size: 0.8125rem;
     text-align: center;
+  }
+}
+
+.sentence-list {
+  & span {
+    &:before {
+      content: ", ";
+      text-decoration: none;
+    }
+
+    &:first-child:before {
+      content: "";
+    }
+
+    &:last-child:before {
+      content: " and ";
+    }
   }
 }

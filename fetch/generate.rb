@@ -93,6 +93,23 @@ if ARGV[0] == "refresh"
     decades: list.map { |film| "#{film["year"][0, 3]}0" }.tally,
     top_directors: list.map { |film| film["director"] }.tally.select { |director, count| count > 1 }.sort_by { |director, count| [-count, director.downcase] }.map { |director, count| { name: director, count: count } },
     languages: list.map { |film| film["original_language"] }.uniq,
+    nostaligic: list.select { |film| 
+      %w[
+        im-all-right-jack
+        bullitt
+        gregorys-girl
+        three-days-of-the-condor
+      ].include?(film["slug"]) 
+    },
+    must_see: list.select { |film| 
+      %w[
+        diva
+        ghost-dog-the-way-of-the-samurai
+        night-on-earth
+        portrait-of-a-lady-on-fire
+        woman-at-war
+      ].include?(film["slug"]) 
+    }
   ))
 
 else
