@@ -18,14 +18,14 @@ layout: layouts/home.njk
     Cast
   </h2>
   <ul>
-    <li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
+    <li><strong>Carlo Gonella</strong> as <em></em></li>
+<li><strong>Sergio Cauda</strong> as <em></em></li>
+<li><strong>Aurelio Conterno</strong> as <em></em></li>
+<li><strong>Angelo Gagliardi</strong> as <em></em></li>
+<li><strong>Maria Cicciù</strong> as <em></em></li>
+<li><strong>Gianfranco Curti</strong> as <em></em></li>
+<li><strong>Paolo Stacchini</strong> as <em></em></li>
+<li><strong>Piero Botto</strong> as <em></em></li>
+<li><strong>Egidio Gagliardi</strong> as <em></em></li>
   </ul>
 </article>

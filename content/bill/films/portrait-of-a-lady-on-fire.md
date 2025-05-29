@@ -18,13 +18,13 @@ layout: layouts/home.njk
     Cast
   </h2>
   <ul>
-    <li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
-<li><strong></strong> as <em></em></li>
+    <li><strong>Noémie Merlant</strong> as <em>Marianne</em></li>
+<li><strong>Adèle Haenel</strong> as <em>Héloïse</em></li>
+<li><strong>Luàna Bajrami</strong> as <em>Sophie</em></li>
+<li><strong>Valeria Golino</strong> as <em>La Comtesse</em></li>
+<li><strong>Christel Baras</strong> as <em>La faiseuse d'ange</em></li>
+<li><strong>Armande Boulanger</strong> as <em>L'élève atelier</em></li>
+<li><strong>Guy Delamarche</strong> as <em>L'homme salon</em></li>
+<li><strong>Clément Bouyssou</strong> as <em>Le batelier</em></li>
   </ul>
 </article>
