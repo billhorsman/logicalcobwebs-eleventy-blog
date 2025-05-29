@@ -893,3 +893,12 @@ ul {
   height: 1px;
   overflow: hidden;
 }
+
+.film-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+}
+
+.film-list picture {
+  display: flex;
+}
