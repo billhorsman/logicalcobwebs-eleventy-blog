@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>30 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/night-on-earth.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/night-on-earth.jpg" alt="">
+
   <h1>Night on Earth (1991)</h1>
 
   <p class="director">
     Directed by <strong>Jim Jarmusch</strong>
   </p>
 
-  <img src="../films/posters/night-on-earth.jpg" alt="">
 
   <h2>
     Cast

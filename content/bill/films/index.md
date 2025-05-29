@@ -22,7 +22,7 @@ One film is in here twice: <a href="purple-noon">Purple Noon</a> (aka Plan Solei
 ### Top {{ films.must_see.length }}
 If you only watch {{ films.must_see.length }} films&hellip;
 
-<div class="film-short-list">
+<div class="film-list short">
 {% for film in films.must_see %}
 <div><a href="{{ film.slug }}"><img src="{{ film.poster }}" alt="{{ film.title }}"></a></div>
 {% endfor %}

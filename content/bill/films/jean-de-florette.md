@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>27 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/jean-de-florette.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/jean-de-florette.jpg" alt="">
+
   <h1>Jean de Florette (1986)</h1>
 
   <p class="director">
     Directed by <strong>Claude Berri</strong>
   </p>
 
-  <img src="../films/posters/jean-de-florette.jpg" alt="">
 
   <h2>
     Cast

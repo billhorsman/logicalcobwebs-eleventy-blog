@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>37 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/good-will-hunting.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/good-will-hunting.jpg" alt="">
+
   <h1>Good Will Hunting (1997)</h1>
 
   <p class="director">
     Directed by <strong>Gus Van Sant</strong>
   </p>
 
-  <img src="../films/posters/good-will-hunting.jpg" alt="">
 
   <h2>
     Cast

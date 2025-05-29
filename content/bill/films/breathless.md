@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>8 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/breathless.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/breathless.jpg" alt="">
+
   <h1>Breathless (1960)</h1>
 
   <p class="director">
     Directed by <strong>Jean-Luc Godard</strong>
   </p>
 
-  <img src="../films/posters/breathless.jpg" alt="">
 
   <h2>
     Cast

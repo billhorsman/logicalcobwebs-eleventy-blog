@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>71 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/sink-or-swim.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/sink-or-swim.jpg" alt="">
+
   <h1>Sink or Swim (2018)</h1>
 
   <p class="director">
     Directed by <strong>Gilles Lellouche</strong>
   </p>
 
-  <img src="../films/posters/sink-or-swim.jpg" alt="">
 
   <h2>
     Cast

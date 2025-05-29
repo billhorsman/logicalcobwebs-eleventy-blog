@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>17 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/three-days-of-the-condor.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/three-days-of-the-condor.jpg" alt="">
+
   <h1>Three Days of the Condor (1975)</h1>
 
   <p class="director">
     Directed by <strong>Sydney Pollack</strong>
   </p>
 
-  <img src="../films/posters/three-days-of-the-condor.jpg" alt="">
 
   <h2>
     Cast

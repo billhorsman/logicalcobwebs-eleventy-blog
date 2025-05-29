@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>24 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/local-hero.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/local-hero.jpg" alt="">
+
   <h1>Local Hero (1983)</h1>
 
   <p class="director">
     Directed by <strong>Bill Forsyth</strong>
   </p>
 
-  <img src="../films/posters/local-hero.jpg" alt="">
 
   <h2>
     Cast

@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>13 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/butch-cassidy-and-the-sundance-kid.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/butch-cassidy-and-the-sundance-kid.jpg" alt="">
+
   <h1>Butch Cassidy and the Sundance Kid (1969)</h1>
 
   <p class="director">
     Directed by <strong>George Roy Hill</strong>
   </p>
 
-  <img src="../films/posters/butch-cassidy-and-the-sundance-kid.jpg" alt="">
 
   <h2>
     Cast

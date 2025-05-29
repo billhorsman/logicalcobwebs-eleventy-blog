@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>75 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/schemers.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/schemers.jpg" alt="">
+
   <h1>Schemers (2020)</h1>
 
   <p class="director">
     Directed by <strong>Dave Mclean</strong>
   </p>
 
-  <img src="../films/posters/schemers.jpg" alt="">
 
   <h2>
     Cast

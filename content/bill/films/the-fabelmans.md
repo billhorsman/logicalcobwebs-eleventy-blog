@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>94 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-fabelmans.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-fabelmans.jpg" alt="">
+
   <h1>The Fabelmans (2022)</h1>
 
   <p class="director">
     Directed by <strong>Steven Spielberg</strong>
   </p>
 
-  <img src="../films/posters/the-fabelmans.jpg" alt="">
 
   <h2>
     Cast

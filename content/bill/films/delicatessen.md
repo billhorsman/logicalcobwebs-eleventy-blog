@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>29 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/delicatessen.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/delicatessen.jpg" alt="">
+
   <h1>Delicatessen (1991)</h1>
 
   <p class="director">
     Directed by <strong>Jean-Pierre Jeunet, Marc Caro</strong>
   </p>
 
-  <img src="../films/posters/delicatessen.jpg" alt="">
 
   <h2>
     Cast

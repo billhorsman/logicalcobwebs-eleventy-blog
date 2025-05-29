@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>69 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/cest-la-vie.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/cest-la-vie.jpg" alt="">
+
   <h1>C'est la vie! (2017)</h1>
 
   <p class="director">
     Directed by <strong>Éric Toledano, Olivier Nakache</strong>
   </p>
 
-  <img src="../films/posters/cest-la-vie.jpg" alt="">
 
   <h2>
     Cast

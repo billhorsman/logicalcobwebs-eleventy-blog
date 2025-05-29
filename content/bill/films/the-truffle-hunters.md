@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>78 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-truffle-hunters.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-truffle-hunters.jpg" alt="">
+
   <h1>The Truffle Hunters (2020)</h1>
 
   <p class="director">
     Directed by <strong>Michael Dweck, Gregory Kershaw</strong>
   </p>
 
-  <img src="../films/posters/the-truffle-hunters.jpg" alt="">
 
   <h2>
     Cast

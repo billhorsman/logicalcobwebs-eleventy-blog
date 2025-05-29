@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>7 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/purple-noon.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/purple-noon.jpg" alt="">
+
   <h1>Purple Noon (1960)</h1>
 
   <p class="director">
     Directed by <strong>René Clément</strong>
   </p>
 
-  <img src="../films/posters/purple-noon.jpg" alt="">
 
   <h2>
     Cast

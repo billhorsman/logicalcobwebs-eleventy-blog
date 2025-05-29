@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>35 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/lon-the-professional.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/lon-the-professional.jpg" alt="">
+
   <h1>Léon: The Professional (1994)</h1>
 
   <p class="director">
     Directed by <strong>Luc Besson</strong>
   </p>
 
-  <img src="../films/posters/lon-the-professional.jpg" alt="">
 
   <h2>
     Cast

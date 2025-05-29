@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>79 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/nomadland.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/nomadland.jpg" alt="">
+
   <h1>Nomadland (2021)</h1>
 
   <p class="director">
     Directed by <strong>Chloé Zhao</strong>
   </p>
 
-  <img src="../films/posters/nomadland.jpg" alt="">
 
   <h2>
     Cast

@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>4 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/north-by-northwest.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/north-by-northwest.jpg" alt="">
+
   <h1>North by Northwest (1959)</h1>
 
   <p class="director">
     Directed by <strong>Alfred Hitchcock</strong>
   </p>
 
-  <img src="../films/posters/north-by-northwest.jpg" alt="">
 
   <h2>
     Cast

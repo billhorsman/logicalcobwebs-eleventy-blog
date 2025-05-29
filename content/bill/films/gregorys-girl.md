@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>23 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/gregorys-girl.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/gregorys-girl.jpg" alt="">
+
   <h1>Gregory's Girl (1981)</h1>
 
   <p class="director">
     Directed by <strong>Bill Forsyth</strong>
   </p>
 
-  <img src="../films/posters/gregorys-girl.jpg" alt="">
 
   <h2>
     Cast

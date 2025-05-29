@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>33 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/four-weddings-and-a-funeral.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/four-weddings-and-a-funeral.jpg" alt="">
+
   <h1>Four Weddings and a Funeral (1994)</h1>
 
   <p class="director">
     Directed by <strong>Mike Newell</strong>
   </p>
 
-  <img src="../films/posters/four-weddings-and-a-funeral.jpg" alt="">
 
   <h2>
     Cast

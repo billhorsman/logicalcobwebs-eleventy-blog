@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>98 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/scrapper.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/scrapper.jpg" alt="">
+
   <h1>Scrapper (2023)</h1>
 
   <p class="director">
     Directed by <strong>Charlotte Regan</strong>
   </p>
 
-  <img src="../films/posters/scrapper.jpg" alt="">
 
   <h2>
     Cast

@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>61 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/dallas-buyers-club.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/dallas-buyers-club.jpg" alt="">
+
   <h1>Dallas Buyers Club (2013)</h1>
 
   <p class="director">
     Directed by <strong>Jean-Marc Vallée</strong>
   </p>
 
-  <img src="../films/posters/dallas-buyers-club.jpg" alt="">
 
   <h2>
     Cast

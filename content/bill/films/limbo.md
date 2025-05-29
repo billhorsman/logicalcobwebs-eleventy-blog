@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>77 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/limbo.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/limbo.jpg" alt="">
+
   <h1>Limbo (2020)</h1>
 
   <p class="director">
     Directed by <strong>Ben Sharrock</strong>
   </p>
 
-  <img src="../films/posters/limbo.jpg" alt="">
 
   <h2>
     Cast

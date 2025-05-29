@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>9 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/barefoot-in-the-park.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/barefoot-in-the-park.jpg" alt="">
+
   <h1>Barefoot in the Park (1967)</h1>
 
   <p class="director">
     Directed by <strong>Gene Saks</strong>
   </p>
 
-  <img src="../films/posters/barefoot-in-the-park.jpg" alt="">
 
   <h2>
     Cast

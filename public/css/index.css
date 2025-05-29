@@ -917,15 +917,23 @@ ul {
   display: flex;
 }
 
-.film-short-list {
+.film-list.short {
   display: flex;
   margin: 1rem 0;
 }
 
 article.film {
-  img {
+  margin: 3rem auto 0;
+  position: relative;
+
+  & img.poster {
     margin: 0 auto;
-    max-width: 200px;
+    max-width: 100px;
+    filter: grayscale(100%) ;
+    position: absolute;
+      top: -2rem;
+      left: -1rem;
+    transform: rotate(-10deg);
   }
 
   & .director {
@@ -1006,4 +1014,8 @@ nav.films {
       content: " and ";
     }
   }
+}
+
+.film-backdrop {
+  margin: 0 -5rem;
 }

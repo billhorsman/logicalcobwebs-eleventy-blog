@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>73 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/portrait-of-a-lady-on-fire.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/portrait-of-a-lady-on-fire.jpg" alt="">
+
   <h1>Portrait of a Lady on Fire (2019)</h1>
 
   <p class="director">
     Directed by <strong>Céline Sciamma</strong>
   </p>
 
-  <img src="../films/posters/portrait-of-a-lady-on-fire.jpg" alt="">
 
   <h2>
     Cast

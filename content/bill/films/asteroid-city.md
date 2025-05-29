@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>97 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/asteroid-city.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/asteroid-city.jpg" alt="">
+
   <h1>Asteroid City (2023)</h1>
 
   <p class="director">
     Directed by <strong>Wes Anderson</strong>
   </p>
 
-  <img src="../films/posters/asteroid-city.jpg" alt="">
 
   <h2>
     Cast

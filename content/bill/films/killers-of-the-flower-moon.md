@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>99 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/killers-of-the-flower-moon.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/killers-of-the-flower-moon.jpg" alt="">
+
   <h1>Killers of the Flower Moon (2023)</h1>
 
   <p class="director">
     Directed by <strong>Martin Scorsese</strong>
   </p>
 
-  <img src="../films/posters/killers-of-the-flower-moon.jpg" alt="">
 
   <h2>
     Cast

@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>91 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/eo.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/eo.jpg" alt="">
+
   <h1>EO (2022)</h1>
 
   <p class="director">
     Directed by <strong>Jerzy Skolimowski</strong>
   </p>
 
-  <img src="../films/posters/eo.jpg" alt="">
 
   <h2>
     Cast

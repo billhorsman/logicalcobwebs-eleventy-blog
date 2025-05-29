@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>88 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/licorice-pizza.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/licorice-pizza.jpg" alt="">
+
   <h1>Licorice Pizza (2021)</h1>
 
   <p class="director">
     Directed by <strong>Paul Thomas Anderson</strong>
   </p>
 
-  <img src="../films/posters/licorice-pizza.jpg" alt="">
 
   <h2>
     Cast

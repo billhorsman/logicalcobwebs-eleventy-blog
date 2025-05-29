@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>59 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/tomboy.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/tomboy.jpg" alt="">
+
   <h1>Tomboy (2011)</h1>
 
   <p class="director">
     Directed by <strong>Céline Sciamma</strong>
   </p>
 
-  <img src="../films/posters/tomboy.jpg" alt="">
 
   <h2>
     Cast

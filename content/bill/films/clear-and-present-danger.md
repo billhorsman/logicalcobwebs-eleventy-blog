@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>34 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/clear-and-present-danger.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/clear-and-present-danger.jpg" alt="">
+
   <h1>Clear and Present Danger (1994)</h1>
 
   <p class="director">
     Directed by <strong>Phillip Noyce</strong>
   </p>
 
-  <img src="../films/posters/clear-and-present-danger.jpg" alt="">
 
   <h2>
     Cast

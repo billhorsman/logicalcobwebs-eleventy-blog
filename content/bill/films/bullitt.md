@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>11 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/bullitt.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/bullitt.jpg" alt="">
+
   <h1>Bullitt (1968)</h1>
 
   <p class="director">
     Directed by <strong>Peter Yates</strong>
   </p>
 
-  <img src="../films/posters/bullitt.jpg" alt="">
 
   <h2>
     Cast

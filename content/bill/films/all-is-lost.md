@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>60 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/all-is-lost.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/all-is-lost.jpg" alt="">
+
   <h1>All Is Lost (2013)</h1>
 
   <p class="director">
     Directed by <strong>J.C. Chandor</strong>
   </p>
 
-  <img src="../films/posters/all-is-lost.jpg" alt="">
 
   <h2>
     Cast

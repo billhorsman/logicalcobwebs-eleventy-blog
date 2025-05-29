@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>22 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/diva.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/diva.jpg" alt="">
+
   <h1>Diva (1981)</h1>
 
   <p class="director">
     Directed by <strong>Jean-Jacques Beineix</strong>
   </p>
 
-  <img src="../films/posters/diva.jpg" alt="">
 
   <h2>
     Cast

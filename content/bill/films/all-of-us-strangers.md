@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>100 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/all-of-us-strangers.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/all-of-us-strangers.jpg" alt="">
+
   <h1>All of Us Strangers (2023)</h1>
 
   <p class="director">
     Directed by <strong>Andrew Haigh</strong>
   </p>
 
-  <img src="../films/posters/all-of-us-strangers.jpg" alt="">
 
   <h2>
     Cast

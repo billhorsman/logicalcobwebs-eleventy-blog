@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>21 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/being-there.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/being-there.jpg" alt="">
+
   <h1>Being There (1979)</h1>
 
   <p class="director">
     Directed by <strong>Hal Ashby</strong>
   </p>
 
-  <img src="../films/posters/being-there.jpg" alt="">
 
   <h2>
     Cast

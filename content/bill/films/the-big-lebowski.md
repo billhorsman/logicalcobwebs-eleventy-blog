@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>38 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-big-lebowski.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-big-lebowski.jpg" alt="">
+
   <h1>The Big Lebowski (1998)</h1>
 
   <p class="director">
     Directed by <strong>Joel Coen</strong>
   </p>
 
-  <img src="../films/posters/the-big-lebowski.jpg" alt="">
 
   <h2>
     Cast

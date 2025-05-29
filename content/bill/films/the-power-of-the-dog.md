@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>85 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-power-of-the-dog.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-power-of-the-dog.jpg" alt="">
+
   <h1>The Power of the Dog (2021)</h1>
 
   <p class="director">
     Directed by <strong>Jane Campion</strong>
   </p>
 
-  <img src="../films/posters/the-power-of-the-dog.jpg" alt="">
 
   <h2>
     Cast

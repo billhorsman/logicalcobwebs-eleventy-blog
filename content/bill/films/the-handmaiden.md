@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>65 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-handmaiden.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-handmaiden.jpg" alt="">
+
   <h1>The Handmaiden (2016)</h1>
 
   <p class="director">
     Directed by <strong>Park Chan-wook</strong>
   </p>
 
-  <img src="../films/posters/the-handmaiden.jpg" alt="">
 
   <h2>
     Cast

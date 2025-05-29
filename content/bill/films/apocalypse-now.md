@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>20 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/apocalypse-now.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/apocalypse-now.jpg" alt="">
+
   <h1>Apocalypse Now (1979)</h1>
 
   <p class="director">
     Directed by <strong>Francis Ford Coppola</strong>
   </p>
 
-  <img src="../films/posters/apocalypse-now.jpg" alt="">
 
   <h2>
     Cast

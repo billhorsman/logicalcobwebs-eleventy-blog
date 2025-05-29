@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>36 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/fargo.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/fargo.jpg" alt="">
+
   <h1>Fargo (1996)</h1>
 
   <p class="director">
     Directed by <strong>Joel Coen</strong>
   </p>
 
-  <img src="../films/posters/fargo.jpg" alt="">
 
   <h2>
     Cast

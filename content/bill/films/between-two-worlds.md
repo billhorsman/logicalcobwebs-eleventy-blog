@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>90 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/between-two-worlds.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/between-two-worlds.jpg" alt="">
+
   <h1>Between Two Worlds (2022)</h1>
 
   <p class="director">
     Directed by <strong>Emmanuel Carrère</strong>
   </p>
 
-  <img src="../films/posters/between-two-worlds.jpg" alt="">
 
   <h2>
     Cast

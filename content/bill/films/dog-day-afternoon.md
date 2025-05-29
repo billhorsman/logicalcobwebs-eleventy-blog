@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>16 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/dog-day-afternoon.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/dog-day-afternoon.jpg" alt="">
+
   <h1>Dog Day Afternoon (1975)</h1>
 
   <p class="director">
     Directed by <strong>Sidney Lumet</strong>
   </p>
 
-  <img src="../films/posters/dog-day-afternoon.jpg" alt="">
 
   <h2>
     Cast

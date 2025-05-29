@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>42 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/magnolia.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/magnolia.jpg" alt="">
+
   <h1>Magnolia (1999)</h1>
 
   <p class="director">
     Directed by <strong>Paul Thomas Anderson</strong>
   </p>
 
-  <img src="../films/posters/magnolia.jpg" alt="">
 
   <h2>
     Cast

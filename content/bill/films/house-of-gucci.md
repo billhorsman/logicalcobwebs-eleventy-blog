@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>87 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/house-of-gucci.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/house-of-gucci.jpg" alt="">
+
   <h1>House of Gucci (2021)</h1>
 
   <p class="director">
     Directed by <strong>Ridley Scott</strong>
   </p>
 
-  <img src="../films/posters/house-of-gucci.jpg" alt="">
 
   <h2>
     Cast

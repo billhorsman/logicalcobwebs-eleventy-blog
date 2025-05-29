@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>64 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/interstellar.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/interstellar.jpg" alt="">
+
   <h1>Interstellar (2014)</h1>
 
   <p class="director">
     Directed by <strong>Christopher Nolan</strong>
   </p>
 
-  <img src="../films/posters/interstellar.jpg" alt="">
 
   <h2>
     Cast

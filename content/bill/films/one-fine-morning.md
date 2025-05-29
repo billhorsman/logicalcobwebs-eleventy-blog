@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>92 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/one-fine-morning.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/one-fine-morning.jpg" alt="">
+
   <h1>One Fine Morning (2022)</h1>
 
   <p class="director">
     Directed by <strong>Mia Hansen-Løve</strong>
   </p>
 
-  <img src="../films/posters/one-fine-morning.jpg" alt="">
 
   <h2>
     Cast

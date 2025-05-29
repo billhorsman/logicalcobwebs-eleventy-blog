@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>46 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/black-hawk-down.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/black-hawk-down.jpg" alt="">
+
   <h1>Black Hawk Down (2001)</h1>
 
   <p class="director">
     Directed by <strong>Ridley Scott</strong>
   </p>
 
-  <img src="../films/posters/black-hawk-down.jpg" alt="">
 
   <h2>
     Cast

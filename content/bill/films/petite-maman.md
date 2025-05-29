@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>80 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/petite-maman.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/petite-maman.jpg" alt="">
+
   <h1>Petite Maman (2021)</h1>
 
   <p class="director">
     Directed by <strong>Céline Sciamma</strong>
   </p>
 
-  <img src="../films/posters/petite-maman.jpg" alt="">
 
   <h2>
     Cast

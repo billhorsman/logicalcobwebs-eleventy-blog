@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>67 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-party.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-party.jpg" alt="">
+
   <h1>The Party (2017)</h1>
 
   <p class="director">
     Directed by <strong>Sally Potter</strong>
   </p>
 
-  <img src="../films/posters/the-party.jpg" alt="">
 
   <h2>
     Cast

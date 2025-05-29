@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>31 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-fugitive.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-fugitive.jpg" alt="">
+
   <h1>The Fugitive (1993)</h1>
 
   <p class="director">
     Directed by <strong>Andrew Davis</strong>
   </p>
 
-  <img src="../films/posters/the-fugitive.jpg" alt="">
 
   <h2>
     Cast

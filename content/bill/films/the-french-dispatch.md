@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>84 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-french-dispatch.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-french-dispatch.jpg" alt="">
+
   <h1>The French Dispatch (2021)</h1>
 
   <p class="director">
     Directed by <strong>Wes Anderson</strong>
   </p>
 
-  <img src="../films/posters/the-french-dispatch.jpg" alt="">
 
   <h2>
     Cast

@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>83 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/sweetheart.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/sweetheart.jpg" alt="">
+
   <h1>Sweetheart (2021)</h1>
 
   <p class="director">
     Directed by <strong>Marley Morrison</strong>
   </p>
 
-  <img src="../films/posters/sweetheart.jpg" alt="">
 
   <h2>
     Cast

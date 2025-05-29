@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>2 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/whisky-galore.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/whisky-galore.jpg" alt="">
+
   <h1>Whisky Galore! (1949)</h1>
 
   <p class="director">
     Directed by <strong>Alexander Mackendrick</strong>
   </p>
 
-  <img src="../films/posters/whisky-galore.jpg" alt="">
 
   <h2>
     Cast

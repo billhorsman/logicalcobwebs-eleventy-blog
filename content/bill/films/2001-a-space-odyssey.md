@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>10 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/2001-a-space-odyssey.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/2001-a-space-odyssey.jpg" alt="">
+
   <h1>2001: A Space Odyssey (1968)</h1>
 
   <p class="director">
     Directed by <strong>Stanley Kubrick</strong>
   </p>
 
-  <img src="../films/posters/2001-a-space-odyssey.jpg" alt="">
 
   <h2>
     Cast

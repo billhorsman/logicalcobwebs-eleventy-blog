@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>70 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/woman-at-war.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/woman-at-war.jpg" alt="">
+
   <h1>Woman at War (2018)</h1>
 
   <p class="director">
     Directed by <strong>Benedikt Erlingsson</strong>
   </p>
 
-  <img src="../films/posters/woman-at-war.jpg" alt="">
 
   <h2>
     Cast

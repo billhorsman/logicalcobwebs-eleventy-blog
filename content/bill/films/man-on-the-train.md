@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>49 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/man-on-the-train.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/man-on-the-train.jpg" alt="">
+
   <h1>Man on the Train (2002)</h1>
 
   <p class="director">
     Directed by <strong>Patrice Leconte</strong>
   </p>
 
-  <img src="../films/posters/man-on-the-train.jpg" alt="">
 
   <h2>
     Cast

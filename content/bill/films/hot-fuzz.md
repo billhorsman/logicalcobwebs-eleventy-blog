@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>52 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/hot-fuzz.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/hot-fuzz.jpg" alt="">
+
   <h1>Hot Fuzz (2007)</h1>
 
   <p class="director">
     Directed by <strong>Edgar Wright</strong>
   </p>
 
-  <img src="../films/posters/hot-fuzz.jpg" alt="">
 
   <h2>
     Cast

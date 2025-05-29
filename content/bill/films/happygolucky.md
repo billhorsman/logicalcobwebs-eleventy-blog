@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>55 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/happygolucky.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/happygolucky.jpg" alt="">
+
   <h1>Happy-Go-Lucky (2008)</h1>
 
   <p class="director">
     Directed by <strong>Mike Leigh</strong>
   </p>
 
-  <img src="../films/posters/happygolucky.jpg" alt="">
 
   <h2>
     Cast

@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>62 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-grand-budapest-hotel.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-grand-budapest-hotel.jpg" alt="">
+
   <h1>The Grand Budapest Hotel (2014)</h1>
 
   <p class="director">
     Directed by <strong>Wes Anderson</strong>
   </p>
 
-  <img src="../films/posters/the-grand-budapest-hotel.jpg" alt="">
 
   <h2>
     Cast

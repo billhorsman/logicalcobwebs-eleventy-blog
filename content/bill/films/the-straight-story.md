@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>41 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-straight-story.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-straight-story.jpg" alt="">
+
   <h1>The Straight Story (1999)</h1>
 
   <p class="director">
     Directed by <strong>David Lynch</strong>
   </p>
 
-  <img src="../films/posters/the-straight-story.jpg" alt="">
 
   <h2>
     Cast

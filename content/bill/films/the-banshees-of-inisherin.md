@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>93 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-banshees-of-inisherin.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-banshees-of-inisherin.jpg" alt="">
+
   <h1>The Banshees of Inisherin (2022)</h1>
 
   <p class="director">
     Directed by <strong>Martin McDonagh</strong>
   </p>
 
-  <img src="../films/posters/the-banshees-of-inisherin.jpg" alt="">
 
   <h2>
     Cast

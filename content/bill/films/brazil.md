@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>26 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/brazil.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/brazil.jpg" alt="">
+
   <h1>Brazil (1985)</h1>
 
   <p class="director">
     Directed by <strong>Terry Gilliam</strong>
   </p>
 
-  <img src="../films/posters/brazil.jpg" alt="">
 
   <h2>
     Cast

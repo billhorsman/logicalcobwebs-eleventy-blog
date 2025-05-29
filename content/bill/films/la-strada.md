@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>3 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/la-strada.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/la-strada.jpg" alt="">
+
   <h1>La Strada (1954)</h1>
 
   <p class="director">
     Directed by <strong>Federico Fellini</strong>
   </p>
 
-  <img src="../films/posters/la-strada.jpg" alt="">
 
   <h2>
     Cast

@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>25 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/paris-texas.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/paris-texas.jpg" alt="">
+
   <h1>Paris, Texas (1984)</h1>
 
   <p class="director">
     Directed by <strong>Wim Wenders</strong>
   </p>
 
-  <img src="../films/posters/paris-texas.jpg" alt="">
 
   <h2>
     Cast

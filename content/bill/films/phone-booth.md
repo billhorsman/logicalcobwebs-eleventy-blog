@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>50 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/phone-booth.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/phone-booth.jpg" alt="">
+
   <h1>Phone Booth (2003)</h1>
 
   <p class="director">
     Directed by <strong>Joel Schumacher</strong>
   </p>
 
-  <img src="../films/posters/phone-booth.jpg" alt="">
 
   <h2>
     Cast

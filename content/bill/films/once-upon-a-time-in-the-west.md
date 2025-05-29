@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>12 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/once-upon-a-time-in-the-west.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/once-upon-a-time-in-the-west.jpg" alt="">
+
   <h1>Once Upon a Time in the West (1968)</h1>
 
   <p class="director">
     Directed by <strong>Sergio Leone</strong>
   </p>
 
-  <img src="../films/posters/once-upon-a-time-in-the-west.jpg" alt="">
 
   <h2>
     Cast

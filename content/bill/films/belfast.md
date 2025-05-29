@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>86 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/belfast.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/belfast.jpg" alt="">
+
   <h1>Belfast (2021)</h1>
 
   <p class="director">
     Directed by <strong>Kenneth Branagh</strong>
   </p>
 
-  <img src="../films/posters/belfast.jpg" alt="">
 
   <h2>
     Cast

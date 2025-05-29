@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>68 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/lucky.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/lucky.jpg" alt="">
+
   <h1>Lucky (2017)</h1>
 
   <p class="director">
     Directed by <strong>John Carroll Lynch</strong>
   </p>
 
-  <img src="../films/posters/lucky.jpg" alt="">
 
   <h2>
     Cast

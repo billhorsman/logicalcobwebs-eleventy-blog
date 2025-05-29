@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>96 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/blue-jean.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/blue-jean.jpg" alt="">
+
   <h1>Blue Jean (2023)</h1>
 
   <p class="director">
     Directed by <strong>Georgia Oakley</strong>
   </p>
 
-  <img src="../films/posters/blue-jean.jpg" alt="">
 
   <h2>
     Cast

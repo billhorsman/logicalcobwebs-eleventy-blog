@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>28 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/withnail--i.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/withnail--i.jpg" alt="">
+
   <h1>Withnail & I (1987)</h1>
 
   <p class="director">
     Directed by <strong>Bruce Robinson</strong>
   </p>
 
-  <img src="../films/posters/withnail--i.jpg" alt="">
 
   <h2>
     Cast

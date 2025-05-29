@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>58 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/micmacs.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/micmacs.jpg" alt="">
+
   <h1>Micmacs (2009)</h1>
 
   <p class="director">
     Directed by <strong>Jean-Pierre Jeunet</strong>
   </p>
 
-  <img src="../films/posters/micmacs.jpg" alt="">
 
   <h2>
     Cast

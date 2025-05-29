@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>39 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/ghost-dog-the-way-of-the-samurai.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/ghost-dog-the-way-of-the-samurai.jpg" alt="">
+
   <h1>Ghost Dog: The Way of the Samurai (1999)</h1>
 
   <p class="director">
     Directed by <strong>Jim Jarmusch</strong>
   </p>
 
-  <img src="../films/posters/ghost-dog-the-way-of-the-samurai.jpg" alt="">
 
   <h2>
     Cast

@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>63 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/mr-turner.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/mr-turner.jpg" alt="">
+
   <h1>Mr. Turner (2014)</h1>
 
   <p class="director">
     Directed by <strong>Mike Leigh</strong>
   </p>
 
-  <img src="../films/posters/mr-turner.jpg" alt="">
 
   <h2>
     Cast

@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>43 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-talented-mr-ripley.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-talented-mr-ripley.jpg" alt="">
+
   <h1>The Talented Mr. Ripley (1999)</h1>
 
   <p class="director">
     Directed by <strong>Anthony Minghella</strong>
   </p>
 
-  <img src="../films/posters/the-talented-mr-ripley.jpg" alt="">
 
   <h2>
     Cast

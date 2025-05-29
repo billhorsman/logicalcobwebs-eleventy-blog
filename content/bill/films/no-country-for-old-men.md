@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>53 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/no-country-for-old-men.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/no-country-for-old-men.jpg" alt="">
+
   <h1>No Country for Old Men (2007)</h1>
 
   <p class="director">
     Directed by <strong>Joel Coen, Ethan Coen</strong>
   </p>
 
-  <img src="../films/posters/no-country-for-old-men.jpg" alt="">
 
   <h2>
     Cast

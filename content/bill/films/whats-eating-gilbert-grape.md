@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>32 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/whats-eating-gilbert-grape.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/whats-eating-gilbert-grape.jpg" alt="">
+
   <h1>What's Eating Gilbert Grape (1993)</h1>
 
   <p class="director">
     Directed by <strong>Lasse Hallström</strong>
   </p>
 
-  <img src="../films/posters/whats-eating-gilbert-grape.jpg" alt="">
 
   <h2>
     Cast

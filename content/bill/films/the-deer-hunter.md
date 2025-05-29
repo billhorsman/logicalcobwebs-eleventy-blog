@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>19 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/the-deer-hunter.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/the-deer-hunter.jpg" alt="">
+
   <h1>The Deer Hunter (1978)</h1>
 
   <p class="director">
     Directed by <strong>Michael Cimino</strong>
   </p>
 
-  <img src="../films/posters/the-deer-hunter.jpg" alt="">
 
   <h2>
     Cast

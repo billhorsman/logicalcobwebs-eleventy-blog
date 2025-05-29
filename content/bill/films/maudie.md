@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>66 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/maudie.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/maudie.jpg" alt="">
+
   <h1>Maudie (2016)</h1>
 
   <p class="director">
     Directed by <strong>Aisling Walsh</strong>
   </p>
 
-  <img src="../films/posters/maudie.jpg" alt="">
 
   <h2>
     Cast

@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>1 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/its-a-wonderful-life.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/its-a-wonderful-life.jpg" alt="">
+
   <h1>It's a Wonderful Life (1946)</h1>
 
   <p class="director">
     Directed by <strong>Frank Capra</strong>
   </p>
 
-  <img src="../films/posters/its-a-wonderful-life.jpg" alt="">
 
   <h2>
     Cast

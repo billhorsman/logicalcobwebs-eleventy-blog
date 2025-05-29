@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>76 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/eternal-beauty.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/eternal-beauty.jpg" alt="">
+
   <h1>Eternal Beauty (2020)</h1>
 
   <p class="director">
     Directed by <strong>Craig Roberts</strong>
   </p>
 
-  <img src="../films/posters/eternal-beauty.jpg" alt="">
 
   <h2>
     Cast

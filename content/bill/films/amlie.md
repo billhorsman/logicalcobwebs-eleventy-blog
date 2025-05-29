@@ -12,13 +12,15 @@ layout: layouts/home.njk
 <p>45 / 100</p>
 
 <article class="film">
+  <img class="poster" src="../films/posters/amlie.jpg" alt="">
+  <img class="backdrop" src="../films/backdrops/amlie.jpg" alt="">
+
   <h1>Amélie (2001)</h1>
 
   <p class="director">
     Directed by <strong>Jean-Pierre Jeunet</strong>
   </p>
 
-  <img src="../films/posters/amlie.jpg" alt="">
 
   <h2>
     Cast
