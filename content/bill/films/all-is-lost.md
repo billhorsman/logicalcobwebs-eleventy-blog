@@ -18,6 +18,6 @@ layout: layouts/home.njk
     Cast
   </h2>
   <ul>
-    <li><strong>Robert Redford</strong> as <em>Our Man</em></li>
+    <li><strong></strong> as <em></em></li>
   </ul>
 </article>

@@ -18,22 +18,22 @@ layout: layouts/home.njk
     Cast
   </h2>
   <ul>
-    <li><strong>Harry Dean Stanton</strong> as <em>Travis</em></li>
-<li><strong>Nastassja Kinski</strong> as <em>Jane</em></li>
-<li><strong>Dean Stockwell</strong> as <em>Walt</em></li>
-<li><strong>Hunter Carson</strong> as <em>Hunter</em></li>
-<li><strong>Aurore Clément</strong> as <em>Anne</em></li>
-<li><strong>Bernhard Wicki</strong> as <em>Doctor Ulmer</em></li>
-<li><strong>Sam Berry</strong> as <em>Gas Station Attendant</em></li>
-<li><strong>Claresie Mobley</strong> as <em>Car Rental Clerk</em></li>
-<li><strong>Viva</strong> as <em>Woman on TV</em></li>
-<li><strong>Socorro Valdez</strong> as <em>Carmelita</em></li>
-<li><strong>Edward Fayton</strong> as <em>Hunter's Friend</em></li>
-<li><strong>Justin Hogg</strong> as <em>Hunter (Age 3)</em></li>
-<li><strong>Tom Farrell</strong> as <em>Screaming Man</em></li>
-<li><strong>John Lurie</strong> as <em>'Slater'</em></li>
-<li><strong>Jeni Vici</strong> as <em>'Stretch'</em></li>
-<li><strong>Sally Norvell</strong> as <em>'Nurse Bibs'</em></li>
-<li><strong>Sharon Menzel</strong> as <em>Comedienne</em></li>
+    <li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
   </ul>
 </article>

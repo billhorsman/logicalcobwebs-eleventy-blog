@@ -18,27 +18,27 @@ layout: layouts/home.njk
     Cast
   </h2>
   <ul>
-    <li><strong>Basil Radford</strong> as <em>Captain Paul Waggett</em></li>
-<li><strong>Bruce Seton</strong> as <em>Sergeant Odd</em></li>
-<li><strong>Gordon Jackson</strong> as <em>George Campbell</em></li>
-<li><strong>Wylie Watson</strong> as <em>Joseph Macroon</em></li>
-<li><strong>Morland Graham</strong> as <em>The Biffer</em></li>
-<li><strong>John Gregson</strong> as <em>Sammy MacCodrun</em></li>
-<li><strong>Joan Greenwood</strong> as <em>Peggy Macroon</em></li>
-<li><strong>Gabrielle Blunt</strong> as <em>Catriona Macroon</em></li>
-<li><strong>Catherine Lacey</strong> as <em>Mrs. Waggett</em></li>
-<li><strong>Jean Cadell</strong> as <em>Mrs. Campbell</em></li>
-<li><strong>James Robertson Justice</strong> as <em>Dr. Maclaren</em></li>
-<li><strong>James Woodburn</strong> as <em>Roderick MacRurie</em></li>
-<li><strong>Jame Anderson</strong> as <em>Old Hector</em></li>
-<li><strong>Jameson Clark</strong> as <em>Constable Macrae</em></li>
-<li><strong>Duncan Macrae</strong> as <em>Angus MacCormac</em></li>
-<li><strong>Mary MacNeil</strong> as <em>Mrs. MacCormac</em></li>
-<li><strong>Norman MacOwan</strong> as <em>Captain MacPhee</em></li>
-<li><strong>Alastair Hunter</strong> as <em>Captain MacKechnie</em></li>
-<li><strong>Henry Mollison</strong> as <em>Mr. Farquharson</em></li>
-<li><strong>Frank Webster</strong> as <em>First Mate</em></li>
-<li><strong>Compton MacKenzie</strong> as <em>Captain Buncher</em></li>
-<li><strong>James Anderson</strong> as <em>Old Hector</em></li>
+    <li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
+<li><strong></strong> as <em></em></li>
   </ul>
 </article>

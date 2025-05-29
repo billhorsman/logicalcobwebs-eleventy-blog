@@ -21,6 +21,7 @@
       "vote_average": 8.278,
       "vote_count": 4503,
       "slug": "its-a-wonderful-life",
+      "year": "1946",
       "director": "Frank Capra",
       "cast": [
         {
@@ -515,6 +516,7 @@
       "vote_average": 6.843,
       "vote_count": 134,
       "slug": "whisky-galore",
+      "year": "1949",
       "director": "Alexander Mackendrick",
       "cast": [
         {
@@ -628,6 +630,7 @@
       "vote_average": 7.903,
       "vote_count": 1090,
       "slug": "la-strada",
+      "year": "1954",
       "director": "Federico Fellini",
       "cast": [
         {
@@ -714,6 +717,7 @@
       "vote_average": 7.981,
       "vote_count": 4216,
       "slug": "north-by-northwest",
+      "year": "1959",
       "director": "Alfred Hitchcock",
       "cast": [
         {
@@ -1119,6 +1123,7 @@
       "vote_average": 6.7,
       "vote_count": 73,
       "slug": "im-all-right-jack",
+      "year": "1959",
       "director": "John Boulting",
       "cast": [
         {
@@ -1581,6 +1586,7 @@
       "vote_average": 8.1,
       "vote_count": 1918,
       "slug": "la-dolce-vita",
+      "year": "1960",
       "director": "Federico Fellini",
       "cast": [
         {
@@ -2304,6 +2310,7 @@
       "vote_average": 7.6,
       "vote_count": 546,
       "slug": "purple-noon",
+      "year": "1960",
       "director": "René Clément",
       "cast": [
         {
@@ -2410,6 +2417,7 @@
       "vote_average": 7.5,
       "vote_count": 1871,
       "slug": "breathless",
+      "year": "1960",
       "director": "Jean-Luc Godard",
       "cast": [
         {
@@ -2560,6 +2568,7 @@
       "vote_average": 7.118,
       "vote_count": 574,
       "slug": "barefoot-in-the-park",
+      "year": "1967",
       "director": "Gene Saks",
       "cast": [
         {
@@ -2643,6 +2652,7 @@
       "vote_average": 8.1,
       "vote_count": 11847,
       "slug": "2001-a-space-odyssey",
+      "year": "1968",
       "director": "Stanley Kubrick",
       "cast": [
         {
@@ -2920,6 +2930,7 @@
       "vote_average": 7.1,
       "vote_count": 1189,
       "slug": "bullitt",
+      "year": "1968",
       "director": "Peter Yates",
       "cast": [
         {
@@ -3026,6 +3037,7 @@
       "vote_average": 8.282,
       "vote_count": 4535,
       "slug": "once-upon-a-time-in-the-west",
+      "year": "1968",
       "director": "Sergio Leone",
       "cast": [
         {
@@ -3195,6 +3207,7 @@
       "vote_average": 7.603,
       "vote_count": 2274,
       "slug": "butch-cassidy-and-the-sundance-kid",
+      "year": "1969",
       "director": "George Roy Hill",
       "cast": [
         {
@@ -3312,6 +3325,7 @@
       "vote_average": 7.698,
       "vote_count": 1102,
       "slug": "duck-you-sucker",
+      "year": "1971",
       "director": "Sergio Leone",
       "cast": [
         {
@@ -3515,6 +3529,7 @@
       "vote_average": 8.026,
       "vote_count": 2704,
       "slug": "the-sting",
+      "year": "1973",
       "director": "George Roy Hill",
       "cast": [
         {
@@ -3710,6 +3725,7 @@
       "vote_average": 7.844,
       "vote_count": 3081,
       "slug": "dog-day-afternoon",
+      "year": "1975",
       "director": "Sidney Lumet",
       "cast": [
         {
@@ -3894,8 +3910,9 @@
       "release_date": "1975-09-24",
       "video": false,
       "vote_average": 7.279,
-      "vote_count": 1205,
+      "vote_count": 1206,
       "slug": "three-days-of-the-condor",
+      "year": "1975",
       "director": "Sydney Pollack",
       "cast": [
         {
@@ -4122,6 +4139,7 @@
       "vote_average": 6.5,
       "vote_count": 546,
       "slug": "the-man-who-fell-to-earth",
+      "year": "1976",
       "director": "Nicolas Roeg",
       "cast": [
         {
@@ -4216,6 +4234,7 @@
       "vote_average": 7.992,
       "vote_count": 3937,
       "slug": "the-deer-hunter",
+      "year": "1978",
       "director": "Michael Cimino",
       "cast": [
         {
@@ -4450,6 +4469,7 @@
       "vote_average": 8.271,
       "vote_count": 8502,
       "slug": "apocalypse-now",
+      "year": "1979",
       "director": "Francis Ford Coppola",
       "cast": [
         {
@@ -4628,6 +4648,7 @@
       "vote_average": 7.6,
       "vote_count": 1021,
       "slug": "being-there",
+      "year": "1979",
       "director": "Hal Ashby",
       "cast": [
         {
@@ -4743,6 +4764,7 @@
       "vote_average": 6.713,
       "vote_count": 240,
       "slug": "diva",
+      "year": "1981",
       "director": "Jean-Jacques Beineix",
       "cast": [
         {
@@ -4837,6 +4859,7 @@
       "vote_average": 6.806,
       "vote_count": 139,
       "slug": "gregorys-girl",
+      "year": "1981",
       "director": "Bill Forsyth",
       "cast": [
         {
@@ -4967,6 +4990,7 @@
       "vote_average": 6.731,
       "vote_count": 362,
       "slug": "local-hero",
+      "year": "1983",
       "director": "Bill Forsyth",
       "cast": [
         {
@@ -5172,6 +5196,7 @@
       "vote_average": 8.092,
       "vote_count": 1973,
       "slug": "paris-texas",
+      "year": "1984",
       "director": "Wim Wenders",
       "cast": [
         {
@@ -5266,6 +5291,7 @@
       "vote_average": 7.665,
       "vote_count": 3413,
       "slug": "brazil",
+      "year": "1985",
       "director": "Terry Gilliam",
       "cast": [
         {
@@ -5459,6 +5485,7 @@
       "vote_average": 7.7,
       "vote_count": 578,
       "slug": "jean-de-florette",
+      "year": "1986",
       "director": "Claude Berri",
       "cast": [
         {
@@ -5573,6 +5600,7 @@
       "vote_average": 7.3,
       "vote_count": 573,
       "slug": "withnail--i",
+      "year": "1987",
       "director": "Bruce Robinson",
       "cast": [
         {
@@ -5656,6 +5684,7 @@
       "vote_average": 7.3,
       "vote_count": 1503,
       "slug": "delicatessen",
+      "year": "1991",
       "director": "Jean-Pierre Jeunet, Marc Caro",
       "cast": [
         {
@@ -5794,6 +5823,7 @@
       "vote_average": 7.518,
       "vote_count": 950,
       "slug": "night-on-earth",
+      "year": "1991",
       "director": "Jim Jarmusch",
       "cast": [
         {
@@ -5941,6 +5971,7 @@
       "vote_average": 7.467,
       "vote_count": 4410,
       "slug": "the-fugitive",
+      "year": "1993",
       "director": "Andrew Davis",
       "cast": [
         {
@@ -6375,6 +6406,7 @@
       "vote_average": 7.663,
       "vote_count": 4046,
       "slug": "whats-eating-gilbert-grape",
+      "year": "1993",
       "director": "Lasse Hallström",
       "cast": [
         {
@@ -6522,6 +6554,7 @@
       "vote_average": 6.769,
       "vote_count": 2785,
       "slug": "four-weddings-and-a-funeral",
+      "year": "1994",
       "director": "Mike Newell",
       "cast": [
         {
@@ -6745,6 +6778,7 @@
       "vote_average": 6.658,
       "vote_count": 1555,
       "slug": "clear-and-present-danger",
+      "year": "1994",
       "director": "Phillip Noyce",
       "cast": [
         {
@@ -7120,6 +7154,7 @@
       "vote_average": 8.301,
       "vote_count": 15215,
       "slug": "lon-the-professional",
+      "year": "1994",
       "director": "Luc Besson",
       "cast": [
         {
@@ -7367,6 +7402,7 @@
       "vote_average": 7.854,
       "vote_count": 8401,
       "slug": "fargo",
+      "year": "1996",
       "director": "Joel Coen",
       "cast": [
         {
@@ -7552,6 +7588,7 @@
       "vote_average": 8.157,
       "vote_count": 12819,
       "slug": "good-will-hunting",
+      "year": "1997",
       "director": "Gus Van Sant",
       "cast": [
         {
@@ -7774,6 +7811,7 @@
       "vote_average": 7.837,
       "vote_count": 11511,
       "slug": "the-big-lebowski",
+      "year": "1998",
       "director": "Joel Coen",
       "cast": [
         {
@@ -7972,6 +8010,7 @@
       "vote_average": 7.324,
       "vote_count": 1267,
       "slug": "ghost-dog-the-way-of-the-samurai",
+      "year": "1999",
       "director": "Jim Jarmusch",
       "cast": [
         {
@@ -8193,6 +8232,7 @@
       "vote_average": 8.438,
       "vote_count": 30304,
       "slug": "fight-club",
+      "year": "1999",
       "director": "David Fincher",
       "cast": [
         {
@@ -8518,6 +8558,7 @@
       "vote_average": 7.7,
       "vote_count": 1635,
       "slug": "the-straight-story",
+      "year": "1999",
       "director": "David Lynch",
       "cast": [
         {
@@ -8687,6 +8728,7 @@
       "vote_average": 7.7,
       "vote_count": 3671,
       "slug": "magnolia",
+      "year": "1999",
       "director": "Paul Thomas Anderson",
       "cast": [
         {
@@ -9166,6 +9208,7 @@
       "vote_average": 7.2,
       "vote_count": 3866,
       "slug": "the-talented-mr-ripley",
+      "year": "1999",
       "director": "Anthony Minghella",
       "cast": [
         {
@@ -9449,6 +9492,7 @@
       "vote_average": 7.593,
       "vote_count": 3907,
       "slug": "billy-elliot",
+      "year": "2000",
       "director": "Stephen Daldry",
       "cast": [
         {
@@ -9647,6 +9691,7 @@
       "vote_average": 7.913,
       "vote_count": 11790,
       "slug": "amlie",
+      "year": "2001",
       "director": "Jean-Pierre Jeunet",
       "cast": [
         {
@@ -9970,6 +10015,7 @@
       "vote_average": 7.387,
       "vote_count": 5932,
       "slug": "black-hawk-down",
+      "year": "2001",
       "director": "Ridley Scott",
       "cast": [
         {
@@ -10221,6 +10267,7 @@
       "vote_average": 6.954,
       "vote_count": 468,
       "slug": "24-hour-party-people",
+      "year": "2002",
       "director": "Michael Winterbottom",
       "cast": [
         {
@@ -10473,6 +10520,7 @@
       "vote_average": 7.5,
       "vote_count": 9499,
       "slug": "the-bourne-identity",
+      "year": "2002",
       "director": "Doug Liman",
       "cast": [
         {
@@ -10703,6 +10751,7 @@
       "vote_average": 6.718,
       "vote_count": 101,
       "slug": "man-on-the-train",
+      "year": "2002",
       "director": "Patrice Leconte",
       "cast": [
         {
@@ -10797,6 +10846,7 @@
       "vote_average": 6.849,
       "vote_count": 3847,
       "slug": "phone-booth",
+      "year": "2003",
       "director": "Joel Schumacher",
       "cast": [
         {
@@ -11050,6 +11100,7 @@
       "vote_average": 7.426,
       "vote_count": 1324,
       "slug": "the-motorcycle-diaries",
+      "year": "2004",
       "director": "Walter Salles",
       "cast": [
         {
@@ -11169,6 +11220,7 @@
       "vote_average": 7.6,
       "vote_count": 7784,
       "slug": "hot-fuzz",
+      "year": "2007",
       "director": "Edgar Wright",
       "cast": [
         {
@@ -11416,6 +11468,7 @@
       "vote_average": 7.947,
       "vote_count": 12391,
       "slug": "no-country-for-old-men",
+      "year": "2007",
       "director": "Joel Coen, Ethan Coen",
       "cast": [
         {
@@ -11651,6 +11704,7 @@
       "vote_average": 7.49,
       "vote_count": 5339,
       "slug": "in-bruges",
+      "year": "2008",
       "director": "Martin McDonagh",
       "cast": [
         {
@@ -11789,6 +11843,7 @@
       "vote_average": 6.597,
       "vote_count": 467,
       "slug": "happygolucky",
+      "year": "2008",
       "director": "Mike Leigh",
       "cast": [
         {
@@ -11910,6 +11965,7 @@
       "vote_average": 7.451,
       "vote_count": 9745,
       "slug": "district-9",
+      "year": "2009",
       "director": "Neill Blomkamp",
       "cast": [
         {
@@ -12322,6 +12378,7 @@
       "vote_average": 7.806,
       "vote_count": 5633,
       "slug": "fantastic-mr-fox",
+      "year": "2009",
       "director": "Wes Anderson",
       "cast": [
         {
@@ -12469,6 +12526,7 @@
       "vote_average": 6.616,
       "vote_count": 610,
       "slug": "micmacs",
+      "year": "2009",
       "director": "Jean-Pierre Jeunet",
       "cast": [
         {
@@ -12554,6 +12612,7 @@
       "vote_average": 7.3,
       "vote_count": 704,
       "slug": "tomboy",
+      "year": "2011",
       "director": "Céline Sciamma",
       "cast": [
         {
@@ -12625,6 +12684,7 @@
       "vote_average": 6.642,
       "vote_count": 1637,
       "slug": "all-is-lost",
+      "year": "2013",
       "director": "J.C. Chandor",
       "cast": [
         {
@@ -12655,6 +12715,7 @@
       "vote_average": 7.92,
       "vote_count": 8641,
       "slug": "dallas-buyers-club",
+      "year": "2013",
       "director": "Jean-Marc Vallée",
       "cast": [
         {
@@ -12849,6 +12910,7 @@
       "vote_average": 8.0,
       "vote_count": 15194,
       "slug": "the-grand-budapest-hotel",
+      "year": "2014",
       "director": "Wes Anderson",
       "cast": [
         {
@@ -13267,6 +13329,7 @@
       "vote_average": 6.5,
       "vote_count": 528,
       "slug": "mr-turner",
+      "year": "2014",
       "director": "Mike Leigh",
       "cast": [
         {
@@ -13586,6 +13649,7 @@
       "vote_average": 8.455,
       "vote_count": 37192,
       "slug": "interstellar",
+      "year": "2014",
       "director": "Christopher Nolan",
       "cast": [
         {
@@ -13749,6 +13813,7 @@
       "vote_average": 8.203,
       "vote_count": 3934,
       "slug": "the-handmaiden",
+      "year": "2016",
       "director": "Park Chan-wook",
       "cast": [
         {
@@ -13999,6 +14064,7 @@
       "vote_average": 7.699,
       "vote_count": 517,
       "slug": "maudie",
+      "year": "2016",
       "director": "Aisling Walsh",
       "cast": [
         {
@@ -14093,6 +14159,7 @@
       "vote_average": 6.354,
       "vote_count": 555,
       "slug": "the-party",
+      "year": "2017",
       "director": "Sally Potter",
       "cast": [
         {
@@ -14146,6 +14213,7 @@
       "vote_average": 7.319,
       "vote_count": 591,
       "slug": "lucky",
+      "year": "2017",
       "director": "John Carroll Lynch",
       "cast": [
         {
@@ -14279,6 +14347,7 @@
       "vote_average": 7.023,
       "vote_count": 1496,
       "slug": "cest-la-vie",
+      "year": "2017",
       "director": "Éric Toledano, Olivier Nakache",
       "cast": [
         {
@@ -14394,6 +14463,7 @@
       "vote_average": 7.223,
       "vote_count": 411,
       "slug": "woman-at-war",
+      "year": "2018",
       "director": "Benedikt Erlingsson",
       "cast": [
         {
@@ -14568,6 +14638,7 @@
       "vote_average": 6.928,
       "vote_count": 1520,
       "slug": "sink-or-swim",
+      "year": "2018",
       "director": "Gilles Lellouche",
       "cast": [
         {
@@ -14819,6 +14890,7 @@
       "vote_average": 8.5,
       "vote_count": 19079,
       "slug": "parasite",
+      "year": "2019",
       "director": "Bong Joon Ho",
       "cast": [
         {
@@ -15046,6 +15118,7 @@
       "vote_average": 8.1,
       "vote_count": 2686,
       "slug": "portrait-of-a-lady-on-fire",
+      "year": "2019",
       "director": "Céline Sciamma",
       "cast": [
         {
@@ -15104,6 +15177,7 @@
       "vote_average": 7.1,
       "vote_count": 486,
       "slug": "first-cow",
+      "year": "2020",
       "director": "Kelly Reichardt",
       "cast": [
         {
@@ -15252,6 +15326,7 @@
       "vote_average": 5.7,
       "vote_count": 14,
       "slug": "schemers",
+      "year": "2020",
       "director": "Dave Mclean",
       "cast": [
         {
@@ -15350,6 +15425,7 @@
       "vote_average": 6.141,
       "vote_count": 71,
       "slug": "eternal-beauty",
+      "year": "2020",
       "director": "Craig Roberts",
       "cast": [
         {
@@ -15452,6 +15528,7 @@
       "vote_average": 6.9,
       "vote_count": 109,
       "slug": "limbo",
+      "year": "2020",
       "director": "Ben Sharrock",
       "cast": [
         {
@@ -15545,6 +15622,7 @@
       "vote_average": 7.711,
       "vote_count": 38,
       "slug": "the-truffle-hunters",
+      "year": "2020",
       "director": "Michael Dweck, Gregory Kershaw",
       "cast": [
         {
@@ -15606,6 +15684,7 @@
       "vote_average": 7.189,
       "vote_count": 3099,
       "slug": "nomadland",
+      "year": "2021",
       "director": "Chloé Zhao",
       "cast": [
         {
@@ -15825,6 +15904,7 @@
       "vote_average": 7.135,
       "vote_count": 404,
       "slug": "petite-maman",
+      "year": "2021",
       "director": "Céline Sciamma",
       "cast": [
         {
@@ -15884,6 +15964,7 @@
       "vote_average": 7.916,
       "vote_count": 2342,
       "slug": "coda",
+      "year": "2021",
       "director": "Siân Heder",
       "cast": [
         {
@@ -16106,6 +16187,7 @@
       "vote_average": 7.782,
       "vote_count": 13569,
       "slug": "dune",
+      "year": "2021",
       "director": "Denis Villeneuve",
       "cast": [
         {
@@ -16325,6 +16407,7 @@
       "vote_average": 6.3,
       "vote_count": 30,
       "slug": "sweetheart",
+      "year": "2021",
       "director": "Marley Morrison",
       "cast": [
         {
@@ -16395,6 +16478,7 @@
       "vote_average": 7.0,
       "vote_count": 2707,
       "slug": "the-french-dispatch",
+      "year": "2021",
       "director": "Wes Anderson",
       "cast": [
         {
@@ -17745,6 +17829,7 @@
       "vote_average": 6.763,
       "vote_count": 2749,
       "slug": "the-power-of-the-dog",
+      "year": "2021",
       "director": "Jane Campion",
       "cast": [
         {
@@ -17939,6 +18024,7 @@
       "vote_average": 7.068,
       "vote_count": 1549,
       "slug": "belfast",
+      "year": "2021",
       "director": "Kenneth Branagh",
       "cast": [
         {
@@ -18150,6 +18236,7 @@
       "vote_average": 6.6,
       "vote_count": 3210,
       "slug": "house-of-gucci",
+      "year": "2021",
       "director": "Ridley Scott",
       "cast": [
         {
@@ -18489,6 +18576,7 @@
       "vote_average": 6.962,
       "vote_count": 2367,
       "slug": "licorice-pizza",
+      "year": "2021",
       "director": "Paul Thomas Anderson",
       "cast": [
         {
@@ -19303,6 +19391,7 @@
       "vote_average": 6.9,
       "vote_count": 794,
       "slug": "the-tragedy-of-macbeth",
+      "year": "2021",
       "director": "Joel Coen",
       "cast": [
         {
@@ -19472,6 +19561,7 @@
       "vote_average": 6.9,
       "vote_count": 156,
       "slug": "between-two-worlds",
+      "year": "2022",
       "director": "Emmanuel Carrère",
       "cast": [
         {
@@ -19610,6 +19700,7 @@
       "vote_average": 6.527,
       "vote_count": 351,
       "slug": "eo",
+      "year": "2022",
       "director": "Jerzy Skolimowski",
       "cast": [
         {
@@ -19732,6 +19823,7 @@
       "vote_average": 6.5,
       "vote_count": 142,
       "slug": "one-fine-morning",
+      "year": "2022",
       "director": "Mia Hansen-Løve",
       "cast": [
         {
@@ -19874,6 +19966,7 @@
       "vote_average": 7.453,
       "vote_count": 2950,
       "slug": "the-banshees-of-inisherin",
+      "year": "2022",
       "director": "Martin McDonagh",
       "cast": [
         {
@@ -19971,6 +20064,7 @@
       "vote_average": 7.601,
       "vote_count": 2483,
       "slug": "the-fabelmans",
+      "year": "2022",
       "director": "Steven Spielberg",
       "cast": [
         {
@@ -20329,6 +20423,7 @@
       "vote_average": 6.642,
       "vote_count": 572,
       "slug": "empire-of-light",
+      "year": "2022",
       "director": "Sam Mendes",
       "cast": [
         {
@@ -20494,6 +20589,7 @@
       "vote_average": 6.869,
       "vote_count": 103,
       "slug": "blue-jean",
+      "year": "2023",
       "director": "Georgia Oakley",
       "cast": [
         {
@@ -20652,6 +20748,7 @@
       "vote_average": 6.454,
       "vote_count": 2108,
       "slug": "asteroid-city",
+      "year": "2023",
       "director": "Wes Anderson",
       "cast": [
         {
@@ -21306,6 +21403,7 @@
       "vote_average": 6.708,
       "vote_count": 144,
       "slug": "scrapper",
+      "year": "2023",
       "director": "Charlotte Regan",
       "cast": [
         {
@@ -21437,6 +21535,7 @@
       "vote_average": 7.427,
       "vote_count": 3622,
       "slug": "killers-of-the-flower-moon",
+      "year": "2023",
       "director": "Martin Scorsese",
       "cast": [
         {
@@ -22304,6 +22403,7 @@
       "vote_average": 7.4,
       "vote_count": 846,
       "slug": "all-of-us-strangers",
+      "year": "2023",
       "director": "Andrew Haigh",
       "cast": [
         {
@@ -22334,5 +22434,554 @@
       "poster": "posters/all-of-us-strangers.jpg",
       "backdrop": "backdrops/all-of-us-strangers.jpg"
     }
-  ]
+  ],
+  "count": 100,
+  "earliest": {
+    "backdrop_path": "/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
+    "id": 1585,
+    "title": "It's a Wonderful Life",
+    "original_title": "It's a Wonderful Life",
+    "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+    "poster_path": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      10751,
+      14
+    ],
+    "popularity": 6.9345,
+    "release_date": "1946-12-20",
+    "video": false,
+    "vote_average": 8.278,
+    "vote_count": 4503,
+    "slug": "its-a-wonderful-life",
+    "year": "1946",
+    "director": "Frank Capra",
+    "cast": [
+      {
+        "name": "James Stewart",
+        "character": "George Bailey"
+      },
+      {
+        "name": "Donna Reed",
+        "character": "Mary Hatch"
+      },
+      {
+        "name": "Lionel Barrymore",
+        "character": "Mr. Potter"
+      },
+      {
+        "name": "Thomas Mitchell",
+        "character": "Uncle Billy"
+      },
+      {
+        "name": "Henry Travers",
+        "character": "Clarence"
+      },
+      {
+        "name": "Beulah Bondi",
+        "character": "Mrs. Bailey"
+      },
+      {
+        "name": "Frank Faylen",
+        "character": "Ernie"
+      },
+      {
+        "name": "Ward Bond",
+        "character": "Bert"
+      },
+      {
+        "name": "Gloria Grahame",
+        "character": "Violet"
+      },
+      {
+        "name": "H.B. Warner",
+        "character": "Mr. Gower"
+      },
+      {
+        "name": "Frank Albertson",
+        "character": "Sam Wainwright"
+      },
+      {
+        "name": "Todd Karns",
+        "character": "Harry Bailey"
+      },
+      {
+        "name": "Samuel S. Hinds",
+        "character": "Pa Bailey"
+      },
+      {
+        "name": "Mary Treen",
+        "character": "Cousin Tilly"
+      },
+      {
+        "name": "Virginia Patton",
+        "character": "Ruth Dakin"
+      },
+      {
+        "name": "Charles Williams",
+        "character": "Cousin Eustace"
+      },
+      {
+        "name": "Sarah Edwards",
+        "character": "Mrs. Hatch"
+      },
+      {
+        "name": "William Edmunds",
+        "character": "Mr. Martini"
+      },
+      {
+        "name": "Lillian Randolph",
+        "character": "Annie"
+      },
+      {
+        "name": "Argentina Brunetti",
+        "character": "Mrs. Martini"
+      },
+      {
+        "name": "Robert J. Anderson",
+        "character": "Little George"
+      },
+      {
+        "name": "Ronnie Ralph",
+        "character": "Little Sam"
+      },
+      {
+        "name": "Jeanne Gail",
+        "character": "Little Mary"
+      },
+      {
+        "name": "Jeanine Ann Roose",
+        "character": "Little Violet"
+      },
+      {
+        "name": "Danny Mummert",
+        "character": "Little Marty Hatch"
+      },
+      {
+        "name": "Georgie Nokes",
+        "character": "Little Harry Bailey"
+      },
+      {
+        "name": "Sheldon Leonard",
+        "character": "Nick"
+      },
+      {
+        "name": "Frank Hagney",
+        "character": "Potter's Bodyguard"
+      },
+      {
+        "name": "Ray Walker",
+        "character": "Joe (Luggage Shop)"
+      },
+      {
+        "name": "Charles Lane",
+        "character": "Real Estate Salesman"
+      },
+      {
+        "name": "Edward Keane",
+        "character": "Tom (Bldg. & Loan)"
+      },
+      {
+        "name": "Carol Coombs",
+        "character": "The Bailey Child - Janie"
+      },
+      {
+        "name": "Karolyn Grimes",
+        "character": "The Bailey Child - Zuzu"
+      },
+      {
+        "name": "Larry Simms",
+        "character": "The Bailey Child - Pete"
+      },
+      {
+        "name": "Jimmy Hawkins",
+        "character": "The Bailey Child - Tommy"
+      },
+      {
+        "name": "Jean Acker",
+        "character": "Townswoman (uncredited)"
+      },
+      {
+        "name": "Ernie Adams",
+        "character": "Ed (uncredited)"
+      },
+      {
+        "name": "Monya Andre",
+        "character": "Elderly Woman (uncredited)"
+      },
+      {
+        "name": "Stanley Andrews",
+        "character": "Mr. Welch (uncredited)"
+      },
+      {
+        "name": "Sam Ash",
+        "character": "Nervous Banker (uncredited)"
+      },
+      {
+        "name": "Jack Bailey",
+        "character": "One of Vi's Suitors (uncredited)"
+      },
+      {
+        "name": "Louise Bates",
+        "character": "Building & Loan Depositor (uncredited)"
+      },
+      {
+        "name": "Mary Bayless",
+        "character": "Townswoman (uncredited)"
+      },
+      {
+        "name": "Beth Belden",
+        "character": "Young Girl (uncredited)"
+      },
+      {
+        "name": "Brooks Benedict",
+        "character": "Military Officer in Montage (uncredited)"
+      },
+      {
+        "name": "Joseph E. Bernard",
+        "character": "Townsman (uncredited)"
+      },
+      {
+        "name": "Al Bridge",
+        "character": "Sheriff (uncredited)"
+      },
+      {
+        "name": "Buz Buckley",
+        "character": "Young Boy (uncredited)"
+      },
+      {
+        "name": "Marian Carr",
+        "character": "Jane Wainwright (uncredited)"
+      },
+      {
+        "name": "Adriana Caselotti",
+        "character": "Singer at Martini's (uncredited)"
+      },
+      {
+        "name": "Lane Chandler",
+        "character": "Policeman (uncredited)"
+      },
+      {
+        "name": "Michael Chapin",
+        "character": "Young George's Friend (uncredited)"
+      },
+      {
+        "name": "Tom Chatterton",
+        "character": "Townsman (uncredited)"
+      },
+      {
+        "name": "Jack Cheatham",
+        "character": "Cop Arresting Violet (uncredited)"
+      },
+      {
+        "name": "Harry Cheshire",
+        "character": "Dr. Campbell (uncredited)"
+      },
+      {
+        "name": "Edward Clark",
+        "character": "Building & Loan Board Member (uncredited)"
+      },
+      {
+        "name": "Tom Coleman",
+        "character": "Building & Loan Customer (uncredited)"
+      },
+      {
+        "name": "Ellen Corby",
+        "character": "Ms. Davis (uncredited)"
+      },
+      {
+        "name": "Bryn Davis",
+        "character": "Elderly Woman (uncredited)"
+      },
+      {
+        "name": "Lew Davis",
+        "character": "High School Teacher at Poolside (uncredited)"
+      },
+      {
+        "name": "Harry Denny",
+        "character": "(uncredited)"
+      },
+      {
+        "name": "Helen Dickson",
+        "character": "Woman at Graduation Dance (uncredited)"
+      },
+      {
+        "name": "Dick Elliott",
+        "character": "Man on Porch (uncredited)"
+      },
+      {
+        "name": "Tom Fadden",
+        "character": "Tollhouse Keeper (uncredited)"
+      },
+      {
+        "name": "Frank Fenton",
+        "character": "Violet's Boyfriend (uncredited)"
+      },
+      {
+        "name": "Eddie Fetherston",
+        "character": "Horace (uncredited)"
+      },
+      {
+        "name": "Sam Flint",
+        "character": "Relieved Banker in Potter's Office (uncredited)"
+      },
+      {
+        "name": "Lee Frederick",
+        "character": "(uncredited)"
+      },
+      {
+        "name": "Dick Gordon",
+        "character": "Photographer with Sheriff (uncredited)"
+      },
+      {
+        "name": "Jack Gordon",
+        "character": "Bar Patron (uncredited)"
+      },
+      {
+        "name": "Herschel Graham",
+        "character": "Townsman (uncredited)"
+      },
+      {
+        "name": "Joseph Granby",
+        "character": "Elderly Man (voice) (uncredited)"
+      },
+      {
+        "name": "Charles Halton",
+        "character": "Carter (uncredited)"
+      },
+      {
+        "name": "Carl Eric Hansen",
+        "character": "(uncredited)"
+      },
+      {
+        "name": "Herbert Heywood",
+        "character": "Building & Loan Depositor (uncredited)"
+      },
+      {
+        "name": "Harry Holman",
+        "character": "Mr. Partridge (uncredited)"
+      },
+      {
+        "name": "Art Howard",
+        "character": "Building & Loan Board Member (uncredited)"
+      },
+      {
+        "name": "Bert Howard",
+        "character": "Building & Loan Board Member (uncredited)"
+      },
+      {
+        "name": "Arthur Stuart Hull",
+        "character": "Mr. Randall (uncredited)"
+      },
+      {
+        "name": "John Indrisano",
+        "character": "Man in Fantasy (uncredited)"
+      },
+      {
+        "name": "Eddie Kane",
+        "character": "Building & Loan Depositor (uncredited)"
+      },
+      {
+        "name": "Carl Kent",
+        "character": "Townsman (uncredited)"
+      },
+      {
+        "name": "Milton Kibbee",
+        "character": "Building & Loan Board Member (uncredited)"
+      },
+      {
+        "name": "Effie Laird",
+        "character": "Townswoman (uncredited)"
+      },
+      {
+        "name": "Mike Lally",
+        "character": "Building & Loan Customer (uncredited)"
+      },
+      {
+        "name": "Harold Landon",
+        "character": "Marty Hatch (uncredited)"
+      },
+      {
+        "name": "Meade 'Lux' Lewis",
+        "character": "Pianist in Nick's Place (uncredited)"
+      },
+      {
+        "name": "Jack Lomas",
+        "character": "Bar Patron (uncredited)"
+      },
+      {
+        "name": "J. Farrell MacDonald",
+        "character": "Man Whose Grandfather Planted Tree (uncredited)"
+      },
+      {
+        "name": "Irene Mack",
+        "character": "Townswoman (uncredited)"
+      },
+      {
+        "name": "Wilbur Mack",
+        "character": "Building & Loan Customer (uncredited)"
+      },
+      {
+        "name": "Charles Meakin",
+        "character": "Elderly Man (uncredited)"
+      },
+      {
+        "name": "Priscilla Montgomery",
+        "character": "Student in Gym (uncredited)"
+      },
+      {
+        "name": "Bert Moorhouse",
+        "character": "Man with Sheriff (uncredited)"
+      },
+      {
+        "name": "Evelyn Moriarty",
+        "character": "Bar Patron (uncredited)"
+      },
+      {
+        "name": "Philip Morris",
+        "character": "Building & Loan Customer (uncredited)"
+      },
+      {
+        "name": "George Noisom",
+        "character": "School Dancer (uncredited)"
+      },
+      {
+        "name": "Bob O'Connor",
+        "character": "Bar Patron (uncredited)"
+      },
+      {
+        "name": "Frank O'Connor",
+        "character": "Military Officer in Montage (uncredited)"
+      },
+      {
+        "name": "Lynn O'Leary-Jameson",
+        "character": "Infant Janie Bailey (uncredited)"
+      },
+      {
+        "name": "Moroni Olsen",
+        "character": "Senior Angel (voice) (uncredited)"
+      },
+      {
+        "name": "Garry Owen",
+        "character": "Bill-Poster (uncredited)"
+      },
+      {
+        "name": "Netta Packer",
+        "character": "Elderly Woman (uncredited)"
+      },
+      {
+        "name": "Franklin Parker",
+        "character": "Photographer / Reporter (uncredited)"
+      },
+      {
+        "name": "Suzanne Ridgway",
+        "character": "Nick's Waitress (uncredited)"
+      },
+      {
+        "name": "Mark Roberts",
+        "character": "Mickey (uncredited)"
+      },
+      {
+        "name": "Constantine Romanoff",
+        "character": "Bar Patron (uncredited)"
+      },
+      {
+        "name": "Cy Schindell",
+        "character": "Nick's Bouncer (uncredited)"
+      },
+      {
+        "name": "Almira Sessions",
+        "character": "Potter's Secretary (uncredited)"
+      },
+      {
+        "name": "Cedric Stevens",
+        "character": "Townsman (uncredited)"
+      },
+      {
+        "name": "Brick Sullivan",
+        "character": "Man in Fantasy (uncredited)"
+      },
+      {
+        "name": "Charles Sullivan",
+        "character": "Nick's Bartender (uncredited)"
+      },
+      {
+        "name": "Carl Switzer",
+        "character": "Freddie Othello (uncredited)"
+      },
+      {
+        "name": "Max Wagner",
+        "character": "Cashier / Nick's Assistant Bouncer (uncredited)"
+      },
+      {
+        "name": "Larry Wheat",
+        "character": "Building & Loan Board Member (uncredited)"
+      },
+      {
+        "name": "Charles C. Wilson",
+        "character": "Charlie (uncredited)"
+      },
+      {
+        "name": "Finn Zirzow",
+        "character": "Bar Patron (uncredited)"
+      }
+    ],
+    "poster": "posters/its-a-wonderful-life.jpg",
+    "backdrop": "backdrops/its-a-wonderful-life.jpg"
+  },
+  "latest": {
+    "backdrop_path": "/8yjHiSuSEhzR916LcIecuQ8tETG.jpg",
+    "id": 994108,
+    "title": "All of Us Strangers",
+    "original_title": "All of Us Strangers",
+    "overview": "One night in his near-empty tower block in contemporary London, Adam has a chance encounter with a mysterious neighbor Harry, which punctures the rhythm of his everyday life.",
+    "poster_path": "/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      10749,
+      18,
+      14
+    ],
+    "popularity": 5.0488,
+    "release_date": "2023-12-22",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 846,
+    "slug": "all-of-us-strangers",
+    "year": "2023",
+    "director": "Andrew Haigh",
+    "cast": [
+      {
+        "name": "Andrew Scott",
+        "character": "Adam"
+      },
+      {
+        "name": "Paul Mescal",
+        "character": "Harry"
+      },
+      {
+        "name": "Carter John Grout",
+        "character": "Young Adam"
+      },
+      {
+        "name": "Jamie Bell",
+        "character": "Dad"
+      },
+      {
+        "name": "Claire Foy",
+        "character": "Mum"
+      },
+      {
+        "name": "Ami Tredrea",
+        "character": "Waitress"
+      }
+    ],
+    "poster": "posters/all-of-us-strangers.jpg",
+    "backdrop": "backdrops/all-of-us-strangers.jpg"
+  }
 }

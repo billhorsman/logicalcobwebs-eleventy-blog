@@ -46,7 +46,12 @@ if ARGV[0] == "refresh"
     film["slug"] = film["title"].downcase.gsub(/[^a-z0-9 ]+/, "").gsub(" ", "-")
   end
 
-  # 3.5. Get the major credits for each film
+  # 3.1 Generate the year for each item
+  list.each do |film|
+    film["year"] = film["release_date"].split("-").first
+  end
+
+  # 3.2. Get the major credits for each film
   list.each do |film|
     filename = "tmp/#{film["slug"]}-credits.json"
     if !File.exist?(filename)
@@ -81,7 +86,10 @@ if ARGV[0] == "refresh"
   end
 
   # 5. Write the list to global data
-  IO.write("../_data/films.json", JSON.pretty_generate(list:))
+  IO.write("../_data/films.json", JSON.pretty_generate(
+    list:,
+    count: list.length
+  ))
 
 else
   list = JSON.parse(File.read("../_data/films.json"))["list"]
@@ -100,7 +108,7 @@ list.each do |film|
     <a href="../">Back to all films</a>
     
     <article class="film">
-      <h1>#{film["title"]} (#{film["release_date"].split("-").first})</h1>
+      <h1>#{film["title"]} (#{film["year"]})</h1>
 
       <p class="director">
         Directed by <strong>#{film["director"]}</strong>
