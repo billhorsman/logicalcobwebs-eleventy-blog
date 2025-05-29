@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../gregorys-girl">Next</a>
 </nav>
 
-<p>22 / 100</p>
+<p>23 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/diva.jpg" alt="">

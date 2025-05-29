@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../three-days-of-the-condor">Next</a>
 </nav>
 
-<p>16 / 100</p>
+<p>17 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/dog-day-afternoon.jpg" alt="">

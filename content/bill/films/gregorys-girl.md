@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../local-hero">Next</a>
 </nav>
 
-<p>23 / 100</p>
+<p>24 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/gregorys-girl.jpg" alt="">

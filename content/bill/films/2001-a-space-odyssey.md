@@ -4,12 +4,12 @@ layout: layouts/home.njk
 ---
 
 <nav class="films">
-  <a class="prev" href="../barefoot-in-the-park">Previous</a>
+  <a class="prev" href="../in-the-heat-of-the-night">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../bullitt">Next</a>
 </nav>
 
-<p>10 / 100</p>
+<p>11 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/2001-a-space-odyssey.jpg" alt="">

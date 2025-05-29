@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../whats-eating-gilbert-grape">Next</a>
 </nav>
 
-<p>31 / 100</p>
+<p>32 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/the-fugitive.jpg" alt="">

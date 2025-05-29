@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../once-upon-a-time-in-the-west">Next</a>
 </nav>
 
-<p>11 / 100</p>
+<p>12 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/bullitt.jpg" alt="">

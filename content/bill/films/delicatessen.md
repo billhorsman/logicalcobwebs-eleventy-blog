@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../night-on-earth">Next</a>
 </nav>
 
-<p>29 / 100</p>
+<p>30 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/delicatessen.jpg" alt="">

@@ -6,10 +6,10 @@ layout: layouts/home.njk
 <nav class="films">
   <a class="prev" href="../whats-eating-gilbert-grape">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../clear-and-present-danger">Next</a>
+  <a class="next" href="../lon-the-professional">Next</a>
 </nav>
 
-<p>33 / 100</p>
+<p>34 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/four-weddings-and-a-funeral.jpg" alt="">

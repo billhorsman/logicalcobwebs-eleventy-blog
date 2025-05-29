@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../jean-de-florette">Next</a>
 </nav>
 
-<p>26 / 100</p>
+<p>27 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/brazil.jpg" alt="">

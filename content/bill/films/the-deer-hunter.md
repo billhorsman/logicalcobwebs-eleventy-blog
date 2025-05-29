@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../apocalypse-now">Next</a>
 </nav>
 
-<p>19 / 100</p>
+<p>20 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/the-deer-hunter.jpg" alt="">

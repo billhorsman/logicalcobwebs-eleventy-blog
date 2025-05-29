@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../delicatessen">Next</a>
 </nav>
 
-<p>28 / 100</p>
+<p>29 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/withnail--i.jpg" alt="">

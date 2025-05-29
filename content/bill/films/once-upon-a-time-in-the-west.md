@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../butch-cassidy-and-the-sundance-kid">Next</a>
 </nav>
 
-<p>12 / 100</p>
+<p>13 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/once-upon-a-time-in-the-west.jpg" alt="">

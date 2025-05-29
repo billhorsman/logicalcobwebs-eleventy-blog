@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../duck-you-sucker">Next</a>
 </nav>
 
-<p>13 / 100</p>
+<p>14 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/butch-cassidy-and-the-sundance-kid.jpg" alt="">

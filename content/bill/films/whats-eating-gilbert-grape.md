@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../four-weddings-and-a-funeral">Next</a>
 </nav>
 
-<p>32 / 100</p>
+<p>33 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/whats-eating-gilbert-grape.jpg" alt="">

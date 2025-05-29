@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../the-sting">Next</a>
 </nav>
 
-<p>14 / 100</p>
+<p>15 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/duck-you-sucker.jpg" alt="">

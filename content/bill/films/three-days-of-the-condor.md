@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../the-man-who-fell-to-earth">Next</a>
 </nav>
 
-<p>17 / 100</p>
+<p>18 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/three-days-of-the-condor.jpg" alt="">

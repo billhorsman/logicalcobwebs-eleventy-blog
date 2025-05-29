@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../withnail--i">Next</a>
 </nav>
 
-<p>27 / 100</p>
+<p>28 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/jean-de-florette.jpg" alt="">

@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../dog-day-afternoon">Next</a>
 </nav>
 
-<p>15 / 100</p>
+<p>16 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/the-sting.jpg" alt="">

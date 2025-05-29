@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../being-there">Next</a>
 </nav>
 
-<p>20 / 100</p>
+<p>21 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/apocalypse-now.jpg" alt="">

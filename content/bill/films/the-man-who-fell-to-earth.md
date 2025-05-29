@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../the-deer-hunter">Next</a>
 </nav>
 
-<p>18 / 100</p>
+<p>19 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/the-man-who-fell-to-earth.jpg" alt="">

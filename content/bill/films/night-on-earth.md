@@ -9,7 +9,7 @@ layout: layouts/home.njk
   <a class="next" href="../the-fugitive">Next</a>
 </nav>
 
-<p>30 / 100</p>
+<p>31 / 100</p>
 
 <article class="film">
   <img class="poster" src="../films/posters/night-on-earth.jpg" alt="">

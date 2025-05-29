@@ -4,7 +4,7 @@ layout: layouts/home.njk
 ---
 
 <nav class="films">
-  <a class="prev" href="../clear-and-present-danger">Previous</a>
+  <a class="prev" href="../four-weddings-and-a-funeral">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../fargo">Next</a>
 </nav>
