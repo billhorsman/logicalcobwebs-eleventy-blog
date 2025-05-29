@@ -3,7 +3,13 @@ title: "Nomadland"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-truffle-hunters">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../petite-maman">Next</a>
+</nav>
+
+<p>79 / 100</p>
 
 <article class="film">
   <h1>Nomadland (2021)</h1>
@@ -68,3 +74,6 @@ layout: layouts/home.njk
 <li><strong>Cheryl Davis</strong> as <em>Cheri</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

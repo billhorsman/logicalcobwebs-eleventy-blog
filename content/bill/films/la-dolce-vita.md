@@ -3,7 +3,13 @@ title: "La Dolce Vita"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../im-all-right-jack">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../purple-noon">Next</a>
+</nav>
+
+<p>6 / 100</p>
 
 <article class="film">
   <h1>La Dolce Vita (1960)</h1>
@@ -194,3 +200,6 @@ layout: layouts/home.njk
 <li><strong>Romalı Perihan</strong> as <em></em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

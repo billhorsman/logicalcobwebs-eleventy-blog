@@ -3,7 +3,13 @@ title: "The Party"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../maudie">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../lucky">Next</a>
+</nav>
+
+<p>67 / 100</p>
 
 <article class="film">
   <h1>The Party (2017)</h1>
@@ -27,3 +33,6 @@ layout: layouts/home.njk
 <li><strong>Cillian Murphy</strong> as <em>Tom</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

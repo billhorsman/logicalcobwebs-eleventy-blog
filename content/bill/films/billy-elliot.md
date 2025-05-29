@@ -3,7 +3,13 @@ title: "Billy Elliot"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-talented-mr-ripley">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../amlie">Next</a>
+</nav>
+
+<p>44 / 100</p>
 
 <article class="film">
   <h1>Billy Elliot (2000)</h1>
@@ -63,3 +69,6 @@ layout: layouts/home.njk
 <li><strong>Damian Winter-Higgins</strong> as <em>Dancer in 'Swan Lake' (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

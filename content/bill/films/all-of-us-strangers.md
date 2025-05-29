@@ -3,7 +3,13 @@ title: "All of Us Strangers"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../killers-of-the-flower-moon">Previous</a>
+  <a href="../">Film list</a>
+  <span class="next">Next</span>
+</nav>
+
+<p>100 / 100</p>
 
 <article class="film">
   <h1>All of Us Strangers (2023)</h1>
@@ -26,3 +32,6 @@ layout: layouts/home.njk
 <li><strong>Ami Tredrea</strong> as <em>Waitress</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

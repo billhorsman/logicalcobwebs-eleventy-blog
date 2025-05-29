@@ -3,7 +3,13 @@ title: "Belfast"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-power-of-the-dog">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../house-of-gucci">Next</a>
+</nav>
+
+<p>86 / 100</p>
 
 <article class="film">
   <h1>Belfast (2021)</h1>
@@ -66,3 +72,6 @@ layout: layouts/home.njk
 <li><strong>Scarlett Nunes</strong> as <em>Moira's Friend</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

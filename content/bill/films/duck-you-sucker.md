@@ -3,7 +3,13 @@ title: "Duck, You Sucker"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../butch-cassidy-and-the-sundance-kid">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-sting">Next</a>
+</nav>
+
+<p>14 / 100</p>
 
 <article class="film">
   <h1>Duck, You Sucker (1971)</h1>
@@ -64,3 +70,6 @@ layout: layouts/home.njk
 <li><strong>Rafael Cortes</strong> as <em>Miranda Gang Member (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

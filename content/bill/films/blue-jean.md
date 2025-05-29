@@ -3,7 +3,13 @@ title: "Blue Jean"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../empire-of-light">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../asteroid-city">Next</a>
+</nav>
+
+<p>96 / 100</p>
 
 <article class="film">
   <h1>Blue Jean (2023)</h1>
@@ -53,3 +59,6 @@ layout: layouts/home.njk
 <li><strong>David Gales</strong> as <em>Dog Walker</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

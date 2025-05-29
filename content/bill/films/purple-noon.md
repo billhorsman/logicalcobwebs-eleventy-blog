@@ -3,7 +3,13 @@ title: "Purple Noon"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../la-dolce-vita">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../breathless">Next</a>
+</nav>
+
+<p>7 / 100</p>
 
 <article class="film">
   <h1>Purple Noon (1960)</h1>
@@ -40,3 +46,6 @@ layout: layouts/home.njk
 <li><strong>Nino Vingelli</strong> as <em>(uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

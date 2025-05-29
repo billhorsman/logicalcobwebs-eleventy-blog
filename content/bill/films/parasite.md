@@ -3,7 +3,13 @@ title: "Parasite"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../sink-or-swim">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../portrait-of-a-lady-on-fire">Next</a>
+</nav>
+
+<p>72 / 100</p>
 
 <article class="film">
   <h1>Parasite (2019)</h1>
@@ -70,3 +76,6 @@ layout: layouts/home.njk
 <li><strong>Alfred Hitchcock</strong> as <em>Self (archive footage)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

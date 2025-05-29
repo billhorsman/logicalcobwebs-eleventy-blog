@@ -18,3 +18,7 @@ Starting from <em>{{ firstFilm.title }}</em> in {{ firstFilm.year }} through to 
 <div><a href="{{ film.slug }}"><img src="{{ film.poster }}" alt="{{ film.title }}"></a></div>
 {% endfor %}
 </div>
+
+<footer>
+  <a href="about">About this list</a>
+</footer>

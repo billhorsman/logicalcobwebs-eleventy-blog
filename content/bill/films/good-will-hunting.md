@@ -3,7 +3,13 @@ title: "Good Will Hunting"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../fargo">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-big-lebowski">Next</a>
+</nav>
+
+<p>37 / 100</p>
 
 <article class="film">
   <h1>Good Will Hunting (1997)</h1>
@@ -69,3 +75,6 @@ layout: layouts/home.njk
 <li><strong>Stephen L'Heureux</strong> as <em>Bartender (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

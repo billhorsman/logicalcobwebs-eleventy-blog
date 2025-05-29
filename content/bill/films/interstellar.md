@@ -3,7 +3,13 @@ title: "Interstellar"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../mr-turner">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-handmaiden">Next</a>
+</nav>
+
+<p>64 / 100</p>
 
 <article class="film">
   <h1>Interstellar (2014)</h1>
@@ -54,3 +60,6 @@ layout: layouts/home.njk
 <li><strong>Alexander Michael Helisek</strong> as <em>Construction Boss (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

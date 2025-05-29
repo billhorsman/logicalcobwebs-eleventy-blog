@@ -3,7 +3,13 @@ title: "Maudie"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-handmaiden">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-party">Next</a>
+</nav>
+
+<p>66 / 100</p>
 
 <article class="film">
   <h1>Maudie (2016)</h1>
@@ -37,3 +43,6 @@ layout: layouts/home.njk
 <li><strong>Erin Mick</strong> as <em></em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

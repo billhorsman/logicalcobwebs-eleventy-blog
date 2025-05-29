@@ -3,7 +3,13 @@ title: "In Bruges"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../no-country-for-old-men">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../happygolucky">Next</a>
+</nav>
+
+<p>54 / 100</p>
 
 <article class="film">
   <h1>In Bruges (2008)</h1>
@@ -48,3 +54,6 @@ layout: layouts/home.njk
 <li><strong>Susan Ateh</strong> as <em>Ken's Wife (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

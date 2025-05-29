@@ -3,7 +3,13 @@ title: "La Strada"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../whisky-galore">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../north-by-northwest">Next</a>
+</nav>
+
+<p>3 / 100</p>
 
 <article class="film">
   <h1>La Strada (1954)</h1>
@@ -35,3 +41,6 @@ layout: layouts/home.njk
 <li><strong>Nazzareno Zamperla</strong> as <em>Man Restraining Zampano from Attacking (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

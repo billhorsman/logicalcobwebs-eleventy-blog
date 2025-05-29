@@ -3,7 +3,13 @@ title: "Portrait of a Lady on Fire"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../parasite">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../first-cow">Next</a>
+</nav>
+
+<p>73 / 100</p>
 
 <article class="film">
   <h1>Portrait of a Lady on Fire (2019)</h1>
@@ -28,3 +34,6 @@ layout: layouts/home.njk
 <li><strong>Clément Bouyssou</strong> as <em>Le batelier</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

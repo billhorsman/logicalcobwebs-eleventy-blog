@@ -3,7 +3,13 @@ title: "Sweetheart"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../dune">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-french-dispatch">Next</a>
+</nav>
+
+<p>83 / 100</p>
 
 <article class="film">
   <h1>Sweetheart (2021)</h1>
@@ -31,3 +37,6 @@ layout: layouts/home.njk
 <li><strong>Celeste De Veazey</strong> as <em>Bendy Wendy</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

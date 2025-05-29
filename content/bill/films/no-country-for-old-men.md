@@ -3,7 +3,13 @@ title: "No Country for Old Men"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../hot-fuzz">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../in-bruges">Next</a>
+</nav>
+
+<p>53 / 100</p>
 
 <article class="film">
   <h1>No Country for Old Men (2007)</h1>
@@ -72,3 +78,6 @@ layout: layouts/home.njk
 <li><strong>Rachel Manera</strong> as <em>Pharmacy Driver (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

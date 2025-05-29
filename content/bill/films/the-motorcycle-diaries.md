@@ -3,7 +3,13 @@ title: "The Motorcycle Diaries"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../phone-booth">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../hot-fuzz">Next</a>
+</nav>
+
+<p>51 / 100</p>
 
 <article class="film">
   <h1>The Motorcycle Diaries (2004)</h1>
@@ -43,3 +49,6 @@ layout: layouts/home.njk
 <li><strong>Jaime Azócar</strong> as <em>Mine Foreman</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

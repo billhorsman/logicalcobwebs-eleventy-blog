@@ -3,7 +3,13 @@ title: "Being There"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../apocalypse-now">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../diva">Next</a>
+</nav>
+
+<p>21 / 100</p>
 
 <article class="film">
   <h1>Being There (1979)</h1>
@@ -42,3 +48,6 @@ layout: layouts/home.njk
 <li><strong>Stanley Grover</strong> as <em>Baldwin</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

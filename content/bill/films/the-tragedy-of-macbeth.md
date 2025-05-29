@@ -3,7 +3,13 @@ title: "The Tragedy of Macbeth"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../licorice-pizza">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../between-two-worlds">Next</a>
+</nav>
+
+<p>89 / 100</p>
 
 <article class="film">
   <h1>The Tragedy of Macbeth (2021)</h1>
@@ -56,3 +62,6 @@ layout: layouts/home.njk
 <li><strong>Phil DiGennaro</strong> as <em>Demitrius (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

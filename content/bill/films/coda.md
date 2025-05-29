@@ -3,7 +3,13 @@ title: "CODA"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../petite-maman">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../dune">Next</a>
+</nav>
+
+<p>81 / 100</p>
 
 <article class="film">
   <h1>CODA (2021)</h1>
@@ -69,3 +75,6 @@ layout: layouts/home.njk
 <li><strong>Dominic Cannarella-Andersen</strong> as <em>Bass Boy</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

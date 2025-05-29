@@ -3,7 +3,13 @@ title: "Withnail & I"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../jean-de-florette">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../delicatessen">Next</a>
+</nav>
+
+<p>28 / 100</p>
 
 <article class="film">
   <h1>Withnail & I (1987)</h1>
@@ -34,3 +40,6 @@ layout: layouts/home.njk
 <li><strong>Eddie Tagoe</strong> as <em>Presuming Ed</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

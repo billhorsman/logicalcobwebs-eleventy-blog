@@ -3,7 +3,13 @@ title: "Dune"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../coda">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../sweetheart">Next</a>
+</nav>
+
+<p>82 / 100</p>
 
 <article class="film">
   <h1>Dune (2021)</h1>
@@ -68,3 +74,6 @@ layout: layouts/home.njk
 <li><strong>István Áldott</strong> as <em>Sardaukar Soldier (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

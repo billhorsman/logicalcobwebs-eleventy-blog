@@ -3,7 +3,13 @@ title: "Asteroid City"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../blue-jean">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../scrapper">Next</a>
+</nav>
+
+<p>97 / 100</p>
 
 <article class="film">
   <h1>Asteroid City (2023)</h1>
@@ -177,3 +183,6 @@ layout: layouts/home.njk
 <li><strong>Juana Andueza</strong> as <em>Chaperone 2 (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

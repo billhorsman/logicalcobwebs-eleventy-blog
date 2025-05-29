@@ -3,7 +3,13 @@ title: "24 Hour Party People"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../black-hawk-down">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-bourne-identity">Next</a>
+</nav>
+
+<p>47 / 100</p>
 
 <article class="film">
   <h1>24 Hour Party People (2002)</h1>
@@ -76,3 +82,6 @@ layout: layouts/home.njk
 <li><strong>Kenny Baker</strong> as <em>Zookeeper</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

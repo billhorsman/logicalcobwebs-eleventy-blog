@@ -3,7 +3,13 @@ title: "Jean de Florette"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../brazil">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../withnail--i">Next</a>
+</nav>
+
+<p>27 / 100</p>
 
 <article class="film">
   <h1>Jean de Florette (1986)</h1>
@@ -42,3 +48,6 @@ layout: layouts/home.njk
 <li><strong>Jo Doumerg</strong> as <em>Muleteer</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

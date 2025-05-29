@@ -3,7 +3,13 @@ title: "Clear and Present Danger"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../four-weddings-and-a-funeral">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../lon-the-professional">Next</a>
+</nav>
+
+<p>34 / 100</p>
 
 <article class="film">
   <h1>Clear and Present Danger (1994)</h1>
@@ -107,3 +113,6 @@ layout: layouts/home.njk
 <li><strong>Tom Bower</strong> as <em>Clark's Pilot (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

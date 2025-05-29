@@ -3,7 +3,13 @@ title: "The Grand Budapest Hotel"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../dallas-buyers-club">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../mr-turner">Next</a>
+</nav>
+
+<p>62 / 100</p>
 
 <article class="film">
   <h1>The Grand Budapest Hotel (2014)</h1>
@@ -118,3 +124,6 @@ layout: layouts/home.njk
 <li><strong>Ed Munro</strong> as <em>'Boy with Apple' (model)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

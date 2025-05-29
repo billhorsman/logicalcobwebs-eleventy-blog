@@ -3,7 +3,13 @@ title: "North by Northwest"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../la-strada">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../im-all-right-jack">Next</a>
+</nav>
+
+<p>4 / 100</p>
 
 <article class="film">
   <h1>North by Northwest (1959)</h1>
@@ -115,3 +121,6 @@ layout: layouts/home.njk
 <li><strong>Caryl Lincoln</strong> as <em>Auction Guest (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

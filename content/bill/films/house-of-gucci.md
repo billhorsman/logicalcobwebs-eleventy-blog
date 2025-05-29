@@ -3,7 +3,13 @@ title: "House of Gucci"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../belfast">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../licorice-pizza">Next</a>
+</nav>
+
+<p>87 / 100</p>
 
 <article class="film">
   <h1>House of Gucci (2021)</h1>
@@ -98,3 +104,6 @@ layout: layouts/home.njk
 <li><strong>Paolo Sena</strong> as <em>Undertaker (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

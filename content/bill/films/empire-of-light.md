@@ -3,7 +3,13 @@ title: "Empire of Light"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-fabelmans">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../blue-jean">Next</a>
+</nav>
+
+<p>95 / 100</p>
 
 <article class="film">
   <h1>Empire of Light (2022)</h1>
@@ -55,3 +61,6 @@ layout: layouts/home.njk
 <li><strong>George Greenland</strong> as <em>Ryan (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

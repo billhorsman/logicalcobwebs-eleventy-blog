@@ -3,7 +3,13 @@ title: "2001: A Space Odyssey"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../barefoot-in-the-park">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../bullitt">Next</a>
+</nav>
+
+<p>10 / 100</p>
 
 <article class="film">
   <h1>2001: A Space Odyssey (1968)</h1>
@@ -82,3 +88,6 @@ layout: layouts/home.njk
 <li><strong>Harry Fielder</strong> as <em>Moonwalker (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

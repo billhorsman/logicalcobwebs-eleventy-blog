@@ -3,7 +3,13 @@ title: "Bullitt"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../2001-a-space-odyssey">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../once-upon-a-time-in-the-west">Next</a>
+</nav>
+
+<p>11 / 100</p>
 
 <article class="film">
   <h1>Bullitt (1968)</h1>
@@ -40,3 +46,6 @@ layout: layouts/home.njk
 <li><strong>Robert Cleaves</strong> as <em>Uniformed Courtesy Officer (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

@@ -3,7 +3,13 @@ title: "The Deer Hunter"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-man-who-fell-to-earth">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../apocalypse-now">Next</a>
+</nav>
+
+<p>19 / 100</p>
 
 <article class="film">
   <h1>The Deer Hunter (1978)</h1>
@@ -72,3 +78,6 @@ layout: layouts/home.njk
 <li><strong>Gary A. Jones</strong> as <em>Hospital Orderly (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

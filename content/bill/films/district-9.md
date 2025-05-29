@@ -3,7 +3,13 @@ title: "District 9"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../happygolucky">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../fantastic-mr-fox">Next</a>
+</nav>
+
+<p>56 / 100</p>
 
 <article class="film">
   <h1>District 9 (2009)</h1>
@@ -116,3 +122,6 @@ layout: layouts/home.njk
 <li><strong>Kenneth Nkosi</strong> as <em>Thomas</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

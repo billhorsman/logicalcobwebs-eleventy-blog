@@ -3,7 +3,13 @@ title: "Léon: The Professional"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../clear-and-present-danger">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../fargo">Next</a>
+</nav>
+
+<p>35 / 100</p>
 
 <article class="film">
   <h1>Léon: The Professional (1994)</h1>
@@ -75,3 +81,6 @@ layout: layouts/home.njk
 <li><strong>Michael Wehrhahn</strong> as <em>Jimmy, SWAT Team Member (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

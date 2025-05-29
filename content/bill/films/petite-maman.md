@@ -3,7 +3,13 @@ title: "Petite Maman"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../nomadland">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../coda">Next</a>
+</nav>
+
+<p>80 / 100</p>
 
 <article class="film">
   <h1>Petite Maman (2021)</h1>
@@ -28,3 +34,6 @@ layout: layouts/home.njk
 <li><strong>Guylène Péan</strong> as <em>Dame maison de retraite</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

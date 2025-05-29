@@ -3,7 +3,13 @@ title: "Eternal Beauty"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../schemers">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../limbo">Next</a>
+</nav>
+
+<p>76 / 100</p>
 
 <article class="film">
   <h1>Eternal Beauty (2020)</h1>
@@ -39,3 +45,6 @@ layout: layouts/home.njk
 <li><strong>Kas Meghani</strong> as <em>Examiner</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

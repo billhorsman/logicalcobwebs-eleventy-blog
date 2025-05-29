@@ -3,7 +3,13 @@ title: "Three Days of the Condor"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../dog-day-afternoon">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-man-who-fell-to-earth">Next</a>
+</nav>
+
+<p>17 / 100</p>
 
 <article class="film">
   <h1>Three Days of the Condor (1975)</h1>
@@ -70,3 +76,6 @@ layout: layouts/home.njk
 <li><strong>Lauren Simon</strong> as <em>Neighbor in Elevator (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

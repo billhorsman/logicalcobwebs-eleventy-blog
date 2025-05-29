@@ -3,7 +3,13 @@ title: "The Truffle Hunters"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../limbo">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../nomadland">Next</a>
+</nav>
+
+<p>78 / 100</p>
 
 <article class="film">
   <h1>The Truffle Hunters (2020)</h1>
@@ -29,3 +35,6 @@ layout: layouts/home.njk
 <li><strong>Egidio Gagliardi</strong> as <em></em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

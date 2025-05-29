@@ -3,7 +3,13 @@ title: "Breathless"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../purple-noon">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../barefoot-in-the-park">Next</a>
+</nav>
+
+<p>8 / 100</p>
 
 <article class="film">
   <h1>Breathless (1960)</h1>
@@ -51,3 +57,6 @@ layout: layouts/home.njk
 <li><strong>Emile Villion</strong> as <em>(uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

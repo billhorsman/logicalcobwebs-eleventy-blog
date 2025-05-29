@@ -3,7 +3,13 @@ title: "The Power of the Dog"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-french-dispatch">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../belfast">Next</a>
+</nav>
+
+<p>85 / 100</p>
 
 <article class="film">
   <h1>The Power of the Dog (2021)</h1>
@@ -62,3 +68,6 @@ layout: layouts/home.njk
 <li><strong>Ian Harcourt</strong> as <em>Undertaker Assistant</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

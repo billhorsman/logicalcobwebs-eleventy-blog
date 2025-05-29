@@ -3,7 +3,13 @@ title: "Fargo"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../lon-the-professional">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../good-will-hunting">Next</a>
+</nav>
+
+<p>36 / 100</p>
 
 <article class="film">
   <h1>Fargo (1996)</h1>
@@ -60,3 +66,6 @@ layout: layouts/home.njk
 <li><strong>Bruce Campbell</strong> as <em>Soap Opera Actor on TV (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

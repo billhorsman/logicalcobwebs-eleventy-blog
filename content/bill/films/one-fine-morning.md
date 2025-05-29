@@ -3,7 +3,13 @@ title: "One Fine Morning"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../eo">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-banshees-of-inisherin">Next</a>
+</nav>
+
+<p>92 / 100</p>
 
 <article class="film">
   <h1>One Fine Morning (2022)</h1>
@@ -49,3 +55,6 @@ layout: layouts/home.njk
 <li><strong>Vasco Villaverde</strong> as <em>Fils de Clément</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

@@ -3,7 +3,13 @@ title: "The Fabelmans"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-banshees-of-inisherin">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../empire-of-light">Next</a>
+</nav>
+
+<p>94 / 100</p>
 
 <article class="film">
   <h1>The Fabelmans (2022)</h1>
@@ -103,3 +109,6 @@ layout: layouts/home.njk
 <li><strong>Nicole Singh</strong> as <em>Student (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

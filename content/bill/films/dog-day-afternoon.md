@@ -3,7 +3,13 @@ title: "Dog Day Afternoon"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-sting">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../three-days-of-the-condor">Next</a>
+</nav>
+
+<p>16 / 100</p>
 
 <article class="film">
   <h1>Dog Day Afternoon (1975)</h1>
@@ -60,3 +66,6 @@ layout: layouts/home.njk
 <li><strong>ofri gafri</strong> as <em>Observer (Uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

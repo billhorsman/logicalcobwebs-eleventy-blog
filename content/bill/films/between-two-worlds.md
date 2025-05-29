@@ -3,7 +3,13 @@ title: "Between Two Worlds"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-tragedy-of-macbeth">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../eo">Next</a>
+</nav>
+
+<p>90 / 100</p>
 
 <article class="film">
   <h1>Between Two Worlds (2022)</h1>
@@ -48,3 +54,6 @@ layout: layouts/home.njk
 <li><strong>Louis-Do de Lencquesaing</strong> as <em>Louis-Do</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

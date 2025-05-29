@@ -3,7 +3,13 @@ title: "Limbo"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../eternal-beauty">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-truffle-hunters">Next</a>
+</nav>
+
+<p>77 / 100</p>
 
 <article class="film">
   <h1>Limbo (2020)</h1>
@@ -37,3 +43,6 @@ layout: layouts/home.njk
 <li><strong>Ellie Haddington</strong> as <em>Beatrice</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

@@ -3,7 +3,13 @@ title: "Brazil"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../paris-texas">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../jean-de-florette">Next</a>
+</nav>
+
+<p>26 / 100</p>
 
 <article class="film">
   <h1>Brazil (1985)</h1>
@@ -62,3 +68,6 @@ layout: layouts/home.njk
 <li><strong>Terry Gilliam</strong> as <em>Smoking Man (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

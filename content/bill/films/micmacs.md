@@ -3,7 +3,13 @@ title: "Micmacs"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../fantastic-mr-fox">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../tomboy">Next</a>
+</nav>
+
+<p>58 / 100</p>
 
 <article class="film">
   <h1>Micmacs (2009)</h1>
@@ -35,3 +41,6 @@ layout: layouts/home.njk
 <li><strong>Juliette Armanet</strong> as <em>Subway Singer</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

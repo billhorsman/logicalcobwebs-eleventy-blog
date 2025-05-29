@@ -3,7 +3,13 @@ title: "It's a Wonderful Life"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <span class="prev">Previous</span>
+  <a href="../">Film list</a>
+  <a class="next" href="../whisky-galore">Next</a>
+</nav>
+
+<p>1 / 100</p>
 
 <article class="film">
   <h1>It's a Wonderful Life (1946)</h1>
@@ -137,3 +143,6 @@ layout: layouts/home.njk
 <li><strong>Finn Zirzow</strong> as <em>Bar Patron (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

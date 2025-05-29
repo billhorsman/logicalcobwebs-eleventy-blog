@@ -3,7 +3,13 @@ title: "Butch Cassidy and the Sundance Kid"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../once-upon-a-time-in-the-west">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../duck-you-sucker">Next</a>
+</nav>
+
+<p>13 / 100</p>
 
 <article class="film">
   <h1>Butch Cassidy and the Sundance Kid (1969)</h1>
@@ -43,3 +49,6 @@ layout: layouts/home.njk
 <li><strong>Percy Helton</strong> as <em>Sweetface (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

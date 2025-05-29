@@ -3,7 +3,13 @@ title: "Ghost Dog: The Way of the Samurai"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-big-lebowski">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../fight-club">Next</a>
+</nav>
+
+<p>39 / 100</p>
 
 <article class="film">
   <h1>Ghost Dog: The Way of the Samurai (1999)</h1>
@@ -69,3 +75,6 @@ layout: layouts/home.njk
 <li><strong>Paul Diomede</strong> as <em>Young Gangster (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

@@ -3,7 +3,13 @@ title: "Four Weddings and a Funeral"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../whats-eating-gilbert-grape">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../clear-and-present-danger">Next</a>
+</nav>
+
+<p>33 / 100</p>
 
 <article class="film">
   <h1>Four Weddings and a Funeral (1994)</h1>
@@ -69,3 +75,6 @@ layout: layouts/home.njk
 <li><strong>Philip Stone</strong> as <em>Wedding Guest - Wedding Three (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

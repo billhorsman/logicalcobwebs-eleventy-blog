@@ -3,7 +3,13 @@ title: "Woman at War"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../cest-la-vie">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../sink-or-swim">Next</a>
+</nav>
+
+<p>70 / 100</p>
 
 <article class="film">
   <h1>Woman at War (2018)</h1>
@@ -57,3 +63,6 @@ layout: layouts/home.njk
 <li><strong>Sylvia Dögg Halldórsdóttir</strong> as <em>Helicopter policewoman</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

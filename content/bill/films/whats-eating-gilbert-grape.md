@@ -3,7 +3,13 @@ title: "What's Eating Gilbert Grape"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-fugitive">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../four-weddings-and-a-funeral">Next</a>
+</nav>
+
+<p>32 / 100</p>
 
 <article class="film">
   <h1>What's Eating Gilbert Grape (1993)</h1>
@@ -50,3 +56,6 @@ layout: layouts/home.njk
 <li><strong>David Stanford</strong> as <em>Townsperson (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

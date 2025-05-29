@@ -3,7 +3,13 @@ title: "The Bourne Identity"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../24-hour-party-people">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../man-on-the-train">Next</a>
+</nav>
+
+<p>48 / 100</p>
 
 <article class="film">
   <h1>The Bourne Identity (2002)</h1>
@@ -71,3 +77,6 @@ layout: layouts/home.njk
 <li><strong>Elwin 'Chopper' David</strong> as <em>Wombosi Bodyguard</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

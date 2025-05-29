@@ -3,7 +3,13 @@ title: "The Straight Story"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../fight-club">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../magnolia">Next</a>
+</nav>
+
+<p>41 / 100</p>
 
 <article class="film">
   <h1>The Straight Story (1999)</h1>
@@ -56,3 +62,6 @@ layout: layouts/home.njk
 <li><strong>Harry Dean Stanton</strong> as <em>Lyle</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

@@ -3,7 +3,13 @@ title: "Lucky"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-party">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../cest-la-vie">Next</a>
+</nav>
+
+<p>68 / 100</p>
 
 <article class="film">
   <h1>Lucky (2017)</h1>
@@ -47,3 +53,6 @@ layout: layouts/home.njk
 <li><strong>Liberace</strong> as <em>Self (archive footage) (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

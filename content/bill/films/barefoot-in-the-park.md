@@ -3,7 +3,13 @@ title: "Barefoot in the Park"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../breathless">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../2001-a-space-odyssey">Next</a>
+</nav>
+
+<p>9 / 100</p>
 
 <article class="film">
   <h1>Barefoot in the Park (1967)</h1>
@@ -34,3 +40,6 @@ layout: layouts/home.njk
 <li><strong>John Indrisano</strong> as <em>Policeman with Drunk (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

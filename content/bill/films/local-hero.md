@@ -3,7 +3,13 @@ title: "Local Hero"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../gregorys-girl">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../paris-texas">Next</a>
+</nav>
+
+<p>24 / 100</p>
 
 <article class="film">
   <h1>Local Hero (1983)</h1>
@@ -65,3 +71,6 @@ layout: layouts/home.njk
 <li><strong>Buddy Quaid</strong> as <em>Crabbe</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

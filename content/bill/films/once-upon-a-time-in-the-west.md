@@ -3,7 +3,13 @@ title: "Once Upon a Time in the West"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../bullitt">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../butch-cassidy-and-the-sundance-kid">Next</a>
+</nav>
+
+<p>12 / 100</p>
 
 <article class="film">
   <h1>Once Upon a Time in the West (1968)</h1>
@@ -55,3 +61,6 @@ layout: layouts/home.njk
 <li><strong>Michael Harvey</strong> as <em>Frank's Gunman (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

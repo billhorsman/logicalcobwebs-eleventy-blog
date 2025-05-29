@@ -3,7 +3,13 @@ title: "Whisky Galore!"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../its-a-wonderful-life">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../la-strada">Next</a>
+</nav>
+
+<p>2 / 100</p>
 
 <article class="film">
   <h1>Whisky Galore! (1949)</h1>
@@ -42,3 +48,6 @@ layout: layouts/home.njk
 <li><strong>James Anderson</strong> as <em>Old Hector</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

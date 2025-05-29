@@ -97,7 +97,10 @@ end
 
 # 6. Write a page for each film
 
-list.each do |film|
+list.each_with_index do |film, index|
+  next_film = list[index + 1]
+  prev_film = index > 0 ? list[index - 1] : nil
+
   path = "../content/bill/films/#{film["slug"]}.md"
   File.write(path, <<~MD)
     ---
@@ -105,7 +108,13 @@ list.each do |film|
     layout: layouts/home.njk
     ---
 
-    <a href="../">Back to all films</a>
+    <nav class="films">
+      #{prev_film ? "<a class=\"prev\" href=\"../#{prev_film["slug"]}\">Previous</a>" : "<span class=\"prev\">Previous</span>"}
+      <a href="../">Film list</a>
+      #{next_film ? "<a class=\"next\" href=\"../#{next_film["slug"]}\">Next</a>" : "<span class=\"next\">Next</span>"}
+    </nav>
+
+    <p>#{index + 1} / #{list.length}</p>
     
     <article class="film">
       <h1>#{film["title"]} (#{film["year"]})</h1>
@@ -123,5 +132,8 @@ list.each do |film|
         #{film["cast"].map { |cast| "<li><strong>#{cast["name"]}</strong> as <em>#{cast["character"]}</em></li>" }.join("\n")}
       </ul>
     </article>
+    <footer>
+      <a href="../about">About this list</a>
+    </footer>
   MD
 end

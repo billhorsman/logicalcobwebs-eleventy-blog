@@ -3,7 +3,13 @@ title: "Paris, Texas"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../local-hero">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../brazil">Next</a>
+</nav>
+
+<p>25 / 100</p>
 
 <article class="film">
   <h1>Paris, Texas (1984)</h1>
@@ -37,3 +43,6 @@ layout: layouts/home.njk
 <li><strong>Sharon Menzel</strong> as <em>Comedienne</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

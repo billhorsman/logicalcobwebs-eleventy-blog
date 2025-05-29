@@ -3,7 +3,13 @@ title: "Tomboy"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../micmacs">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../all-is-lost">Next</a>
+</nav>
+
+<p>59 / 100</p>
 
 <article class="film">
   <h1>Tomboy (2011)</h1>
@@ -31,3 +37,6 @@ layout: layouts/home.njk
 <li><strong>Valérie Roucher</strong> as <em>La mère de Rayan</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

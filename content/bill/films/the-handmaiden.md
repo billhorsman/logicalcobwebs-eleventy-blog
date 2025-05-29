@@ -3,7 +3,13 @@ title: "The Handmaiden"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../interstellar">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../maudie">Next</a>
+</nav>
+
+<p>65 / 100</p>
 
 <article class="film">
   <h1>The Handmaiden (2016)</h1>
@@ -76,3 +82,6 @@ layout: layouts/home.njk
 <li><strong>Lee In-chul</strong> as <em>Photo Studio Owner</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

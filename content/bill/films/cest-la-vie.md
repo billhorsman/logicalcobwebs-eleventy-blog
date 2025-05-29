@@ -3,7 +3,13 @@ title: "C'est la vie!"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../lucky">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../woman-at-war">Next</a>
+</nav>
+
+<p>69 / 100</p>
 
 <article class="film">
   <h1>C'est la vie! (2017)</h1>
@@ -42,3 +48,6 @@ layout: layouts/home.njk
 <li><strong>Anouchka Csernakova</strong> as <em>Guest Victim of a Misunderstanding</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

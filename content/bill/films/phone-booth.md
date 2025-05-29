@@ -3,7 +3,13 @@ title: "Phone Booth"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../man-on-the-train">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-motorcycle-diaries">Next</a>
+</nav>
+
+<p>50 / 100</p>
 
 <article class="film">
   <h1>Phone Booth (2003)</h1>
@@ -77,3 +83,6 @@ layout: layouts/home.njk
 <li><strong>Mia Cottet</strong> as <em>Lu Ann (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

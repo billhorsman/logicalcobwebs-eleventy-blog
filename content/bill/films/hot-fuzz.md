@@ -3,7 +3,13 @@ title: "Hot Fuzz"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-motorcycle-diaries">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../no-country-for-old-men">Next</a>
+</nav>
+
+<p>52 / 100</p>
 
 <article class="film">
   <h1>Hot Fuzz (2007)</h1>
@@ -75,3 +81,6 @@ layout: layouts/home.njk
 <li><strong>Gillian Rosemary Smith</strong> as <em>Village of The Year Judge (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

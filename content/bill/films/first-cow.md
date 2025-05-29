@@ -3,7 +3,13 @@ title: "First Cow"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../portrait-of-a-lady-on-fire">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../schemers">Next</a>
+</nav>
+
+<p>74 / 100</p>
 
 <article class="film">
   <h1>First Cow (2020)</h1>
@@ -50,3 +56,6 @@ layout: layouts/home.njk
 <li><strong>James Ridley</strong> as <em>Soldier</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

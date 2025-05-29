@@ -3,7 +3,13 @@ title: "I'm All Right Jack"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../north-by-northwest">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../la-dolce-vita">Next</a>
+</nav>
+
+<p>5 / 100</p>
 
 <article class="film">
   <h1>I'm All Right Jack (1959)</h1>
@@ -129,3 +135,6 @@ layout: layouts/home.njk
 <li><strong>Paula Wright</strong> as <em>Nudist (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

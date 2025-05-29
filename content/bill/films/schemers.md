@@ -3,7 +3,13 @@ title: "Schemers"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../first-cow">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../eternal-beauty">Next</a>
+</nav>
+
+<p>75 / 100</p>
 
 <article class="film">
   <h1>Schemers (2020)</h1>
@@ -38,3 +44,6 @@ layout: layouts/home.njk
 <li><strong>Alex Reece</strong> as <em>Manager (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

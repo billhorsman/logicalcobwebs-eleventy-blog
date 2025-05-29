@@ -3,7 +3,13 @@ title: "Mr. Turner"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-grand-budapest-hotel">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../interstellar">Next</a>
+</nav>
+
+<p>63 / 100</p>
 
 <article class="film">
   <h1>Mr. Turner (2014)</h1>
@@ -93,3 +99,6 @@ layout: layouts/home.njk
 <li><strong>Robert J. Fraser</strong> as <em>Art Student (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

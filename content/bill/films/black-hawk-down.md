@@ -3,7 +3,13 @@ title: "Black Hawk Down"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../amlie">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../24-hour-party-people">Next</a>
+</nav>
+
+<p>46 / 100</p>
 
 <article class="film">
   <h1>Black Hawk Down (2001)</h1>
@@ -76,3 +82,6 @@ layout: layouts/home.njk
 <li><strong>Corey Johnson</strong> as <em>U.S. Medic (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

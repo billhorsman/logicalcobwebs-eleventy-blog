@@ -3,7 +3,13 @@ title: "Delicatessen"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../withnail--i">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../night-on-earth">Next</a>
+</nav>
+
+<p>29 / 100</p>
 
 <article class="film">
   <h1>Delicatessen (1991)</h1>
@@ -48,3 +54,6 @@ layout: layouts/home.njk
 <li><strong>Nikky Smedley</strong> as <em>Teri (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

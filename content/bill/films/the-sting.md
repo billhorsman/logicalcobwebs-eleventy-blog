@@ -3,7 +3,13 @@ title: "The Sting"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../duck-you-sucker">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../dog-day-afternoon">Next</a>
+</nav>
+
+<p>15 / 100</p>
 
 <article class="film">
   <h1>The Sting (1973)</h1>
@@ -62,3 +68,6 @@ layout: layouts/home.njk
 <li><strong>Jim Michael</strong> as <em>Bartender (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

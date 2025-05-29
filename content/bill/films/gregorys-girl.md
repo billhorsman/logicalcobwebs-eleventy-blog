@@ -3,7 +3,13 @@ title: "Gregory's Girl"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../diva">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../local-hero">Next</a>
+</nav>
+
+<p>23 / 100</p>
 
 <article class="film">
   <h1>Gregory's Girl (1981)</h1>
@@ -46,3 +52,6 @@ layout: layouts/home.njk
 <li><strong>Christopher Higson</strong> as <em>Penguin</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

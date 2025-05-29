@@ -3,7 +3,13 @@ title: "Diva"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../being-there">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../gregorys-girl">Next</a>
+</nav>
+
+<p>22 / 100</p>
 
 <article class="film">
   <h1>Diva (1981)</h1>
@@ -37,3 +43,6 @@ layout: layouts/home.njk
 <li><strong>Isabelle Mergault</strong> as <em>La fille du jeu vidéo</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

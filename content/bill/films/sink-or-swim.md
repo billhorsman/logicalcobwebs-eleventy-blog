@@ -3,7 +3,13 @@ title: "Sink or Swim"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../woman-at-war">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../parasite">Next</a>
+</nav>
+
+<p>71 / 100</p>
 
 <article class="film">
   <h1>Sink or Swim (2018)</h1>
@@ -76,3 +82,6 @@ layout: layouts/home.njk
 <li><strong>Floriane Karger</strong> as <em>(uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

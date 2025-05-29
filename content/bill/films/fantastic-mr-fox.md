@@ -3,7 +3,13 @@ title: "Fantastic Mr. Fox"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../district-9">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../micmacs">Next</a>
+</nav>
+
+<p>57 / 100</p>
 
 <article class="film">
   <h1>Fantastic Mr. Fox (2009)</h1>
@@ -50,3 +56,6 @@ layout: layouts/home.njk
 <li><strong>Martin Ballard</strong> as <em>Fire Chief (voice)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

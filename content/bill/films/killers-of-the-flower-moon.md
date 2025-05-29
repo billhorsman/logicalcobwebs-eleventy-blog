@@ -3,7 +3,13 @@ title: "Killers of the Flower Moon"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../scrapper">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../all-of-us-strangers">Next</a>
+</nav>
+
+<p>99 / 100</p>
 
 <article class="film">
   <h1>Killers of the Flower Moon (2023)</h1>
@@ -230,3 +236,6 @@ layout: layouts/home.njk
 <li><strong>Craig 'Radio Man' Castaldo</strong> as <em>Radio Man (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

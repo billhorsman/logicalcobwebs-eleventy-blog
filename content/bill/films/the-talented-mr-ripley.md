@@ -3,7 +3,13 @@ title: "The Talented Mr. Ripley"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../magnolia">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../billy-elliot">Next</a>
+</nav>
+
+<p>43 / 100</p>
 
 <article class="film">
   <h1>The Talented Mr. Ripley (1999)</h1>
@@ -84,3 +90,6 @@ layout: layouts/home.njk
 <li><strong>Dominic Fumusa</strong> as <em>Italian Boy in Rome (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

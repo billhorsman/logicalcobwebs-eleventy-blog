@@ -3,7 +3,13 @@ title: "Scrapper"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../asteroid-city">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../killers-of-the-flower-moon">Next</a>
+</nav>
+
+<p>98 / 100</p>
 
 <article class="film">
   <h1>Scrapper (2023)</h1>
@@ -46,3 +52,6 @@ layout: layouts/home.njk
 <li><strong>Sue King-Spear</strong> as <em>Lady in Lilac (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

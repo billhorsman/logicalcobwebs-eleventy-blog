@@ -3,7 +3,13 @@ title: "Happy-Go-Lucky"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../in-bruges">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../district-9">Next</a>
+</nav>
+
+<p>55 / 100</p>
 
 <article class="film">
   <h1>Happy-Go-Lucky (2008)</h1>
@@ -44,3 +50,6 @@ layout: layouts/home.njk
 <li><strong>Ayotunde Williams</strong> as <em>Ayotunde</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

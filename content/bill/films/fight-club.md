@@ -3,7 +3,13 @@ title: "Fight Club"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../ghost-dog-the-way-of-the-samurai">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-straight-story">Next</a>
+</nav>
+
+<p>40 / 100</p>
 
 <article class="film">
   <h1>Fight Club (1999)</h1>
@@ -95,3 +101,6 @@ layout: layouts/home.njk
 <li><strong>Summer Moore</strong> as <em>Marla's Neighbor (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

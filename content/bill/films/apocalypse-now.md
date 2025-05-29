@@ -3,7 +3,13 @@ title: "Apocalypse Now"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../the-deer-hunter">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../being-there">Next</a>
+</nav>
+
+<p>20 / 100</p>
 
 <article class="film">
   <h1>Apocalypse Now (1979)</h1>
@@ -58,3 +64,6 @@ layout: layouts/home.njk
 <li><strong>Frank Villard</strong> as <em>Gaston de Marais (Long Version)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

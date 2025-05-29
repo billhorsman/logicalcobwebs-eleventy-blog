@@ -3,7 +3,13 @@ title: "The Banshees of Inisherin"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../one-fine-morning">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-fabelmans">Next</a>
+</nav>
+
+<p>93 / 100</p>
 
 <article class="film">
   <h1>The Banshees of Inisherin (2022)</h1>
@@ -38,3 +44,6 @@ layout: layouts/home.njk
 <li><strong>Ryan Owen</strong> as <em>Student Musician 3</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

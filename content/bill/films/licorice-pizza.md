@@ -3,7 +3,13 @@ title: "Licorice Pizza"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../house-of-gucci">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-tragedy-of-macbeth">Next</a>
+</nav>
+
+<p>88 / 100</p>
 
 <article class="film">
   <h1>Licorice Pizza (2021)</h1>
@@ -217,3 +223,6 @@ layout: layouts/home.njk
 <li><strong>Jeff Willy</strong> as <em>Fair Volunteer (uncredited)</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>

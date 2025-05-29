@@ -3,7 +3,13 @@ title: "Night on Earth"
 layout: layouts/home.njk
 ---
 
-<a href="../">Back to all films</a>
+<nav class="films">
+  <a class="prev" href="../delicatessen">Previous</a>
+  <a href="../">Film list</a>
+  <a class="next" href="../the-fugitive">Next</a>
+</nav>
+
+<p>30 / 100</p>
 
 <article class="film">
   <h1>Night on Earth (1991)</h1>
@@ -50,3 +56,6 @@ layout: layouts/home.njk
 <li><strong>Klaus Heydemann</strong> as <em>Factory Worker #2</em></li>
   </ul>
 </article>
+<footer>
+  <a href="../about">About this list</a>
+</footer>
