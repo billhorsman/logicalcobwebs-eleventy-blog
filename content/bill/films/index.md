@@ -11,7 +11,7 @@ layout: layouts/home.njk
 
 {% set firstFilm = films.list[0] %}
 {% set lastFilm = films.list[films.count - 1] %}
-Starting from <em>{{ firstFilm.title }}</em> in {{ firstFilm.year }} through to <em>{{ lastFilm.title }}</em> in {{ lastFilm.year }}.
+Starting from <em>{{ firstFilm.title }}</em> in {{ firstFilm.year }} through to <em>{{ lastFilm.title }}</em> in {{ lastFilm.year }}. My favourite director is {{ films.top_directors[0].name }} ({{ films.top_directors[0].count }} films), followed by {{ films.top_directors[1].name }} ({{ films.top_directors[1].count }}) and {{ films.top_directors[2].name }} ({{ films.top_directors[2].count }}).
 
 <div class="film-list">
 {% for film in films.list %}

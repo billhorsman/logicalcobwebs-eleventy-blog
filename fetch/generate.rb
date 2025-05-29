@@ -91,6 +91,8 @@ if ARGV[0] == "refresh"
     count: list.length,
     years: list.map { |film| film["year"] }.tally,
     decades: list.map { |film| "#{film["year"][0, 3]}0" }.tally,
+    top_directors: list.map { |film| film["director"] }.tally.select { |director, count| count > 1 }.sort_by { |director, count| [-count, director.downcase] }.map { |director, count| { name: director, count: count } },
+    languages: list.map { |film| film["original_language"] }.uniq,
   ))
 
 else
