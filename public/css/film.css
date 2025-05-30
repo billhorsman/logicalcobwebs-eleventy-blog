@@ -166,3 +166,51 @@ a.film {
     border-color: var(--color-highlight);
   }
 }
+
+.film-detail {
+  display: grid;
+  grid-template-columns: minmax(0, 200px) 1fr;
+  gap: 1rem;
+
+  & .backdrop {
+    grid-column: 1 / 3;
+  }
+
+  & .poster {
+    max-width: 200px;
+  }
+
+  dl {
+    margin: 0;
+    padding: 0;
+  }
+
+  dt {
+    color: var(--color-muted);
+    display: none;
+
+    &:after {
+      content: ":";
+    }
+  }
+
+  dd {
+    display: inline;
+    margin: 0;
+    padding: 0;
+  }
+
+  & .title {
+    & dd {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+  }
+
+  & .director,
+  & .cast {
+    & dt {
+      display: inline;
+    }
+  }
+}

@@ -117,6 +117,22 @@ export default async function(eleventyConfig) {
 		return Math.max(diffDays, 0);
 	});
 
+	eleventyConfig.addFilter("filmYear", (film) => {
+		return new Date(film.release_date).getFullYear();
+	});
+
+	eleventyConfig.addFilter("directors", (film) => {
+		return film.credits.crew.filter(crew => crew.job === "Director").map(crew => crew.name).join(", ");
+	});
+
+	eleventyConfig.addFilter("cast", (film) => {
+		return film.credits.cast.map(cast => cast.name).join(", ");
+	});
+
+	eleventyConfig.addFilter("topCast", (film) => {
+		return film.credits.cast.filter(cast => cast.popularity > 2).map(cast => cast.name).join(", ");
+	});
+
 	eleventyConfig.addFilter("nameSentence", (list) => {
 		return list.slice(0, 10).map(o => o.name).join(", ");
 	});

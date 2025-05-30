@@ -1,0 +1,20 @@
+{% set film = films[filmSlug] %}
+<article class="film-detail">
+  <div class="poster">
+    <img src="/bill/films/posters/{{ filmSlug }}.jpg" alt="">
+  </div>
+  <dl>
+    <div class="title">
+      <dt>Title</dt>
+      <dd>{{ film.title }} ({{ film | filmYear }})</dd>
+    </div>
+    <div class="director">
+      <dt>Director</dt>
+      <dd>{{ film | directors }}</dd>
+    </div>
+    <div class="cast">
+      <dt>Cast</dt>
+      <dd>{{ film | topCast }}.</dd>
+    </div>
+  </dl>
+</article>

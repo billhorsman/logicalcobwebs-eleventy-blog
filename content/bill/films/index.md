@@ -17,15 +17,16 @@ Based on these films, my favourite director is {{ films.top_directors[0].name }}
 
 A few films are in here because I watched them a long time ago and they have a nostalgic appeal. Films like <span class="sentence-list">{% for film in films.nostaligic %}<span><a href="{{ film.slug }}">{{ film.title }}</a></span>{% endfor %}</span>.
 
-One film is in here twice: <a href="purple-noon">Purple Noon</a> (aka Plan Soleil) and <a href="the-talented-mr-ripley">The Talented Mr. Ripley</a>. I would have added it again for Steven Zaillian's 2024 TV miniseries <em>Ripley</em> with Andrew Scott but that's not a film.
+One film is in here twice: <a href="purple-noon-1960">Purple Noon</a> (aka Plan Soleil) and <a href="the-talented-mr-ripley-1999">The Talented Mr. Ripley</a>. I would have added it again for Steven Zaillian's 2024 TV miniseries <em>Ripley</em> with Andrew Scott but that's not a film.
 
 Actors that crop up a lot are <span class="sentence-list">{% for cast in films.top_cast %}<span>{{ cast.name }}</span>{% endfor %}</span>.
 
-### Top {{ films.must_see.length }}
-If you only watch {{ films.must_see.length }} films&hellip;
+### Top {{ must_see_films.list.length }}
+
+If you only watch {{ must_see_films.list.length }} films&hellip;
 
 <ul class="film-list">
-{% for film in films.must_see %}
+{% for filmSlug in must_see_films.list %}
   <li>
     {% include "film.njk" %}
   </li>
@@ -34,14 +35,14 @@ If you only watch {{ films.must_see.length }} films&hellip;
 
 <section class="list">
   <header>
-    <h3>All {{ films.list.length }}</h3>
+    <h3>All {{ top_films.list.length }}</h3>
     <button type="button" data-toggle-list="posters" aria-label="Toggle view">
       <i class="fa-solid fa-list"></i>
       <i class="fa-solid fa-grip posters"></i> 
     </button>
   </header>
   <ul class="film-list">
-  {% for film in films.list %}
+  {% for filmSlug in top_films.list %}
   <li>
     {% include "film.njk" %}
   </li>
