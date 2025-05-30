@@ -14,12 +14,23 @@ ul.film-list {
 section.list {
   position: relative;
 
-  & button[data-toggle-list] {
-    cursor: pointer;
-    position: absolute;
-    top: -2rem;
-    right: 0;
+  & header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
 
+    & h3 {
+      margin: 0;
+    }
+  }
+
+  & button[data-toggle-list] {
+    all: unset;
+    border: 1px solid var(--color-muted);
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 0 0.5rem;
   }
 
   & i:not(.posters) {
@@ -141,10 +152,13 @@ a.film {
   gap: 0.5rem;
 
   & button {
+    all: unset;
+    background-color: white;
     border: 1px solid var(--color-muted);
     border-radius: 5px;
     color: var(--color);
     cursor: pointer;
+    font-size: 2rem;
     padding: 0.25rem 0.5rem;
   }
 

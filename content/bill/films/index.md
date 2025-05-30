@@ -32,13 +32,14 @@ If you only watch {{ films.must_see.length }} films&hellip;
 {% endfor %}
 </ul>
 
-### All {{ films.list.length }}
-
 <section class="list">
-  <button type="button" data-toggle-list="posters" aria-label="Toggle view">
-    <i class="fa-solid fa-list"></i>
-    <i class="fa-solid fa-grip posters"></i> 
-  </button>
+  <header>
+    <h3>All {{ films.list.length }}</h3>
+    <button type="button" data-toggle-list="posters" aria-label="Toggle view">
+      <i class="fa-solid fa-list"></i>
+      <i class="fa-solid fa-grip posters"></i> 
+    </button>
+  </header>
   <ul class="film-list">
   {% for film in films.list %}
   <li>
