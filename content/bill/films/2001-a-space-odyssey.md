@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>11 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/2001-a-space-odyssey.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/2001-a-space-odyssey.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/2001-a-space-odyssey.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/2001-a-space-odyssey.jpg" alt="">
+  </div>
 
   <h1>2001: A Space Odyssey (1968)</h1>
 

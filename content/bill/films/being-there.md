@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>22 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/being-there.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/being-there.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/being-there.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/being-there.jpg" alt="">
+  </div>
 
   <h1>Being There (1979)</h1>
 

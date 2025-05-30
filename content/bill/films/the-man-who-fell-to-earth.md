@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>19 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-man-who-fell-to-earth.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-man-who-fell-to-earth.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-man-who-fell-to-earth.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-man-who-fell-to-earth.jpg" alt="">
+  </div>
 
   <h1>The Man Who Fell to Earth (1976)</h1>
 

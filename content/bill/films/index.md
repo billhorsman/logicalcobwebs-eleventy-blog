@@ -24,19 +24,29 @@ Actors that crop up a lot are <span class="sentence-list">{% for cast in films.t
 ### Top {{ films.must_see.length }}
 If you only watch {{ films.must_see.length }} films&hellip;
 
-<div class="film-list short">
+<ul class="film-list">
 {% for film in films.must_see %}
-<div><a href="{{ film.slug }}"><img src="{{ film.poster }}" alt="{{ film.title }}"></a></div>
+  <li>
+    {% include "film.njk" %}
+  </li>
 {% endfor %}
-</div>
+</ul>
 
 ### All {{ films.list.length }}
 
-<div class="film-list">
-{% for film in films.list %}
-<div><a href="{{ film.slug }}"><img src="{{ film.poster }}" alt="{{ film.title }}"></a></div>
-{% endfor %}
-</div>
+<section class="list">
+  <button type="button" data-toggle-list="posters" aria-label="Toggle view">
+    <i class="fa-solid fa-list"></i>
+    <i class="fa-solid fa-grip posters"></i> 
+  </button>
+  <ul class="film-list">
+  {% for film in films.list %}
+  <li>
+    {% include "film.njk" %}
+  </li>
+  {% endfor %}
+  </ul>
+</section>
 
 <footer>
   <a href="about">About this list</a>

@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>99 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/killers-of-the-flower-moon.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/killers-of-the-flower-moon.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/killers-of-the-flower-moon.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/killers-of-the-flower-moon.jpg" alt="">
+  </div>
 
   <h1>Killers of the Flower Moon (2023)</h1>
 

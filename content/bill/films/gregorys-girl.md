@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>24 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/gregorys-girl.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/gregorys-girl.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/gregorys-girl.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/gregorys-girl.jpg" alt="">
+  </div>
 
   <h1>Gregory's Girl (1981)</h1>
 

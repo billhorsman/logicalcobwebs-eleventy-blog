@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>64 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/mr-turner.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/mr-turner.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/mr-turner.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/mr-turner.jpg" alt="">
+  </div>
 
   <h1>Mr. Turner (2014)</h1>
 

@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>70 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/cest-la-vie.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/cest-la-vie.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/cest-la-vie.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/cest-la-vie.jpg" alt="">
+  </div>
 
   <h1>C'est la vie! (2017)</h1>
 

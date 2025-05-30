@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>66 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-handmaiden.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-handmaiden.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-handmaiden.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-handmaiden.jpg" alt="">
+  </div>
 
   <h1>The Handmaiden (2016)</h1>
 

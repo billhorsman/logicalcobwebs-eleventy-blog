@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>74 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/portrait-of-a-lady-on-fire.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/portrait-of-a-lady-on-fire.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/portrait-of-a-lady-on-fire.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/portrait-of-a-lady-on-fire.jpg" alt="">
+  </div>
 
   <h1>Portrait of a Lady on Fire (2019)</h1>
 

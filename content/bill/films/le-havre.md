@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>60 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/le-havre.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/le-havre.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/le-havre.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/le-havre.jpg" alt="">
+  </div>
 
   <h1>Le Havre (2011)</h1>
 

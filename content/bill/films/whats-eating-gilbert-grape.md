@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>33 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/whats-eating-gilbert-grape.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/whats-eating-gilbert-grape.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/whats-eating-gilbert-grape.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/whats-eating-gilbert-grape.jpg" alt="">
+  </div>
 
   <h1>What's Eating Gilbert Grape (1993)</h1>
 

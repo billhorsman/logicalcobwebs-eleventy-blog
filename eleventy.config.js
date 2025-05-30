@@ -117,6 +117,10 @@ export default async function(eleventyConfig) {
 		return Math.max(diffDays, 0);
 	});
 
+	eleventyConfig.addFilter("nameSentence", (list) => {
+		return list.slice(0, 10).map(o => o.name).join(", ");
+	});
+
 	eleventyConfig.addAsyncShortcode(
 		"shareImageUri",
 		async function shareImageUri(src, format) {

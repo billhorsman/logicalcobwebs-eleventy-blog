@@ -895,43 +895,20 @@ ul {
   overflow: hidden;
 }
 
-.film-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-  margin: 1rem 0;
-
-  & img {
-    filter: grayscale(60%);
-    transition: filter 0.3s ease-in-out;
-  }
-
-  & a:hover img {
-    border-radius: 5px;
-    filter: grayscale(0%);
-    outline: 5px solid var(--color-highlight);
-    z-index: 1;
-  }
-}
-
-.film-list picture {
-  display: flex;
-}
-
-.film-list.short {
-  display: flex;
-  margin: 1rem 0;
-}
-
 article.film {
   margin: 3rem auto 0;
-  position: relative;
+
+  & .backdrop-and-poster {    
+    margin-bottom: 4rem;
+    position: relative;
+  }
 
   & img.poster {
     margin: 0 auto;
     max-width: 100px;
     filter: grayscale(100%) ;
     position: absolute;
-      top: -2rem;
+      bottom: -2rem;
       left: -1rem;
     transform: rotate(-10deg);
   }
@@ -1014,8 +991,4 @@ nav.films {
       content: " and ";
     }
   }
-}
-
-.film-backdrop {
-  margin: 0 -5rem;
 }

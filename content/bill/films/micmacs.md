@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>58 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/micmacs.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/micmacs.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/micmacs.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/micmacs.jpg" alt="">
+  </div>
 
   <h1>Micmacs (2009)</h1>
 

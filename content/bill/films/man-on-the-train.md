@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>49 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/man-on-the-train.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/man-on-the-train.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/man-on-the-train.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/man-on-the-train.jpg" alt="">
+  </div>
 
   <h1>Man on the Train (2002)</h1>
 

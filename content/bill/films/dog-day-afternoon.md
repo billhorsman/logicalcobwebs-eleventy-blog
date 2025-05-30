@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>17 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/dog-day-afternoon.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/dog-day-afternoon.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/dog-day-afternoon.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/dog-day-afternoon.jpg" alt="">
+  </div>
 
   <h1>Dog Day Afternoon (1975)</h1>
 

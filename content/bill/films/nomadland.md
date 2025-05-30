@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>80 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/nomadland.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/nomadland.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/nomadland.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/nomadland.jpg" alt="">
+  </div>
 
   <h1>Nomadland (2021)</h1>
 

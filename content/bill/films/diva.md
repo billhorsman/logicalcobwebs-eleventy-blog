@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>23 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/diva.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/diva.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/diva.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/diva.jpg" alt="">
+  </div>
 
   <h1>Diva (1981)</h1>
 

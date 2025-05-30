@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>59 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/tomboy.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/tomboy.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/tomboy.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/tomboy.jpg" alt="">
+  </div>
 
   <h1>Tomboy (2011)</h1>
 

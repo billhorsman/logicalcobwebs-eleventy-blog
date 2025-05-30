@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>75 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/first-cow.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/first-cow.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/first-cow.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/first-cow.jpg" alt="">
+  </div>
 
   <h1>First Cow (2020)</h1>
 

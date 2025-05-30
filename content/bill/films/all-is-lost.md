@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>61 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/all-is-lost.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/all-is-lost.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/all-is-lost.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/all-is-lost.jpg" alt="">
+  </div>
 
   <h1>All Is Lost (2013)</h1>
 

@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>54 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/in-bruges.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/in-bruges.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/in-bruges.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/in-bruges.jpg" alt="">
+  </div>
 
   <h1>In Bruges (2008)</h1>
 

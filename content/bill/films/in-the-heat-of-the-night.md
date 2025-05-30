@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>10 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/in-the-heat-of-the-night.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/in-the-heat-of-the-night.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/in-the-heat-of-the-night.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/in-the-heat-of-the-night.jpg" alt="">
+  </div>
 
   <h1>In the Heat of the Night (1967)</h1>
 

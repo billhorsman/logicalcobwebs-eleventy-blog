@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>42 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/magnolia.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/magnolia.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/magnolia.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/magnolia.jpg" alt="">
+  </div>
 
   <h1>Magnolia (1999)</h1>
 

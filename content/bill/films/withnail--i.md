@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>29 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/withnail--i.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/withnail--i.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/withnail--i.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/withnail--i.jpg" alt="">
+  </div>
 
   <h1>Withnail & I (1987)</h1>
 

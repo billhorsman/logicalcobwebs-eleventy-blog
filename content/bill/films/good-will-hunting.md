@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>37 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/good-will-hunting.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/good-will-hunting.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/good-will-hunting.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/good-will-hunting.jpg" alt="">
+  </div>
 
   <h1>Good Will Hunting (1997)</h1>
 

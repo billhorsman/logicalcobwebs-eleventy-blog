@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>52 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/hot-fuzz.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/hot-fuzz.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/hot-fuzz.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/hot-fuzz.jpg" alt="">
+  </div>
 
   <h1>Hot Fuzz (2007)</h1>
 

@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>82 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/coda.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/coda.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/coda.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/coda.jpg" alt="">
+  </div>
 
   <h1>CODA (2021)</h1>
 

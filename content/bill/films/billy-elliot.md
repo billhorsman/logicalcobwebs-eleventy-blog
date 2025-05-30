@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>44 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/billy-elliot.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/billy-elliot.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/billy-elliot.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/billy-elliot.jpg" alt="">
+  </div>
 
   <h1>Billy Elliot (2000)</h1>
 

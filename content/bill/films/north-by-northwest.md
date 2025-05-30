@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>4 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/north-by-northwest.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/north-by-northwest.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/north-by-northwest.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/north-by-northwest.jpg" alt="">
+  </div>
 
   <h1>North by Northwest (1959)</h1>
 

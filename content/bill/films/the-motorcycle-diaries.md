@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>51 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-motorcycle-diaries.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-motorcycle-diaries.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-motorcycle-diaries.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-motorcycle-diaries.jpg" alt="">
+  </div>
 
   <h1>The Motorcycle Diaries (2004)</h1>
 

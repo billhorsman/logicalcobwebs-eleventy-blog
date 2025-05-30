@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>41 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-straight-story.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-straight-story.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-straight-story.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-straight-story.jpg" alt="">
+  </div>
 
   <h1>The Straight Story (1999)</h1>
 

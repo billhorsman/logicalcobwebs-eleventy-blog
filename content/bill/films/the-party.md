@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>68 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-party.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-party.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-party.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-party.jpg" alt="">
+  </div>
 
   <h1>The Party (2017)</h1>
 

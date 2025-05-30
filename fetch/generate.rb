@@ -173,8 +173,10 @@ list.each_with_index do |film, index|
     <p>#{index + 1} / #{list.length}</p>
     
     <article class="film">
-      <img class="poster" src="../films/#{film["poster"]}" alt="">
-      <img class="backdrop" src="../films/#{film["backdrop"]}" alt="">
+      <div class="backdrop-and-poster">
+        <img class="poster" src="../films/#{film["poster"]}" alt="">
+        <img class="backdrop" src="../films/#{film["backdrop"]}" alt="">
+      </div>
 
       <h1>#{film["title"]} (#{film["year"]})</h1>
 

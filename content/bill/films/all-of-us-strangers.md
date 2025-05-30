@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>100 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/all-of-us-strangers.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/all-of-us-strangers.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/all-of-us-strangers.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/all-of-us-strangers.jpg" alt="">
+  </div>
 
   <h1>All of Us Strangers (2023)</h1>
 

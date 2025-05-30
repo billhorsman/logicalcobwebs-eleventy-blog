@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>53 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/no-country-for-old-men.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/no-country-for-old-men.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/no-country-for-old-men.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/no-country-for-old-men.jpg" alt="">
+  </div>
 
   <h1>No Country for Old Men (2007)</h1>
 

@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>31 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/night-on-earth.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/night-on-earth.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/night-on-earth.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/night-on-earth.jpg" alt="">
+  </div>
 
   <h1>Night on Earth (1991)</h1>
 

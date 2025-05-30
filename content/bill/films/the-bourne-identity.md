@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>48 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-bourne-identity.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-bourne-identity.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-bourne-identity.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-bourne-identity.jpg" alt="">
+  </div>
 
   <h1>The Bourne Identity (2002)</h1>
 

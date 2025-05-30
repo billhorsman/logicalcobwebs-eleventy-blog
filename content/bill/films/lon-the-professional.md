@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>35 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/lon-the-professional.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/lon-the-professional.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/lon-the-professional.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/lon-the-professional.jpg" alt="">
+  </div>
 
   <h1>Léon: The Professional (1994)</h1>
 

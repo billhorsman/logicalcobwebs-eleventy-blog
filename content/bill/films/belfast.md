@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>87 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/belfast.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/belfast.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/belfast.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/belfast.jpg" alt="">
+  </div>
 
   <h1>Belfast (2021)</h1>
 

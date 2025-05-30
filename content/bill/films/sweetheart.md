@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>84 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/sweetheart.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/sweetheart.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/sweetheart.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/sweetheart.jpg" alt="">
+  </div>
 
   <h1>Sweetheart (2021)</h1>
 

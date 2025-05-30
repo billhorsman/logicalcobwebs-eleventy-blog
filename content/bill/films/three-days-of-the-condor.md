@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>18 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/three-days-of-the-condor.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/three-days-of-the-condor.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/three-days-of-the-condor.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/three-days-of-the-condor.jpg" alt="">
+  </div>
 
   <h1>Three Days of the Condor (1975)</h1>
 

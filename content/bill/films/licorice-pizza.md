@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>89 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/licorice-pizza.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/licorice-pizza.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/licorice-pizza.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/licorice-pizza.jpg" alt="">
+  </div>
 
   <h1>Licorice Pizza (2021)</h1>
 

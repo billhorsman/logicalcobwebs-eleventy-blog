@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>85 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-french-dispatch.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-french-dispatch.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-french-dispatch.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-french-dispatch.jpg" alt="">
+  </div>
 
   <h1>The French Dispatch (2021)</h1>
 

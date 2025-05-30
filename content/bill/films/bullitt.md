@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>12 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/bullitt.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/bullitt.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/bullitt.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/bullitt.jpg" alt="">
+  </div>
 
   <h1>Bullitt (1968)</h1>
 

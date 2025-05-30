@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>55 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/happygolucky.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/happygolucky.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/happygolucky.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/happygolucky.jpg" alt="">
+  </div>
 
   <h1>Happy-Go-Lucky (2008)</h1>
 

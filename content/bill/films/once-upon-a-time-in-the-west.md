@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>13 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/once-upon-a-time-in-the-west.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/once-upon-a-time-in-the-west.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/once-upon-a-time-in-the-west.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/once-upon-a-time-in-the-west.jpg" alt="">
+  </div>
 
   <h1>Once Upon a Time in the West (1968)</h1>
 

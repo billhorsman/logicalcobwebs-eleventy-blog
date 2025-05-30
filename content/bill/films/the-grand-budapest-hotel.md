@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>63 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-grand-budapest-hotel.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-grand-budapest-hotel.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-grand-budapest-hotel.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-grand-budapest-hotel.jpg" alt="">
+  </div>
 
   <h1>The Grand Budapest Hotel (2014)</h1>
 

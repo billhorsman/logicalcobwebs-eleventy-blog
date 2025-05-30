@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>94 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-banshees-of-inisherin.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-banshees-of-inisherin.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-banshees-of-inisherin.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-banshees-of-inisherin.jpg" alt="">
+  </div>
 
   <h1>The Banshees of Inisherin (2022)</h1>
 

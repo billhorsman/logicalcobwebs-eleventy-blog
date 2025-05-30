@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>28 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/brazil.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/brazil.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/brazil.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/brazil.jpg" alt="">
+  </div>
 
   <h1>Brazil (1985)</h1>
 

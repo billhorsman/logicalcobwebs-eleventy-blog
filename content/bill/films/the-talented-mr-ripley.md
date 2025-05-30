@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>43 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-talented-mr-ripley.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-talented-mr-ripley.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-talented-mr-ripley.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-talented-mr-ripley.jpg" alt="">
+  </div>
 
   <h1>The Talented Mr. Ripley (1999)</h1>
 

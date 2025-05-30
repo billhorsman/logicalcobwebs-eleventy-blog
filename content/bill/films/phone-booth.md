@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>50 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/phone-booth.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/phone-booth.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/phone-booth.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/phone-booth.jpg" alt="">
+  </div>
 
   <h1>Phone Booth (2003)</h1>
 

@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>6 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/la-dolce-vita.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/la-dolce-vita.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/la-dolce-vita.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/la-dolce-vita.jpg" alt="">
+  </div>
 
   <h1>La Dolce Vita (1960)</h1>
 

@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>47 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/24-hour-party-people.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/24-hour-party-people.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/24-hour-party-people.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/24-hour-party-people.jpg" alt="">
+  </div>
 
   <h1>24 Hour Party People (2002)</h1>
 

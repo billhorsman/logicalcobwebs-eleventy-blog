@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>14 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/butch-cassidy-and-the-sundance-kid.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/butch-cassidy-and-the-sundance-kid.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/butch-cassidy-and-the-sundance-kid.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/butch-cassidy-and-the-sundance-kid.jpg" alt="">
+  </div>
 
   <h1>Butch Cassidy and the Sundance Kid (1969)</h1>
 

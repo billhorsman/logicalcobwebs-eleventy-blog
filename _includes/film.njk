@@ -1,0 +1,18 @@
+<a href="/bill/films/{{ film.slug }}" class="film">
+  <div class="backdrop">
+    <img src="{{ film.backdrop }}" alt="">
+  </div>
+  <div class="poster">
+    <img src="{{ film.poster }}" alt="">
+  </div>
+  <dl>
+    <dt class="title">Title</dt>
+    <dd class="title">{{ film.title }}</dd>
+    <dt class="year">Year</dt>
+    <dd class="year">{{ film.year }}</dd>
+    <dt class="director">Director</dt>
+    <dd class="director">{{ film.director }}</dd>
+    <dt class="cast">Cast</dt>
+    <dd class="cast">{{ film.cast | nameSentence }}.</dd>
+  </dl>
+</a>

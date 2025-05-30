@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>20 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-deer-hunter.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-deer-hunter.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-deer-hunter.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-deer-hunter.jpg" alt="">
+  </div>
 
   <h1>The Deer Hunter (1978)</h1>
 

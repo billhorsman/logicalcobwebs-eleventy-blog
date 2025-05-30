@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>67 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/maudie.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/maudie.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/maudie.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/maudie.jpg" alt="">
+  </div>
 
   <h1>Maudie (2016)</h1>
 

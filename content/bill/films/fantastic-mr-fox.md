@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>57 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/fantastic-mr-fox.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/fantastic-mr-fox.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/fantastic-mr-fox.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/fantastic-mr-fox.jpg" alt="">
+  </div>
 
   <h1>Fantastic Mr. Fox (2009)</h1>
 

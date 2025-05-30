@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>81 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/petite-maman.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/petite-maman.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/petite-maman.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/petite-maman.jpg" alt="">
+  </div>
 
   <h1>Petite Maman (2021)</h1>
 

@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>15 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/duck-you-sucker.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/duck-you-sucker.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/duck-you-sucker.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/duck-you-sucker.jpg" alt="">
+  </div>
 
   <h1>Duck, You Sucker (1971)</h1>
 

@@ -1,0 +1,154 @@
+ul.film-list {
+  list-style-type: "";
+  padding: 0;
+
+  & li {
+    margin: 0;
+    padding: 2px 0;
+  }
+  & .poster {
+    display: none;
+  }
+}
+
+section.list {
+  position: relative;
+
+  & button[data-toggle-list] {
+    cursor: pointer;
+    position: absolute;
+    top: -2rem;
+    right: 0;
+
+  }
+
+  & i:not(.posters) {
+    display: none;
+  }
+
+  &.posters {
+    & i:not(.posters) {
+      display: inline-block;
+    }
+
+    & i.posters {
+      display: none;
+    }
+
+
+    & ul.film-list  {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    
+      & .film {
+        & .backdrop,
+        & dl {
+          display: none;
+        }
+        & .poster {
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+a.film {
+  color: var(--color);
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  text-decoration: none;
+
+  &:visited,
+  &:focus,
+  &:hover {
+    color: var(--color);
+    text-decoration: none;
+  }
+
+  &:focus-visible,
+  &:hover {
+    border-radius: 5px;
+    outline: 5px solid var(--color-highlight);
+    text-decoration: none;
+  }
+
+  & picture {
+    display: flex;
+  }
+
+  & .backdrop {
+    flex-basis: 200px;
+    min-width: 200px;
+  }
+
+  & .poster {
+    display: none;
+
+    & img {
+      aspect-ratio: 2/3;
+    }
+  }
+  
+  & dl {
+    flex-grow: 1;
+    margin: 0 0 2rem;
+    min-width: 0;
+    max-width: 100%;
+    padding: 0;
+  }
+  
+  & dt {
+    display: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  & dd {
+    display: block;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+  }
+
+  & .title {
+    font-family: var(--industrial);
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 768px) {
+  a.film {
+    flex-direction: row;
+
+    & dl {
+      margin: 0;
+      padding: 0 1rem;
+    }
+  }
+
+}
+
+
+.film-list-toggle {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+
+  & button {
+    border: 1px solid var(--color-muted);
+    border-radius: 5px;
+    color: var(--color);
+    cursor: pointer;
+    padding: 0.25rem 0.5rem;
+  }
+
+  & button[aria-pressed="true"] {
+    border-color: var(--color-highlight);
+  }
+}

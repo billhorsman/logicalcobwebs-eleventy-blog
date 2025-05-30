@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>95 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-fabelmans.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-fabelmans.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-fabelmans.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-fabelmans.jpg" alt="">
+  </div>
 
   <h1>The Fabelmans (2022)</h1>
 

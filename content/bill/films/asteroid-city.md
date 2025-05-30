@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>98 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/asteroid-city.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/asteroid-city.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/asteroid-city.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/asteroid-city.jpg" alt="">
+  </div>
 
   <h1>Asteroid City (2023)</h1>
 

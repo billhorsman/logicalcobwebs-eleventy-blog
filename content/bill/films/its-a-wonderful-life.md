@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>1 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/its-a-wonderful-life.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/its-a-wonderful-life.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/its-a-wonderful-life.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/its-a-wonderful-life.jpg" alt="">
+  </div>
 
   <h1>It's a Wonderful Life (1946)</h1>
 

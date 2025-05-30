@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>72 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/sink-or-swim.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/sink-or-swim.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/sink-or-swim.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/sink-or-swim.jpg" alt="">
+  </div>
 
   <h1>Sink or Swim (2018)</h1>
 

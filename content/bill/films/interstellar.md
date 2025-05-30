@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>65 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/interstellar.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/interstellar.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/interstellar.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/interstellar.jpg" alt="">
+  </div>
 
   <h1>Interstellar (2014)</h1>
 

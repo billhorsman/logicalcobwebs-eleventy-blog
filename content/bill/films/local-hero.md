@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>26 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/local-hero.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/local-hero.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/local-hero.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/local-hero.jpg" alt="">
+  </div>
 
   <h1>Local Hero (1983)</h1>
 

@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>90 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/the-tragedy-of-macbeth.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/the-tragedy-of-macbeth.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/the-tragedy-of-macbeth.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/the-tragedy-of-macbeth.jpg" alt="">
+  </div>
 
   <h1>The Tragedy of Macbeth (2021)</h1>
 

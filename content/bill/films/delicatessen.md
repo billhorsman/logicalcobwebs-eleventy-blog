@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>30 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/delicatessen.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/delicatessen.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/delicatessen.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/delicatessen.jpg" alt="">
+  </div>
 
   <h1>Delicatessen (1991)</h1>
 

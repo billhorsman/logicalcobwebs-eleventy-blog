@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>21 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/apocalypse-now.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/apocalypse-now.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/apocalypse-now.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/apocalypse-now.jpg" alt="">
+  </div>
 
   <h1>Apocalypse Now (1979)</h1>
 

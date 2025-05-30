@@ -12,8 +12,10 @@ layout: layouts/home.njk
 <p>39 / 100</p>
 
 <article class="film">
-  <img class="poster" src="../films/posters/ghost-dog-the-way-of-the-samurai.jpg" alt="">
-  <img class="backdrop" src="../films/backdrops/ghost-dog-the-way-of-the-samurai.jpg" alt="">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="../films/posters/ghost-dog-the-way-of-the-samurai.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/ghost-dog-the-way-of-the-samurai.jpg" alt="">
+  </div>
 
   <h1>Ghost Dog: The Way of the Samurai (1999)</h1>
 
