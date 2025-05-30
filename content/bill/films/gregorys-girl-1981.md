@@ -16,11 +16,11 @@ slug: gregorys-girl-1981
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/gregorys-girl-1981.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/gregorys-girl-1981.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
   </div>
 
-  <h1>Gregory's Girl ({{ film | filmYear }})</h1>
+  <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
   
 
@@ -28,37 +28,21 @@ slug: gregorys-girl-1981
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
+  {% if films.reviews[slug] %}
+    <blockquote> 
+      {{ films.reviews[slug] }} <em>— Bill</em>
+    </blockquote> 
+  {% endif %}
 
   <h2>
     Cast
   </h2>
   <ul>
-            <li><strong>John Gordon Sinclair</strong> as <em>Gregory</em></li>
-        <li><strong>Dee Hepburn</strong> as <em>Dorothy</em></li>
-        <li><strong>Clare Grogan</strong> as <em>Susan</em></li>
-        <li><strong>Jake D'Arcy</strong> as <em>Phil Menzies</em></li>
-        <li><strong>Chic Murray</strong> as <em>Headmaster</em></li>
-        <li><strong>Alex Norton</strong> as <em>Alec</em></li>
-        <li><strong>John Bett</strong> as <em>Alistair</em></li>
-        <li><strong>Dave Anderson</strong> as <em>Gregory's Dad</em></li>
-        <li><strong>Robert Buchanan</strong> as <em>Andy</em></li>
-        <li><strong>Alan Love</strong> as <em>Eric</em></li>
-        <li><strong>Allison Forster</strong> as <em>Madeline</em></li>
-        <li><strong>Carol Macartney</strong> as <em>Margo</em></li>
-        <li><strong>Billy Greenlees</strong> as <em>Steve</em></li>
-        <li><strong>Douglas Sannachan</strong> as <em>Billy</em></li>
-        <li><strong>Caroline Guthrie</strong> as <em>Carol</em></li>
-        <li><strong>Graham Thompson</strong> as <em>Charlie</em></li>
-        <li><strong>Billy Feeley</strong> as <em>Mr. Anderson</em></li>
-        <li><strong>Maeve Watt</strong> as <em>Miss Ford</em></li>
-        <li><strong>Muriel Romanes</strong> as <em>Miss Welch</em></li>
-        <li><strong>Patrick Lewsley</strong> as <em>Mr. Hall</em></li>
-        <li><strong>Ronald Girvin</strong> as <em>Alan</em></li>
-        <li><strong>Patrick Harkins</strong> as <em>Kelvin</em></li>
-        <li><strong>Tony Whitmore</strong> as <em>Gordon</em></li>
-        <li><strong>Denis Criman</strong> as <em>Richard</em></li>
-        <li><strong>Natasha Gerson</strong> as <em>Brenda</em></li>
-        <li><strong>Christopher Higson</strong> as <em>Penguin</em></li>
+    {%- for cast in film.credits.cast -%}
+      <li>
+        <strong>{{ cast.name }}</strong> as <em>{{ cast.character }}</em>
+      </li>
+    {%- endfor -%}
   </ul>
 </article>
 <footer>

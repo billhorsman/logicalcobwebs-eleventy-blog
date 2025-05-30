@@ -16,11 +16,11 @@ slug: petite-maman-2021
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/petite-maman-2021.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/petite-maman-2021.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
   </div>
 
-  <h1>Petite Maman ({{ film | filmYear }})</h1>
+  <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
   
 
@@ -28,19 +28,21 @@ slug: petite-maman-2021
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
+  {% if films.reviews[slug] %}
+    <blockquote> 
+      {{ films.reviews[slug] }} <em>— Bill</em>
+    </blockquote> 
+  {% endif %}
 
   <h2>
     Cast
   </h2>
   <ul>
-            <li><strong>Joséphine Sanz</strong> as <em>Nelly</em></li>
-        <li><strong>Gabrielle Sanz</strong> as <em>Marion</em></li>
-        <li><strong>Nina Meurisse</strong> as <em>La mère</em></li>
-        <li><strong>Stéphane Varupenne</strong> as <em>Le père</em></li>
-        <li><strong>Margot Abascal</strong> as <em>La grand-mère</em></li>
-        <li><strong>Florès Cardo</strong> as <em>Dame maison de retraite</em></li>
-        <li><strong>Josée Schuller</strong> as <em>Dame maison de retraite</em></li>
-        <li><strong>Guylène Péan</strong> as <em>Dame maison de retraite</em></li>
+    {%- for cast in film.credits.cast -%}
+      <li>
+        <strong>{{ cast.name }}</strong> as <em>{{ cast.character }}</em>
+      </li>
+    {%- endfor -%}
   </ul>
 </article>
 <footer>

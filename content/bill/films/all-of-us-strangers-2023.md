@@ -16,11 +16,11 @@ slug: all-of-us-strangers-2023
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/all-of-us-strangers-2023.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/all-of-us-strangers-2023.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
   </div>
 
-  <h1>All of Us Strangers ({{ film | filmYear }})</h1>
+  <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
   
 
@@ -28,17 +28,21 @@ slug: all-of-us-strangers-2023
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
+  {% if films.reviews[slug] %}
+    <blockquote> 
+      {{ films.reviews[slug] }} <em>— Bill</em>
+    </blockquote> 
+  {% endif %}
 
   <h2>
     Cast
   </h2>
   <ul>
-            <li><strong>Andrew Scott</strong> as <em>Adam</em></li>
-        <li><strong>Paul Mescal</strong> as <em>Harry</em></li>
-        <li><strong>Carter John Grout</strong> as <em>Young Adam</em></li>
-        <li><strong>Jamie Bell</strong> as <em>Dad</em></li>
-        <li><strong>Claire Foy</strong> as <em>Mum</em></li>
-        <li><strong>Ami Tredrea</strong> as <em>Waitress</em></li>
+    {%- for cast in film.credits.cast -%}
+      <li>
+        <strong>{{ cast.name }}</strong> as <em>{{ cast.character }}</em>
+      </li>
+    {%- endfor -%}
   </ul>
 </article>
 <footer>

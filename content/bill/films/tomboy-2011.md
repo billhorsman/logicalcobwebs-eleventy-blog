@@ -16,11 +16,11 @@ slug: tomboy-2011
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/tomboy-2011.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/tomboy-2011.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
   </div>
 
-  <h1>Tomboy ({{ film | filmYear }})</h1>
+  <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
   
 
@@ -28,22 +28,21 @@ slug: tomboy-2011
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
+  {% if films.reviews[slug] %}
+    <blockquote> 
+      {{ films.reviews[slug] }} <em>— Bill</em>
+    </blockquote> 
+  {% endif %}
 
   <h2>
     Cast
   </h2>
   <ul>
-            <li><strong>Zoé Héran</strong> as <em>Laure / Mickaël</em></li>
-        <li><strong>Malonn Lévana</strong> as <em>Jeanne</em></li>
-        <li><strong>Jeanne Disson</strong> as <em>Lisa</em></li>
-        <li><strong>Sophie Cattani</strong> as <em>La mère</em></li>
-        <li><strong>Mathieu Demy</strong> as <em>Le père</em></li>
-        <li><strong>Rayan Boubekri</strong> as <em>Rayan</em></li>
-        <li><strong>Yohan Vero</strong> as <em>Vince</em></li>
-        <li><strong>Noah Vero</strong> as <em>Noah</em></li>
-        <li><strong>Cheyenne Lainé</strong> as <em>Cheyenne</em></li>
-        <li><strong>Christel Baras</strong> as <em>La mère de Lisa</em></li>
-        <li><strong>Valérie Roucher</strong> as <em>La mère de Rayan</em></li>
+    {%- for cast in film.credits.cast -%}
+      <li>
+        <strong>{{ cast.name }}</strong> as <em>{{ cast.character }}</em>
+      </li>
+    {%- endfor -%}
   </ul>
 </article>
 <footer>

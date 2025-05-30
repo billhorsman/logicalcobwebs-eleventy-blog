@@ -61,11 +61,11 @@ top_films.each_with_index do |film, index|
     
     <article class="film">
       <div class="backdrop-and-poster">
-        <img class="poster" src="../films/posters/#{film["slug"]}.jpg" alt="">
-        <img class="backdrop" src="../films/backdrops/#{film["slug"]}.jpg" alt="">
+        <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
+        <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
       </div>
 
-      <h1>#{film["title"]} ({{ film | filmYear }})</h1>
+      <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
       #{ "<p>Also known as <strong>#{film["original_title"]}</strong></p>" if film["original_title"].downcase != film["title"].downcase }
 
@@ -73,12 +73,21 @@ top_films.each_with_index do |film, index|
         Directed by <strong>{{ film | directors }}</strong>
       </p>
 
+      {% if films.reviews[slug] %}
+        <blockquote> 
+          {{ films.reviews[slug] }} <em>— Bill</em>
+        </blockquote> 
+      {% endif %}
 
       <h2>
         Cast
       </h2>
       <ul>
-        #{film.dig("credits", "cast").map { |cast| "        <li><strong>#{cast["name"]}</strong> as <em>#{cast["character"]}</em></li>" }.join("\n")}
+        {%- for cast in film.credits.cast -%}
+          <li>
+            <strong>{{ cast.name }}</strong> as <em>{{ cast.character }}</em>
+          </li>
+        {%- endfor -%}
       </ul>
     </article>
     <footer>

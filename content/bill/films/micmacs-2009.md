@@ -16,11 +16,11 @@ slug: micmacs-2009
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/micmacs-2009.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/micmacs-2009.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
   </div>
 
-  <h1>Micmacs ({{ film | filmYear }})</h1>
+  <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
   <p>Also known as <strong>Micmacs à tire-larigot</strong></p>
 
@@ -28,26 +28,21 @@ slug: micmacs-2009
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
+  {% if films.reviews[slug] %}
+    <blockquote> 
+      {{ films.reviews[slug] }} <em>— Bill</em>
+    </blockquote> 
+  {% endif %}
 
   <h2>
     Cast
   </h2>
   <ul>
-            <li><strong>Dany Boon</strong> as <em>Bazil</em></li>
-        <li><strong>Dominique Pinon</strong> as <em>Fracasse</em></li>
-        <li><strong>André Dussollier</strong> as <em>Nicolas Thibault De Fenouillet</em></li>
-        <li><strong>Jean-Pierre Marielle</strong> as <em>Placard</em></li>
-        <li><strong>Julie Ferrier</strong> as <em>Rubber Kid</em></li>
-        <li><strong>Yolande Moreau</strong> as <em>Tambouille</em></li>
-        <li><strong>Michel Crémadès</strong> as <em>Petit Pierre</em></li>
-        <li><strong>Nicolas Marié</strong> as <em>François Marconi</em></li>
-        <li><strong>Omar Sy</strong> as <em>Remington</em></li>
-        <li><strong>Marie-Julie Baup</strong> as <em>Calculette</em></li>
-        <li><strong>Philippe Girard</strong> as <em>Gravier</em></li>
-        <li><strong>Thérèse Roussel</strong> as <em>Old Lady in Bed</em></li>
-        <li><strong>Alix Poisson</strong> as <em>Blue Train Hostess</em></li>
-        <li><strong>Stéphanie Gesnel</strong> as <em>Lewd Technician's Partner</em></li>
-        <li><strong>Juliette Armanet</strong> as <em>Subway Singer</em></li>
+    {%- for cast in film.credits.cast -%}
+      <li>
+        <strong>{{ cast.name }}</strong> as <em>{{ cast.character }}</em>
+      </li>
+    {%- endfor -%}
   </ul>
 </article>
 <footer>

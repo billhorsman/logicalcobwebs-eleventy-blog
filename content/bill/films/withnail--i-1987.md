@@ -16,11 +16,11 @@ slug: withnail--i-1987
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/withnail--i-1987.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/withnail--i-1987.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
   </div>
 
-  <h1>Withnail & I ({{ film | filmYear }})</h1>
+  <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
   
 
@@ -28,25 +28,21 @@ slug: withnail--i-1987
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
+  {% if films.reviews[slug] %}
+    <blockquote> 
+      {{ films.reviews[slug] }} <em>— Bill</em>
+    </blockquote> 
+  {% endif %}
 
   <h2>
     Cast
   </h2>
   <ul>
-            <li><strong>Richard E. Grant</strong> as <em>Withnail</em></li>
-        <li><strong>Paul McGann</strong> as <em>...& I</em></li>
-        <li><strong>Richard Griffiths</strong> as <em>Monty</em></li>
-        <li><strong>Ralph Brown</strong> as <em>Danny</em></li>
-        <li><strong>Michael Elphick</strong> as <em>Jake</em></li>
-        <li><strong>Daragh O'Malley</strong> as <em>Irishman</em></li>
-        <li><strong>Michael Wardle</strong> as <em>Isaac Parkin</em></li>
-        <li><strong>Una Brandon-Jones</strong> as <em>Mrs. Parkin</em></li>
-        <li><strong>Noel Johnson</strong> as <em>General</em></li>
-        <li><strong>Irene Sutcliffe</strong> as <em>Waitress</em></li>
-        <li><strong>Llewellyn Rees</strong> as <em>Tea Shop Proprietor</em></li>
-        <li><strong>Robert Oates</strong> as <em>Policeman 1</em></li>
-        <li><strong>Anthony Wise</strong> as <em>Policeman 2</em></li>
-        <li><strong>Eddie Tagoe</strong> as <em>Presuming Ed</em></li>
+    {%- for cast in film.credits.cast -%}
+      <li>
+        <strong>{{ cast.name }}</strong> as <em>{{ cast.character }}</em>
+      </li>
+    {%- endfor -%}
   </ul>
 </article>
 <footer>

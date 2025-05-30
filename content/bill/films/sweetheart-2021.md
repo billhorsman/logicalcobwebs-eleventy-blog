@@ -16,11 +16,11 @@ slug: sweetheart-2021
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/sweetheart-2021.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/sweetheart-2021.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
   </div>
 
-  <h1>Sweetheart ({{ film | filmYear }})</h1>
+  <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
   
 
@@ -28,22 +28,21 @@ slug: sweetheart-2021
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
+  {% if films.reviews[slug] %}
+    <blockquote> 
+      {{ films.reviews[slug] }} <em>— Bill</em>
+    </blockquote> 
+  {% endif %}
 
   <h2>
     Cast
   </h2>
   <ul>
-            <li><strong>Nell Barlow</strong> as <em>A.J.</em></li>
-        <li><strong>Ella-Rae Smith</strong> as <em>Isla</em></li>
-        <li><strong>Jo Hartley</strong> as <em>Tina</em></li>
-        <li><strong>Sophia Di Martino</strong> as <em>Lucy</em></li>
-        <li><strong>Samuel Anderson</strong> as <em>Steve</em></li>
-        <li><strong>Tabitha Byron</strong> as <em>Dayna</em></li>
-        <li><strong>Steffan Cennydd</strong> as <em>Nathan</em></li>
-        <li><strong>Spike Fearn</strong> as <em>Elvis</em></li>
-        <li><strong>William Andrews</strong> as <em>Phil the Magician</em></li>
-        <li><strong>Anna Antoniades</strong> as <em>Gemma G</em></li>
-        <li><strong>Celeste De Veazey</strong> as <em>Bendy Wendy</em></li>
+    {%- for cast in film.credits.cast -%}
+      <li>
+        <strong>{{ cast.name }}</strong> as <em>{{ cast.character }}</em>
+      </li>
+    {%- endfor -%}
   </ul>
 </article>
 <footer>
