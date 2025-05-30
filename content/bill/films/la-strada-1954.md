@@ -22,6 +22,8 @@ slug: la-strada-1954
 
   <h1>La Strada ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

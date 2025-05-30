@@ -22,6 +22,8 @@ slug: the-banshees-of-inisherin-2022
 
   <h1>The Banshees of Inisherin ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

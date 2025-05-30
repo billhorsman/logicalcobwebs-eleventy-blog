@@ -22,6 +22,8 @@ slug: the-straight-story-1999
 
   <h1>The Straight Story ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

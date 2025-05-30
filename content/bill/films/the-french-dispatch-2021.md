@@ -22,6 +22,8 @@ slug: the-french-dispatch-2021
 
   <h1>The French Dispatch ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

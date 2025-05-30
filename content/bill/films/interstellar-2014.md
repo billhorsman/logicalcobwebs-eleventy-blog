@@ -22,6 +22,8 @@ slug: interstellar-2014
 
   <h1>Interstellar ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

@@ -22,6 +22,8 @@ slug: brazil-1985
 
   <h1>Brazil ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

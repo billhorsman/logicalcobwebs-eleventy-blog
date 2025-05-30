@@ -22,6 +22,8 @@ slug: house-of-gucci-2021
 
   <h1>House of Gucci ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

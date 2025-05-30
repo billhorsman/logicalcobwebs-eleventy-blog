@@ -22,6 +22,8 @@ slug: happygolucky-2008
 
   <h1>Happy-Go-Lucky ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

@@ -22,6 +22,8 @@ slug: paris-texas-1984
 
   <h1>Paris, Texas ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

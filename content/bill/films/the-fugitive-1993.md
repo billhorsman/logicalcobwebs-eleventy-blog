@@ -22,6 +22,8 @@ slug: the-fugitive-1993
 
   <h1>The Fugitive ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

@@ -22,6 +22,8 @@ slug: good-will-hunting-1997
 
   <h1>Good Will Hunting ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

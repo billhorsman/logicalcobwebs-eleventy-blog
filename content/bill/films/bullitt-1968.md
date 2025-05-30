@@ -22,6 +22,8 @@ slug: bullitt-1968
 
   <h1>Bullitt ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

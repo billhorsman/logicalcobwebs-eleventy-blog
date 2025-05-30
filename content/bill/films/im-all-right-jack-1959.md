@@ -22,6 +22,8 @@ slug: im-all-right-jack-1959
 
   <h1>I'm All Right Jack ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

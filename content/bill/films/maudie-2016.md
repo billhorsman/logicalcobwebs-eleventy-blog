@@ -22,6 +22,8 @@ slug: maudie-2016
 
   <h1>Maudie ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

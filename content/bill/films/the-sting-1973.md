@@ -22,6 +22,8 @@ slug: the-sting-1973
 
   <h1>The Sting ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

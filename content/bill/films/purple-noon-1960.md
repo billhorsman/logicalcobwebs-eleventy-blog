@@ -22,6 +22,8 @@ slug: purple-noon-1960
 
   <h1>Purple Noon ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>Plein soleil</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

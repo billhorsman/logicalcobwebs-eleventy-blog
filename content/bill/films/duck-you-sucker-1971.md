@@ -22,6 +22,8 @@ slug: duck-you-sucker-1971
 
   <h1>Duck, You Sucker ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>Giù la testa</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

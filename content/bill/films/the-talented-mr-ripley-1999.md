@@ -22,6 +22,8 @@ slug: the-talented-mr-ripley-1999
 
   <h1>The Talented Mr. Ripley ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

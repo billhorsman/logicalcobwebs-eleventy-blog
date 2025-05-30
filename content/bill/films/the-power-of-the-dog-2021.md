@@ -22,6 +22,8 @@ slug: the-power-of-the-dog-2021
 
   <h1>The Power of the Dog ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

@@ -22,6 +22,8 @@ slug: dallas-buyers-club-2013
 
   <h1>Dallas Buyers Club ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

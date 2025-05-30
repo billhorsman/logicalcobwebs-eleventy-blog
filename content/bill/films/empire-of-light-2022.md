@@ -22,6 +22,8 @@ slug: empire-of-light-2022
 
   <h1>Empire of Light ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

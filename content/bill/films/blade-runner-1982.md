@@ -22,6 +22,8 @@ slug: blade-runner-1982
 
   <h1>Blade Runner ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

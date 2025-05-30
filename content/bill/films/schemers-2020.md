@@ -22,6 +22,8 @@ slug: schemers-2020
 
   <h1>Schemers ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

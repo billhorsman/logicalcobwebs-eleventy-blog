@@ -22,6 +22,8 @@ slug: licorice-pizza-2021
 
   <h1>Licorice Pizza ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

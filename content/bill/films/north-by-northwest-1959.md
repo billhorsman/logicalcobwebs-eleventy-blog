@@ -22,6 +22,8 @@ slug: north-by-northwest-1959
 
   <h1>North by Northwest ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

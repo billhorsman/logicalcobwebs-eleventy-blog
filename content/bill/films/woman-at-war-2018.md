@@ -22,6 +22,8 @@ slug: woman-at-war-2018
 
   <h1>Woman at War ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>Kona fer í stríð</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

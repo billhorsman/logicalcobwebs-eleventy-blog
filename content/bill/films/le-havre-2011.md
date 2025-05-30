@@ -22,6 +22,8 @@ slug: le-havre-2011
 
   <h1>Le Havre ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

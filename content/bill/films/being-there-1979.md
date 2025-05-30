@@ -22,6 +22,8 @@ slug: being-there-1979
 
   <h1>Being There ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

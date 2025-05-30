@@ -22,6 +22,8 @@ slug: mr-turner-2014
 
   <h1>Mr. Turner ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

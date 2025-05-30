@@ -22,6 +22,8 @@ slug: the-party-2017
 
   <h1>The Party ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

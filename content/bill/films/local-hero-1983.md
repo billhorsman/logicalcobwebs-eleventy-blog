@@ -22,6 +22,8 @@ slug: local-hero-1983
 
   <h1>Local Hero ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

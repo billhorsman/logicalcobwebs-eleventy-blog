@@ -22,6 +22,8 @@ slug: blue-jean-2023
 
   <h1>Blue Jean ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

@@ -22,6 +22,8 @@ slug: first-cow-2020
 
   <h1>First Cow ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

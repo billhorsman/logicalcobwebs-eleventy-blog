@@ -22,6 +22,8 @@ slug: barefoot-in-the-park-1967
 
   <h1>Barefoot in the Park ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

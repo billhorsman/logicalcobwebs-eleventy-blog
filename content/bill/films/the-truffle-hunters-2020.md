@@ -22,6 +22,8 @@ slug: the-truffle-hunters-2020
 
   <h1>The Truffle Hunters ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

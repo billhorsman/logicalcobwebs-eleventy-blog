@@ -22,6 +22,8 @@ slug: dog-day-afternoon-1975
 
   <h1>Dog Day Afternoon ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

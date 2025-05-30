@@ -22,6 +22,8 @@ slug: portrait-of-a-lady-on-fire-2019
 
   <h1>Portrait of a Lady on Fire ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>Portrait de la jeune fille en feu</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

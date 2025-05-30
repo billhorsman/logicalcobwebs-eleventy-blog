@@ -22,6 +22,8 @@ slug: black-hawk-down-2001
 
   <h1>Black Hawk Down ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

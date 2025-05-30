@@ -22,6 +22,8 @@ slug: parasite-2019
 
   <h1>Parasite ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>기생충</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

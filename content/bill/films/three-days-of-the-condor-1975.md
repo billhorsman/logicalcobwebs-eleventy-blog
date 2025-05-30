@@ -22,6 +22,8 @@ slug: three-days-of-the-condor-1975
 
   <h1>Three Days of the Condor ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

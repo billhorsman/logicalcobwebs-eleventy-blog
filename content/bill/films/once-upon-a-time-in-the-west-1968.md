@@ -22,6 +22,8 @@ slug: once-upon-a-time-in-the-west-1968
 
   <h1>Once Upon a Time in the West ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>C'era una volta il West</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

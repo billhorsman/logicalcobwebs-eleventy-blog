@@ -22,6 +22,8 @@ slug: 24-hour-party-people-2002
 
   <h1>24 Hour Party People ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

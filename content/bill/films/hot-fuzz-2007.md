@@ -22,6 +22,8 @@ slug: hot-fuzz-2007
 
   <h1>Hot Fuzz ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

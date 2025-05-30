@@ -22,6 +22,8 @@ slug: fantastic-mr-fox-2009
 
   <h1>Fantastic Mr. Fox ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

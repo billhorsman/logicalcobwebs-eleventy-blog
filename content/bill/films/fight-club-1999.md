@@ -22,6 +22,8 @@ slug: fight-club-1999
 
   <h1>Fight Club ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

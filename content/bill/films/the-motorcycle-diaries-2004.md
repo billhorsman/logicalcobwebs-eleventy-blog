@@ -22,6 +22,8 @@ slug: the-motorcycle-diaries-2004
 
   <h1>The Motorcycle Diaries ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>Diarios de motocicleta</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

@@ -22,6 +22,8 @@ slug: asteroid-city-2023
 
   <h1>Asteroid City ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

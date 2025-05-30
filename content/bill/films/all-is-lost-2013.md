@@ -22,6 +22,8 @@ slug: all-is-lost-2013
 
   <h1>All Is Lost ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

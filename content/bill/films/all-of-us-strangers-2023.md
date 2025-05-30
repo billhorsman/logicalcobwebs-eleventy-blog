@@ -22,6 +22,8 @@ slug: all-of-us-strangers-2023
 
   <h1>All of Us Strangers ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

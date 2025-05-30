@@ -67,6 +67,8 @@ top_films.each_with_index do |film, index|
 
       <h1>#{film["title"]} ({{ film | filmYear }})</h1>
 
+      #{ "<p>Also known as <strong>#{film["original_title"]}</strong></p>" if film["original_title"].downcase != film["title"].downcase }
+
       <p class="director">
         Directed by <strong>{{ film | directors }}</strong>
       </p>

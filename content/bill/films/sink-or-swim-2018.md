@@ -22,6 +22,8 @@ slug: sink-or-swim-2018
 
   <h1>Sink or Swim ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>Le Grand Bain</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

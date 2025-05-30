@@ -22,6 +22,8 @@ slug: whisky-galore-1949
 
   <h1>Whisky Galore! ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

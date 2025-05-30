@@ -22,6 +22,8 @@ slug: belfast-2021
 
   <h1>Belfast ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

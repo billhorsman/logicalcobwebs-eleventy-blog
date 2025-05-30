@@ -22,6 +22,8 @@ slug: killers-of-the-flower-moon-2023
 
   <h1>Killers of the Flower Moon ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

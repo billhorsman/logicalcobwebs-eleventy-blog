@@ -22,6 +22,8 @@ slug: its-a-wonderful-life-1946
 
   <h1>It's a Wonderful Life ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

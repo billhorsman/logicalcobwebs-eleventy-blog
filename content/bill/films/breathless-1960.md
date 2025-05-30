@@ -22,6 +22,8 @@ slug: breathless-1960
 
   <h1>Breathless ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>À bout de souffle</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

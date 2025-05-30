@@ -22,6 +22,8 @@ slug: the-fabelmans-2022
 
   <h1>The Fabelmans ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

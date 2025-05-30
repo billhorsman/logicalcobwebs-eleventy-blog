@@ -22,6 +22,8 @@ slug: magnolia-1999
 
   <h1>Magnolia ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

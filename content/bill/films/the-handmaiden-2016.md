@@ -22,6 +22,8 @@ slug: the-handmaiden-2016
 
   <h1>The Handmaiden ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>아가씨</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

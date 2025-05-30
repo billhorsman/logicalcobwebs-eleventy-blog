@@ -22,6 +22,8 @@ slug: in-the-heat-of-the-night-1967
 
   <h1>In the Heat of the Night ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

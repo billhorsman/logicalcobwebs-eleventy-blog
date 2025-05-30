@@ -22,6 +22,8 @@ slug: whats-eating-gilbert-grape-1993
 
   <h1>What's Eating Gilbert Grape ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

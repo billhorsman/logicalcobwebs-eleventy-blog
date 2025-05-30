@@ -22,6 +22,8 @@ slug: gregorys-girl-1981
 
   <h1>Gregory's Girl ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

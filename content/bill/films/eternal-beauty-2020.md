@@ -22,6 +22,8 @@ slug: eternal-beauty-2020
 
   <h1>Eternal Beauty ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

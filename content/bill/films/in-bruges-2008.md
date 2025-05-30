@@ -22,6 +22,8 @@ slug: in-bruges-2008
 
   <h1>In Bruges ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

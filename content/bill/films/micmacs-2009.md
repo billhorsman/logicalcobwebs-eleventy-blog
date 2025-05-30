@@ -22,6 +22,8 @@ slug: micmacs-2009
 
   <h1>Micmacs ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>Micmacs à tire-larigot</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

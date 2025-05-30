@@ -22,6 +22,8 @@ slug: apocalypse-now-1979
 
   <h1>Apocalypse Now ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

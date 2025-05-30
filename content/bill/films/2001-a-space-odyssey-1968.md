@@ -22,6 +22,8 @@ slug: 2001-a-space-odyssey-1968
 
   <h1>2001: A Space Odyssey ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

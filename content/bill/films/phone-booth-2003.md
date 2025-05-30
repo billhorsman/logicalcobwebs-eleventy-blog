@@ -22,6 +22,8 @@ slug: phone-booth-2003
 
   <h1>Phone Booth ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

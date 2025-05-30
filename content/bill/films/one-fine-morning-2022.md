@@ -22,6 +22,8 @@ slug: one-fine-morning-2022
 
   <h1>One Fine Morning ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>Un beau matin</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

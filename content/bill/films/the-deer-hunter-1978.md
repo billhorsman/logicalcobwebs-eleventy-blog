@@ -22,6 +22,8 @@ slug: the-deer-hunter-1978
 
   <h1>The Deer Hunter ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

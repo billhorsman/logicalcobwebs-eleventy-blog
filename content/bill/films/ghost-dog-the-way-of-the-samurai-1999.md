@@ -22,6 +22,8 @@ slug: ghost-dog-the-way-of-the-samurai-1999
 
   <h1>Ghost Dog: The Way of the Samurai ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

@@ -22,6 +22,8 @@ slug: fargo-1996
 
   <h1>Fargo ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

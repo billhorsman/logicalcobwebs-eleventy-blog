@@ -22,6 +22,8 @@ slug: the-grand-budapest-hotel-2014
 
   <h1>The Grand Budapest Hotel ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

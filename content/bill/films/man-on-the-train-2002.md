@@ -22,6 +22,8 @@ slug: man-on-the-train-2002
 
   <h1>Man on the Train ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>L'Homme du train</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

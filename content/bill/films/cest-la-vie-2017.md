@@ -22,6 +22,8 @@ slug: cest-la-vie-2017
 
   <h1>C'est la vie! ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>Le Sens de la fête</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

@@ -22,6 +22,8 @@ slug: night-on-earth-1991
 
   <h1>Night on Earth ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

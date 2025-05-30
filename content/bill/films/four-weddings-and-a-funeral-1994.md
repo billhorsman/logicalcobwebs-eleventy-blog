@@ -22,6 +22,8 @@ slug: four-weddings-and-a-funeral-1994
 
   <h1>Four Weddings and a Funeral ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

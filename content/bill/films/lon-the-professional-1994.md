@@ -22,6 +22,8 @@ slug: lon-the-professional-1994
 
   <h1>Léon: The Professional ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>Léon</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

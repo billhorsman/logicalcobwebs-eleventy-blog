@@ -22,6 +22,8 @@ slug: delicatessen-1991
 
   <h1>Delicatessen ({{ film | filmYear }})</h1>
 
+  
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>

@@ -22,6 +22,8 @@ slug: amlie-2001
 
   <h1>Amélie ({{ film | filmYear }})</h1>
 
+  <p>Also known as <strong>Le Fabuleux Destin d'Amélie Poulain</strong></p>
+
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
   </p>
