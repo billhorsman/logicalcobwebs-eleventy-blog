@@ -2,7 +2,6 @@
 title: Light and dark
 description: Adding light and dark color controls to this site
 excerpt: This site has had a light and dark mode for a while but now you can toggle it on the site.
-canonical: https://logicalcobwebs.com/blog/2024/color-scheme
 ogImage: content/blog/2024/color-scheme/og.png
 date: 2024-12-11
 author: Bill Horsman

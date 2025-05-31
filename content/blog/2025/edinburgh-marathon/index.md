@@ -1,7 +1,6 @@
 ---
 title: Edinburgh Marathon 2025
 description: Bill is running the Edinburgh Marathon in aid of Macmillan Cancer Support
-canonical: https://logicalcobwebs.com/blog/2025/edinburgh-marathon/
 ogImage: content/blog/2025/edinburgh-marathon/cover.jpg
 date: 2025-03-31
 author: Bill Horsman

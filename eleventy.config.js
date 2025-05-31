@@ -159,6 +159,20 @@ export default async function(eleventyConfig) {
 		}
 	);
 	
+	eleventyConfig.addAsyncShortcode(
+		"canonicalUrlToUse",
+		async function (canonicalUrl) {
+			let url = canonicalUrl
+			if (!url) {
+				url = this.page.url;
+			}	
+			if (!url.startsWith("http")) {
+				url = `https://logicalcobwebs.com${url}`;
+			}
+			return url;
+		}
+	);
+	
 	
 
 	// Features to make your build faster (when you need them)

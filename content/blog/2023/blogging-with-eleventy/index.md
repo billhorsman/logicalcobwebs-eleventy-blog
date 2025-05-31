@@ -2,7 +2,6 @@
 title: Blogging with Eleventy
 description: Adding a blog to this website (which you are now reading)
 excerpt: Adding a blog to this website (which you are now reading)
-canonical: https://logicalcobwebs.com/blog/2023/blogging-with-eleventy/
 ogImage: content/blog/2023/blogging-with-eleventy/eleventy.png
 date: 2023-03-27
 author: Bill Horsman

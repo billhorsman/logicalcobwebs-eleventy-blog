@@ -2,7 +2,6 @@
 title: Not The Heb
 description: Tour on the Edge, adventures on the Outer Hebrides
 excerpt: Tour on the Edge, adventures on the Outer Hebrides
-canonical: https://logicalcobwebs.com/blog/2020/not-the-heb/
 ogImage: content/blog/2020/not-the-heb/wednesday-1.webp
 date: 2020-10-18
 author: Bill Horsman

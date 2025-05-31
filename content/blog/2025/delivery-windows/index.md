@@ -1,7 +1,6 @@
 ---
 title: Delivery window m(i)nifesto
 description: How they should work, what's not acceptable, general ranting
-canonical: https://logicalcobwebs.com/blog/2025/delivery-windows
 date: 2025-05-03
 author: Bill Horsman
 tags:

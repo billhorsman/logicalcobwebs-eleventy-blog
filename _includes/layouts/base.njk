@@ -5,10 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title or metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
-    {% if canonical or metadata.canonical %}
-      <link rel="canonical" href="{{ canonical or metadata.canonical }}" />
-      <meta property="og:url" content="{{ canonical or metadata.canonical }}">
-    {% endif %}
+    <link rel="canonical" href="{% canonicalUrlToUse canonicalUrl %}" />
+    <meta property="og:url" content="{% canonicalUrlToUse canonicalUrl %}">
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ title or metadata.title }}">
     <meta property="og:description" content="{{ description or metadata.description }}">

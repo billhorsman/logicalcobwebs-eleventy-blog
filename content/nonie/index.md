@@ -3,7 +3,6 @@ title: Nonie Coulthard
 description: Nonie Coulthard is a nature conservationist
 excerpt: Nonie Coulthard is a nature conservationist
 layout: layouts/home.njk
-canonical: https://logicalcobwebs.com/nonie/
 ogImage: content/nonie/nonie.webp
 eleventyNavigation:
   key: Nonie

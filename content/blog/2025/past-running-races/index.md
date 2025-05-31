@@ -1,7 +1,6 @@
 ---
 title: Past running races
 description: Races I've done over the years and have almost forgotten about
-canonical: https://logicalcobwebs.com/blog/2025/past-running-races/
 ogImage: content/blog/2025/past-running-races/shoes.png
 date: 2025-04-29
 author: Bill Horsman

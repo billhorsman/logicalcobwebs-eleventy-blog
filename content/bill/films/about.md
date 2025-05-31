@@ -1,7 +1,6 @@
 ---
 title: About Films
 description: How this list was built
-canonical: https://logicalcobwebs.com/bill/films/about
 layout: layouts/home.njk
 ---
 

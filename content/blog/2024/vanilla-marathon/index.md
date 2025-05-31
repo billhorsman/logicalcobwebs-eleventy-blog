@@ -2,7 +2,6 @@
 title: Vanilla Marathon
 description: An animation of a marathon distance using only HTML, Modern CSS and Vanilla JavaScript. Vanilla JavaScript means using no libraries of frameworks.
 excerpt: Running a marathon, virtually.
-canonical: https://logicalcobwebs.com/blog/2024/vanilla-marathon
 ogImage: content/blog/2024/vanilla-marathon/og.png
 date: 2024-05-23
 author: Bill Horsman

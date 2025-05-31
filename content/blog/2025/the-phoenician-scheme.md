@@ -1,7 +1,7 @@
 ---
 title: The Phoenician Scheme Review
-canonical: https://logicalcobwebs.com/blog/2025/edinburgh-marathon/
 ogImage: content/bill/films/backdrops/the-phoenician-scheme-2025.jpg
+description: Bill's review of The Phoenician Scheme by Wes Anderson — 8/10. 
 filmSlug: the-phoenician-scheme-2025
 tags: films
 ---

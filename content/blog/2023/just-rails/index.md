@@ -2,7 +2,6 @@
 title: Just Rails
 description: Building an app with Rails 7 and Hotwire
 excerpt: Stepping away from Webpack and JSON API driven UIs
-canonical: https://logicalcobwebs.com/blog/2023/just-rails/
 ogImage: content/blog/2023/just-rails/rails.png
 date: 2023-12-15
 author: Bill Horsman

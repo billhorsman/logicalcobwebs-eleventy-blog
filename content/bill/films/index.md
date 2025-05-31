@@ -2,7 +2,6 @@
 title: Films
 description: Films that Bill Horsman likes
 excerpt: A work in progress while I attempt to remember all the films I like
-canonical: https://logicalcobwebs.com/bill/films
 ogImage: content/bill/bill.webp
 layout: layouts/home.njk
 ---
