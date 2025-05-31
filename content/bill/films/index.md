@@ -24,8 +24,9 @@ Actors that crop up a lot are <span class="sentence-list">{% for cast in films.t
 
 If you only watch {{ must_see_films.list.length }} films&hellip;
 
-<ul class="film-list with-reviews">
+<ul class="film-list">
 {% for filmSlug in must_see_films.list %}
+  {% set review = films.reviews[filmSlug] %}
   <li>
     {% include "film.njk" %}
   </li>
