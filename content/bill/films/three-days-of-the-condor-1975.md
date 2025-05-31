@@ -2,6 +2,8 @@
 title: "Three Days of the Condor"
 layout: layouts/home.njk
 slug: three-days-of-the-condor-1975
+ogImage: content/bill/films/backdrops/three-days-of-the-condor-1975.jpg
+description: "When bookish CIA researcher Joe Turner finds all his co-workers dead, he, together with a woman he has kidnapped, must work together to outwit those responsible until he determines who he can really trust."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: three-days-of-the-condor-1975
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

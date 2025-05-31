@@ -2,6 +2,8 @@
 title: "Gregory's Girl"
 layout: layouts/home.njk
 slug: gregorys-girl-1981
+ogImage: content/bill/films/backdrops/gregorys-girl-1981.jpg
+description: "A teenager falls hard for the female soccer player who has replaced him on the team and attempts to pursue her."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: gregorys-girl-1981
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

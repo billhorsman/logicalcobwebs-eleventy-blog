@@ -2,6 +2,8 @@
 title: "Mr. Turner"
 layout: layouts/home.njk
 slug: mr-turner-2014
+ogImage: content/bill/films/backdrops/mr-turner-2014.jpg
+description: "Eccentric British painter J.M.W. Turner  lives his last 25 years with gusto and secretly becomes involved with a seaside landlady, while his faithful housekeeper bears an unrequited love for him."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: mr-turner-2014
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

@@ -2,6 +2,8 @@
 title: "Le Havre"
 layout: layouts/home.njk
 slug: le-havre-2011
+ogImage: content/bill/films/backdrops/le-havre-2011.jpg
+description: "In the French harbor city of Le Havre, fate throws young African refugee Idrissa into the path of Marcel Marx, a well-spoken bohemian who works as a shoe-shiner. With innate optimism and the tireless support of his community, Marcel stands up to officials pursuing the boy for deportation."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: le-havre-2011
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

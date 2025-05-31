@@ -2,6 +2,8 @@
 title: "The Tragedy of Macbeth"
 layout: layouts/home.njk
 slug: the-tragedy-of-macbeth-2021
+ogImage: content/bill/films/backdrops/the-tragedy-of-macbeth-2021.jpg
+description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-tragedy-of-macbeth-2021
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

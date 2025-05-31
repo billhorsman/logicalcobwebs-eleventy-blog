@@ -2,6 +2,8 @@
 title: "Petite Maman"
 layout: layouts/home.njk
 slug: petite-maman-2021
+ogImage: content/bill/films/backdrops/petite-maman-2021.jpg
+description: "After the death of her beloved grandmother, eight-year-old Nelly meets a strangely familiar girl her own age in the woods. Instantly forming a connection with this mysterious new friend, Nelly embarks on a fantastical journey of discovery which helps her come to terms with this newfound loss."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: petite-maman-2021
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

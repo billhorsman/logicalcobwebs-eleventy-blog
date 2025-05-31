@@ -2,6 +2,8 @@
 title: "Blade Runner"
 layout: layouts/home.njk
 slug: blade-runner-1982
+ogImage: content/bill/films/backdrops/blade-runner-1982.jpg
+description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: blade-runner-1982
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

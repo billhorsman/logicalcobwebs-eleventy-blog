@@ -2,6 +2,8 @@
 title: "Nomadland"
 layout: layouts/home.njk
 slug: nomadland-2021
+ogImage: content/bill/films/backdrops/nomadland-2021.jpg
+description: "A woman in her sixties embarks on a journey through the western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: nomadland-2021
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

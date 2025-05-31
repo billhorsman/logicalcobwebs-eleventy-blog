@@ -2,6 +2,8 @@
 title: "First Cow"
 layout: layouts/home.njk
 slug: first-cow-2020
+ogImage: content/bill/films/backdrops/first-cow-2020.jpg
+description: "In the 1820s, a taciturn loner and skilled cook travels west to Oregon Territory, where he meets a Chinese immigrant also seeking his fortune. Soon the two team up on a dangerous scheme to steal milk from the wealthy landowner’s prized Jersey cow – the first, and only, in the territory."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: first-cow-2020
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

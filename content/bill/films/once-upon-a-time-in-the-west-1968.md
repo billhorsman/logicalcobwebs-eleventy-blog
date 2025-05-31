@@ -2,6 +2,8 @@
 title: "Once Upon a Time in the West"
 layout: layouts/home.njk
 slug: once-upon-a-time-in-the-west-1968
+ogImage: content/bill/films/backdrops/once-upon-a-time-in-the-west-1968.jpg
+description: "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: once-upon-a-time-in-the-west-1968
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

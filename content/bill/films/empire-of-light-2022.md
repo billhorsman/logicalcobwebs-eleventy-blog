@@ -2,6 +2,8 @@
 title: "Empire of Light"
 layout: layouts/home.njk
 slug: empire-of-light-2022
+ogImage: content/bill/films/backdrops/empire-of-light-2022.jpg
+description: "The duty manager of a seaside cinema, who is struggling with her mental health, forms a relationship with a new employee on the south coast of England in the 1980s."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: empire-of-light-2022
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

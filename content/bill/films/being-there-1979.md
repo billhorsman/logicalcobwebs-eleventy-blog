@@ -2,6 +2,8 @@
 title: "Being There"
 layout: layouts/home.njk
 slug: being-there-1979
+ogImage: content/bill/films/backdrops/being-there-1979.jpg
+description: "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: being-there-1979
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

@@ -2,6 +2,8 @@
 title: "Limbo"
 layout: layouts/home.njk
 slug: limbo-2020
+ogImage: content/bill/films/backdrops/limbo-2020.jpg
+description: "An offbeat observation of refugees waiting to be granted asylum on a fictional remote Scottish island. It focuses on Omar, a young Syrian musician who is burdened by the weight of his grandfather’s oud, which he has carried all the way from his homeland."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: limbo-2020
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

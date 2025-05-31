@@ -2,6 +2,8 @@
 title: "Hot Fuzz"
 layout: layouts/home.njk
 slug: hot-fuzz-2007
+ogImage: content/bill/films/backdrops/hot-fuzz-2007.jpg
+description: "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: hot-fuzz-2007
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

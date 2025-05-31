@@ -2,6 +2,8 @@
 title: "Dog Day Afternoon"
 layout: layouts/home.njk
 slug: dog-day-afternoon-1975
+ogImage: content/bill/films/backdrops/dog-day-afternoon-1975.jpg
+description: "Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturile. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: dog-day-afternoon-1975
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

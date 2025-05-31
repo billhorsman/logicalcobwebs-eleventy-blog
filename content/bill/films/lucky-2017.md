@@ -2,6 +2,8 @@
 title: "Lucky"
 layout: layouts/home.njk
 slug: lucky-2017
+ogImage: content/bill/films/backdrops/lucky-2017.jpg
+description: "Follows the journey of a 90-year-old atheist and the quirky characters that inhabit his off-the-map desert town. He finds himself at the precipice of life, thrust into a journey of self-exploration."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: lucky-2017
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

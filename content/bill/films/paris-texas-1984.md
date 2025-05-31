@@ -2,6 +2,8 @@
 title: "Paris, Texas"
 layout: layouts/home.njk
 slug: paris-texas-1984
+ogImage: content/bill/films/backdrops/paris-texas-1984.jpg
+description: "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: paris-texas-1984
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

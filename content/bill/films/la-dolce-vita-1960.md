@@ -2,6 +2,8 @@
 title: "La Dolce Vita"
 layout: layouts/home.njk
 slug: la-dolce-vita-1960
+ogImage: content/bill/films/backdrops/la-dolce-vita-1960.jpg
+description: "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: la-dolce-vita-1960
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

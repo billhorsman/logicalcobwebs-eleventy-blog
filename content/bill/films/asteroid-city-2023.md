@@ -2,6 +2,8 @@
 title: "Asteroid City"
 layout: layouts/home.njk
 slug: asteroid-city-2023
+ogImage: content/bill/films/backdrops/asteroid-city-2023.jpg
+description: "In an American desert town circa 1955, the itinerary of a Junior Stargazer/Space Cadet convention is spectacularly disrupted by world-changing events."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: asteroid-city-2023
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

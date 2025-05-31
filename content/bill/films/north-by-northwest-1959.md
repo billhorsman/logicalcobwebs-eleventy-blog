@@ -2,6 +2,8 @@
 title: "North by Northwest"
 layout: layouts/home.njk
 slug: north-by-northwest-1959
+ogImage: content/bill/films/backdrops/north-by-northwest-1959.jpg
+description: "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: north-by-northwest-1959
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

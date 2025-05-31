@@ -2,6 +2,8 @@
 title: "Dallas Buyers Club"
 layout: layouts/home.njk
 slug: dallas-buyers-club-2013
+ogImage: content/bill/films/backdrops/dallas-buyers-club-2013.jpg
+description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: dallas-buyers-club-2013
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

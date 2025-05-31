@@ -2,6 +2,8 @@
 title: "Between Two Worlds"
 layout: layouts/home.njk
 slug: between-two-worlds-2022
+ogImage: content/bill/films/backdrops/between-two-worlds-2022.jpg
+description: "Marianne Winckler relocates to the port city of Caen in order to pass herself off as a member of a large community of itinerant workers desperate to make ends meet. She gains employment as a cleaner on a ferry travelling between Ouistreham and Portsmouth, recording the drudgery of the work she and her colleagues are required to do."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: between-two-worlds-2022
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

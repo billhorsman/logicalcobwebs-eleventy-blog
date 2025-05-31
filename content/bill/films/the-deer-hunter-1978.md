@@ -2,6 +2,8 @@
 title: "The Deer Hunter"
 layout: layouts/home.njk
 slug: the-deer-hunter-1978
+ogImage: content/bill/films/backdrops/the-deer-hunter-1978.jpg
+description: "A group of working-class friends decide to enlist in the Army during the Vietnam War and finds it to be hellish chaos -- not the noble venture they imagined. Before they left, Steven married his pregnant girlfriend -- and Michael and Nick were in love with the same woman. But all three are different men upon their return."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-deer-hunter-1978
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

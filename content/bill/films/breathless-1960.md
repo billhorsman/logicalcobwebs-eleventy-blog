@@ -2,6 +2,8 @@
 title: "Breathless"
 layout: layouts/home.njk
 slug: breathless-1960
+ogImage: content/bill/films/backdrops/breathless-1960.jpg
+description: "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: breathless-1960
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

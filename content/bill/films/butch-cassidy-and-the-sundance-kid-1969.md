@@ -2,6 +2,8 @@
 title: "Butch Cassidy and the Sundance Kid"
 layout: layouts/home.njk
 slug: butch-cassidy-and-the-sundance-kid-1969
+ogImage: content/bill/films/backdrops/butch-cassidy-and-the-sundance-kid-1969.jpg
+description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: butch-cassidy-and-the-sundance-kid-1969
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

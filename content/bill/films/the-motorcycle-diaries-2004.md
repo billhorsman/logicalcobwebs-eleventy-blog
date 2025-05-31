@@ -2,6 +2,8 @@
 title: "The Motorcycle Diaries"
 layout: layouts/home.njk
 slug: the-motorcycle-diaries-2004
+ogImage: content/bill/films/backdrops/the-motorcycle-diaries-2004.jpg
+description: "Based on the journals of Che Guevara, leader of the Cuban Revolution. In his memoirs, Guevara recounts adventures he and best friend Alberto Granado had while crossing South America by motorcycle in the early 1950s."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-motorcycle-diaries-2004
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

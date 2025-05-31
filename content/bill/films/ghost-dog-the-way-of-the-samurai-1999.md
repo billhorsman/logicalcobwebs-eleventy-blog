@@ -2,6 +2,8 @@
 title: "Ghost Dog: The Way of the Samurai"
 layout: layouts/home.njk
 slug: ghost-dog-the-way-of-the-samurai-1999
+ogImage: content/bill/films/backdrops/ghost-dog-the-way-of-the-samurai-1999.jpg
+description: "An African-American Mafia hit man who models himself after the samurai of ancient Japan finds himself targeted for death by the mob."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: ghost-dog-the-way-of-the-samurai-1999
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

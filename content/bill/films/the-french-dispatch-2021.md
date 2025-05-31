@@ -2,6 +2,8 @@
 title: "The French Dispatch"
 layout: layouts/home.njk
 slug: the-french-dispatch-2021
+ogImage: content/bill/films/backdrops/the-french-dispatch-2021.jpg
+description: "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-french-dispatch-2021
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

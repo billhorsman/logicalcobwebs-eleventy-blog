@@ -2,6 +2,8 @@
 title: "The Talented Mr. Ripley"
 layout: layouts/home.njk
 slug: the-talented-mr-ripley-1999
+ogImage: content/bill/films/backdrops/the-talented-mr-ripley-1999.jpg
+description: "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-talented-mr-ripley-1999
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

@@ -2,6 +2,8 @@
 title: "Man on the Train"
 layout: layouts/home.njk
 slug: man-on-the-train-2002
+ogImage: content/bill/films/backdrops/man-on-the-train-2002.jpg
+description: "A man, Milan steps off a train, into a small French village. As he waits for the day when he will rob the town bank, he runs into an old retired poetry teacher named M. Manesquier. The two men strike up a strange friendship and explore the road not taken, each wanting to live the other's life."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: man-on-the-train-2002
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

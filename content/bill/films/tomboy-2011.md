@@ -2,6 +2,8 @@
 title: "Tomboy"
 layout: layouts/home.njk
 slug: tomboy-2011
+ogImage: content/bill/films/backdrops/tomboy-2011.jpg
+description: "A French family moves to a new neighborhood with during the summer holidays. The story follows a 10-year-old gender non-conforming child, Laure, who experiments with their gender presentation, adopting the name Mikäel."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: tomboy-2011
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

@@ -47,6 +47,8 @@ top_films.each_with_index do |film, index|
     title: "#{film["title"]}"
     layout: layouts/home.njk
     slug: #{film["slug"]}
+    ogImage: content/bill/films/backdrops/#{film["slug"]}.jpg
+    description: "#{film["overview"].gsub('"', '\"')}"
     ---
 
     {% set film = films[slug] %}
@@ -61,8 +63,8 @@ top_films.each_with_index do |film, index|
     
     <article class="film">
       <div class="backdrop-and-poster">
-        <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-        <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+        <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+        <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
       </div>
 
       <h1>{{ film.title }} ({{ film | filmYear }})</h1>

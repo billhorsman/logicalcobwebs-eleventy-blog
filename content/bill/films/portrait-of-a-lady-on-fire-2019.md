@@ -2,6 +2,8 @@
 title: "Portrait of a Lady on Fire"
 layout: layouts/home.njk
 slug: portrait-of-a-lady-on-fire-2019
+ogImage: content/bill/films/backdrops/portrait-of-a-lady-on-fire-2019.jpg
+description: "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: portrait-of-a-lady-on-fire-2019
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

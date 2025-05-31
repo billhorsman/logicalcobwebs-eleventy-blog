@@ -2,6 +2,8 @@
 title: "2001: A Space Odyssey"
 layout: layouts/home.njk
 slug: 2001-a-space-odyssey-1968
+ogImage: content/bill/films/backdrops/2001-a-space-odyssey-1968.jpg
+description: "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: 2001-a-space-odyssey-1968
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

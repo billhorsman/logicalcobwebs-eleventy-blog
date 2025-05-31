@@ -2,6 +2,8 @@
 title: "Fantastic Mr. Fox"
 layout: layouts/home.njk
 slug: fantastic-mr-fox-2009
+ogImage: content/bill/films/backdrops/fantastic-mr-fox-2009.jpg
+description: "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: fantastic-mr-fox-2009
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

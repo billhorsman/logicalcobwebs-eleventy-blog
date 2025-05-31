@@ -2,6 +2,8 @@
 title: "Delicatessen"
 layout: layouts/home.njk
 slug: delicatessen-1991
+ogImage: content/bill/films/backdrops/delicatessen-1991.jpg
+description: "In a post-apocalyptic world, the residents of an apartment above the butcher shop receive an occasional delicacy of meat, something that is in low supply. A young man new in town falls in love with the butcher's daughter, which causes conflicts in her family, who need the young man for other business-related purposes."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: delicatessen-1991
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

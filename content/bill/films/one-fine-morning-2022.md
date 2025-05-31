@@ -2,6 +2,8 @@
 title: "One Fine Morning"
 layout: layouts/home.njk
 slug: one-fine-morning-2022
+ogImage: content/bill/films/backdrops/one-fine-morning-2022.jpg
+description: "With a father suffering from neurodegenerative disease, a young woman lives with her eight-year-old daughter. While struggling to secure a decent nursing home, she runs into an unavailable friend with whom she embarks on an affair."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: one-fine-morning-2022
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

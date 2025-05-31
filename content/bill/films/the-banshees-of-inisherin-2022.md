@@ -2,6 +2,8 @@
 title: "The Banshees of Inisherin"
 layout: layouts/home.njk
 slug: the-banshees-of-inisherin-2022
+ogImage: content/bill/films/backdrops/the-banshees-of-inisherin-2022.jpg
+description: "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-banshees-of-inisherin-2022
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

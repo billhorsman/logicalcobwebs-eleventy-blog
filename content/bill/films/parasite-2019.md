@@ -2,6 +2,8 @@
 title: "Parasite"
 layout: layouts/home.njk
 slug: parasite-2019
+ogImage: content/bill/films/backdrops/parasite-2019.jpg
+description: "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: parasite-2019
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

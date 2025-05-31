@@ -2,6 +2,8 @@
 title: "Killers of the Flower Moon"
 layout: layouts/home.njk
 slug: killers-of-the-flower-moon-2023
+ogImage: content/bill/films/backdrops/killers-of-the-flower-moon-2023.jpg
+description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: killers-of-the-flower-moon-2023
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

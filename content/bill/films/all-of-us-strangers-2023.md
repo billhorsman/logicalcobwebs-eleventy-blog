@@ -2,6 +2,8 @@
 title: "All of Us Strangers"
 layout: layouts/home.njk
 slug: all-of-us-strangers-2023
+ogImage: content/bill/films/backdrops/all-of-us-strangers-2023.jpg
+description: "One night in his near-empty tower block in contemporary London, Adam has a chance encounter with a mysterious neighbor Harry, which punctures the rhythm of his everyday life."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: all-of-us-strangers-2023
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

@@ -2,6 +2,8 @@
 title: "Maudie"
 layout: layouts/home.njk
 slug: maudie-2016
+ogImage: content/bill/films/backdrops/maudie-2016.jpg
+description: "Canadian folk artist Maud Lewis falls in love with a fishmonger while working for him as a live-in housekeeper."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: maudie-2016
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

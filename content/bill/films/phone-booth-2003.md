@@ -2,6 +2,8 @@
 title: "Phone Booth"
 layout: layouts/home.njk
 slug: phone-booth-2003
+ogImage: content/bill/films/backdrops/phone-booth-2003.jpg
+description: "A slick New York publicist who picks up a ringing receiver in a phone booth is told that if he hangs up, he'll be killed... and the little red light from a laser rifle sight is proof that the caller isn't kidding."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: phone-booth-2003
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

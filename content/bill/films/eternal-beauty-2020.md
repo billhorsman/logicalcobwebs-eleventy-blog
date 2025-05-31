@@ -2,6 +2,8 @@
 title: "Eternal Beauty"
 layout: layouts/home.njk
 slug: eternal-beauty-2020
+ogImage: content/bill/films/backdrops/eternal-beauty-2020.jpg
+description: "When Jane is rejected by life, she spirals into a chaotic, schizophrenic world where love and normality collide with humorous consequences."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: eternal-beauty-2020
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

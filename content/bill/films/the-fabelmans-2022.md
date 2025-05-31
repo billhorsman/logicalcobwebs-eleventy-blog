@@ -2,6 +2,8 @@
 title: "The Fabelmans"
 layout: layouts/home.njk
 slug: the-fabelmans-2022
+ogImage: content/bill/films/backdrops/the-fabelmans-2022.jpg
+description: "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-fabelmans-2022
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

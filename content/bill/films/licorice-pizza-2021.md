@@ -2,6 +2,8 @@
 title: "Licorice Pizza"
 layout: layouts/home.njk
 slug: licorice-pizza-2021
+ogImage: content/bill/films/backdrops/licorice-pizza-2021.jpg
+description: "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: licorice-pizza-2021
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

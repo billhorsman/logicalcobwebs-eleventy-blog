@@ -2,6 +2,8 @@
 title: "The Big Lebowski"
 layout: layouts/home.njk
 slug: the-big-lebowski-1998
+ogImage: content/bill/films/backdrops/the-big-lebowski-1998.jpg
+description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-big-lebowski-1998
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

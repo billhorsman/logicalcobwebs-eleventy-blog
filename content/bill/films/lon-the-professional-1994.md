@@ -2,6 +2,8 @@
 title: "Léon: The Professional"
 layout: layouts/home.njk
 slug: lon-the-professional-1994
+ogImage: content/bill/films/backdrops/lon-the-professional-1994.jpg
+description: "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: lon-the-professional-1994
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

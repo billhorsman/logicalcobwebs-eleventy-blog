@@ -2,6 +2,8 @@
 title: "The Sting"
 layout: layouts/home.njk
 slug: the-sting-1973
+ogImage: content/bill/films/backdrops/the-sting-1973.jpg
+description: "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-sting-1973
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

@@ -2,6 +2,8 @@
 title: "Magnolia"
 layout: layouts/home.njk
 slug: magnolia-1999
+ogImage: content/bill/films/backdrops/magnolia-1999.jpg
+description: "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: magnolia-1999
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

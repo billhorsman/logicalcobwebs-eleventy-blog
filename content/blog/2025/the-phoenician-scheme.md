@@ -1,9 +1,10 @@
 ---
 title: The Phoenician Scheme Review
+canonical: https://logicalcobwebs.com/blog/2025/edinburgh-marathon/
+ogImage: content/bill/films/backdrops/the-phoenician-scheme-2025.jpg
 filmSlug: the-phoenician-scheme-2025
 tags: films
 ---
-
 
 <img src="/bill/films/backdrops/{{ filmSlug }}.jpg" alt="">
 

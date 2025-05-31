@@ -2,6 +2,8 @@
 title: "No Country for Old Men"
 layout: layouts/home.njk
 slug: no-country-for-old-men-2007
+ogImage: content/bill/films/backdrops/no-country-for-old-men-2007.jpg
+description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: no-country-for-old-men-2007
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

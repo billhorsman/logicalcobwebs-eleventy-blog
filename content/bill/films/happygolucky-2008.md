@@ -2,6 +2,8 @@
 title: "Happy-Go-Lucky"
 layout: layouts/home.njk
 slug: happygolucky-2008
+ogImage: content/bill/films/backdrops/happygolucky-2008.jpg
+description: "A look at a few chapters in the life of Poppy, a cheery, colorful, North London schoolteacher whose optimism tends to exasperate those around her."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: happygolucky-2008
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

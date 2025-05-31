@@ -2,6 +2,8 @@
 title: "In Bruges"
 layout: layouts/home.njk
 slug: in-bruges-2008
+ogImage: content/bill/films/backdrops/in-bruges-2008.jpg
+description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: in-bruges-2008
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

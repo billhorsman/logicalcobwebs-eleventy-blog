@@ -2,6 +2,8 @@
 title: "I'm All Right Jack"
 layout: layouts/home.njk
 slug: im-all-right-jack-1959
+ogImage: content/bill/films/backdrops/im-all-right-jack-1959.jpg
+description: "Naive Stanley Windrush returns from the war, his mind set on a successful career in business. Much to his own dismay, he soon finds he has to start from the bottom and work his way up, and also that the management as well as the trade union use him as a tool in their fight for power."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: im-all-right-jack-1959
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

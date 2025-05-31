@@ -2,6 +2,8 @@
 title: "Whisky Galore!"
 layout: layouts/home.njk
 slug: whisky-galore-1949
+ogImage: content/bill/films/backdrops/whisky-galore-1949.jpg
+description: "Based on a true story. The name of the real ship, that sunk Feb 5 1941 - during WWII - was S/S Politician. Having left Liverpool two days earlier, heading for Jamaica, it sank outside Eriskay, The Outer Hebrides, Scotland, in bad weather, containing 250,000 bottles of whisky. The locals gathered as many bottles as they could, before the proper authorities arrived, and even today, bottles are found in the sand or in the sea every other year."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: whisky-galore-1949
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

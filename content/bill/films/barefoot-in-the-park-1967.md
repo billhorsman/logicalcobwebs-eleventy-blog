@@ -2,6 +2,8 @@
 title: "Barefoot in the Park"
 layout: layouts/home.njk
 slug: barefoot-in-the-park-1967
+ogImage: content/bill/films/backdrops/barefoot-in-the-park-1967.jpg
+description: "In this film based on a Neil Simon play, newlyweds Corie, a free spirit, and Paul Bratter, an uptight lawyer, share a sixth-floor apartment in Greenwich Village. Soon after their marriage, Corie tries to find a companion for mother, Ethel, who is now alone, and sets up Ethel with neighbor Victor. Inappropriate behavior on a double date causes conflict, and the young couple considers divorce."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: barefoot-in-the-park-1967
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

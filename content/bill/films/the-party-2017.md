@@ -2,6 +2,8 @@
 title: "The Party"
 layout: layouts/home.njk
 slug: the-party-2017
+ogImage: content/bill/films/backdrops/the-party-2017.jpg
+description: "Various individuals think they’re coming together for a party in a private home, but a series of revelations results in a huge crisis that throws their belief systems – and their values – into total disarray."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-party-2017
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

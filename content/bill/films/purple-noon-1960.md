@@ -2,6 +2,8 @@
 title: "Purple Noon"
 layout: layouts/home.njk
 slug: purple-noon-1960
+ogImage: content/bill/films/backdrops/purple-noon-1960.jpg
+description: "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: purple-noon-1960
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

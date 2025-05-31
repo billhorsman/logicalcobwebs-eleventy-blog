@@ -2,6 +2,8 @@
 title: "Blue Jean"
 layout: layouts/home.njk
 slug: blue-jean-2023
+ogImage: content/bill/films/backdrops/blue-jean-2023.jpg
+description: "Jean, a PE teacher, is forced to live a double life. When a new student arrives and threatens to expose her sexuality, Jean is pushed to extreme lengths to keep her job and her integrity."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: blue-jean-2023
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

@@ -2,6 +2,8 @@
 title: "The Truffle Hunters"
 layout: layouts/home.njk
 slug: the-truffle-hunters-2020
+ogImage: content/bill/films/backdrops/the-truffle-hunters-2020.jpg
+description: "In the secret forests of Northern Italy, a dwindling group of joyful old men and their faithful dogs search for the world’s most expensive ingredient, the white Alba truffle. Their stories form a real-life fairy tale that celebrates human passion in a fragile land that seems forgotten in time."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-truffle-hunters-2020
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

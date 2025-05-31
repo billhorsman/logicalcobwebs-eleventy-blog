@@ -2,6 +2,8 @@
 title: "Woman at War"
 layout: layouts/home.njk
 slug: woman-at-war-2018
+ogImage: content/bill/films/backdrops/woman-at-war-2018.jpg
+description: "Halla declares a one-woman-war on the local aluminium industry. She is prepared to risk everything to protect the pristine Icelandic Highlands she loves… Until an orphan unexpectedly enters her life."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: woman-at-war-2018
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

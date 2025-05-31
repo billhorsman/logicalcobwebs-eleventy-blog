@@ -2,6 +2,8 @@
 title: "The Power of the Dog"
 layout: layouts/home.njk
 slug: the-power-of-the-dog-2021
+ogImage: content/bill/films/backdrops/the-power-of-the-dog-2021.jpg
+description: "A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: the-power-of-the-dog-2021
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

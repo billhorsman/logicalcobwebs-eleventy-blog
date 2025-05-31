@@ -2,6 +2,8 @@
 title: "What's Eating Gilbert Grape"
 layout: layouts/home.njk
 slug: whats-eating-gilbert-grape-1993
+ogImage: content/bill/films/backdrops/whats-eating-gilbert-grape-1993.jpg
+description: "Gilbert Grape is a small-town young man with a lot of responsibility. Chief among his concerns are his mother, who is so overweight that she can't leave the house, and his mentally impaired younger brother, Arnie, who has a knack for finding trouble. Settled into a job at a grocery store and an ongoing affair with local woman Betty Carver, Gilbert finally has his life shaken up by the free-spirited Becky."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: whats-eating-gilbert-grape-1993
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

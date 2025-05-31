@@ -2,6 +2,8 @@
 title: "It's a Wonderful Life"
 layout: layouts/home.njk
 slug: its-a-wonderful-life-1946
+ogImage: content/bill/films/backdrops/its-a-wonderful-life-1946.jpg
+description: "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: its-a-wonderful-life-1946
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

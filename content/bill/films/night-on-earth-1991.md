@@ -2,6 +2,8 @@
 title: "Night on Earth"
 layout: layouts/home.njk
 slug: night-on-earth-1991
+ogImage: content/bill/films/backdrops/night-on-earth-1991.jpg
+description: "An anthology of 5 different cab drivers in 5 American and European cities and their remarkable fares on the same eventful night."
 ---
 
 {% set film = films[slug] %}
@@ -16,8 +18,8 @@ slug: night-on-earth-1991
 
 <article class="film">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ film.slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ film.slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
