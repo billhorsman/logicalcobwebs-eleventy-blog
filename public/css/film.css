@@ -50,8 +50,14 @@ section.list {
     & ul.film-list  {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+
+      & li {
+        padding: 0;
+      }
     
       & .film {
+        padding: 0;
+
         & .backdrop,
         & dl {
           display: none;
