@@ -32,7 +32,7 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

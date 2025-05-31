@@ -32,7 +32,7 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

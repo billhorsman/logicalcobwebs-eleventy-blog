@@ -32,7 +32,7 @@ description: "As the railroad builders advance unstoppably through the Arizona d
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

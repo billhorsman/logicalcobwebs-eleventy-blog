@@ -32,7 +32,7 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

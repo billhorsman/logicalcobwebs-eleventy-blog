@@ -32,7 +32,7 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

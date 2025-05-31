@@ -32,7 +32,7 @@ description: "In the 1820s, a taciturn loner and skilled cook travels west to Or
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

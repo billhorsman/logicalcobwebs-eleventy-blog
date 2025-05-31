@@ -32,7 +32,7 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

@@ -32,7 +32,7 @@ description: "Senator Walter Chalmers is aiming to take down mob boss Pete Ross 
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

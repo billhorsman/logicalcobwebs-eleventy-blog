@@ -32,7 +32,7 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

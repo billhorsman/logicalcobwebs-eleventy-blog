@@ -32,7 +32,7 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

@@ -32,7 +32,7 @@ description: "Two out-of-work actors -- the anxious, luckless Marwood and his ac
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

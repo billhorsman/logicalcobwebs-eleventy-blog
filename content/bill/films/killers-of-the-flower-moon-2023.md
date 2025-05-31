@@ -32,7 +32,7 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

@@ -32,7 +32,7 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

@@ -32,7 +32,7 @@ description: "At the beginning of the 1913 Mexican Revolution, greedy bandit Jua
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

@@ -32,7 +32,7 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

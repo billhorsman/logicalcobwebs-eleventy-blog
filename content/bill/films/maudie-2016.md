@@ -32,7 +32,7 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

@@ -32,7 +32,7 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

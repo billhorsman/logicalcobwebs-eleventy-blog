@@ -32,7 +32,7 @@ description: "Set in late-1970s Dundee, Schemers is based on writer-producer Dav
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

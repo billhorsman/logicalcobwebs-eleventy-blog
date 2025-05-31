@@ -32,7 +32,7 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

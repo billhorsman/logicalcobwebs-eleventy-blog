@@ -32,7 +32,7 @@ description: "Naive Stanley Windrush returns from the war, his mind set on a suc
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

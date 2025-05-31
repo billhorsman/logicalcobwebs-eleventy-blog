@@ -32,7 +32,7 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

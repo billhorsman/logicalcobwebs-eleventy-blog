@@ -32,7 +32,7 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

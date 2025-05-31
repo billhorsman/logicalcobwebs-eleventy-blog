@@ -32,7 +32,7 @@ description: "Buddy is a young boy on the cusp of adolescence, whose life is fil
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

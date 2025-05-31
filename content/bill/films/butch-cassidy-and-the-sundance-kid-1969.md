@@ -32,7 +32,7 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

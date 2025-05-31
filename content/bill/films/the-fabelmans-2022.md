@@ -32,7 +32,7 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

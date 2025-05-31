@@ -32,7 +32,7 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

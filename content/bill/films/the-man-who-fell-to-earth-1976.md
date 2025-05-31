@@ -32,7 +32,7 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

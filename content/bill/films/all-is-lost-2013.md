@@ -32,7 +32,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

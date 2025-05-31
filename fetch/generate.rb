@@ -77,7 +77,7 @@ top_films.each_with_index do |film, index|
 
       {% if films.reviews[slug] %}
         <blockquote> 
-          {{ films.reviews[slug] }} <em>— Bill</em>
+          {{ films.reviews[slug] | safe }} <em>— Bill</em>
         </blockquote> 
       {% endif %}
 

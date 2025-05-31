@@ -32,7 +32,7 @@ description: "Headstrong yet aimless, Will Hunting has a genius-level IQ but cho
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

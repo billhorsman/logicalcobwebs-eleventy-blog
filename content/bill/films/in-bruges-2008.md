@@ -32,7 +32,7 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

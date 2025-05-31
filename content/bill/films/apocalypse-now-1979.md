@@ -32,7 +32,7 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

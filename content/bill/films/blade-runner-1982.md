@@ -32,7 +32,7 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

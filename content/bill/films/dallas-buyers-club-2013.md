@@ -32,7 +32,7 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

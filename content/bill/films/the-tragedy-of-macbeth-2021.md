@@ -32,7 +32,7 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

@@ -32,7 +32,7 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

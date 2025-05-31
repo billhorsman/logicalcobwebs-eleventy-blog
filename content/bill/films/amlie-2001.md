@@ -32,7 +32,7 @@ description: "At a tiny Parisian café, the adorable yet painfully shy Amélie a
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

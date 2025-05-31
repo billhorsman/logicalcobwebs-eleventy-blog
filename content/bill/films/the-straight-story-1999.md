@@ -32,7 +32,7 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

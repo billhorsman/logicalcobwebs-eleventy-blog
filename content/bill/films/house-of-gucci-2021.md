@@ -32,7 +32,7 @@ description: "When Patrizia Reggiani, an outsider from humble beginnings, marrie
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

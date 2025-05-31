@@ -32,7 +32,7 @@ description: "In this film based on a Neil Simon play, newlyweds Corie, a free s
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

@@ -32,7 +32,7 @@ description: "Thirty years ago, aliens arrive on Earth. Not to conquer or give a
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

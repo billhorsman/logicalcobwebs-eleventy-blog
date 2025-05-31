@@ -32,7 +32,7 @@ description: "1930s Korea, in the period of Japanese occupation, a new girl, Soo
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

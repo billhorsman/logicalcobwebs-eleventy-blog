@@ -32,7 +32,7 @@ description: "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 

@@ -32,7 +32,7 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
 
   {% if films.reviews[slug] %}
     <blockquote> 
-      {{ films.reviews[slug] }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>— Bill</em>
     </blockquote> 
   {% endif %}
 
