@@ -68,6 +68,7 @@ a.film {
   color: var(--color);
   display: flex;
   flex-direction: column;
+  padding: 0 0 2rem;
   width: 100%;
   text-decoration: none;
 
@@ -104,7 +105,6 @@ a.film {
   
   & dl {
     flex-grow: 1;
-    margin: 0 0 2rem;
     min-width: 0;
     max-width: 100%;
     padding: 0;
@@ -135,8 +135,7 @@ a.film {
   & .review {
     display: none;
     grid-column: 1 / 3;
-    font-size: 0.875rem;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
   }  
 }
 
@@ -144,10 +143,15 @@ a.film {
   a.film {
     display: grid;
     grid-template-columns: minmax(0, 200px) 1fr;
+    padding: 0;
 
     & dl {
       margin: 0;
       padding: 0 1rem;
+    }
+
+    & .review {
+      margin-bottom: 3rem;
     }
   }
 }
