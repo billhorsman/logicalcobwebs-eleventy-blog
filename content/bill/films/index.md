@@ -1,8 +1,8 @@
 ---
 title: Films
-description: Films that Bill Horsman likes
-excerpt: A work in progress while I attempt to remember all the films I like
-ogImage: content/bill/bill.webp
+eleventyComputed:
+  description: "Bill Horsman's top 100 films, from {{ films.list[0].year }} to {{ films.list[films.count - 1].year }} including Diva, Ghost Dog: The Way of the Samurai, Night on Earth, Woman at War and Portrait of a Lady on Fire."
+ogImage: content/bill/films/montage.jpg
 layout: layouts/home.njk
 ---
 
