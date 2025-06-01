@@ -123,7 +123,11 @@ export default async function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter("directors", (film) => {
-		return film.credits.crew.filter(crew => crew.job === "Director").map(crew => crew.name).join(", ");
+		return toSentence(film.credits.crew.filter(crew => crew.job === "Director").map(crew => crew.name));
+	});
+
+	eleventyConfig.addFilter("directorsOfPhotography", (film) => {
+		return toSentence(film.credits.crew.filter(crew => crew.job === "Director of Photography").map(crew => crew.name));
 	});
 
 	eleventyConfig.addFilter("cast", (film) => {
@@ -131,7 +135,7 @@ export default async function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter("topCast", (film) => {
-		return film.credits.cast.filter(cast => cast.popularity > 2).map(cast => cast.name).join(", ");
+		return toSentence(film.credits.cast.filter(cast => cast.popularity > 2).map(cast => cast.name));
 	});
 
 	eleventyConfig.addFilter("nameSentence", (list) => {

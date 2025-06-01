@@ -42,7 +42,18 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
   <ul>
     {%- for cast in film.credits.cast -%}
       <li>
-        <strong>{{ cast.name }}</strong> as <em>{{ cast.character }}</em>
+        {{ cast.name }} as <em>{{ cast.character }}</em>
+      </li>
+    {%- endfor -%}
+  </ul>
+
+  <h2>
+    Crew
+  </h2>
+  <ul>
+    {%- for crew in film.credits.crew -%}
+      <li>
+        {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
       </li>
     {%- endfor -%}
   </ul>

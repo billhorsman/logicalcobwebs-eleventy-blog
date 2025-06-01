@@ -42,7 +42,18 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
   <ul>
     {%- for cast in film.credits.cast -%}
       <li>
-        <strong>{{ cast.name }}</strong> as <em>{{ cast.character }}</em>
+        {{ cast.name }} as <em>{{ cast.character }}</em>
+      </li>
+    {%- endfor -%}
+  </ul>
+
+  <h2>
+    Crew
+  </h2>
+  <ul>
+    {%- for crew in film.credits.crew -%}
+      <li>
+        {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
       </li>
     {%- endfor -%}
   </ul>
