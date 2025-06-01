@@ -14,7 +14,7 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
   <a class="next" href="../interstellar-2014">Next</a>
 </nav>
 
-<p>64 / 100</p>
+<p>63 / 100</p>
 
 <article class="film slug-mr-turner-2014">
   <div class="backdrop-and-poster">

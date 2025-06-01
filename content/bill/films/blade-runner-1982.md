@@ -14,7 +14,7 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
   <a class="next" href="../local-hero-1983">Next</a>
 </nav>
 
-<p>25 / 100</p>
+<p>24 / 100</p>
 
 <article class="film slug-blade-runner-1982">
   <div class="backdrop-and-poster">

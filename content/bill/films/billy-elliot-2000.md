@@ -14,7 +14,7 @@ description: "County Durham, England, 1984. The miners' strike has started and t
   <a class="next" href="../amlie-2001">Next</a>
 </nav>
 
-<p>44 / 100</p>
+<p>43 / 100</p>
 
 <article class="film slug-billy-elliot-2000">
   <div class="backdrop-and-poster">

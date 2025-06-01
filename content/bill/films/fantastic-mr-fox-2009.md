@@ -14,7 +14,7 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
   <a class="next" href="../micmacs-2009">Next</a>
 </nav>
 
-<p>57 / 100</p>
+<p>56 / 100</p>
 
 <article class="film slug-fantastic-mr-fox-2009">
   <div class="backdrop-and-poster">

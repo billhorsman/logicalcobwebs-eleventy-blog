@@ -14,7 +14,7 @@ description: "Headstrong yet aimless, Will Hunting has a genius-level IQ but cho
   <a class="next" href="../the-big-lebowski-1998">Next</a>
 </nav>
 
-<p>37 / 100</p>
+<p>36 / 100</p>
 
 <article class="film slug-good-will-hunting-1997">
   <div class="backdrop-and-poster">

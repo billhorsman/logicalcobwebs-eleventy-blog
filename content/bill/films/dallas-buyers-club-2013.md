@@ -14,7 +14,7 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
   <a class="next" href="../the-grand-budapest-hotel-2014">Next</a>
 </nav>
 
-<p>62 / 100</p>
+<p>61 / 100</p>
 
 <article class="film slug-dallas-buyers-club-2013">
   <div class="backdrop-and-poster">

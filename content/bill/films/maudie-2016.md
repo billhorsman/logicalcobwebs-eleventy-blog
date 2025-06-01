@@ -14,7 +14,7 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
   <a class="next" href="../the-party-2017">Next</a>
 </nav>
 
-<p>67 / 100</p>
+<p>66 / 100</p>
 
 <article class="film slug-maudie-2016">
   <div class="backdrop-and-poster">

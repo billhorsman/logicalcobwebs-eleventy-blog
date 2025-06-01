@@ -14,7 +14,7 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
   <a class="next" href="../being-there-1979">Next</a>
 </nav>
 
-<p>21 / 100</p>
+<p>20 / 100</p>
 
 <article class="film slug-apocalypse-now-1979">
   <div class="backdrop-and-poster">

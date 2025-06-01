@@ -14,7 +14,7 @@ description: "An anthology of 5 different cab drivers in 5 American and European
   <a class="next" href="../the-fugitive-1993">Next</a>
 </nav>
 
-<p>31 / 100</p>
+<p>30 / 100</p>
 
 <article class="film slug-night-on-earth-1991">
   <div class="backdrop-and-poster">

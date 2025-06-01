@@ -14,7 +14,7 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
   <a class="next" href="../the-man-who-fell-to-earth-1976">Next</a>
 </nav>
 
-<p>18 / 100</p>
+<p>17 / 100</p>
 
 <article class="film slug-three-days-of-the-condor-1975">
   <div class="backdrop-and-poster">

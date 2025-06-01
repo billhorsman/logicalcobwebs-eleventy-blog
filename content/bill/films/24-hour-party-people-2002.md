@@ -14,7 +14,7 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
   <a class="next" href="../the-bourne-identity-2002">Next</a>
 </nav>
 
-<p>47 / 100</p>
+<p>46 / 100</p>
 
 <article class="film slug-24-hour-party-people-2002">
   <div class="backdrop-and-poster">

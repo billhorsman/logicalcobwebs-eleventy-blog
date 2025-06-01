@@ -9,12 +9,12 @@ description: "A novice con man teams up with an acknowledged master to avenge th
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../duck-you-sucker-1971">Previous</a>
+  <a class="prev" href="../butch-cassidy-and-the-sundance-kid-1969">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../dog-day-afternoon-1975">Next</a>
 </nav>
 
-<p>16 / 100</p>
+<p>15 / 100</p>
 
 <article class="film slug-the-sting-1973">
   <div class="backdrop-and-poster">

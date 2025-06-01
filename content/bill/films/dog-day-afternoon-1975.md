@@ -14,7 +14,7 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
   <a class="next" href="../three-days-of-the-condor-1975">Next</a>
 </nav>
 
-<p>17 / 100</p>
+<p>16 / 100</p>
 
 <article class="film slug-dog-day-afternoon-1975">
   <div class="backdrop-and-poster">

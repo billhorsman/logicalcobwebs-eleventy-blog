@@ -14,7 +14,7 @@ description: "A man wanders out of the desert not knowing who he is. His brother
   <a class="next" href="../brazil-1985">Next</a>
 </nav>
 
-<p>27 / 100</p>
+<p>26 / 100</p>
 
 <article class="film slug-paris-texas-1984">
   <div class="backdrop-and-poster">

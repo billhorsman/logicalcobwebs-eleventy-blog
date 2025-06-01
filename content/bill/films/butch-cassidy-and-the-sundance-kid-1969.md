@@ -11,7 +11,7 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
 <nav class="films">
   <a class="prev" href="../once-upon-a-time-in-the-west-1968">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../duck-you-sucker-1971">Next</a>
+  <a class="next" href="../the-sting-1973">Next</a>
 </nav>
 
 <p>14 / 100</p>

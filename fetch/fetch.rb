@@ -38,7 +38,7 @@ end
 end
 
 # Sort the films by date
-list.sort_by! { |film| film["release_date"] }
+list.sort_by! { |film| [film["release_date"]] }
 
 # Generate year and slug for each item
 list.each do |film|

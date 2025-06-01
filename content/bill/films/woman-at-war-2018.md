@@ -14,7 +14,7 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
   <a class="next" href="../sink-or-swim-2018">Next</a>
 </nav>
 
-<p>71 / 100</p>
+<p>70 / 100</p>
 
 <article class="film slug-woman-at-war-2018">
   <div class="backdrop-and-poster">

@@ -14,7 +14,7 @@ description: "An African-American Mafia hit man who models himself after the sam
   <a class="next" href="../fight-club-1999">Next</a>
 </nav>
 
-<p>39 / 100</p>
+<p>38 / 100</p>
 
 <article class="film slug-ghost-dog-the-way-of-the-samurai-1999">
   <div class="backdrop-and-poster">

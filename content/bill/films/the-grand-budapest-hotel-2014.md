@@ -14,7 +14,7 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
   <a class="next" href="../mr-turner-2014">Next</a>
 </nav>
 
-<p>63 / 100</p>
+<p>62 / 100</p>
 
 <article class="film slug-the-grand-budapest-hotel-2014">
   <div class="backdrop-and-poster">

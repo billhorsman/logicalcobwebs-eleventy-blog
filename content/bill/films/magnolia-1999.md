@@ -14,7 +14,7 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
   <a class="next" href="../the-talented-mr-ripley-1999">Next</a>
 </nav>
 
-<p>42 / 100</p>
+<p>41 / 100</p>
 
 <article class="film slug-magnolia-1999">
   <div class="backdrop-and-poster">

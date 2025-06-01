@@ -14,7 +14,7 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
   <a class="next" href="../district-9-2009">Next</a>
 </nav>
 
-<p>55 / 100</p>
+<p>54 / 100</p>
 
 <article class="film slug-happygolucky-2008">
   <div class="backdrop-and-poster">

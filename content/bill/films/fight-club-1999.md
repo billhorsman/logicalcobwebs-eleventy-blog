@@ -14,7 +14,7 @@ description: "A ticking-time-bomb insomniac and a slippery soap salesman channel
   <a class="next" href="../the-straight-story-1999">Next</a>
 </nav>
 
-<p>40 / 100</p>
+<p>39 / 100</p>
 
 <article class="film slug-fight-club-1999">
   <div class="backdrop-and-poster">

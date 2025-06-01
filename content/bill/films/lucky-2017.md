@@ -14,7 +14,7 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
   <a class="next" href="../cest-la-vie-2017">Next</a>
 </nav>
 
-<p>69 / 100</p>
+<p>68 / 100</p>
 
 <article class="film slug-lucky-2017">
   <div class="backdrop-and-poster">

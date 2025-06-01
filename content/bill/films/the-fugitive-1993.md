@@ -14,7 +14,7 @@ description: "Wrongfully convicted of murdering his wife and sentenced to death,
   <a class="next" href="../whats-eating-gilbert-grape-1993">Next</a>
 </nav>
 
-<p>32 / 100</p>
+<p>31 / 100</p>
 
 <article class="film slug-the-fugitive-1993">
   <div class="backdrop-and-poster">

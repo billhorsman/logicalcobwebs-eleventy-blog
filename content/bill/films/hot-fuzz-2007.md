@@ -14,7 +14,7 @@ description: "Former London constable Nicholas Angel finds it difficult to adapt
   <a class="next" href="../no-country-for-old-men-2007">Next</a>
 </nav>
 
-<p>52 / 100</p>
+<p>51 / 100</p>
 
 <article class="film slug-hot-fuzz-2007">
   <div class="backdrop-and-poster">

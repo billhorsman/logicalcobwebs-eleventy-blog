@@ -14,7 +14,7 @@ description: "A French family moves to a new neighborhood with during the summer
   <a class="next" href="../le-havre-2011">Next</a>
 </nav>
 
-<p>59 / 100</p>
+<p>58 / 100</p>
 
 <article class="film slug-tomboy-2011">
   <div class="backdrop-and-poster">

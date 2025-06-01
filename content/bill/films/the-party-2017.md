@@ -14,7 +14,7 @@ description: "Various individuals think they’re coming together for a party in
   <a class="next" href="../lucky-2017">Next</a>
 </nav>
 
-<p>68 / 100</p>
+<p>67 / 100</p>
 
 <article class="film slug-the-party-2017">
   <div class="backdrop-and-poster">

@@ -14,7 +14,7 @@ description: "Based on the journals of Che Guevara, leader of the Cuban Revoluti
   <a class="next" href="../hot-fuzz-2007">Next</a>
 </nav>
 
-<p>51 / 100</p>
+<p>50 / 100</p>
 
 <article class="film slug-the-motorcycle-diaries-2004">
   <div class="backdrop-and-poster">

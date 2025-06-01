@@ -14,7 +14,7 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
   <a class="next" href="../night-on-earth-1991">Next</a>
 </nav>
 
-<p>30 / 100</p>
+<p>29 / 100</p>
 
 <article class="film slug-delicatessen-1991">
   <div class="backdrop-and-poster">

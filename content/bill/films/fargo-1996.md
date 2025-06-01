@@ -14,7 +14,7 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
   <a class="next" href="../good-will-hunting-1997">Next</a>
 </nav>
 
-<p>36 / 100</p>
+<p>35 / 100</p>
 
 <article class="film slug-fargo-1996">
   <div class="backdrop-and-poster">

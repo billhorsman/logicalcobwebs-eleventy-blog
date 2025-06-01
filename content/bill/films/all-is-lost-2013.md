@@ -14,7 +14,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
   <a class="next" href="../dallas-buyers-club-2013">Next</a>
 </nav>
 
-<p>61 / 100</p>
+<p>60 / 100</p>
 
 <article class="film slug-all-is-lost-2013">
   <div class="backdrop-and-poster">

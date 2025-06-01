@@ -14,7 +14,7 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
   <a class="next" href="../woman-at-war-2018">Next</a>
 </nav>
 
-<p>70 / 100</p>
+<p>69 / 100</p>
 
 <article class="film slug-cest-la-vie-2017">
   <div class="backdrop-and-poster">

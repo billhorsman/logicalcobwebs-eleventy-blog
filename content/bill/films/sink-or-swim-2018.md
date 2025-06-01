@@ -11,10 +11,10 @@ description: "40-year-old Bertrand has been suffering from depression for the la
 <nav class="films">
   <a class="prev" href="../woman-at-war-2018">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../parasite-2019">Next</a>
+  <a class="next" href="../roma-2018">Next</a>
 </nav>
 
-<p>72 / 100</p>
+<p>71 / 100</p>
 
 <article class="film slug-sink-or-swim-2018">
   <div class="backdrop-and-poster">

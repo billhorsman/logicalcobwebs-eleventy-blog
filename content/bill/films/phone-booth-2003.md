@@ -14,7 +14,7 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
   <a class="next" href="../the-motorcycle-diaries-2004">Next</a>
 </nav>
 
-<p>50 / 100</p>
+<p>49 / 100</p>
 
 <article class="film slug-phone-booth-2003">
   <div class="backdrop-and-poster">

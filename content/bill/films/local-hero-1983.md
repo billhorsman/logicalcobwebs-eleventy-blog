@@ -14,7 +14,7 @@ description: "An American oil company sends a man to Scotland to buy up an entir
   <a class="next" href="../paris-texas-1984">Next</a>
 </nav>
 
-<p>26 / 100</p>
+<p>25 / 100</p>
 
 <article class="film slug-local-hero-1983">
   <div class="backdrop-and-poster">

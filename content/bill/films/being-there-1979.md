@@ -14,7 +14,7 @@ description: "A simple-minded gardener named Chance has spent all his life in th
   <a class="next" href="../diva-1981">Next</a>
 </nav>
 
-<p>22 / 100</p>
+<p>21 / 100</p>
 
 <article class="film slug-being-there-1979">
   <div class="backdrop-and-poster">

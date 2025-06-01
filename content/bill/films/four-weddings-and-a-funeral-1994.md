@@ -14,7 +14,7 @@ description: "Over the course of five social occasions, a committed bachelor mus
   <a class="next" href="../lon-the-professional-1994">Next</a>
 </nav>
 
-<p>34 / 100</p>
+<p>33 / 100</p>
 
 <article class="film slug-four-weddings-and-a-funeral-1994">
   <div class="backdrop-and-poster">

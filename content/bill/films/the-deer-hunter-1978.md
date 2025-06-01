@@ -14,7 +14,7 @@ description: "A group of working-class friends decide to enlist in the Army duri
   <a class="next" href="../apocalypse-now-1979">Next</a>
 </nav>
 
-<p>20 / 100</p>
+<p>19 / 100</p>
 
 <article class="film slug-the-deer-hunter-1978">
   <div class="backdrop-and-poster">

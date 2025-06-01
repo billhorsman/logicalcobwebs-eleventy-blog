@@ -14,7 +14,7 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
   <a class="next" href="../billy-elliot-2000">Next</a>
 </nav>
 
-<p>43 / 100</p>
+<p>42 / 100</p>
 
 <article class="film slug-the-talented-mr-ripley-1999">
   <div class="backdrop-and-poster">

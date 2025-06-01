@@ -14,7 +14,7 @@ description: "In the French harbor city of Le Havre, fate throws young African r
   <a class="next" href="../all-is-lost-2013">Next</a>
 </nav>
 
-<p>60 / 100</p>
+<p>59 / 100</p>
 
 <article class="film slug-le-havre-2011">
   <div class="backdrop-and-poster">

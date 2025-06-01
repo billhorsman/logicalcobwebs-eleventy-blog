@@ -14,7 +14,7 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
   <a class="next" href="../fargo-1996">Next</a>
 </nav>
 
-<p>35 / 100</p>
+<p>34 / 100</p>
 
 <article class="film slug-lon-the-professional-1994">
   <div class="backdrop-and-poster">

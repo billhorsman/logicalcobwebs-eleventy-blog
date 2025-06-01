@@ -14,7 +14,7 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
   <a class="next" href="../ghost-dog-the-way-of-the-samurai-1999">Next</a>
 </nav>
 
-<p>38 / 100</p>
+<p>37 / 100</p>
 
 <article class="film slug-the-big-lebowski-1998">
   <div class="backdrop-and-poster">

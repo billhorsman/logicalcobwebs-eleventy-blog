@@ -14,7 +14,7 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
   <a class="next" href="../magnolia-1999">Next</a>
 </nav>
 
-<p>41 / 100</p>
+<p>40 / 100</p>
 
 <article class="film slug-the-straight-story-1999">
   <div class="backdrop-and-poster">

@@ -14,7 +14,7 @@ description: "Two out-of-work actors -- the anxious, luckless Marwood and his ac
   <a class="next" href="../delicatessen-1991">Next</a>
 </nav>
 
-<p>29 / 100</p>
+<p>28 / 100</p>
 
 <article class="film slug-withnail--i-1987">
   <div class="backdrop-and-poster">
