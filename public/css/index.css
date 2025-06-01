@@ -915,14 +915,15 @@ article.film {
     transform: rotate(-10deg);
   }
 
-  &.slug-the-big-lebowski-1998,
   &.slug-24-hour-party-people-2002,
-  &.slug-local-hero-1983,
   &.slug-black-hawk-down-2001,
-  &.slug-the-party-2017,
   &.slug-cest-la-vie-2017,
+  &.slug-its-a-wonderful-life-1946,
+  &.slug-local-hero-1983,
   &.slug-parasite-2019,
-  &.slug-its-a-wonderful-life-1946 {
+  &.slug-the-big-lebowski-1998,
+  &.slug-the-french-dispatch-2021,
+  &.slug-the-party-2017 {
     img.poster {
       left: auto;
       right: -1rem;
