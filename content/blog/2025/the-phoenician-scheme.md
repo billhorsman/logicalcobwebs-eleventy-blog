@@ -6,7 +6,7 @@ filmSlug: the-phoenician-scheme-2025
 tags: films
 ---
 
-<img src="/bill/films/backdrops/{{ filmSlug }}.jpg" alt="">
+<img src="/bill/films/backdrops/{{ filmSlug }}.jpg" alt="Backdrop for The Phoenician Scheme">
 
 ### 8/10
 

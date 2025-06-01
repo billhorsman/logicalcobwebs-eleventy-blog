@@ -1,10 +1,10 @@
 {% set film = films[filmSlug] %}
 <a href="/bill/films/{{ filmSlug }}" class="film">
   <div class="backdrop">
-    <img src="/bill/films/backdrops/{{ filmSlug }}.jpg" alt="">
+    <img src="/bill/films/backdrops/{{ filmSlug }}.jpg" alt="Backdrop for {{ film.title }}">
   </div>
   <div class="poster">
-    <img src="/bill/films/posters/{{ filmSlug }}.jpg" alt="">
+    <img src="/bill/films/posters/{{ filmSlug }}.jpg" alt="Poster for {{ film.title }}">
   </div>
   <dl>
     <dt class="title">Title</dt>

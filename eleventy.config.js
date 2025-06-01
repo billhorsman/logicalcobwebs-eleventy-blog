@@ -172,8 +172,29 @@ export default async function(eleventyConfig) {
 			return url;
 		}
 	);
-	
-	
+
+	eleventyConfig.addAsyncShortcode(
+		"summariseFilms", 
+		async function(list) {
+			return list.map(slug => {
+				const film = this.ctx.films[slug];
+				return `<a href="/bill/films/${slug}">${film.title}</a>`;
+			}).join(", ");
+		}
+	);
+
+	eleventyConfig.addAsyncShortcode(
+		"filmLink", 
+		async function(slug) {
+			const film = this.ctx.films[slug];
+			if (film) {
+				return `<a href="/bill/films/${slug}">${film.title}</a>`;
+			} 
+			return `Missing film: ${slug}`;
+		}
+	);
+
+
 
 	// Features to make your build faster (when you need them)
 

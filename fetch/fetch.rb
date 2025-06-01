@@ -53,6 +53,8 @@ list.each do |film|
     puts "Fetching details for #{film["title"]}"
     response = get_api_response(endpoint: "movie/#{film["id"]}", append_to_response: ["credits"])
     data = JSON.parse(response.read_body)
+    data["slug"] = film["slug"]
+    data["year"] = film["year"]
     IO.write(filename, JSON.pretty_generate(data))
   end
 end

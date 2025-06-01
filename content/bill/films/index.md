@@ -8,15 +8,15 @@ layout: layouts/home.njk
 
 ## Favourite Films
 
-{% set firstFilm = films.list[0] %}
-{% set lastFilm = films.list[films.count - 1] %}
-Starting from <a href="{{ firstFilm.slug }}">{{ firstFilm.title }}</a> in {{ firstFilm.year }} through to <a href="{{ lastFilm.slug }}">{{ lastFilm.title }}</a> in {{ lastFilm.year }}, here are my {{ films.list.length }} favourite films. There are lots that are brilliant and don't make the cut but it's a nice round number. 
+{% set firstFilm = films[top_films.list[0]] %}
+{% set lastFilm = films[top_films.list[top_films.list.length - 1]] %}
+Starting from {% filmLink firstFilm.slug %} in {{ firstFilm.year }} through to {% filmLink lastFilm.slug %} in {{ lastFilm.year }}, here are my {{ top_films.list.length }} favourite films. There are lots that are brilliant and don't make the cut but it's a nice round number. 
 
 Based on these films, my favourite director is {{ films.top_directors[0].name }} ({{ films.top_directors[0].count }} films), followed by {{ films.top_directors[1].name }} ({{ films.top_directors[1].count }}) and {{ films.top_directors[2].name }} ({{ films.top_directors[2].count }}).
 
-A few films are in here because I watched them a long time ago and they have a nostalgic appeal. Films like <span class="sentence-list">{% for film in films.nostaligic %}<span><a href="{{ film.slug }}">{{ film.title }}</a></span>{% endfor %}</span>.
+A few films are in here because I watched them a long time ago and they have a nostalgic appeal. Films like {% summariseFilms nostalgic_films %}.
 
-One film is in here twice: <a href="purple-noon-1960">Purple Noon</a> (aka Plan Soleil) and <a href="the-talented-mr-ripley-1999">The Talented Mr. Ripley</a>. I would have added it again for Steven Zaillian's 2024 TV miniseries <em>Ripley</em> with Andrew Scott but that's not a film.
+One film is in here twice: {% filmLink "purple-noon-1960" %} (aka Plan Soleil) and {% filmLink "the-talented-mr-ripley-1999" %}. I would have added it again for Steven Zaillian's 2024 TV miniseries <em>Ripley</em> with Andrew Scott but that's not a film.
 
 Actors that crop up a lot are <span class="sentence-list">{% for cast in films.top_cast %}<span>{{ cast.name }}</span>{% endfor %}</span>.
 
