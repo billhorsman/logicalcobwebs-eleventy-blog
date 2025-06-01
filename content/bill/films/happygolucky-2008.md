@@ -16,7 +16,7 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
 
 <p>55 / 100</p>
 
-<article class="film">
+<article class="film slug-happygolucky-2008">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

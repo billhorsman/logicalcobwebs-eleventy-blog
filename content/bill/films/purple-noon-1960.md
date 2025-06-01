@@ -16,7 +16,7 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
 
 <p>7 / 100</p>
 
-<article class="film">
+<article class="film slug-purple-noon-1960">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

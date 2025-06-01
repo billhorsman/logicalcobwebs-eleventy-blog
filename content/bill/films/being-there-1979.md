@@ -16,7 +16,7 @@ description: "A simple-minded gardener named Chance has spent all his life in th
 
 <p>22 / 100</p>
 
-<article class="film">
+<article class="film slug-being-there-1979">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

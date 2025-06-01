@@ -16,7 +16,7 @@ description: "Based on a true story. The name of the real ship, that sunk Feb 5 
 
 <p>2 / 100</p>
 
-<article class="film">
+<article class="film slug-whisky-galore-1949">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

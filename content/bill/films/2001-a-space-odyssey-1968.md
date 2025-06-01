@@ -16,7 +16,7 @@ description: "Humanity finds a mysterious object buried beneath the lunar surfac
 
 <p>11 / 100</p>
 
-<article class="film">
+<article class="film slug-2001-a-space-odyssey-1968">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

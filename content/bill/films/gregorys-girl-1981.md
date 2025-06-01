@@ -16,7 +16,7 @@ description: "A teenager falls hard for the female soccer player who has replace
 
 <p>24 / 100</p>
 
-<article class="film">
+<article class="film slug-gregorys-girl-1981">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

@@ -16,7 +16,7 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
 
 <p>54 / 100</p>
 
-<article class="film">
+<article class="film slug-in-bruges-2008">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

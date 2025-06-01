@@ -913,6 +913,30 @@ article.film {
     transform: rotate(-10deg);
   }
 
+  &.slug-the-big-lebowski-1998,
+  &.slug-24-hour-party-people-2002,
+  &.slug-local-hero-1983,
+  &.slug-black-hawk-down-2001,
+  &.slug-the-party-2017,
+  &.slug-cest-la-vie-2017,
+  &.slug-parasite-2019,
+  &.slug-its-a-wonderful-life-1946 {
+    img.poster {
+      left: auto;
+      right: -1rem;
+      transform: rotate(10deg);
+    }
+  }
+
+  &.slug-fantastic-mr-fox-2009,
+  &.slug-the-handmaiden-2016 {
+    img.poster {
+      bottom: auto;
+      top: -2rem;
+      transform: rotate(10deg);
+    }
+  }
+
   & .director {
     font-size: 1.25rem;
   }

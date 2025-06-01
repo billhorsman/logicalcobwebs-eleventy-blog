@@ -16,7 +16,7 @@ description: "1930s Korea, in the period of Japanese occupation, a new girl, Soo
 
 <p>66 / 100</p>
 
-<article class="film">
+<article class="film slug-the-handmaiden-2016">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

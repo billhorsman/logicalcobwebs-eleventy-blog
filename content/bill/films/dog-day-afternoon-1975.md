@@ -16,7 +16,7 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
 
 <p>17 / 100</p>
 
-<article class="film">
+<article class="film slug-dog-day-afternoon-1975">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

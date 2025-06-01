@@ -16,7 +16,7 @@ description: "Over the course of five social occasions, a committed bachelor mus
 
 <p>34 / 100</p>
 
-<article class="film">
+<article class="film slug-four-weddings-and-a-funeral-1994">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

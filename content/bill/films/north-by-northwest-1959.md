@@ -16,7 +16,7 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
 
 <p>4 / 100</p>
 
-<article class="film">
+<article class="film slug-north-by-northwest-1959">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

@@ -16,7 +16,7 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
 
 <p>96 / 100</p>
 
-<article class="film">
+<article class="film slug-empire-of-light-2022">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

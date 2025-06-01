@@ -16,7 +16,7 @@ description: "An American oil company sends a man to Scotland to buy up an entir
 
 <p>26 / 100</p>
 
-<article class="film">
+<article class="film slug-local-hero-1983">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

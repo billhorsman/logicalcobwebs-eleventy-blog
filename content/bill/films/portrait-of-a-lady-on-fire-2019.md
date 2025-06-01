@@ -16,7 +16,7 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
 
 <p>74 / 100</p>
 
-<article class="film">
+<article class="film slug-portrait-of-a-lady-on-fire-2019">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

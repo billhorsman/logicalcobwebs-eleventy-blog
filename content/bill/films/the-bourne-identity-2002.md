@@ -16,7 +16,7 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
 
 <p>48 / 100</p>
 
-<article class="film">
+<article class="film slug-the-bourne-identity-2002">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

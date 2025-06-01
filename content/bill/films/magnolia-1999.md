@@ -16,7 +16,7 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
 
 <p>42 / 100</p>
 
-<article class="film">
+<article class="film slug-magnolia-1999">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

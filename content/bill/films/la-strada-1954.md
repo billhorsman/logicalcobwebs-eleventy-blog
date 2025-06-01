@@ -16,7 +16,7 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
 
 <p>3 / 100</p>
 
-<article class="film">
+<article class="film slug-la-strada-1954">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

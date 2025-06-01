@@ -16,7 +16,7 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
 
 <p>1 / 100</p>
 
-<article class="film">
+<article class="film slug-its-a-wonderful-life-1946">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

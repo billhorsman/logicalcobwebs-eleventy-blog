@@ -16,7 +16,7 @@ description: "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-
 
 <p>28 / 100</p>
 
-<article class="film">
+<article class="film slug-brazil-1985">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

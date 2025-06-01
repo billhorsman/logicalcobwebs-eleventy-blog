@@ -16,7 +16,7 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
 
 <p>33 / 100</p>
 
-<article class="film">
+<article class="film slug-whats-eating-gilbert-grape-1993">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

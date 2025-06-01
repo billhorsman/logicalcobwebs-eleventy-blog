@@ -16,7 +16,7 @@ description: "An anthology of 5 different cab drivers in 5 American and European
 
 <p>31 / 100</p>
 
-<article class="film">
+<article class="film slug-night-on-earth-1991">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

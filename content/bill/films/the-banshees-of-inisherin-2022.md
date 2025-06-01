@@ -16,7 +16,7 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
 
 <p>94 / 100</p>
 
-<article class="film">
+<article class="film slug-the-banshees-of-inisherin-2022">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

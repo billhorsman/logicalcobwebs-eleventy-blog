@@ -16,7 +16,7 @@ description: "Naive Stanley Windrush returns from the war, his mind set on a suc
 
 <p>5 / 100</p>
 
-<article class="film">
+<article class="film slug-im-all-right-jack-1959">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

@@ -16,7 +16,7 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
 
 <p>95 / 100</p>
 
-<article class="film">
+<article class="film slug-the-fabelmans-2022">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

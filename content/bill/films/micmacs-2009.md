@@ -16,7 +16,7 @@ description: "While standing in the doorway of the video shop where he works, Ba
 
 <p>58 / 100</p>
 
-<article class="film">
+<article class="film slug-micmacs-2009">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

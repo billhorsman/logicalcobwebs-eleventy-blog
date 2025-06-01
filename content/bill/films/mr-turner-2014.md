@@ -16,7 +16,7 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
 
 <p>64 / 100</p>
 
-<article class="film">
+<article class="film slug-mr-turner-2014">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

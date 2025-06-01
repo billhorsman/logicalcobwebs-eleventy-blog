@@ -16,7 +16,7 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
 
 <p>81 / 100</p>
 
-<article class="film">
+<article class="film slug-petite-maman-2021">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

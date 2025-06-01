@@ -16,7 +16,7 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
 
 <p>50 / 100</p>
 
-<article class="film">
+<article class="film slug-phone-booth-2003">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

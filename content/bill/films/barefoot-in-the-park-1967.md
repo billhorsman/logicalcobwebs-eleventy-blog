@@ -16,7 +16,7 @@ description: "In this film based on a Neil Simon play, newlyweds Corie, a free s
 
 <p>9 / 100</p>
 
-<article class="film">
+<article class="film slug-barefoot-in-the-park-1967">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

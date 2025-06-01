@@ -16,7 +16,7 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
 
 <p>67 / 100</p>
 
-<article class="film">
+<article class="film slug-maudie-2016">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

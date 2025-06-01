@@ -16,7 +16,7 @@ description: "In the 1820s, a taciturn loner and skilled cook travels west to Or
 
 <p>75 / 100</p>
 
-<article class="film">
+<article class="film slug-first-cow-2020">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

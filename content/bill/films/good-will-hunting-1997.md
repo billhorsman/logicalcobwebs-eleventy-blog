@@ -16,7 +16,7 @@ description: "Headstrong yet aimless, Will Hunting has a genius-level IQ but cho
 
 <p>37 / 100</p>
 
-<article class="film">
+<article class="film slug-good-will-hunting-1997">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

@@ -16,7 +16,7 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
 
 <p>36 / 100</p>
 
-<article class="film">
+<article class="film slug-fargo-1996">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

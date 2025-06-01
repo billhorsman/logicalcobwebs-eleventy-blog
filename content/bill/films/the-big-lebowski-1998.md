@@ -16,7 +16,7 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
 
 <p>38 / 100</p>
 
-<article class="film">
+<article class="film slug-the-big-lebowski-1998">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

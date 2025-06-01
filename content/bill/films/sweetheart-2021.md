@@ -16,7 +16,7 @@ description: "A socially awkward, environmentally-conscious teenager named AJ is
 
 <p>84 / 100</p>
 
-<article class="film">
+<article class="film slug-sweetheart-2021">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

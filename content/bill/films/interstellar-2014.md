@@ -16,7 +16,7 @@ description: "The adventures of a group of explorers who make use of a newly dis
 
 <p>65 / 100</p>
 
-<article class="film">
+<article class="film slug-interstellar-2014">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

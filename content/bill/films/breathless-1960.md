@@ -16,7 +16,7 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
 
 <p>8 / 100</p>
 
-<article class="film">
+<article class="film slug-breathless-1960">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

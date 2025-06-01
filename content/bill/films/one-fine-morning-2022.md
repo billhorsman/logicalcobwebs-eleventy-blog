@@ -16,7 +16,7 @@ description: "With a father suffering from neurodegenerative disease, a young wo
 
 <p>93 / 100</p>
 
-<article class="film">
+<article class="film slug-one-fine-morning-2022">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

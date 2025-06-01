@@ -16,7 +16,7 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
 
 <p>10 / 100</p>
 
-<article class="film">
+<article class="film slug-in-the-heat-of-the-night-1967">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

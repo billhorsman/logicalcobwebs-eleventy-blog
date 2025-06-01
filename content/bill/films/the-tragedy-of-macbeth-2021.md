@@ -16,7 +16,7 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
 
 <p>90 / 100</p>
 
-<article class="film">
+<article class="film slug-the-tragedy-of-macbeth-2021">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

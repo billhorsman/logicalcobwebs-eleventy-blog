@@ -16,7 +16,7 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
 
 <p>43 / 100</p>
 
-<article class="film">
+<article class="film slug-the-talented-mr-ripley-1999">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

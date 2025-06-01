@@ -16,7 +16,7 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
 
 <p>98 / 100</p>
 
-<article class="film">
+<article class="film slug-asteroid-city-2023">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

@@ -16,7 +16,7 @@ description: "A woman in her sixties embarks on a journey through the western Un
 
 <p>80 / 100</p>
 
-<article class="film">
+<article class="film slug-nomadland-2021">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

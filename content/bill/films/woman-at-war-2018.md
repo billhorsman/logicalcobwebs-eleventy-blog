@@ -16,7 +16,7 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
 
 <p>71 / 100</p>
 
-<article class="film">
+<article class="film slug-woman-at-war-2018">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

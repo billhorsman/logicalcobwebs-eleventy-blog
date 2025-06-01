@@ -16,7 +16,7 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
 
 <p>18 / 100</p>
 
-<article class="film">
+<article class="film slug-three-days-of-the-condor-1975">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

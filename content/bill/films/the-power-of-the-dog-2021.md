@@ -16,7 +16,7 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
 
 <p>86 / 100</p>
 
-<article class="film">
+<article class="film slug-the-power-of-the-dog-2021">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

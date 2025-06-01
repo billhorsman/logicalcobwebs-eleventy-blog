@@ -16,7 +16,7 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
 
 <p>6 / 100</p>
 
-<article class="film">
+<article class="film slug-la-dolce-vita-1960">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

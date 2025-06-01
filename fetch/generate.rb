@@ -61,7 +61,7 @@ top_films.each_with_index do |film, index|
 
     <p>#{index + 1} / #{top_films.length}</p>
     
-    <article class="film">
+    <article class="film slug-#{film["slug"]}">
       <div class="backdrop-and-poster">
         <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
         <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

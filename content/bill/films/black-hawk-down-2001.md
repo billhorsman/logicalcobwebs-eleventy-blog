@@ -16,7 +16,7 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
 
 <p>46 / 100</p>
 
-<article class="film">
+<article class="film slug-black-hawk-down-2001">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

@@ -16,7 +16,7 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
 
 <p>78 / 100</p>
 
-<article class="film">
+<article class="film slug-limbo-2020">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

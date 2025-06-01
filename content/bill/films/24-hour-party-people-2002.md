@@ -16,7 +16,7 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
 
 <p>47 / 100</p>
 
-<article class="film">
+<article class="film slug-24-hour-party-people-2002">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

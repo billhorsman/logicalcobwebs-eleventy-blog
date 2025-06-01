@@ -16,7 +16,7 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
 
 <p>70 / 100</p>
 
-<article class="film">
+<article class="film slug-cest-la-vie-2017">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

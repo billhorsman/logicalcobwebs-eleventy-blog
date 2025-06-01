@@ -16,7 +16,7 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
 
 <p>30 / 100</p>
 
-<article class="film">
+<article class="film slug-delicatessen-1991">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

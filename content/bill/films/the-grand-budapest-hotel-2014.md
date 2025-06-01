@@ -16,7 +16,7 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
 
 <p>63 / 100</p>
 
-<article class="film">
+<article class="film slug-the-grand-budapest-hotel-2014">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

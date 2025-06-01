@@ -16,7 +16,7 @@ description: "As the railroad builders advance unstoppably through the Arizona d
 
 <p>13 / 100</p>
 
-<article class="film">
+<article class="film slug-once-upon-a-time-in-the-west-1968">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

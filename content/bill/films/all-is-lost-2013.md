@@ -16,7 +16,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
 
 <p>61 / 100</p>
 
-<article class="film">
+<article class="film slug-all-is-lost-2013">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

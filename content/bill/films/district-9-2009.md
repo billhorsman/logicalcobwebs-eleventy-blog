@@ -16,7 +16,7 @@ description: "Thirty years ago, aliens arrive on Earth. Not to conquer or give a
 
 <p>56 / 100</p>
 
-<article class="film">
+<article class="film slug-district-9-2009">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

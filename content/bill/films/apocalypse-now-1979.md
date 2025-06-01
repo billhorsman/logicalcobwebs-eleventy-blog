@@ -16,7 +16,7 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
 
 <p>21 / 100</p>
 
-<article class="film">
+<article class="film slug-apocalypse-now-1979">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

@@ -16,7 +16,7 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
 
 <p>14 / 100</p>
 
-<article class="film">
+<article class="film slug-butch-cassidy-and-the-sundance-kid-1969">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

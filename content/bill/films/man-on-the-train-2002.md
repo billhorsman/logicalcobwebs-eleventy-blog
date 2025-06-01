@@ -16,7 +16,7 @@ description: "A man, Milan steps off a train, into a small French village. As he
 
 <p>49 / 100</p>
 
-<article class="film">
+<article class="film slug-man-on-the-train-2002">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

@@ -16,7 +16,7 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
 
 <p>19 / 100</p>
 
-<article class="film">
+<article class="film slug-the-man-who-fell-to-earth-1976">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

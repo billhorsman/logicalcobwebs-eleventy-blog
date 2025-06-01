@@ -16,7 +16,7 @@ description: "At the beginning of the 1913 Mexican Revolution, greedy bandit Jua
 
 <p>15 / 100</p>
 
-<article class="film">
+<article class="film slug-duck-you-sucker-1971">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

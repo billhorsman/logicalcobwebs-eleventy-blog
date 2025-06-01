@@ -16,7 +16,7 @@ description: "Various individuals think they’re coming together for a party in
 
 <p>68 / 100</p>
 
-<article class="film">
+<article class="film slug-the-party-2017">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

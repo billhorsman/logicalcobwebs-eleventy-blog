@@ -16,7 +16,7 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
 
 <p>99 / 100</p>
 
-<article class="film">
+<article class="film slug-killers-of-the-flower-moon-2023">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
