@@ -18,7 +18,7 @@ A few films are in here because I watched them a long time ago and they have a n
 
 One film is in here twice: {% filmLink "purple-noon-1960" %} (aka Plan Soleil) and {% filmLink "the-talented-mr-ripley-1999" %}. I would have added it again for Steven Zaillian's 2024 TV miniseries <em>Ripley</em> with Andrew Scott but that's not a film.
 
-Actors that crop up a lot are <span class="sentence-list">{% for cast in top_cast %}<span>{{ cast.name }}</span>{% endfor %}</span>.
+Actors that crop up a lot are {{ top_cast | nameSentence }}.
 
 ### Top {{ must_see_films.list.length }}
 

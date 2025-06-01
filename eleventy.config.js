@@ -4,6 +4,7 @@ import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import Image from "@11ty/eleventy-img";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { toSentence } from "./lib/toSentence.mjs";
 
 import pluginFilters from "./_config/filters.js";
 
@@ -134,7 +135,11 @@ export default async function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter("nameSentence", (list) => {
-		return list.slice(0, 10).map(o => o.name).join(", ");
+		return toSentence(list.map(o => o.name));
+	});
+
+	eleventyConfig.addFilter("toSentence", (list) => {
+		return toSentence(list);
 	});
 
 	eleventyConfig.addAsyncShortcode(
@@ -176,10 +181,10 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addAsyncShortcode(
 		"summariseFilms", 
 		async function(list) {
-			return list.map(slug => {
+			return toSentence(list.map(slug => {
 				const film = this.ctx.films[slug];
 				return `<a href="/bill/films/${slug}">${film.title}</a>`;
-			}).join(", ");
+			}));
 		}
 	);
 
