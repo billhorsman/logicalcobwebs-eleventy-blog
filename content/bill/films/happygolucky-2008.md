@@ -36,11 +36,15 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
-  {% if films.reviews[slug] %}
+  <blockquote> 
+    {{ film.overview }} <em>—&nbsp;<a href="https://www.themoviedb.org/movie/{{ film.id }}">TMDB</a></em>
+  </blockquote> 
+
+  {%- if films.reviews[slug] -%}
     <blockquote> 
-      {{ films.reviews[slug] | safe }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
     </blockquote> 
-  {% endif %}
+  {%- endif -%}
 
   <h2>
     Cast

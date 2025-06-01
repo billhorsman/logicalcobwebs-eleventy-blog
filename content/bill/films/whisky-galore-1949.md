@@ -36,11 +36,15 @@ description: "Based on a true story. The name of the real ship, that sunk Feb 5 
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
-  {% if films.reviews[slug] %}
+  <blockquote> 
+    {{ film.overview }} <em>—&nbsp;<a href="https://www.themoviedb.org/movie/{{ film.id }}">TMDB</a></em>
+  </blockquote> 
+
+  {%- if films.reviews[slug] -%}
     <blockquote> 
-      {{ films.reviews[slug] | safe }} <em>— Bill</em>
+      {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
     </blockquote> 
-  {% endif %}
+  {%- endif -%}
 
   <h2>
     Cast
