@@ -9,9 +9,15 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../house-of-gucci-2021">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../nomadland-2021">Next</a>
+  <div class="prev">
+    <a href="../house-of-gucci-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../nomadland-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>84 / 100</p>

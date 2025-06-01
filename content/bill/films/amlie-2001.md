@@ -9,9 +9,15 @@ description: "At a tiny Parisian café, the adorable yet painfully shy Amélie a
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../billy-elliot-2000">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../black-hawk-down-2001">Next</a>
+  <div class="prev">
+    <a href="../billy-elliot-2000"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../black-hawk-down-2001">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>44 / 100</p>

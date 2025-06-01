@@ -9,9 +9,15 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../no-country-for-old-men-2007">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../in-bruges-2008">Next</a>
+  <div class="prev">
+    <a href="../no-country-for-old-men-2007"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../in-bruges-2008">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>53 / 100</p>

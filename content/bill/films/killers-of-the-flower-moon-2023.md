@@ -9,9 +9,15 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../blue-jean-2023">Previous</a>
-  <a href="../">Film list</a>
-  <span class="next">Next</span>
+  <div class="prev">
+    <a href="../blue-jean-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
+  </div>
 </nav>
 
 <p>100 / 100</p>

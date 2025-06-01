@@ -9,9 +9,15 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../first-cow-2020">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../schemers-2020">Next</a>
+  <div class="prev">
+    <a href="../first-cow-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../schemers-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>77 / 100</p>

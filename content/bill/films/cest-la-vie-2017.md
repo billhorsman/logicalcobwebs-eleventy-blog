@@ -9,9 +9,15 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-handmaiden-2016">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../lucky-2017">Next</a>
+  <div class="prev">
+    <a href="../the-handmaiden-2016"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../lucky-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>67 / 100</p>

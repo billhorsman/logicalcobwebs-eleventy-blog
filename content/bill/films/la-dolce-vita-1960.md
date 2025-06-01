@@ -9,9 +9,15 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../breathless-1960">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../purple-noon-1960">Next</a>
+  <div class="prev">
+    <a href="../breathless-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../purple-noon-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>7 / 100</p>

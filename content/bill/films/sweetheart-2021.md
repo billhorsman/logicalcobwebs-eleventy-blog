@@ -9,9 +9,15 @@ description: "A socially awkward, environmentally-conscious teenager named AJ is
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../petite-maman-2021">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../the-french-dispatch-2021">Next</a>
+  <div class="prev">
+    <a href="../petite-maman-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../the-french-dispatch-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>87 / 100</p>

@@ -9,9 +9,15 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
 {% set film = films[slug] %}
 
 <nav class="films">
-  <span class="prev">Previous</span>
-  <a href="../">Film list</a>
-  <a class="next" href="../whisky-galore-1949">Next</a>
+  <div class="prev">
+    <span><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</span>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../whisky-galore-1949">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>1 / 100</p>

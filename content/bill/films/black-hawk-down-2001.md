@@ -9,9 +9,15 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../amlie-2001">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../24-hour-party-people-2002">Next</a>
+  <div class="prev">
+    <a href="../amlie-2001"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../24-hour-party-people-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>45 / 100</p>

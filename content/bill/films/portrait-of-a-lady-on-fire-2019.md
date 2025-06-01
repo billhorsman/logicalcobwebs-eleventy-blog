@@ -9,9 +9,15 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../parasite-2019">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../eternal-beauty-2020">Next</a>
+  <div class="prev">
+    <a href="../parasite-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../eternal-beauty-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>74 / 100</p>

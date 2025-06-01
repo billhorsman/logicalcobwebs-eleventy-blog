@@ -9,9 +9,15 @@ description: "A woman in her sixties embarks on a journey through the western Un
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../licorice-pizza-2021">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../petite-maman-2021">Next</a>
+  <div class="prev">
+    <a href="../licorice-pizza-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../petite-maman-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>85 / 100</p>

@@ -9,9 +9,15 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../im-all-right-jack-1959">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../breathless-1960">Next</a>
+  <div class="prev">
+    <a href="../im-all-right-jack-1959"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../breathless-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>5 / 100</p>

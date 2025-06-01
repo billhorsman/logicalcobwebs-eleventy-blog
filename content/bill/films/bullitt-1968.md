@@ -9,9 +9,15 @@ description: "Senator Walter Chalmers is aiming to take down mob boss Pete Ross 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../2001-a-space-odyssey-1968">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../once-upon-a-time-in-the-west-1968">Next</a>
+  <div class="prev">
+    <a href="../2001-a-space-odyssey-1968"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../once-upon-a-time-in-the-west-1968">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>12 / 100</p>

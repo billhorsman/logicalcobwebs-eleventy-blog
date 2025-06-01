@@ -9,9 +9,15 @@ description: "An African-American Mafia hit man who models himself after the sam
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../fight-club-1999">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../magnolia-1999">Next</a>
+  <div class="prev">
+    <a href="../fight-club-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../magnolia-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>39 / 100</p>

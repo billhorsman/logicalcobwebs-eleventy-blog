@@ -9,9 +9,15 @@ description: "County Durham, England, 1984. The miners' strike has started and t
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-talented-mr-ripley-1999">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../amlie-2001">Next</a>
+  <div class="prev">
+    <a href="../the-talented-mr-ripley-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../amlie-2001">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>43 / 100</p>

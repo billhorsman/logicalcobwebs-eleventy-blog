@@ -54,9 +54,15 @@ top_films.each_with_index do |film, index|
     {% set film = films[slug] %}
 
     <nav class="films">
-      #{prev_film ? "<a class=\"prev\" href=\"../#{prev_film["slug"]}\">Previous</a>" : "<span class=\"prev\">Previous</span>"}
-      <a href="../">Film list</a>
-      #{next_film ? "<a class=\"next\" href=\"../#{next_film["slug"]}\">Next</a>" : "<span class=\"next\">Next</span>"}
+      <div class=\"prev\">
+        #{prev_film ? "<a href=\"../#{prev_film["slug"]}\"><i class=\"fa-solid fa-chevron-left fa-xs\"></i> Previous</a>" : "<span><i class=\"fa-solid fa-chevron-left fa-xs\"></i> Previous</span>"}
+      </div>
+      <div>
+        <a href="../">Film list</a>
+      </div>
+      <div class=\"next\">
+        #{next_film ? "<a href=\"../#{next_film["slug"]}\">Next <i class=\"fa-solid fa-chevron-right fa-xs\"></i></a>" : "<span>Next <i class=\"fa-solid fa-chevron-right fa-xs\"></i></span>"}
+      </div>
     </nav>
 
     <p>#{index + 1} / #{top_films.length}</p>

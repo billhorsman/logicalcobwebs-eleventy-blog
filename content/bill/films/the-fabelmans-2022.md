@@ -9,9 +9,15 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-banshees-of-inisherin-2022">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../all-of-us-strangers-2023">Next</a>
+  <div class="prev">
+    <a href="../the-banshees-of-inisherin-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../all-of-us-strangers-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>96 / 100</p>

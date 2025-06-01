@@ -9,9 +9,15 @@ description: "Two out-of-work actors -- the anxious, luckless Marwood and his ac
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../brazil-1985">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../delicatessen-1991">Next</a>
+  <div class="prev">
+    <a href="../brazil-1985"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../delicatessen-1991">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>28 / 100</p>

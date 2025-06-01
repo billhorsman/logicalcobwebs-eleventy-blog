@@ -9,9 +9,15 @@ description: "A simple-minded gardener named Chance has spent all his life in th
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../apocalypse-now-1979">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../diva-1981">Next</a>
+  <div class="prev">
+    <a href="../apocalypse-now-1979"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../diva-1981">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>21 / 100</p>

@@ -9,9 +9,15 @@ description: "Humanity finds a mysterious object buried beneath the lunar surfac
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../in-the-heat-of-the-night-1967">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../bullitt-1968">Next</a>
+  <div class="prev">
+    <a href="../in-the-heat-of-the-night-1967"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../bullitt-1968">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>11 / 100</p>

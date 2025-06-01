@@ -9,9 +9,15 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../district-9-2009">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../micmacs-2009">Next</a>
+  <div class="prev">
+    <a href="../district-9-2009"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../micmacs-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>56 / 100</p>

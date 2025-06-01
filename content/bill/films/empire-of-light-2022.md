@@ -9,9 +9,15 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../eo-2022">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../one-fine-morning-2022">Next</a>
+  <div class="prev">
+    <a href="../eo-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../one-fine-morning-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>93 / 100</p>

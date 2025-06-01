@@ -9,9 +9,15 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../portrait-of-a-lady-on-fire-2019">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../first-cow-2020">Next</a>
+  <div class="prev">
+    <a href="../portrait-of-a-lady-on-fire-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../first-cow-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>75 / 100</p>

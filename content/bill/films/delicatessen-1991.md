@@ -9,9 +9,15 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../withnail--i-1987">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../night-on-earth-1991">Next</a>
+  <div class="prev">
+    <a href="../withnail--i-1987"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../night-on-earth-1991">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>29 / 100</p>

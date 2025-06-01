@@ -9,9 +9,15 @@ description: "An anthology of 5 different cab drivers in 5 American and European
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../delicatessen-1991">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../the-fugitive-1993">Next</a>
+  <div class="prev">
+    <a href="../delicatessen-1991"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../the-fugitive-1993">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>30 / 100</p>

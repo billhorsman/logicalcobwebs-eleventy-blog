@@ -9,9 +9,15 @@ description: "One night in his near-empty tower block in contemporary London, Ad
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-fabelmans-2022">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../asteroid-city-2023">Next</a>
+  <div class="prev">
+    <a href="../the-fabelmans-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../asteroid-city-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>97 / 100</p>

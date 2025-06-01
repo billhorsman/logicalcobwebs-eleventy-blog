@@ -9,9 +9,15 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../black-hawk-down-2001">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../man-on-the-train-2002">Next</a>
+  <div class="prev">
+    <a href="../black-hawk-down-2001"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../man-on-the-train-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>46 / 100</p>

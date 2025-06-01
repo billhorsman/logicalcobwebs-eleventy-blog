@@ -9,9 +9,15 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../all-is-lost-2013">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../interstellar-2014">Next</a>
+  <div class="prev">
+    <a href="../all-is-lost-2013"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../interstellar-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>61 / 100</p>

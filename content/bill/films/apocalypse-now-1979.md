@@ -9,9 +9,15 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-deer-hunter-1978">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../being-there-1979">Next</a>
+  <div class="prev">
+    <a href="../the-deer-hunter-1978"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../being-there-1979">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>20 / 100</p>

@@ -9,9 +9,15 @@ description: "1930s Korea, in the period of Japanese occupation, a new girl, Soo
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../maudie-2016">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../cest-la-vie-2017">Next</a>
+  <div class="prev">
+    <a href="../maudie-2016"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../cest-la-vie-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>66 / 100</p>

@@ -9,9 +9,15 @@ description: "Wrongfully convicted of murdering his wife and sentenced to death,
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../night-on-earth-1991">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../whats-eating-gilbert-grape-1993">Next</a>
+  <div class="prev">
+    <a href="../night-on-earth-1991"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../whats-eating-gilbert-grape-1993">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>31 / 100</p>

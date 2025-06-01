@@ -9,9 +9,15 @@ description: "A group of working-class friends decide to enlist in the Army duri
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-man-who-fell-to-earth-1976">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../apocalypse-now-1979">Next</a>
+  <div class="prev">
+    <a href="../the-man-who-fell-to-earth-1976"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../apocalypse-now-1979">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>19 / 100</p>

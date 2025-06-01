@@ -9,9 +9,15 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../once-upon-a-time-in-the-west-1968">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../the-sting-1973">Next</a>
+  <div class="prev">
+    <a href="../once-upon-a-time-in-the-west-1968"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../the-sting-1973">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>14 / 100</p>

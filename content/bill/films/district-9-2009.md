@@ -9,9 +9,15 @@ description: "Thirty years ago, aliens arrive on Earth. Not to conquer or give a
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../in-bruges-2008">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../fantastic-mr-fox-2009">Next</a>
+  <div class="prev">
+    <a href="../in-bruges-2008"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../fantastic-mr-fox-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>55 / 100</p>

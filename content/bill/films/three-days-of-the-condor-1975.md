@@ -9,9 +9,15 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../dog-day-afternoon-1975">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../the-man-who-fell-to-earth-1976">Next</a>
+  <div class="prev">
+    <a href="../dog-day-afternoon-1975"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../the-man-who-fell-to-earth-1976">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>17 / 100</p>

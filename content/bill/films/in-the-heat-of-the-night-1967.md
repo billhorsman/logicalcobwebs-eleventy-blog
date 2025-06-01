@@ -9,9 +9,15 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../barefoot-in-the-park-1967">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../2001-a-space-odyssey-1968">Next</a>
+  <div class="prev">
+    <a href="../barefoot-in-the-park-1967"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../2001-a-space-odyssey-1968">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>10 / 100</p>

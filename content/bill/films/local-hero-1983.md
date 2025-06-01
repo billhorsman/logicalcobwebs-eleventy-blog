@@ -9,9 +9,15 @@ description: "An American oil company sends a man to Scotland to buy up an entir
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../blade-runner-1982">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../paris-texas-1984">Next</a>
+  <div class="prev">
+    <a href="../blade-runner-1982"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../paris-texas-1984">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>25 / 100</p>

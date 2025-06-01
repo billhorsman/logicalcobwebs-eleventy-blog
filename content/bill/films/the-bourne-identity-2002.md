@@ -9,9 +9,15 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../man-on-the-train-2002">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../phone-booth-2003">Next</a>
+  <div class="prev">
+    <a href="../man-on-the-train-2002"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../phone-booth-2003">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>48 / 100</p>

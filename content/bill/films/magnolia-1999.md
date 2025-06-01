@@ -9,9 +9,15 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../ghost-dog-the-way-of-the-samurai-1999">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../the-straight-story-1999">Next</a>
+  <div class="prev">
+    <a href="../ghost-dog-the-way-of-the-samurai-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../the-straight-story-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>40 / 100</p>

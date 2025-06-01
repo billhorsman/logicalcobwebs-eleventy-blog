@@ -9,9 +9,15 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../la-dolce-vita-1960">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../barefoot-in-the-park-1967">Next</a>
+  <div class="prev">
+    <a href="../la-dolce-vita-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../barefoot-in-the-park-1967">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>8 / 100</p>

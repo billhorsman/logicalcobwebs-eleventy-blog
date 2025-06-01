@@ -9,9 +9,15 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../happygolucky-2008">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../district-9-2009">Next</a>
+  <div class="prev">
+    <a href="../happygolucky-2008"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../district-9-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>54 / 100</p>

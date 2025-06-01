@@ -9,9 +9,15 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../four-weddings-and-a-funeral-1994">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../fargo-1996">Next</a>
+  <div class="prev">
+    <a href="../four-weddings-and-a-funeral-1994"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../fargo-1996">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>34 / 100</p>

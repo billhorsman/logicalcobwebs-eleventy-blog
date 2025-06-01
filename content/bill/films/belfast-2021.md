@@ -9,9 +9,15 @@ description: "Buddy is a young boy on the cusp of adolescence, whose life is fil
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-truffle-hunters-2020">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../coda-2021">Next</a>
+  <div class="prev">
+    <a href="../the-truffle-hunters-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../coda-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>80 / 100</p>

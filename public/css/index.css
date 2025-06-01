@@ -43,6 +43,7 @@
   --cta-color: white;
   --cta-background-color-hover: #333;
   --badge-background-color: white;
+  --subtle-link-background-color: var(--gray-900);
 
   --mastodon: #5a59ff;
   --linkedin: #2d65bc;
@@ -65,6 +66,7 @@
     --cta-color: light-dark(white, black);
     --cta-background-color-hover: light-dark(#333, #eee);
     --badge-background-color: light-dark(white, var(--yellow-300));
+    --subtle-link-background-color: light-dark(var(--gray-900), var(--yellow-300));
 
     --mastodon: light-dark(#5a59ff, #6364f6);
     --linkedin: light-dark(#2d65bc, #2d65bc);
@@ -960,33 +962,31 @@ nav.films {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-content: space-between;
-  margin: 2rem 0 0;
+  margin: 2rem 0 0.5rem;
+
+  & > div {
+    text-align: center;
+  }
 
   & a,
   & span { 
+    border-radius: 0.25rem;
     display: inline-block;
     padding: 0.25rem 0.5rem;
     text-decoration: none;
     text-align: center;
   }
 
+  & a {
+    background: var(--subtle-link-background-color);
+  }
+
   & .prev {
     text-align: left;
   }
 
-  & .prev:before {
-    content: "<";
-    display: inline-block;
-    font-size: 0.8125rem;
-    margin: 0 3px 3px 0;
-  }
-
   & .next {
     text-align: right;
-  }
-
-  & .next:after {
-    content: " >";
   }
 
   & span {

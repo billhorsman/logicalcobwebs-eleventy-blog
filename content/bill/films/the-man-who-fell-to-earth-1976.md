@@ -9,9 +9,15 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../three-days-of-the-condor-1975">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../the-deer-hunter-1978">Next</a>
+  <div class="prev">
+    <a href="../three-days-of-the-condor-1975"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../the-deer-hunter-1978">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>18 / 100</p>

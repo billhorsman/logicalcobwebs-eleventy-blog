@@ -9,9 +9,15 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../hot-fuzz-2007">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../happygolucky-2008">Next</a>
+  <div class="prev">
+    <a href="../hot-fuzz-2007"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../happygolucky-2008">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>52 / 100</p>

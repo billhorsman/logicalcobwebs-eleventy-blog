@@ -9,9 +9,15 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-french-dispatch-2021">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../the-tragedy-of-macbeth-2021">Next</a>
+  <div class="prev">
+    <a href="../the-french-dispatch-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../the-tragedy-of-macbeth-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>89 / 100</p>

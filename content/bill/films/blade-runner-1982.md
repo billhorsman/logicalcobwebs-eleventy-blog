@@ -9,9 +9,15 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../gregorys-girl-1981">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../local-hero-1983">Next</a>
+  <div class="prev">
+    <a href="../gregorys-girl-1981"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../local-hero-1983">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>24 / 100</p>

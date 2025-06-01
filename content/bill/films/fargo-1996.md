@@ -9,9 +9,15 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../lon-the-professional-1994">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../good-will-hunting-1997">Next</a>
+  <div class="prev">
+    <a href="../lon-the-professional-1994"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../good-will-hunting-1997">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>35 / 100</p>

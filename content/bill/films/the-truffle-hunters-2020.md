@@ -9,9 +9,15 @@ description: "In the secret forests of Northern Italy, a dwindling group of joyf
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../schemers-2020">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../belfast-2021">Next</a>
+  <div class="prev">
+    <a href="../schemers-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../belfast-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>79 / 100</p>

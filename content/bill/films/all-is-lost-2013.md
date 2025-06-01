@@ -9,9 +9,15 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../tomboy-2011">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../dallas-buyers-club-2013">Next</a>
+  <div class="prev">
+    <a href="../tomboy-2011"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../dallas-buyers-club-2013">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>60 / 100</p>

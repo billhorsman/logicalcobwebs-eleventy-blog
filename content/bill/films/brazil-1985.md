@@ -9,9 +9,15 @@ description: "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../paris-texas-1984">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../withnail--i-1987">Next</a>
+  <div class="prev">
+    <a href="../paris-texas-1984"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../withnail--i-1987">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>27 / 100</p>

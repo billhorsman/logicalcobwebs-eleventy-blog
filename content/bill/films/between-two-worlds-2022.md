@@ -9,9 +9,15 @@ description: "Marianne Winckler relocates to the port city of Caen in order to p
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-tragedy-of-macbeth-2021">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../eo-2022">Next</a>
+  <div class="prev">
+    <a href="../the-tragedy-of-macbeth-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../eo-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>91 / 100</p>

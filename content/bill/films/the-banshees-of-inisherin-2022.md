@@ -9,9 +9,15 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../one-fine-morning-2022">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../the-fabelmans-2022">Next</a>
+  <div class="prev">
+    <a href="../one-fine-morning-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../the-fabelmans-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>95 / 100</p>

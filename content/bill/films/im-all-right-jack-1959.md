@@ -9,9 +9,15 @@ description: "Naive Stanley Windrush returns from the war, his mind set on a suc
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../la-strada-1954">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../north-by-northwest-1959">Next</a>
+  <div class="prev">
+    <a href="../la-strada-1954"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../north-by-northwest-1959">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>4 / 100</p>

@@ -9,9 +9,15 @@ description: "In the 1820s, a taciturn loner and skilled cook travels west to Or
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../eternal-beauty-2020">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../limbo-2020">Next</a>
+  <div class="prev">
+    <a href="../eternal-beauty-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../limbo-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>76 / 100</p>

@@ -9,9 +9,15 @@ description: "A man wanders out of the desert not knowing who he is. His brother
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../local-hero-1983">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../brazil-1985">Next</a>
+  <div class="prev">
+    <a href="../local-hero-1983"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../brazil-1985">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>26 / 100</p>

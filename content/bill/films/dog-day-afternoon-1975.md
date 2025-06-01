@@ -9,9 +9,15 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-sting-1973">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../three-days-of-the-condor-1975">Next</a>
+  <div class="prev">
+    <a href="../the-sting-1973"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../three-days-of-the-condor-1975">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>16 / 100</p>

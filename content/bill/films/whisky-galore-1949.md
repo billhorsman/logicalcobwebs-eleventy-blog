@@ -9,9 +9,15 @@ description: "Based on a true story. The name of the real ship, that sunk Feb 5 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../its-a-wonderful-life-1946">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../la-strada-1954">Next</a>
+  <div class="prev">
+    <a href="../its-a-wonderful-life-1946"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../la-strada-1954">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>2 / 100</p>

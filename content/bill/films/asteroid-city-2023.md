@@ -9,9 +9,15 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../all-of-us-strangers-2023">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../blue-jean-2023">Next</a>
+  <div class="prev">
+    <a href="../all-of-us-strangers-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../blue-jean-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>98 / 100</p>

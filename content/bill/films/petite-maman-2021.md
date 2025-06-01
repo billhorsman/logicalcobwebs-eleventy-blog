@@ -9,9 +9,15 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../nomadland-2021">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../sweetheart-2021">Next</a>
+  <div class="prev">
+    <a href="../nomadland-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../sweetheart-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>86 / 100</p>

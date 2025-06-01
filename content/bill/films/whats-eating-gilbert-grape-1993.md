@@ -9,9 +9,15 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-fugitive-1993">Previous</a>
-  <a href="../">Film list</a>
-  <a class="next" href="../four-weddings-and-a-funeral-1994">Next</a>
+  <div class="prev">
+    <a href="../the-fugitive-1993"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+  </div>
+  <div>
+    <a href="../">Film list</a>
+  </div>
+  <div class="next">
+    <a href="../four-weddings-and-a-funeral-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+  </div>
 </nav>
 
 <p>32 / 100</p>
