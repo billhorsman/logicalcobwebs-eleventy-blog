@@ -9,12 +9,12 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../no-country-for-old-men-2007">Previous</a>
+  <a class="prev" href="../happygolucky-2008">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../happygolucky-2008">Next</a>
+  <a class="next" href="../district-9-2009">Next</a>
 </nav>
 
-<p>53 / 100</p>
+<p>54 / 100</p>
 
 <article class="film slug-in-bruges-2008">
   <div class="backdrop-and-poster">

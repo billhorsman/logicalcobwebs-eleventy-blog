@@ -9,12 +9,12 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../dallas-buyers-club-2013">Previous</a>
+  <a class="prev" href="../mr-turner-2014">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../mr-turner-2014">Next</a>
+  <a class="next" href="../maudie-2016">Next</a>
 </nav>
 
-<p>62 / 100</p>
+<p>64 / 100</p>
 
 <article class="film slug-the-grand-budapest-hotel-2014">
   <div class="backdrop-and-poster">

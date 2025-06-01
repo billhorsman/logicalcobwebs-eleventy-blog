@@ -9,12 +9,12 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../cest-la-vie-2017">Previous</a>
+  <a class="prev" href="../sink-or-swim-2018">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../sink-or-swim-2018">Next</a>
+  <a class="next" href="../parasite-2019">Next</a>
 </nav>
 
-<p>70 / 100</p>
+<p>72 / 100</p>
 
 <article class="film slug-woman-at-war-2018">
   <div class="backdrop-and-poster">

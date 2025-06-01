@@ -9,12 +9,12 @@ description: "Jean, a PE teacher, is forced to live a double life. When a new st
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../empire-of-light-2022">Previous</a>
+  <a class="prev" href="../asteroid-city-2023">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../asteroid-city-2023">Next</a>
+  <a class="next" href="../killers-of-the-flower-moon-2023">Next</a>
 </nav>
 
-<p>97 / 100</p>
+<p>99 / 100</p>
 
 <article class="film slug-blue-jean-2023">
   <div class="backdrop-and-poster">

@@ -9,12 +9,12 @@ description: "In the French harbor city of Le Havre, fate throws young African r
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../tomboy-2011">Previous</a>
+  <a class="prev" href="../micmacs-2009">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../all-is-lost-2013">Next</a>
+  <a class="next" href="../tomboy-2011">Next</a>
 </nav>
 
-<p>59 / 100</p>
+<p>58 / 100</p>
 
 <article class="film slug-le-havre-2011">
   <div class="backdrop-and-poster">

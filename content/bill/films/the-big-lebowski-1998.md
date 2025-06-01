@@ -11,7 +11,7 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
 <nav class="films">
   <a class="prev" href="../good-will-hunting-1997">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../ghost-dog-the-way-of-the-samurai-1999">Next</a>
+  <a class="next" href="../fight-club-1999">Next</a>
 </nav>
 
 <p>37 / 100</p>

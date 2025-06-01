@@ -9,12 +9,12 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-straight-story-1999">Previous</a>
+  <a class="prev" href="../ghost-dog-the-way-of-the-samurai-1999">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../the-talented-mr-ripley-1999">Next</a>
+  <a class="next" href="../the-straight-story-1999">Next</a>
 </nav>
 
-<p>41 / 100</p>
+<p>40 / 100</p>
 
 <article class="film slug-magnolia-1999">
   <div class="backdrop-and-poster">

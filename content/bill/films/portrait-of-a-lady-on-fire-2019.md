@@ -11,7 +11,7 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
 <nav class="films">
   <a class="prev" href="../parasite-2019">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../first-cow-2020">Next</a>
+  <a class="next" href="../eternal-beauty-2020">Next</a>
 </nav>
 
 <p>74 / 100</p>

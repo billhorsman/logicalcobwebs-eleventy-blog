@@ -9,7 +9,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../le-havre-2011">Previous</a>
+  <a class="prev" href="../tomboy-2011">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../dallas-buyers-club-2013">Next</a>
 </nav>

@@ -9,12 +9,12 @@ description: "The adventures of a group of explorers who make use of a newly dis
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../mr-turner-2014">Previous</a>
+  <a class="prev" href="../dallas-buyers-club-2013">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../the-handmaiden-2016">Next</a>
+  <a class="next" href="../mr-turner-2014">Next</a>
 </nav>
 
-<p>64 / 100</p>
+<p>62 / 100</p>
 
 <article class="film slug-interstellar-2014">
   <div class="backdrop-and-poster">

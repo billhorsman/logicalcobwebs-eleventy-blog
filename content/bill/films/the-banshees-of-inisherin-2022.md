@@ -14,7 +14,7 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
   <a class="next" href="../the-fabelmans-2022">Next</a>
 </nav>
 
-<p>94 / 100</p>
+<p>95 / 100</p>
 
 <article class="film slug-the-banshees-of-inisherin-2022">
   <div class="backdrop-and-poster">

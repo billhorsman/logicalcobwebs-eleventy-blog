@@ -9,12 +9,12 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../purple-noon-1960">Previous</a>
+  <a class="prev" href="../north-by-northwest-1959">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../barefoot-in-the-park-1967">Next</a>
+  <a class="next" href="../la-dolce-vita-1960">Next</a>
 </nav>
 
-<p>8 / 100</p>
+<p>6 / 100</p>
 
 <article class="film slug-breathless-1960">
   <div class="backdrop-and-poster">

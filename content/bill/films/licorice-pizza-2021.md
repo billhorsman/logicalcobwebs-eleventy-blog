@@ -11,10 +11,10 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
 <nav class="films">
   <a class="prev" href="../house-of-gucci-2021">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../the-tragedy-of-macbeth-2021">Next</a>
+  <a class="next" href="../nomadland-2021">Next</a>
 </nav>
 
-<p>89 / 100</p>
+<p>84 / 100</p>
 
 <article class="film slug-licorice-pizza-2021">
   <div class="backdrop-and-poster">

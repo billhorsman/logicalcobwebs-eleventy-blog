@@ -9,12 +9,12 @@ description: "An African-American Mafia hit man who models himself after the sam
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-big-lebowski-1998">Previous</a>
+  <a class="prev" href="../fight-club-1999">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../fight-club-1999">Next</a>
+  <a class="next" href="../magnolia-1999">Next</a>
 </nav>
 
-<p>38 / 100</p>
+<p>39 / 100</p>
 
 <article class="film slug-ghost-dog-the-way-of-the-samurai-1999">
   <div class="backdrop-and-poster">

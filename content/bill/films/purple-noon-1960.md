@@ -11,10 +11,10 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
 <nav class="films">
   <a class="prev" href="../la-dolce-vita-1960">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../breathless-1960">Next</a>
+  <a class="next" href="../barefoot-in-the-park-1967">Next</a>
 </nav>
 
-<p>7 / 100</p>
+<p>8 / 100</p>
 
 <article class="film slug-purple-noon-1960">
   <div class="backdrop-and-poster">

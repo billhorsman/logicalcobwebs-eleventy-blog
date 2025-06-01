@@ -9,12 +9,12 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-fabelmans-2022">Previous</a>
+  <a class="prev" href="../eo-2022">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../blue-jean-2023">Next</a>
+  <a class="next" href="../one-fine-morning-2022">Next</a>
 </nav>
 
-<p>96 / 100</p>
+<p>93 / 100</p>
 
 <article class="film slug-empire-of-light-2022">
   <div class="backdrop-and-poster">

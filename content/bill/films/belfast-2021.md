@@ -9,12 +9,12 @@ description: "Buddy is a young boy on the cusp of adolescence, whose life is fil
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-power-of-the-dog-2021">Previous</a>
+  <a class="prev" href="../the-truffle-hunters-2020">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../house-of-gucci-2021">Next</a>
+  <a class="next" href="../coda-2021">Next</a>
 </nav>
 
-<p>87 / 100</p>
+<p>80 / 100</p>
 
 <article class="film slug-belfast-2021">
   <div class="backdrop-and-poster">

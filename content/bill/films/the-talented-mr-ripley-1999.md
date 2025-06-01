@@ -9,7 +9,7 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../magnolia-1999">Previous</a>
+  <a class="prev" href="../the-straight-story-1999">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../billy-elliot-2000">Next</a>
 </nav>

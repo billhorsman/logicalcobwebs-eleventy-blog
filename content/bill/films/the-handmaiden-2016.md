@@ -9,12 +9,12 @@ description: "1930s Korea, in the period of Japanese occupation, a new girl, Soo
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../interstellar-2014">Previous</a>
+  <a class="prev" href="../maudie-2016">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../maudie-2016">Next</a>
+  <a class="next" href="../cest-la-vie-2017">Next</a>
 </nav>
 
-<p>65 / 100</p>
+<p>66 / 100</p>
 
 <article class="film slug-the-handmaiden-2016">
   <div class="backdrop-and-poster">

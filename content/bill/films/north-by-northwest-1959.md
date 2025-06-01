@@ -9,12 +9,12 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../la-strada-1954">Previous</a>
+  <a class="prev" href="../im-all-right-jack-1959">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../im-all-right-jack-1959">Next</a>
+  <a class="next" href="../breathless-1960">Next</a>
 </nav>
 
-<p>4 / 100</p>
+<p>5 / 100</p>
 
 <article class="film slug-north-by-northwest-1959">
   <div class="backdrop-and-poster">

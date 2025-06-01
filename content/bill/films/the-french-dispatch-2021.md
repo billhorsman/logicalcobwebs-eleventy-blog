@@ -14,7 +14,7 @@ description: "The staff of an American magazine based in France puts out its las
   <a class="next" href="../the-power-of-the-dog-2021">Next</a>
 </nav>
 
-<p>85 / 100</p>
+<p>88 / 100</p>
 
 <article class="film slug-the-french-dispatch-2021">
   <div class="backdrop-and-poster">

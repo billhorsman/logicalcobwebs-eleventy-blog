@@ -9,12 +9,12 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../schemers-2020">Previous</a>
+  <a class="prev" href="../portrait-of-a-lady-on-fire-2019">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../limbo-2020">Next</a>
+  <a class="next" href="../first-cow-2020">Next</a>
 </nav>
 
-<p>77 / 100</p>
+<p>75 / 100</p>
 
 <article class="film slug-eternal-beauty-2020">
   <div class="backdrop-and-poster">

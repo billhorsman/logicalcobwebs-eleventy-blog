@@ -11,10 +11,10 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
 <nav class="films">
   <a class="prev" href="../the-banshees-of-inisherin-2022">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../empire-of-light-2022">Next</a>
+  <a class="next" href="../all-of-us-strangers-2023">Next</a>
 </nav>
 
-<p>95 / 100</p>
+<p>96 / 100</p>
 
 <article class="film slug-the-fabelmans-2022">
   <div class="backdrop-and-poster">

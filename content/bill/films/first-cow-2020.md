@@ -9,12 +9,12 @@ description: "In the 1820s, a taciturn loner and skilled cook travels west to Or
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../portrait-of-a-lady-on-fire-2019">Previous</a>
+  <a class="prev" href="../eternal-beauty-2020">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../schemers-2020">Next</a>
+  <a class="next" href="../limbo-2020">Next</a>
 </nav>
 
-<p>75 / 100</p>
+<p>76 / 100</p>
 
 <article class="film slug-first-cow-2020">
   <div class="backdrop-and-poster">

@@ -9,12 +9,12 @@ description: "When Patrizia Reggiani, an outsider from humble beginnings, marrie
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../belfast-2021">Previous</a>
+  <a class="prev" href="../dune-2021">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../licorice-pizza-2021">Next</a>
 </nav>
 
-<p>88 / 100</p>
+<p>83 / 100</p>
 
 <article class="film slug-house-of-gucci-2021">
   <div class="backdrop-and-poster">

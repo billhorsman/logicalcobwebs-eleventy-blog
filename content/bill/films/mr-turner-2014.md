@@ -9,9 +9,9 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-grand-budapest-hotel-2014">Previous</a>
+  <a class="prev" href="../interstellar-2014">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../interstellar-2014">Next</a>
+  <a class="next" href="../the-grand-budapest-hotel-2014">Next</a>
 </nav>
 
 <p>63 / 100</p>

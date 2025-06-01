@@ -9,12 +9,12 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../in-bruges-2008">Previous</a>
+  <a class="prev" href="../no-country-for-old-men-2007">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../district-9-2009">Next</a>
+  <a class="next" href="../in-bruges-2008">Next</a>
 </nav>
 
-<p>54 / 100</p>
+<p>53 / 100</p>
 
 <article class="film slug-happygolucky-2008">
   <div class="backdrop-and-poster">

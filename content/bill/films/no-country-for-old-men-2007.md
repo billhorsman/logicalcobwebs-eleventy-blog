@@ -11,7 +11,7 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
 <nav class="films">
   <a class="prev" href="../hot-fuzz-2007">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../in-bruges-2008">Next</a>
+  <a class="next" href="../happygolucky-2008">Next</a>
 </nav>
 
 <p>52 / 100</p>

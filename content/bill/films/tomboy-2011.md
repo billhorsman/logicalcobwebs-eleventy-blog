@@ -9,12 +9,12 @@ description: "A French family moves to a new neighborhood with during the summer
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../micmacs-2009">Previous</a>
+  <a class="prev" href="../le-havre-2011">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../le-havre-2011">Next</a>
+  <a class="next" href="../all-is-lost-2013">Next</a>
 </nav>
 
-<p>58 / 100</p>
+<p>59 / 100</p>
 
 <article class="film slug-tomboy-2011">
   <div class="backdrop-and-poster">

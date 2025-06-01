@@ -11,7 +11,7 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
 <nav class="films">
   <a class="prev" href="../black-hawk-down-2001">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../the-bourne-identity-2002">Next</a>
+  <a class="next" href="../man-on-the-train-2002">Next</a>
 </nav>
 
 <p>46 / 100</p>

@@ -9,12 +9,12 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../eternal-beauty-2020">Previous</a>
+  <a class="prev" href="../first-cow-2020">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../the-truffle-hunters-2020">Next</a>
+  <a class="next" href="../schemers-2020">Next</a>
 </nav>
 
-<p>78 / 100</p>
+<p>77 / 100</p>
 
 <article class="film slug-limbo-2020">
   <div class="backdrop-and-poster">

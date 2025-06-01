@@ -9,12 +9,12 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-handmaiden-2016">Previous</a>
+  <a class="prev" href="../the-grand-budapest-hotel-2014">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../the-party-2017">Next</a>
+  <a class="next" href="../the-handmaiden-2016">Next</a>
 </nav>
 
-<p>66 / 100</p>
+<p>65 / 100</p>
 
 <article class="film slug-maudie-2016">
   <div class="backdrop-and-poster">

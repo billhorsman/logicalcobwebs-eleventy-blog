@@ -9,12 +9,12 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../24-hour-party-people-2002">Previous</a>
+  <a class="prev" href="../man-on-the-train-2002">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../man-on-the-train-2002">Next</a>
+  <a class="next" href="../phone-booth-2003">Next</a>
 </nav>
 
-<p>47 / 100</p>
+<p>48 / 100</p>
 
 <article class="film slug-the-bourne-identity-2002">
   <div class="backdrop-and-poster">

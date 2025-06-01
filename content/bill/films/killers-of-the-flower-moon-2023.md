@@ -9,12 +9,12 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../asteroid-city-2023">Previous</a>
+  <a class="prev" href="../blue-jean-2023">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../all-of-us-strangers-2023">Next</a>
+  <span class="next">Next</span>
 </nav>
 
-<p>99 / 100</p>
+<p>100 / 100</p>
 
 <article class="film slug-killers-of-the-flower-moon-2023">
   <div class="backdrop-and-poster">

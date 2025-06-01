@@ -11,10 +11,10 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
 <nav class="films">
   <a class="prev" href="../the-french-dispatch-2021">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../belfast-2021">Next</a>
+  <a class="next" href="../the-tragedy-of-macbeth-2021">Next</a>
 </nav>
 
-<p>86 / 100</p>
+<p>89 / 100</p>
 
 <article class="film slug-the-power-of-the-dog-2021">
   <div class="backdrop-and-poster">

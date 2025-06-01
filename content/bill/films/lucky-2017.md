@@ -9,9 +9,9 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-party-2017">Previous</a>
+  <a class="prev" href="../cest-la-vie-2017">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../cest-la-vie-2017">Next</a>
+  <a class="next" href="../the-party-2017">Next</a>
 </nav>
 
 <p>68 / 100</p>

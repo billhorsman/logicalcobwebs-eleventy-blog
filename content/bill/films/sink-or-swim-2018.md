@@ -9,9 +9,9 @@ description: "40-year-old Bertrand has been suffering from depression for the la
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../woman-at-war-2018">Previous</a>
+  <a class="prev" href="../roma-2018">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../roma-2018">Next</a>
+  <a class="next" href="../woman-at-war-2018">Next</a>
 </nav>
 
 <p>71 / 100</p>

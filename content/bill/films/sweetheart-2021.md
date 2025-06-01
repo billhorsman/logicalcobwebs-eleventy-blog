@@ -9,12 +9,12 @@ description: "A socially awkward, environmentally-conscious teenager named AJ is
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../dune-2021">Previous</a>
+  <a class="prev" href="../petite-maman-2021">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../the-french-dispatch-2021">Next</a>
 </nav>
 
-<p>84 / 100</p>
+<p>87 / 100</p>
 
 <article class="film slug-sweetheart-2021">
   <div class="backdrop-and-poster">

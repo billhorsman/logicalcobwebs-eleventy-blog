@@ -11,10 +11,10 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
 <nav class="films">
   <a class="prev" href="../nomadland-2021">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../coda-2021">Next</a>
+  <a class="next" href="../sweetheart-2021">Next</a>
 </nav>
 
-<p>81 / 100</p>
+<p>86 / 100</p>
 
 <article class="film slug-petite-maman-2021">
   <div class="backdrop-and-poster">

@@ -9,12 +9,12 @@ description: "With a father suffering from neurodegenerative disease, a young wo
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../eo-2022">Previous</a>
+  <a class="prev" href="../empire-of-light-2022">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../the-banshees-of-inisherin-2022">Next</a>
 </nav>
 
-<p>93 / 100</p>
+<p>94 / 100</p>
 
 <article class="film slug-one-fine-morning-2022">
   <div class="backdrop-and-poster">

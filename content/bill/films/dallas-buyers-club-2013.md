@@ -11,7 +11,7 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
 <nav class="films">
   <a class="prev" href="../all-is-lost-2013">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../the-grand-budapest-hotel-2014">Next</a>
+  <a class="next" href="../interstellar-2014">Next</a>
 </nav>
 
 <p>61 / 100</p>

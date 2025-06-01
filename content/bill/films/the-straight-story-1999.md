@@ -9,12 +9,12 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../fight-club-1999">Previous</a>
+  <a class="prev" href="../magnolia-1999">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../magnolia-1999">Next</a>
+  <a class="next" href="../the-talented-mr-ripley-1999">Next</a>
 </nav>
 
-<p>40 / 100</p>
+<p>41 / 100</p>
 
 <article class="film slug-the-straight-story-1999">
   <div class="backdrop-and-poster">

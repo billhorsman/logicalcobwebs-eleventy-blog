@@ -9,12 +9,12 @@ description: "Naive Stanley Windrush returns from the war, his mind set on a suc
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../north-by-northwest-1959">Previous</a>
+  <a class="prev" href="../la-strada-1954">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../la-dolce-vita-1960">Next</a>
+  <a class="next" href="../north-by-northwest-1959">Next</a>
 </nav>
 
-<p>5 / 100</p>
+<p>4 / 100</p>
 
 <article class="film slug-im-all-right-jack-1959">
   <div class="backdrop-and-poster">

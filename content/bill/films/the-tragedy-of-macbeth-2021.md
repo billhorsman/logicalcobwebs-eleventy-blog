@@ -9,7 +9,7 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../licorice-pizza-2021">Previous</a>
+  <a class="prev" href="../the-power-of-the-dog-2021">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../between-two-worlds-2022">Next</a>
 </nav>

@@ -9,12 +9,12 @@ description: "A man, Milan steps off a train, into a small French village. As he
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../the-bourne-identity-2002">Previous</a>
+  <a class="prev" href="../24-hour-party-people-2002">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../phone-booth-2003">Next</a>
+  <a class="next" href="../the-bourne-identity-2002">Next</a>
 </nav>
 
-<p>48 / 100</p>
+<p>47 / 100</p>
 
 <article class="film slug-man-on-the-train-2002">
   <div class="backdrop-and-poster">

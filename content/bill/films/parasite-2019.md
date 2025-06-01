@@ -9,7 +9,7 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../roma-2018">Previous</a>
+  <a class="prev" href="../woman-at-war-2018">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../portrait-of-a-lady-on-fire-2019">Next</a>
 </nav>

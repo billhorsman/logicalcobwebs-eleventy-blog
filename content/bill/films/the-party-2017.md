@@ -9,12 +9,12 @@ description: "Various individuals think they’re coming together for a party in
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../maudie-2016">Previous</a>
+  <a class="prev" href="../lucky-2017">Previous</a>
   <a href="../">Film list</a>
-  <a class="next" href="../lucky-2017">Next</a>
+  <a class="next" href="../roma-2018">Next</a>
 </nav>
 
-<p>67 / 100</p>
+<p>69 / 100</p>
 
 <article class="film slug-the-party-2017">
   <div class="backdrop-and-poster">

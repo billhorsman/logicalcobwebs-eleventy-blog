@@ -9,12 +9,12 @@ description: "One night in his near-empty tower block in contemporary London, Ad
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../killers-of-the-flower-moon-2023">Previous</a>
+  <a class="prev" href="../the-fabelmans-2022">Previous</a>
   <a href="../">Film list</a>
-  <span class="next">Next</span>
+  <a class="next" href="../asteroid-city-2023">Next</a>
 </nav>
 
-<p>100 / 100</p>
+<p>97 / 100</p>
 
 <article class="film slug-all-of-us-strangers-2023">
   <div class="backdrop-and-poster">

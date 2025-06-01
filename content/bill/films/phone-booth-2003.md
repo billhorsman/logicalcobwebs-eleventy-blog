@@ -9,7 +9,7 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../man-on-the-train-2002">Previous</a>
+  <a class="prev" href="../the-bourne-identity-2002">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../the-motorcycle-diaries-2004">Next</a>
 </nav>

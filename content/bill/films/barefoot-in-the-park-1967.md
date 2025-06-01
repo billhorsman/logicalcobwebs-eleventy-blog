@@ -9,7 +9,7 @@ description: "In this film based on a Neil Simon play, newlyweds Corie, a free s
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../breathless-1960">Previous</a>
+  <a class="prev" href="../purple-noon-1960">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../in-the-heat-of-the-night-1967">Next</a>
 </nav>

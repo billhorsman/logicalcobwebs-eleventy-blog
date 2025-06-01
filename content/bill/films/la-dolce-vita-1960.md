@@ -9,12 +9,12 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
 {% set film = films[slug] %}
 
 <nav class="films">
-  <a class="prev" href="../im-all-right-jack-1959">Previous</a>
+  <a class="prev" href="../breathless-1960">Previous</a>
   <a href="../">Film list</a>
   <a class="next" href="../purple-noon-1960">Next</a>
 </nav>
 
-<p>6 / 100</p>
+<p>7 / 100</p>
 
 <article class="film slug-la-dolce-vita-1960">
   <div class="backdrop-and-poster">
