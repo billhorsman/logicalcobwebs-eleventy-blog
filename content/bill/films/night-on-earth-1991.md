@@ -36,10 +36,6 @@ description: "An anthology of 5 different cab drivers in 5 American and European
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
-  <blockquote> 
-    {{ film.overview }} <em>—&nbsp;<a href="https://www.themoviedb.org/movie/{{ film.id }}">TMDB</a></em>
-  </blockquote> 
-
   {%- if films.reviews[slug] -%}
     <blockquote> 
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>

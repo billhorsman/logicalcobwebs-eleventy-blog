@@ -36,10 +36,6 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
-  <blockquote> 
-    {{ film.overview }} <em>—&nbsp;<a href="https://www.themoviedb.org/movie/{{ film.id }}">TMDB</a></em>
-  </blockquote> 
-
   {%- if films.reviews[slug] -%}
     <blockquote> 
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>

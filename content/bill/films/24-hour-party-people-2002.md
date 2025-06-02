@@ -36,10 +36,6 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
-  <blockquote> 
-    {{ film.overview }} <em>—&nbsp;<a href="https://www.themoviedb.org/movie/{{ film.id }}">TMDB</a></em>
-  </blockquote> 
-
   {%- if films.reviews[slug] -%}
     <blockquote> 
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
