@@ -30,7 +30,10 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>À bout de souffle</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as À bout de souffle.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

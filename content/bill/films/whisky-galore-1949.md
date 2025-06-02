@@ -30,7 +30,10 @@ description: "Based on a true story. The name of the real ship, that sunk Feb 5 
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

@@ -30,7 +30,10 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

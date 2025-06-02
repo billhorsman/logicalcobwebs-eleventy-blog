@@ -30,7 +30,10 @@ description: "In the secret forests of Northern Italy, a dwindling group of joyf
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

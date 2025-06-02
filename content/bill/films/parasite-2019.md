@@ -30,7 +30,10 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>기생충</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as 기생충.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

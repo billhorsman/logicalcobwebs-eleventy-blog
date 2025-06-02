@@ -30,7 +30,10 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

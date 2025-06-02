@@ -30,7 +30,10 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

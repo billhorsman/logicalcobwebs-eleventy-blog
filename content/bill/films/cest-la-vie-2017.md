@@ -30,7 +30,10 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>Le Sens de la fête</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as Le Sens de la fête.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

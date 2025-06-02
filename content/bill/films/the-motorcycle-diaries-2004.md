@@ -30,7 +30,10 @@ description: "Based on the journals of Che Guevara, leader of the Cuban Revoluti
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>Diarios de motocicleta</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as Diarios de motocicleta.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

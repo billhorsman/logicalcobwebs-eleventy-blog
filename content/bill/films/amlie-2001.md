@@ -30,7 +30,10 @@ description: "At a tiny Parisian café, the adorable yet painfully shy Amélie a
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>Le Fabuleux Destin d'Amélie Poulain</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as Le Fabuleux Destin d'Amélie Poulain.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

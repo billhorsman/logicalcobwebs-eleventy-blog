@@ -30,7 +30,10 @@ description: "A man, Milan steps off a train, into a small French village. As he
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>L'Homme du train</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as L'Homme du train.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

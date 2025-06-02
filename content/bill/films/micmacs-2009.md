@@ -30,7 +30,10 @@ description: "While standing in the doorway of the video shop where he works, Ba
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>Micmacs à tire-larigot</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as Micmacs à tire-larigot.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

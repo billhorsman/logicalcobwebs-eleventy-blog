@@ -30,7 +30,10 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>Léon</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as Léon.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

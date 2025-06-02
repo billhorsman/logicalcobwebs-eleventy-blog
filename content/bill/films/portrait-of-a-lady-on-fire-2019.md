@@ -30,7 +30,10 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>Portrait de la jeune fille en feu</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as Portrait de la jeune fille en feu.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

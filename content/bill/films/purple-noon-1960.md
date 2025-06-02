@@ -30,7 +30,10 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>Plein soleil</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as Plein soleil.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

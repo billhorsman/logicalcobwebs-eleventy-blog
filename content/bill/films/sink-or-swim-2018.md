@@ -30,7 +30,10 @@ description: "40-year-old Bertrand has been suffering from depression for the la
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>Le Grand Bain</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as Le Grand Bain.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

@@ -30,7 +30,10 @@ description: "With a father suffering from neurodegenerative disease, a young wo
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>Un beau matin</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as Un beau matin.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

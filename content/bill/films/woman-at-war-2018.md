@@ -30,7 +30,10 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>Kona fer í stríð</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as Kona fer í stríð.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

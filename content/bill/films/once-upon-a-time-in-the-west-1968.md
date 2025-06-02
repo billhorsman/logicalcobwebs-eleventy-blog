@@ -30,7 +30,10 @@ description: "As the railroad builders advance unstoppably through the Arizona d
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>C'era una volta il West</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as C'era una volta il West.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

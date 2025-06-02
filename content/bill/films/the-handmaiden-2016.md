@@ -30,7 +30,10 @@ description: "1930s Korea, in the period of Japanese occupation, a new girl, Soo
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>아가씨</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as 아가씨.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

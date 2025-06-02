@@ -30,7 +30,10 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>

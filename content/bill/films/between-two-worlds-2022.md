@@ -30,7 +30,10 @@ description: "Marianne Winckler relocates to the port city of Caen in order to p
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
 
-  <p>Also known as <strong>Ouistreham</strong></p>
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    Also known as Ouistreham.
+  </p>
 
   <p class="director">
     Directed by <strong>{{ film | directors }}</strong>
