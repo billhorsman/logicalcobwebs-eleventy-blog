@@ -78,6 +78,13 @@ a.film {
   width: 100%;
   text-decoration: none;
 
+  & .title {
+    text-underline-offset: 5px;
+    text-decoration-color: var(--color-muted);
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+  }
+
   &:visited,
   &:focus,
   &:hover {
@@ -85,8 +92,26 @@ a.film {
     text-decoration: none;
   }
 
-  &:focus-visible,
   &:hover {
+    & .title {
+      text-underline-offset: 5px;
+      text-decoration-color: var(--color-highlight);
+      text-decoration-line: underline;
+      text-decoration-thickness: 2px;
+    }
+    & .backdrop {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+      transform: scale(1.03);
+      z-index: 2;
+    }
+    & .poster {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+      transform: scale(1.05);
+      z-index: 2;
+    }
+  }
+
+  &:focus-visible {
     border-radius: 5px;
     outline: 5px solid var(--color-highlight);
     text-decoration: none;
@@ -99,10 +124,12 @@ a.film {
   & .backdrop {
     flex-basis: 200px;
     min-width: 200px;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   }
 
   & .poster {
     display: none;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 
     & img {
       aspect-ratio: 2/3;
