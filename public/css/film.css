@@ -179,7 +179,7 @@ a.film {
   a.film {
     display: grid;
     grid-template-columns: minmax(0, 200px) 1fr;
-    padding: 0;
+    padding: 0.5rem 0;
 
     & .backdrop {
       margin: 0;
