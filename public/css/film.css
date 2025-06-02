@@ -124,6 +124,7 @@ a.film {
 
   & .backdrop {
     flex-basis: 200px;
+    margin: 0 -1rem;
     min-width: 200px;
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   }
@@ -178,6 +179,10 @@ a.film {
     display: grid;
     grid-template-columns: minmax(0, 200px) 1fr;
     padding: 0;
+
+    & .backdrop {
+      margin: 0;
+    }
 
     & dl {
       margin: 0;
