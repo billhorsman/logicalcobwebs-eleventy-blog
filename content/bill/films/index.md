@@ -39,8 +39,9 @@ If you only watch {{ must_see_films.list.length }} films&hellip;
   <header>
     <h3>All {{ top_films.length }}</h3>
     <button type="button" data-toggle-list="posters" aria-label="Toggle view">
-      <i class="fa-solid fa-list"></i>
-      <i class="fa-solid fa-grip posters"></i> 
+      <span class="caption">Toggle display</span>
+      <i class="fa-solid fa-list fa-fw"></i>
+      <i class="fa-solid fa-grip posters fa-fw"></i> 
     </button>
   </header>
   <ul class="film-list">

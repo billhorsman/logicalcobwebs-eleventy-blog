@@ -33,9 +33,20 @@ section.list {
     cursor: pointer;
     padding: 0 0.5rem;
 
+    .caption {
+      display: none;
+    }
+
     &:focus-visible {
       outline: 3px solid var(--color-highlight);
       border-color: transparent;
+    }
+
+    &:hover,
+    &:focus-visible {
+      .caption {
+        display: inline;
+      }
     }
   }
 
