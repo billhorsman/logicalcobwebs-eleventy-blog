@@ -32,6 +32,11 @@ section.list {
     border-radius: 5px;
     cursor: pointer;
     padding: 0 0.5rem;
+
+    &:focus-visible {
+      outline: 3px solid var(--color-highlight);
+      border-color: transparent;
+    }
   }
 
   & i:not(.posters) {
@@ -93,7 +98,9 @@ a.film {
     text-decoration: none;
   }
 
+  &:focus-visible,
   &:hover {
+    outline: none;
     & .title {
       text-underline-offset: 5px;
       text-decoration-color: var(--color-highlight);
@@ -110,12 +117,6 @@ a.film {
       transform: scale(1.05);
       z-index: 2;
     }
-  }
-
-  &:focus-visible {
-    border-radius: 5px;
-    outline: 5px solid var(--color-highlight);
-    text-decoration: none;
   }
 
   & picture {
@@ -192,27 +193,6 @@ a.film {
     & .review {
       margin-bottom: 3rem;
     }
-  }
-}
-
-.film-list-toggle {
-  display: flex;
-  justify-content: flex-end;
-  gap: 0.5rem;
-
-  & button {
-    all: unset;
-    background-color: white;
-    border: 1px solid var(--color-muted);
-    border-radius: 5px;
-    color: var(--color);
-    cursor: pointer;
-    font-size: 2rem;
-    padding: 0.25rem 0.5rem;
-  }
-
-  & button[aria-pressed="true"] {
-    border-color: var(--color-highlight);
   }
 }
 
