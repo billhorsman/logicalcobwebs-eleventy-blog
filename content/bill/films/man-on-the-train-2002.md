@@ -45,9 +45,10 @@ description: "A man, Milan steps off a train, into a small French village. As he
     </blockquote> 
   {%- endif -%}
 
-  <h2>
-    Cast
-  </h2>
+  <details>
+    <summary>
+      Cast
+    </summary>
   <ul>
     {%- for cast in film.credits.cast -%}
       <li>
@@ -55,17 +56,21 @@ description: "A man, Milan steps off a train, into a small French village. As he
       </li>
     {%- endfor -%}
   </ul>
+  </details>
 
-  <h2>
-    Crew
-  </h2>
-  <ul>
-    {%- for crew in film.credits.crew -%}
-      <li>
-        {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+  <details>
+    <summary>
+      Crew
+    </summary>
+    <ul>
+      {%- for crew in film.credits.crew -%}
+        <li>
+          {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </details>
+  
 </article>
 <footer>
   <a href="../about">About this list</a>

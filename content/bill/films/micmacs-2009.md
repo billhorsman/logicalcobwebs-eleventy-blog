@@ -45,9 +45,10 @@ description: "While standing in the doorway of the video shop where he works, Ba
     </blockquote> 
   {%- endif -%}
 
-  <h2>
-    Cast
-  </h2>
+  <details>
+    <summary>
+      Cast
+    </summary>
   <ul>
     {%- for cast in film.credits.cast -%}
       <li>
@@ -55,17 +56,21 @@ description: "While standing in the doorway of the video shop where he works, Ba
       </li>
     {%- endfor -%}
   </ul>
+  </details>
 
-  <h2>
-    Crew
-  </h2>
-  <ul>
-    {%- for crew in film.credits.crew -%}
-      <li>
-        {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+  <details>
+    <summary>
+      Crew
+    </summary>
+    <ul>
+      {%- for crew in film.credits.crew -%}
+        <li>
+          {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </details>
+  
 </article>
 <footer>
   <a href="../about">About this list</a>
