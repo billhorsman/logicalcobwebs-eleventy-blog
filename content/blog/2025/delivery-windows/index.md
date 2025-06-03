@@ -9,12 +9,14 @@ tags:
 
 <style>
   .bad {
-    border-color: red;
-    border-width: 2px;
+    border-width: 0 0 0 2px;
+    border-image-source: linear-gradient(red, transparent);
+    border-image-slice: 2;
   }
   .good {
-    border-color: green;
-    border-width: 2px;
+    border-width: 0 0 0 2px;
+    border-image-source: linear-gradient(green, transparent);
+    border-image-slice: 2;
   }
 </style>
 
