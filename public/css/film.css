@@ -119,12 +119,12 @@ a.film {
       text-decoration-thickness: 2px;
     }
     & .backdrop {
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
       transform: scale(1.03);
       z-index: 2;
     }
     & .poster {
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
       transform: scale(1.05);
       z-index: 2;
     }
