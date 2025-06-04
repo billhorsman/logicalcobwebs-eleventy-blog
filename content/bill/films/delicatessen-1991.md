@@ -1,6 +1,6 @@
 ---
 title: "Delicatessen"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: delicatessen-1991
 ogImage: content/bill/films/backdrops/delicatessen-1991.jpg
 description: "In a post-apocalyptic world, the residents of an apartment above the butcher shop receive an occasional delicacy of meat, something that is in low supply. A young man new in town falls in love with the butcher's daughter, which causes conflicts in her family, who need the young man for other business-related purposes."
@@ -49,13 +49,13 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

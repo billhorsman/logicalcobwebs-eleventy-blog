@@ -1,6 +1,6 @@
 ---
 title: "Asteroid City"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: asteroid-city-2023
 ogImage: content/bill/films/backdrops/asteroid-city-2023.jpg
 description: "In an American desert town circa 1955, the itinerary of a Junior Stargazer/Space Cadet convention is spectacularly disrupted by world-changing events."
@@ -49,13 +49,13 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

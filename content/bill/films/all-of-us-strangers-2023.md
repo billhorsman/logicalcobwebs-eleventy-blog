@@ -1,6 +1,6 @@
 ---
 title: "All of Us Strangers"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: all-of-us-strangers-2023
 ogImage: content/bill/films/backdrops/all-of-us-strangers-2023.jpg
 description: "One night in his near-empty tower block in contemporary London, Adam has a chance encounter with a mysterious neighbor Harry, which punctures the rhythm of his everyday life."
@@ -49,13 +49,13 @@ description: "One night in his near-empty tower block in contemporary London, Ad
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "One night in his near-empty tower block in contemporary London, Ad
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

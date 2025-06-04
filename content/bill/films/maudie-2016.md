@@ -1,6 +1,6 @@
 ---
 title: "Maudie"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: maudie-2016
 ogImage: content/bill/films/backdrops/maudie-2016.jpg
 description: "Canadian folk artist Maud Lewis falls in love with a fishmonger while working for him as a live-in housekeeper."
@@ -49,13 +49,13 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

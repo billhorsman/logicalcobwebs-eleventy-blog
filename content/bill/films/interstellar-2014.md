@@ -1,6 +1,6 @@
 ---
 title: "Interstellar"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: interstellar-2014
 ogImage: content/bill/films/backdrops/interstellar-2014.jpg
 description: "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
@@ -49,13 +49,13 @@ description: "The adventures of a group of explorers who make use of a newly dis
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "The adventures of a group of explorers who make use of a newly dis
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

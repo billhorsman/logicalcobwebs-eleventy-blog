@@ -1,6 +1,6 @@
 ---
 title: "The Banshees of Inisherin"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-banshees-of-inisherin-2022
 ogImage: content/bill/films/backdrops/the-banshees-of-inisherin-2022.jpg
 description: "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them."
@@ -49,13 +49,13 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

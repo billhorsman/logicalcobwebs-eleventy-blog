@@ -1,6 +1,6 @@
 ---
 title: "House of Gucci"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: house-of-gucci-2021
 ogImage: content/bill/films/backdrops/house-of-gucci-2021.jpg
 description: "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately… murder."
@@ -49,13 +49,13 @@ description: "When Patrizia Reggiani, an outsider from humble beginnings, marrie
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "When Patrizia Reggiani, an outsider from humble beginnings, marrie
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

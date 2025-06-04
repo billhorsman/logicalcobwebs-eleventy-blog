@@ -1,6 +1,6 @@
 ---
 title: "Blue Jean"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: blue-jean-2023
 ogImage: content/bill/films/backdrops/blue-jean-2023.jpg
 description: "Jean, a PE teacher, is forced to live a double life. When a new student arrives and threatens to expose her sexuality, Jean is pushed to extreme lengths to keep her job and her integrity."
@@ -49,13 +49,13 @@ description: "Jean, a PE teacher, is forced to live a double life. When a new st
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Jean, a PE teacher, is forced to live a double life. When a new st
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

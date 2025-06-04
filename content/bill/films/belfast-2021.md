@@ -1,6 +1,6 @@
 ---
 title: "Belfast"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: belfast-2021
 ogImage: content/bill/films/backdrops/belfast-2021.jpg
 description: "Buddy is a young boy on the cusp of adolescence, whose life is filled with familial love, childhood hijinks, and a blossoming romance. Yet, with his beloved hometown caught up in increasing turmoil, his family faces a momentous choice: hope the conflict will pass or leave everything they know behind for a new life."
@@ -49,13 +49,13 @@ description: "Buddy is a young boy on the cusp of adolescence, whose life is fil
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Buddy is a young boy on the cusp of adolescence, whose life is fil
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

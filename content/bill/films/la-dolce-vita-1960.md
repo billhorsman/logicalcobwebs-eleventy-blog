@@ -1,6 +1,6 @@
 ---
 title: "La Dolce Vita"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: la-dolce-vita-1960
 ogImage: content/bill/films/backdrops/la-dolce-vita-1960.jpg
 description: "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer."
@@ -49,13 +49,13 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

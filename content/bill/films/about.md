@@ -1,7 +1,7 @@
 ---
 title: About Films
 description: How this list was built
-layout: layouts/home.njk
+layout: layouts/films.njk
 ---
 
 ## About the film list

@@ -1,6 +1,6 @@
 ---
 title: "Portrait of a Lady on Fire"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: portrait-of-a-lady-on-fire-2019
 ogImage: content/bill/films/backdrops/portrait-of-a-lady-on-fire-2019.jpg
 description: "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman."
@@ -49,13 +49,13 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

@@ -1,6 +1,6 @@
 ---
 title: "Breathless"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: breathless-1960
 ogImage: content/bill/films/backdrops/breathless-1960.jpg
 description: "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him."
@@ -49,13 +49,13 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

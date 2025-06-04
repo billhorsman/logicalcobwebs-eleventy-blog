@@ -1,6 +1,6 @@
 ---
 title: "Apocalypse Now"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: apocalypse-now-1979
 ogImage: content/bill/films/backdrops/apocalypse-now-1979.jpg
 description: "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory."
@@ -49,13 +49,13 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

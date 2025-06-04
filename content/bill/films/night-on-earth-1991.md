@@ -1,6 +1,6 @@
 ---
 title: "Night on Earth"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: night-on-earth-1991
 ogImage: content/bill/films/backdrops/night-on-earth-1991.jpg
 description: "An anthology of 5 different cab drivers in 5 American and European cities and their remarkable fares on the same eventful night."
@@ -49,13 +49,13 @@ description: "An anthology of 5 different cab drivers in 5 American and European
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "An anthology of 5 different cab drivers in 5 American and European
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

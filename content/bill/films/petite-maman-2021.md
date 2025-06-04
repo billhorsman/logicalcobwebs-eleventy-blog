@@ -1,6 +1,6 @@
 ---
 title: "Petite Maman"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: petite-maman-2021
 ogImage: content/bill/films/backdrops/petite-maman-2021.jpg
 description: "After the death of her beloved grandmother, eight-year-old Nelly meets a strangely familiar girl her own age in the woods. Instantly forming a connection with this mysterious new friend, Nelly embarks on a fantastical journey of discovery which helps her come to terms with this newfound loss."
@@ -49,13 +49,13 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

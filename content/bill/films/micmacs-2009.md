@@ -1,6 +1,6 @@
 ---
 title: "Micmacs"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: micmacs-2009
 ogImage: content/bill/films/backdrops/micmacs-2009.jpg
 description: "While standing in the doorway of the video shop where he works, Bazil is inadvertently shot in the head. Now homeless and jobless, he is taken in by a troupe of misfits who live in a giant mound of trash. There Bazil begins his quest for revenge against the people who produced the gun that shot him."
@@ -49,13 +49,13 @@ description: "While standing in the doorway of the video shop where he works, Ba
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "While standing in the doorway of the video shop where he works, Ba
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

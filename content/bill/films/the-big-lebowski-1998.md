@@ -1,6 +1,6 @@
 ---
 title: "The Big Lebowski"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-big-lebowski-1998
 ogImage: content/bill/films/backdrops/the-big-lebowski-1998.jpg
 description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money."
@@ -49,13 +49,13 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

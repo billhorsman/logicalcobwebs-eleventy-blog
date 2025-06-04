@@ -1,6 +1,6 @@
 ---
 title: "Between Two Worlds"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: between-two-worlds-2022
 ogImage: content/bill/films/backdrops/between-two-worlds-2022.jpg
 description: "Marianne Winckler relocates to the port city of Caen in order to pass herself off as a member of a large community of itinerant workers desperate to make ends meet. She gains employment as a cleaner on a ferry travelling between Ouistreham and Portsmouth, recording the drudgery of the work she and her colleagues are required to do."
@@ -49,13 +49,13 @@ description: "Marianne Winckler relocates to the port city of Caen in order to p
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Marianne Winckler relocates to the port city of Caen in order to p
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

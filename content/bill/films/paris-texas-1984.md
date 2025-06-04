@@ -1,6 +1,6 @@
 ---
 title: "Paris, Texas"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: paris-texas-1984
 ogImage: content/bill/films/backdrops/paris-texas-1984.jpg
 description: "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier."
@@ -49,13 +49,13 @@ description: "A man wanders out of the desert not knowing who he is. His brother
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A man wanders out of the desert not knowing who he is. His brother
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

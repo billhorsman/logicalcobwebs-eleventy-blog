@@ -1,6 +1,6 @@
 ---
 title: "What's Eating Gilbert Grape"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: whats-eating-gilbert-grape-1993
 ogImage: content/bill/films/backdrops/whats-eating-gilbert-grape-1993.jpg
 description: "Gilbert Grape is a small-town young man with a lot of responsibility. Chief among his concerns are his mother, who is so overweight that she can't leave the house, and his mentally impaired younger brother, Arnie, who has a knack for finding trouble. Settled into a job at a grocery store and an ongoing affair with local woman Betty Carver, Gilbert finally has his life shaken up by the free-spirited Becky."
@@ -49,13 +49,13 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

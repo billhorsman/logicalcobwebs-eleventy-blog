@@ -1,6 +1,6 @@
 ---
 title: "The Power of the Dog"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-power-of-the-dog-2021
 ogImage: content/bill/films/backdrops/the-power-of-the-dog-2021.jpg
 description: "A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light."
@@ -49,13 +49,13 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

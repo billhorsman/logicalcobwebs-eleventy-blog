@@ -1,6 +1,6 @@
 ---
 title: "Gregory's Girl"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: gregorys-girl-1981
 ogImage: content/bill/films/backdrops/gregorys-girl-1981.jpg
 description: "A teenager falls hard for the female soccer player who has replaced him on the team and attempts to pursue her."
@@ -49,13 +49,13 @@ description: "A teenager falls hard for the female soccer player who has replace
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A teenager falls hard for the female soccer player who has replace
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

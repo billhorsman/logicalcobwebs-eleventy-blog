@@ -1,6 +1,6 @@
 ---
 title: "Hot Fuzz"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: hot-fuzz-2007
 ogImage: content/bill/films/backdrops/hot-fuzz-2007.jpg
 description: "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village."
@@ -49,13 +49,13 @@ description: "Former London constable Nicholas Angel finds it difficult to adapt
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Former London constable Nicholas Angel finds it difficult to adapt
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

@@ -1,6 +1,6 @@
 ---
 title: "Blade Runner"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: blade-runner-1982
 ogImage: content/bill/films/backdrops/blade-runner-1982.jpg
 description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans."
@@ -49,13 +49,13 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

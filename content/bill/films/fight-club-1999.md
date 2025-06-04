@@ -1,6 +1,6 @@
 ---
 title: "Fight Club"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: fight-club-1999
 ogImage: content/bill/films/backdrops/fight-club-1999.jpg
 description: "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion."
@@ -49,13 +49,13 @@ description: "A ticking-time-bomb insomniac and a slippery soap salesman channel
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A ticking-time-bomb insomniac and a slippery soap salesman channel
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

@@ -1,6 +1,6 @@
 ---
 title: "Local Hero"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: local-hero-1983
 ogImage: content/bill/films/backdrops/local-hero-1983.jpg
 description: "An American oil company sends a man to Scotland to buy up an entire village where they want to build a refinery. But things don't go as expected."
@@ -49,13 +49,13 @@ description: "An American oil company sends a man to Scotland to buy up an entir
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "An American oil company sends a man to Scotland to buy up an entir
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

@@ -1,6 +1,6 @@
 ---
 title: "Being There"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: being-there-1979
 ogImage: content/bill/films/backdrops/being-there-1979.jpg
 description: "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television."
@@ -49,13 +49,13 @@ description: "A simple-minded gardener named Chance has spent all his life in th
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A simple-minded gardener named Chance has spent all his life in th
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

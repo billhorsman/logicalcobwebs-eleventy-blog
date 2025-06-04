@@ -1,6 +1,6 @@
 ---
 title: "Schemers"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: schemers-2020
 ogImage: content/bill/films/backdrops/schemers-2020.jpg
 description: "Set in late-1970s Dundee, Schemers is based on writer-producer David McLean’s early years in the music business. After a run in with a local gangster, a fledgling promoter and his two friends raise their ambitions to booking major bands in order to escape their debt."
@@ -49,13 +49,13 @@ description: "Set in late-1970s Dundee, Schemers is based on writer-producer Dav
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Set in late-1970s Dundee, Schemers is based on writer-producer Dav
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

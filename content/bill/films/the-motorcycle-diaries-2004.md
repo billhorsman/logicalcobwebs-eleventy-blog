@@ -1,6 +1,6 @@
 ---
 title: "The Motorcycle Diaries"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-motorcycle-diaries-2004
 ogImage: content/bill/films/backdrops/the-motorcycle-diaries-2004.jpg
 description: "Based on the journals of Che Guevara, leader of the Cuban Revolution. In his memoirs, Guevara recounts adventures he and best friend Alberto Granado had while crossing South America by motorcycle in the early 1950s."
@@ -49,13 +49,13 @@ description: "Based on the journals of Che Guevara, leader of the Cuban Revoluti
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Based on the journals of Che Guevara, leader of the Cuban Revoluti
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

@@ -1,6 +1,6 @@
 ---
 title: "Killers of the Flower Moon"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: killers-of-the-flower-moon-2023
 ogImage: content/bill/films/backdrops/killers-of-the-flower-moon-2023.jpg
 description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery."
@@ -49,13 +49,13 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

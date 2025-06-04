@@ -1,6 +1,6 @@
 ---
 title: "The Tragedy of Macbeth"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-tragedy-of-macbeth-2021
 ogImage: content/bill/films/backdrops/the-tragedy-of-macbeth-2021.jpg
 description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself."
@@ -49,13 +49,13 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

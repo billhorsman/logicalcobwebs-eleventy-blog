@@ -1,6 +1,6 @@
 ---
 title: "Nomadland"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: nomadland-2021
 ogImage: content/bill/films/backdrops/nomadland-2021.jpg
 description: "A woman in her sixties embarks on a journey through the western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad."
@@ -49,13 +49,13 @@ description: "A woman in her sixties embarks on a journey through the western Un
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A woman in her sixties embarks on a journey through the western Un
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

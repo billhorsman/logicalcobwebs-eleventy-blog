@@ -1,6 +1,6 @@
 ---
 title: "The Talented Mr. Ripley"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-talented-mr-ripley-1999
 ogImage: content/bill/films/backdrops/the-talented-mr-ripley-1999.jpg
 description: "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder."
@@ -49,13 +49,13 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

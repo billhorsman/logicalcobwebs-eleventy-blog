@@ -1,6 +1,6 @@
 ---
 title: "The Sting"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-sting-1973
 ogImage: content/bill/films/backdrops/the-sting-1973.jpg
 description: "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster."
@@ -49,13 +49,13 @@ description: "A novice con man teams up with an acknowledged master to avenge th
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A novice con man teams up with an acknowledged master to avenge th
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

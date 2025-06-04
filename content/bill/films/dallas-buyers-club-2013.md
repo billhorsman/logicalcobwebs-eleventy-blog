@@ -1,6 +1,6 @@
 ---
 title: "Dallas Buyers Club"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: dallas-buyers-club-2013
 ogImage: content/bill/films/backdrops/dallas-buyers-club-2013.jpg
 description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live."
@@ -49,13 +49,13 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

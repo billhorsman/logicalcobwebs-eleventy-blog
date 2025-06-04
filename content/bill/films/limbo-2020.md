@@ -1,6 +1,6 @@
 ---
 title: "Limbo"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: limbo-2020
 ogImage: content/bill/films/backdrops/limbo-2020.jpg
 description: "An offbeat observation of refugees waiting to be granted asylum on a fictional remote Scottish island. It focuses on Omar, a young Syrian musician who is burdened by the weight of his grandfather’s oud, which he has carried all the way from his homeland."
@@ -49,13 +49,13 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

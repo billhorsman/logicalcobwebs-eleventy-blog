@@ -1,6 +1,6 @@
 ---
 title: "Sink or Swim"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: sink-or-swim-2018
 ogImage: content/bill/films/backdrops/sink-or-swim-2018.jpg
 description: "40-year-old Bertrand has been suffering from depression for the last two years and is barely able to keep his head above water. Despite the medication he gulps down all day, every day, and his wife's encouragement, he is unable to find any meaning in his life. Curiously, he will end up finding this sense of purpose at the swimming pool, by joining an all-male synchronised swimming team."
@@ -49,13 +49,13 @@ description: "40-year-old Bertrand has been suffering from depression for the la
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "40-year-old Bertrand has been suffering from depression for the la
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

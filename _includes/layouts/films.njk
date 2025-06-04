@@ -36,6 +36,8 @@
     {%- css %}/* This is an arbitrary CSS string added to the bundle */{% endcss %}
     {#- Add the contents of a file to the bundle #}
     {%- css %}{% include "public/css/index.css" %}{% endcss %}
+    {%- css %}{% include "public/css/details.css" %}{% endcss %}
+    {%- css %}{% include "public/css/film.css" %}{% endcss %}
     {#- Or you can add from node_modules #}
     {# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
 
@@ -57,9 +59,9 @@
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <nav>
         <h2 class="visually-hidden">Top level navigation menu</h2>
-        {%- for entry in collections.all | eleventyNavigation %}
-          <a href="{{ entry.url }}"{% if entry.url == page.url or (entry.url == "/blog/" and page.url.startsWith(entry.url)) %} aria-current="page"{% endif %}>{{ entry.title }}</a>
-        {%- endfor %}
+        <a href="/">Home</a>
+        <a href="/bill">Bill</a>
+        <a href="/bill/films" aria-current="page">Films</a>
       </nav>
     </header>
 

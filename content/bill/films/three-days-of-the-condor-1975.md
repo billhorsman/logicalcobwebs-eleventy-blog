@@ -1,6 +1,6 @@
 ---
 title: "Three Days of the Condor"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: three-days-of-the-condor-1975
 ogImage: content/bill/films/backdrops/three-days-of-the-condor-1975.jpg
 description: "When bookish CIA researcher Joe Turner finds all his co-workers dead, he, together with a woman he has kidnapped, must work together to outwit those responsible until he determines who he can really trust."
@@ -49,13 +49,13 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

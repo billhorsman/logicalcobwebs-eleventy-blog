@@ -1,6 +1,6 @@
 ---
 title: "Parasite"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: parasite-2019
 ogImage: content/bill/films/backdrops/parasite-2019.jpg
 description: "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident."
@@ -49,13 +49,13 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

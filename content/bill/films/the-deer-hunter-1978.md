@@ -1,6 +1,6 @@
 ---
 title: "The Deer Hunter"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-deer-hunter-1978
 ogImage: content/bill/films/backdrops/the-deer-hunter-1978.jpg
 description: "A group of working-class friends decide to enlist in the Army during the Vietnam War and finds it to be hellish chaos -- not the noble venture they imagined. Before they left, Steven married his pregnant girlfriend -- and Michael and Nick were in love with the same woman. But all three are different men upon their return."
@@ -49,13 +49,13 @@ description: "A group of working-class friends decide to enlist in the Army duri
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A group of working-class friends decide to enlist in the Army duri
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

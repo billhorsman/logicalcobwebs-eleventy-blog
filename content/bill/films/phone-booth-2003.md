@@ -1,6 +1,6 @@
 ---
 title: "Phone Booth"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: phone-booth-2003
 ogImage: content/bill/films/backdrops/phone-booth-2003.jpg
 description: "A slick New York publicist who picks up a ringing receiver in a phone booth is told that if he hangs up, he'll be killed... and the little red light from a laser rifle sight is proof that the caller isn't kidding."
@@ -49,13 +49,13 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

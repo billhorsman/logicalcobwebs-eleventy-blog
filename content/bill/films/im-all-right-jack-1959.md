@@ -1,6 +1,6 @@
 ---
 title: "I'm All Right Jack"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: im-all-right-jack-1959
 ogImage: content/bill/films/backdrops/im-all-right-jack-1959.jpg
 description: "Naive Stanley Windrush returns from the war, his mind set on a successful career in business. Much to his own dismay, he soon finds he has to start from the bottom and work his way up, and also that the management as well as the trade union use him as a tool in their fight for power."
@@ -49,13 +49,13 @@ description: "Naive Stanley Windrush returns from the war, his mind set on a suc
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Naive Stanley Windrush returns from the war, his mind set on a suc
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

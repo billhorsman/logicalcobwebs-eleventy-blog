@@ -1,6 +1,6 @@
 ---
 title: "Empire of Light"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: empire-of-light-2022
 ogImage: content/bill/films/backdrops/empire-of-light-2022.jpg
 description: "The duty manager of a seaside cinema, who is struggling with her mental health, forms a relationship with a new employee on the south coast of England in the 1980s."
@@ -49,13 +49,13 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

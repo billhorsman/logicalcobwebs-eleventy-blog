@@ -1,6 +1,6 @@
 ---
 title: "The Fugitive"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-fugitive-1993
 ogImage: content/bill/films/backdrops/the-fugitive-1993.jpg
 description: "Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name."
@@ -49,13 +49,13 @@ description: "Wrongfully convicted of murdering his wife and sentenced to death,
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Wrongfully convicted of murdering his wife and sentenced to death,
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

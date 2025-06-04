@@ -1,6 +1,6 @@
 ---
 title: "Mr. Turner"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: mr-turner-2014
 ogImage: content/bill/films/backdrops/mr-turner-2014.jpg
 description: "Eccentric British painter J.M.W. Turner  lives his last 25 years with gusto and secretly becomes involved with a seaside landlady, while his faithful housekeeper bears an unrequited love for him."
@@ -49,13 +49,13 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

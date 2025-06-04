@@ -1,6 +1,6 @@
 ---
 title: "Ghost Dog: The Way of the Samurai"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: ghost-dog-the-way-of-the-samurai-1999
 ogImage: content/bill/films/backdrops/ghost-dog-the-way-of-the-samurai-1999.jpg
 description: "An African-American Mafia hit man who models himself after the samurai of ancient Japan finds himself targeted for death by the mob."
@@ -49,13 +49,13 @@ description: "An African-American Mafia hit man who models himself after the sam
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "An African-American Mafia hit man who models himself after the sam
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

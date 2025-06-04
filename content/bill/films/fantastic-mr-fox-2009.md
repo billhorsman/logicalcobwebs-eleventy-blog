@@ -1,6 +1,6 @@
 ---
 title: "Fantastic Mr. Fox"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: fantastic-mr-fox-2009
 ogImage: content/bill/films/backdrops/fantastic-mr-fox-2009.jpg
 description: "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family."
@@ -49,13 +49,13 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

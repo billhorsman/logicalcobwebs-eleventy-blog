@@ -45,7 +45,7 @@ top_films.each_with_index do |film, index|
   File.write(path, <<~MD)
     ---
     title: "#{film["title"]}"
-    layout: layouts/home.njk
+    layout: layouts/films.njk
     slug: #{film["slug"]}
     ogImage: content/bill/films/backdrops/#{film["slug"]}.jpg
     description: "#{film["overview"].gsub('"', '\"')}"

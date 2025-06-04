@@ -1,6 +1,6 @@
 ---
 title: "Happy-Go-Lucky"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: happygolucky-2008
 ogImage: content/bill/films/backdrops/happygolucky-2008.jpg
 description: "A look at a few chapters in the life of Poppy, a cheery, colorful, North London schoolteacher whose optimism tends to exasperate those around her."
@@ -49,13 +49,13 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

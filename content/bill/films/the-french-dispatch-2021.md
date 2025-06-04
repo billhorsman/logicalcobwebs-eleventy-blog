@@ -1,6 +1,6 @@
 ---
 title: "The French Dispatch"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-french-dispatch-2021
 ogImage: content/bill/films/backdrops/the-french-dispatch-2021.jpg
 description: "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef."
@@ -49,13 +49,13 @@ description: "The staff of an American magazine based in France puts out its las
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "The staff of an American magazine based in France puts out its las
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

@@ -1,6 +1,6 @@
 ---
 title: "In Bruges"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: in-bruges-2008
 ogImage: content/bill/films/backdrops/in-bruges-2008.jpg
 description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected."
@@ -49,13 +49,13 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

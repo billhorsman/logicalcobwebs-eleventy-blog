@@ -1,6 +1,6 @@
 ---
 title: "North by Northwest"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: north-by-northwest-1959
 ogImage: content/bill/films/backdrops/north-by-northwest-1959.jpg
 description: "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase."
@@ -49,13 +49,13 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

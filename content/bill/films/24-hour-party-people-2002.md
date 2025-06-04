@@ -1,6 +1,6 @@
 ---
 title: "24 Hour Party People"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: 24-hour-party-people-2002
 ogImage: content/bill/films/backdrops/24-hour-party-people-2002.jpg
 description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local TV news reporter looking for a way to make his mark. After witnessing a life-changing concert by a band known as the Sex Pistols, he persuades his station to televise one of their performances, and soon Manchester's punk groups are clamoring for him to manage them. Riding the wave of a musical revolution, Wilson and his friends create the legendary Factory Records label and The Hacienda club."
@@ -49,13 +49,13 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

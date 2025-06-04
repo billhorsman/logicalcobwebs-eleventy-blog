@@ -3,7 +3,7 @@ title: Films
 eleventyComputed:
   description: "Bill Horsman's top 100 films, from {{ films[top_films[0]].year }} to {{ films[top_films[top_films.length - 1]].year }} including Diva, Ghost Dog: The Way of the Samurai, Night on Earth, Woman at War and Portrait of a Lady on Fire."
 ogImage: content/bill/films/montage.jpg
-layout: layouts/home.njk
+layout: layouts/films.njk
 ---
 
 ## Favourite Films

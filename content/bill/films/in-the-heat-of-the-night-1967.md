@@ -1,6 +1,6 @@
 ---
 title: "In the Heat of the Night"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: in-the-heat-of-the-night-1967
 ogImage: content/bill/films/backdrops/in-the-heat-of-the-night-1967.jpg
 description: "African-American Philadelphia police detective Virgil Tibbs is arrested on suspicion of murder by Bill Gillespie, the racist police chief of tiny Sparta, Mississippi. After Tibbs proves not only his own innocence but that of another man, he joins forces with Gillespie to track down the real killer. Their investigation takes them through every social level of the town, with Tibbs making enemies as well as unlikely friends as he hunts for the truth."
@@ -49,13 +49,13 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

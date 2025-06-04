@@ -1,6 +1,6 @@
 ---
 title: "All Is Lost"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: all-is-lost-2013
 ogImage: content/bill/films/backdrops/all-is-lost-2013.jpg
 description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes to find his vessel taking on water after a collision with a stray shipping container. With his radio and navigation equipment disabled, he sails unknowingly into a violent storm and barely escapes with his life. With any luck, the ocean currents may carry him into a shipping lane -- but, with supplies dwindling and the sharks circling, the sailor is forced to face his own mortality."
@@ -49,13 +49,13 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

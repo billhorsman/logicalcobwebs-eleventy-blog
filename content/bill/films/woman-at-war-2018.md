@@ -1,6 +1,6 @@
 ---
 title: "Woman at War"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: woman-at-war-2018
 ogImage: content/bill/films/backdrops/woman-at-war-2018.jpg
 description: "Halla declares a one-woman-war on the local aluminium industry. She is prepared to risk everything to protect the pristine Icelandic Highlands she loves… Until an orphan unexpectedly enters her life."
@@ -49,13 +49,13 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

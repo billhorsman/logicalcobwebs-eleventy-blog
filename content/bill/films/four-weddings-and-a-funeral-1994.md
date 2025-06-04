@@ -1,6 +1,6 @@
 ---
 title: "Four Weddings and a Funeral"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: four-weddings-and-a-funeral-1994
 ogImage: content/bill/films/backdrops/four-weddings-and-a-funeral-1994.jpg
 description: "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love."
@@ -49,13 +49,13 @@ description: "Over the course of five social occasions, a committed bachelor mus
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Over the course of five social occasions, a committed bachelor mus
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

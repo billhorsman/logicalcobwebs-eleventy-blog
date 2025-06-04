@@ -1,6 +1,6 @@
 ---
 title: "Magnolia"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: magnolia-1999
 ogImage: content/bill/films/backdrops/magnolia-1999.jpg
 description: "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story."
@@ -49,13 +49,13 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

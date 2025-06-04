@@ -1,6 +1,6 @@
 ---
 title: "The Grand Budapest Hotel"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-grand-budapest-hotel-2014
 ogImage: content/bill/films/backdrops/the-grand-budapest-hotel-2014.jpg
 description: "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century."
@@ -49,13 +49,13 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

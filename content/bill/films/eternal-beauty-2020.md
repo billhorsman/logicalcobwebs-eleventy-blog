@@ -1,6 +1,6 @@
 ---
 title: "Eternal Beauty"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: eternal-beauty-2020
 ogImage: content/bill/films/backdrops/eternal-beauty-2020.jpg
 description: "When Jane is rejected by life, she spirals into a chaotic, schizophrenic world where love and normality collide with humorous consequences."
@@ -49,13 +49,13 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

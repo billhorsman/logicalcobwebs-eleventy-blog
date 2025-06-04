@@ -1,6 +1,6 @@
 ---
 title: "Lucky"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: lucky-2017
 ogImage: content/bill/films/backdrops/lucky-2017.jpg
 description: "Follows the journey of a 90-year-old atheist and the quirky characters that inhabit his off-the-map desert town. He finds himself at the precipice of life, thrust into a journey of self-exploration."
@@ -49,13 +49,13 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

@@ -1,6 +1,6 @@
 ---
 title: "The Party"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-party-2017
 ogImage: content/bill/films/backdrops/the-party-2017.jpg
 description: "Various individuals think they’re coming together for a party in a private home, but a series of revelations results in a huge crisis that throws their belief systems – and their values – into total disarray."
@@ -49,13 +49,13 @@ description: "Various individuals think they’re coming together for a party in
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Various individuals think they’re coming together for a party in
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

@@ -1,6 +1,6 @@
 ---
 title: "2001: A Space Odyssey"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: 2001-a-space-odyssey-1968
 ogImage: content/bill/films/backdrops/2001-a-space-odyssey-1968.jpg
 description: "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer."
@@ -49,13 +49,13 @@ description: "Humanity finds a mysterious object buried beneath the lunar surfac
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Humanity finds a mysterious object buried beneath the lunar surfac
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

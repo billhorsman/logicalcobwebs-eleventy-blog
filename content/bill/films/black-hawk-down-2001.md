@@ -1,6 +1,6 @@
 ---
 title: "Black Hawk Down"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: black-hawk-down-2001
 ogImage: content/bill/films/backdrops/black-hawk-down-2001.jpg
 description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground."
@@ -49,13 +49,13 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

@@ -1,6 +1,6 @@
 ---
 title: "One Fine Morning"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: one-fine-morning-2022
 ogImage: content/bill/films/backdrops/one-fine-morning-2022.jpg
 description: "With a father suffering from neurodegenerative disease, a young woman lives with her eight-year-old daughter. While struggling to secure a decent nursing home, she runs into an unavailable friend with whom she embarks on an affair."
@@ -49,13 +49,13 @@ description: "With a father suffering from neurodegenerative disease, a young wo
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "With a father suffering from neurodegenerative disease, a young wo
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

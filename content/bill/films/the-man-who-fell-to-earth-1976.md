@@ -1,6 +1,6 @@
 ---
 title: "The Man Who Fell to Earth"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-man-who-fell-to-earth-1976
 ogImage: content/bill/films/backdrops/the-man-who-fell-to-earth-1976.jpg
 description: "Thomas Jerome Newton is an alien who has come to Earth in search of water to save his home planet. Aided by lawyer Oliver Farnsworth, Thomas uses his knowledge of advanced technology to create profitable inventions. While developing a method to transport water, Thomas meets Mary-Lou, a quiet hotel clerk, and begins to fall in love with her. Just as he is ready to leave Earth, Thomas is intercepted by the U.S. government, and his entire plan is threatened."
@@ -49,13 +49,13 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

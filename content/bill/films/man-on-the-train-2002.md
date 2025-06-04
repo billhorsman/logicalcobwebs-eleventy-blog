@@ -1,6 +1,6 @@
 ---
 title: "Man on the Train"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: man-on-the-train-2002
 ogImage: content/bill/films/backdrops/man-on-the-train-2002.jpg
 description: "A man, Milan steps off a train, into a small French village. As he waits for the day when he will rob the town bank, he runs into an old retired poetry teacher named M. Manesquier. The two men strike up a strange friendship and explore the road not taken, each wanting to live the other's life."
@@ -49,13 +49,13 @@ description: "A man, Milan steps off a train, into a small French village. As he
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A man, Milan steps off a train, into a small French village. As he
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

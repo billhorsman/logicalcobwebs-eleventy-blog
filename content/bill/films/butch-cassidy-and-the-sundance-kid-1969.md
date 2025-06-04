@@ -1,6 +1,6 @@
 ---
 title: "Butch Cassidy and the Sundance Kid"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: butch-cassidy-and-the-sundance-kid-1969
 ogImage: content/bill/films/backdrops/butch-cassidy-and-the-sundance-kid-1969.jpg
 description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law."
@@ -49,13 +49,13 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

@@ -1,6 +1,6 @@
 ---
 title: "The Bourne Identity"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: the-bourne-identity-2002
 ogImage: content/bill/films/backdrops/the-bourne-identity-2002.jpg
 description: "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?"
@@ -49,13 +49,13 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

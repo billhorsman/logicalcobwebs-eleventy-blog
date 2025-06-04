@@ -1,6 +1,6 @@
 ---
 title: "Sweetheart"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: sweetheart-2021
 ogImage: content/bill/films/backdrops/sweetheart-2021.jpg
 description: "A socially awkward, environmentally-conscious teenager named AJ is dragged to a coastal holiday park by her painfully 'normal' family, where she becomes unexpectedly captivated by a chlorine smelling, sun-loving lifeguard named Isla."
@@ -49,13 +49,13 @@ description: "A socially awkward, environmentally-conscious teenager named AJ is
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "A socially awkward, environmentally-conscious teenager named AJ is
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

@@ -1,6 +1,6 @@
 ---
 title: "Once Upon a Time in the West"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: once-upon-a-time-in-the-west-1968
 ogImage: content/bill/films/backdrops/once-upon-a-time-in-the-west-1968.jpg
 description: "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life."
@@ -49,13 +49,13 @@ description: "As the railroad builders advance unstoppably through the Arizona d
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "As the railroad builders advance unstoppably through the Arizona d
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>

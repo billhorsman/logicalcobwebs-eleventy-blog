@@ -1,6 +1,6 @@
 ---
 title: "Le Havre"
-layout: layouts/home.njk
+layout: layouts/films.njk
 slug: le-havre-2011
 ogImage: content/bill/films/backdrops/le-havre-2011.jpg
 description: "In the French harbor city of Le Havre, fate throws young African refugee Idrissa into the path of Marcel Marx, a well-spoken bohemian who works as a shoe-shiner. With innate optimism and the tireless support of his community, Marcel stands up to officials pursuing the boy for deportation."
@@ -49,13 +49,13 @@ description: "In the French harbor city of Le Havre, fate throws young African r
     <summary>
       Cast
     </summary>
-  <ul>
-    {%- for cast in film.credits.cast -%}
-      <li>
-        {{ cast.name }} as <em>{{ cast.character }}</em>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
   </details>
 
   <details>
@@ -70,7 +70,7 @@ description: "In the French harbor city of Le Havre, fate throws young African r
       {%- endfor -%}
     </ul>
   </details>
-  
+
 </article>
 <footer>
   <a href="../about">About this list</a>
