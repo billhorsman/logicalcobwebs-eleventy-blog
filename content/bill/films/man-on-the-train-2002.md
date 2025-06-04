@@ -13,14 +13,12 @@ description: "A man, Milan steps off a train, into a small French village. As he
     <a href="../24-hour-party-people-2002"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">47 / 100</a>
   </div>
   <div class="next">
     <a href="../the-bourne-identity-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>47 / 100</p>
 
 <article class="film slug-man-on-the-train-2002">
   <div class="backdrop-and-poster">

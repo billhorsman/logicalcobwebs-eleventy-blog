@@ -13,14 +13,12 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
     <a href="../the-deer-hunter-1978"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">20 / 100</a>
   </div>
   <div class="next">
     <a href="../being-there-1979">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>20 / 100</p>
 
 <article class="film slug-apocalypse-now-1979">
   <div class="backdrop-and-poster">

@@ -13,14 +13,12 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
     <a href="../the-grand-budapest-hotel-2014"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">65 / 100</a>
   </div>
   <div class="next">
     <a href="../the-handmaiden-2016">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>65 / 100</p>
 
 <article class="film slug-maudie-2016">
   <div class="backdrop-and-poster">

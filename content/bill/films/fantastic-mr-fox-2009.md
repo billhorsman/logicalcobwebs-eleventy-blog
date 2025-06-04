@@ -13,14 +13,12 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
     <a href="../district-9-2009"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">56 / 100</a>
   </div>
   <div class="next">
     <a href="../micmacs-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>56 / 100</p>
 
 <article class="film slug-fantastic-mr-fox-2009">
   <div class="backdrop-and-poster">

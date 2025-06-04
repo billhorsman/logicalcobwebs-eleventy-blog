@@ -13,14 +13,12 @@ description: "A group of working-class friends decide to enlist in the Army duri
     <a href="../the-man-who-fell-to-earth-1976"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">19 / 100</a>
   </div>
   <div class="next">
     <a href="../apocalypse-now-1979">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>19 / 100</p>
 
 <article class="film slug-the-deer-hunter-1978">
   <div class="backdrop-and-poster">

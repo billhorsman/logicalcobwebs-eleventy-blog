@@ -13,14 +13,12 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
     <a href="../cest-la-vie-2017"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">68 / 100</a>
   </div>
   <div class="next">
     <a href="../the-party-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>68 / 100</p>
 
 <article class="film slug-lucky-2017">
   <div class="backdrop-and-poster">

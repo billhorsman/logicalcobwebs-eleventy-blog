@@ -13,14 +13,12 @@ description: "A French family moves to a new neighborhood with during the summer
     <a href="../le-havre-2011"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">59 / 100</a>
   </div>
   <div class="next">
     <a href="../all-is-lost-2013">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>59 / 100</p>
 
 <article class="film slug-tomboy-2011">
   <div class="backdrop-and-poster">

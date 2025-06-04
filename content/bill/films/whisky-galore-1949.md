@@ -13,14 +13,12 @@ description: "Based on a true story. The name of the real ship, that sunk Feb 5 
     <a href="../its-a-wonderful-life-1946"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">2 / 100</a>
   </div>
   <div class="next">
     <a href="../la-strada-1954">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>2 / 100</p>
 
 <article class="film slug-whisky-galore-1949">
   <div class="backdrop-and-poster">

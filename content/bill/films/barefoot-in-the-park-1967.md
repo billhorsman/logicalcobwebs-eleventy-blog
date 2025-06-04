@@ -13,14 +13,12 @@ description: "In this film based on a Neil Simon play, newlyweds Corie, a free s
     <a href="../purple-noon-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">9 / 100</a>
   </div>
   <div class="next">
     <a href="../in-the-heat-of-the-night-1967">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>9 / 100</p>
 
 <article class="film slug-barefoot-in-the-park-1967">
   <div class="backdrop-and-poster">

@@ -13,14 +13,12 @@ description: "Naive Stanley Windrush returns from the war, his mind set on a suc
     <a href="../la-strada-1954"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">4 / 100</a>
   </div>
   <div class="next">
     <a href="../north-by-northwest-1959">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>4 / 100</p>
 
 <article class="film slug-im-all-right-jack-1959">
   <div class="backdrop-and-poster">

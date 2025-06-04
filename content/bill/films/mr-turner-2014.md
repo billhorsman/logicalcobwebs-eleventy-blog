@@ -13,14 +13,12 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
     <a href="../interstellar-2014"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">63 / 100</a>
   </div>
   <div class="next">
     <a href="../the-grand-budapest-hotel-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>63 / 100</p>
 
 <article class="film slug-mr-turner-2014">
   <div class="backdrop-and-poster">

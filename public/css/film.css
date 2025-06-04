@@ -1,3 +1,17 @@
+:root {
+  --lavender-blush: #FCEDF1;
+  --mimi-pink: #F9DCE3;
+  --chocolate-cosmos: #460C1B;
+  --black-bean: #340914;
+
+  --background-color: var(--mimi-pink);
+  --background-color-80: var(--background-color);
+
+  @supports (color: light-dark(black, white)) {
+    --background-color: light-dark(var(--mimi-pink), var(--black-bean));
+  }
+}
+
 main {
   justify-content: flex-start;
 }
@@ -16,14 +30,17 @@ nav.films {
   & a,
   & span { 
     border-radius: 0.25rem;
+    color: var(--color);
     display: inline-block;
     padding: 0.25rem 0.5rem;
     text-decoration: none;
     text-align: center;
   }
 
-  & a {
-    background: var(--subtle-link-background-color);
+  
+  & a:not(.simple) {
+    background: var(--color);
+    color: var(--background-color);
   }
 
   & .prev {

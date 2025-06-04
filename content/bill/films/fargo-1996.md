@@ -13,14 +13,12 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
     <a href="../lon-the-professional-1994"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">35 / 100</a>
   </div>
   <div class="next">
     <a href="../good-will-hunting-1997">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>35 / 100</p>
 
 <article class="film slug-fargo-1996">
   <div class="backdrop-and-poster">

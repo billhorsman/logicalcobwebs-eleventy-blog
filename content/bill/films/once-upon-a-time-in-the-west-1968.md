@@ -13,14 +13,12 @@ description: "As the railroad builders advance unstoppably through the Arizona d
     <a href="../bullitt-1968"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">13 / 100</a>
   </div>
   <div class="next">
     <a href="../butch-cassidy-and-the-sundance-kid-1969">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>13 / 100</p>
 
 <article class="film slug-once-upon-a-time-in-the-west-1968">
   <div class="backdrop-and-poster">

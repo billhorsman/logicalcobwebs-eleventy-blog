@@ -13,14 +13,12 @@ description: "Various individuals think they’re coming together for a party in
     <a href="../lucky-2017"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">69 / 100</a>
   </div>
   <div class="next">
     <a href="../roma-2018">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>69 / 100</p>
 
 <article class="film slug-the-party-2017">
   <div class="backdrop-and-poster">

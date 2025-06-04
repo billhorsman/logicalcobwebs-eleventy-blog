@@ -58,15 +58,13 @@ top_films.each_with_index do |film, index|
         #{prev_film ? "<a href=\"../#{prev_film["slug"]}\"><i class=\"fa-solid fa-chevron-left fa-xs\"></i> Previous</a>" : "<span><i class=\"fa-solid fa-chevron-left fa-xs\"></i> Previous</span>"}
       </div>
       <div>
-        <a href="../">Film list</a>
+        <a class="simple" href="../">#{index + 1} / #{top_films.length}</a>
       </div>
       <div class=\"next\">
         #{next_film ? "<a href=\"../#{next_film["slug"]}\">Next <i class=\"fa-solid fa-chevron-right fa-xs\"></i></a>" : "<span>Next <i class=\"fa-solid fa-chevron-right fa-xs\"></i></span>"}
       </div>
     </nav>
 
-    <p>#{index + 1} / #{top_films.length}</p>
-    
     <article class="film slug-#{film["slug"]}">
       <div class="backdrop-and-poster">
         <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">

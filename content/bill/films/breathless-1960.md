@@ -13,14 +13,12 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
     <a href="../north-by-northwest-1959"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">6 / 100</a>
   </div>
   <div class="next">
     <a href="../la-dolce-vita-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>6 / 100</p>
 
 <article class="film slug-breathless-1960">
   <div class="backdrop-and-poster">

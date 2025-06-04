@@ -13,14 +13,12 @@ description: "Set in late-1970s Dundee, Schemers is based on writer-producer Dav
     <a href="../limbo-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">78 / 100</a>
   </div>
   <div class="next">
     <a href="../the-truffle-hunters-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>78 / 100</p>
 
 <article class="film slug-schemers-2020">
   <div class="backdrop-and-poster">

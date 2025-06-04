@@ -13,14 +13,12 @@ description: "An African-American Mafia hit man who models himself after the sam
     <a href="../fight-club-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">39 / 100</a>
   </div>
   <div class="next">
     <a href="../magnolia-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>39 / 100</p>
 
 <article class="film slug-ghost-dog-the-way-of-the-samurai-1999">
   <div class="backdrop-and-poster">

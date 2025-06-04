@@ -13,14 +13,12 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
     <a href="../amlie-2001"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">45 / 100</a>
   </div>
   <div class="next">
     <a href="../24-hour-party-people-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>45 / 100</p>
 
 <article class="film slug-black-hawk-down-2001">
   <div class="backdrop-and-poster">

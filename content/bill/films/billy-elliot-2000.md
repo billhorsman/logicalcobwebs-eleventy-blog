@@ -13,14 +13,12 @@ description: "County Durham, England, 1984. The miners' strike has started and t
     <a href="../the-talented-mr-ripley-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">43 / 100</a>
   </div>
   <div class="next">
     <a href="../amlie-2001">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>43 / 100</p>
 
 <article class="film slug-billy-elliot-2000">
   <div class="backdrop-and-poster">

@@ -13,14 +13,12 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
     <a href="../im-all-right-jack-1959"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">5 / 100</a>
   </div>
   <div class="next">
     <a href="../breathless-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>5 / 100</p>
 
 <article class="film slug-north-by-northwest-1959">
   <div class="backdrop-and-poster">

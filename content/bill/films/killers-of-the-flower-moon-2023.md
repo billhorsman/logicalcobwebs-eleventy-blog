@@ -13,14 +13,12 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
     <a href="../blue-jean-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">100 / 100</a>
   </div>
   <div class="next">
     <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
   </div>
 </nav>
-
-<p>100 / 100</p>
 
 <article class="film slug-killers-of-the-flower-moon-2023">
   <div class="backdrop-and-poster">

@@ -13,14 +13,12 @@ description: "In the French harbor city of Le Havre, fate throws young African r
     <a href="../micmacs-2009"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">58 / 100</a>
   </div>
   <div class="next">
     <a href="../tomboy-2011">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>58 / 100</p>
 
 <article class="film slug-le-havre-2011">
   <div class="backdrop-and-poster">

@@ -13,14 +13,12 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
     <a href="../the-fugitive-1993"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">32 / 100</a>
   </div>
   <div class="next">
     <a href="../four-weddings-and-a-funeral-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>32 / 100</p>
 
 <article class="film slug-whats-eating-gilbert-grape-1993">
   <div class="backdrop-and-poster">

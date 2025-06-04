@@ -13,14 +13,12 @@ description: "Headstrong yet aimless, Will Hunting has a genius-level IQ but cho
     <a href="../fargo-1996"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">36 / 100</a>
   </div>
   <div class="next">
     <a href="../the-big-lebowski-1998">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>36 / 100</p>
 
 <article class="film slug-good-will-hunting-1997">
   <div class="backdrop-and-poster">

@@ -13,14 +13,12 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
     <a href="../happygolucky-2008"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">54 / 100</a>
   </div>
   <div class="next">
     <a href="../district-9-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>54 / 100</p>
 
 <article class="film slug-in-bruges-2008">
   <div class="backdrop-and-poster">

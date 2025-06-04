@@ -13,14 +13,12 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
     <a href="../nomadland-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">86 / 100</a>
   </div>
   <div class="next">
     <a href="../sweetheart-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>86 / 100</p>
 
 <article class="film slug-petite-maman-2021">
   <div class="backdrop-and-poster">

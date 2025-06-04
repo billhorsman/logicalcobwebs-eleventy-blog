@@ -13,14 +13,12 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
     <a href="../hot-fuzz-2007"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">52 / 100</a>
   </div>
   <div class="next">
     <a href="../happygolucky-2008">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>52 / 100</p>
 
 <article class="film slug-no-country-for-old-men-2007">
   <div class="backdrop-and-poster">

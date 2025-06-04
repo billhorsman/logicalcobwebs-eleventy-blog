@@ -13,14 +13,12 @@ description: "The adventures of a group of explorers who make use of a newly dis
     <a href="../dallas-buyers-club-2013"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">62 / 100</a>
   </div>
   <div class="next">
     <a href="../mr-turner-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>62 / 100</p>
 
 <article class="film slug-interstellar-2014">
   <div class="backdrop-and-poster">

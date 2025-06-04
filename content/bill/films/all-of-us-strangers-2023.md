@@ -13,14 +13,12 @@ description: "One night in his near-empty tower block in contemporary London, Ad
     <a href="../the-fabelmans-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">97 / 100</a>
   </div>
   <div class="next">
     <a href="../asteroid-city-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>97 / 100</p>
 
 <article class="film slug-all-of-us-strangers-2023">
   <div class="backdrop-and-poster">

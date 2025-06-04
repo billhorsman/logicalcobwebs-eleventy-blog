@@ -13,14 +13,12 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
     <a href="../the-handmaiden-2016"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">67 / 100</a>
   </div>
   <div class="next">
     <a href="../lucky-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>67 / 100</p>
 
 <article class="film slug-cest-la-vie-2017">
   <div class="backdrop-and-poster">

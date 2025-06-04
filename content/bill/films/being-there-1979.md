@@ -13,14 +13,12 @@ description: "A simple-minded gardener named Chance has spent all his life in th
     <a href="../apocalypse-now-1979"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">21 / 100</a>
   </div>
   <div class="next">
     <a href="../diva-1981">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>21 / 100</p>
 
 <article class="film slug-being-there-1979">
   <div class="backdrop-and-poster">

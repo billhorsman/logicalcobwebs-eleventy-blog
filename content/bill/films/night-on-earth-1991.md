@@ -13,14 +13,12 @@ description: "An anthology of 5 different cab drivers in 5 American and European
     <a href="../delicatessen-1991"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">30 / 100</a>
   </div>
   <div class="next">
     <a href="../the-fugitive-1993">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>30 / 100</p>
 
 <article class="film slug-night-on-earth-1991">
   <div class="backdrop-and-poster">

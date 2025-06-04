@@ -13,14 +13,12 @@ description: "A woman in her sixties embarks on a journey through the western Un
     <a href="../licorice-pizza-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">85 / 100</a>
   </div>
   <div class="next">
     <a href="../petite-maman-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>85 / 100</p>
 
 <article class="film slug-nomadland-2021">
   <div class="backdrop-and-poster">

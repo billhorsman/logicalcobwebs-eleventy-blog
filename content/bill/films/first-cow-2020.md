@@ -13,14 +13,12 @@ description: "In the 1820s, a taciturn loner and skilled cook travels west to Or
     <a href="../eternal-beauty-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">76 / 100</a>
   </div>
   <div class="next">
     <a href="../limbo-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>76 / 100</p>
 
 <article class="film slug-first-cow-2020">
   <div class="backdrop-and-poster">

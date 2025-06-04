@@ -13,14 +13,12 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
     <a href="../dog-day-afternoon-1975"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">17 / 100</a>
   </div>
   <div class="next">
     <a href="../the-man-who-fell-to-earth-1976">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>17 / 100</p>
 
 <article class="film slug-three-days-of-the-condor-1975">
   <div class="backdrop-and-poster">

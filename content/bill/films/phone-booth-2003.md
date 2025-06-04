@@ -13,14 +13,12 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
     <a href="../the-bourne-identity-2002"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">49 / 100</a>
   </div>
   <div class="next">
     <a href="../the-motorcycle-diaries-2004">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>49 / 100</p>
 
 <article class="film slug-phone-booth-2003">
   <div class="backdrop-and-poster">

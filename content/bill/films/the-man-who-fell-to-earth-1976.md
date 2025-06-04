@@ -13,14 +13,12 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
     <a href="../three-days-of-the-condor-1975"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">18 / 100</a>
   </div>
   <div class="next">
     <a href="../the-deer-hunter-1978">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>18 / 100</p>
 
 <article class="film slug-the-man-who-fell-to-earth-1976">
   <div class="backdrop-and-poster">

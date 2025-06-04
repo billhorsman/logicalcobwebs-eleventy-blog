@@ -13,14 +13,12 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
     <a href="../magnolia-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">41 / 100</a>
   </div>
   <div class="next">
     <a href="../the-talented-mr-ripley-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>41 / 100</p>
 
 <article class="film slug-the-straight-story-1999">
   <div class="backdrop-and-poster">

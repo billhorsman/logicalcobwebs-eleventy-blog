@@ -13,14 +13,12 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
     <a href="../mr-turner-2014"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">64 / 100</a>
   </div>
   <div class="next">
     <a href="../maudie-2016">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>64 / 100</p>
 
 <article class="film slug-the-grand-budapest-hotel-2014">
   <div class="backdrop-and-poster">

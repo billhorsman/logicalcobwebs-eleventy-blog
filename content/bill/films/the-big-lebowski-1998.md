@@ -13,14 +13,12 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
     <a href="../good-will-hunting-1997"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">37 / 100</a>
   </div>
   <div class="next">
     <a href="../fight-club-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>37 / 100</p>
 
 <article class="film slug-the-big-lebowski-1998">
   <div class="backdrop-and-poster">

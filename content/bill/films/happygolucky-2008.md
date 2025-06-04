@@ -13,14 +13,12 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
     <a href="../no-country-for-old-men-2007"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">53 / 100</a>
   </div>
   <div class="next">
     <a href="../in-bruges-2008">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>53 / 100</p>
 
 <article class="film slug-happygolucky-2008">
   <div class="backdrop-and-poster">

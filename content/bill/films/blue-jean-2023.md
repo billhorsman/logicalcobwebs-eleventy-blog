@@ -13,14 +13,12 @@ description: "Jean, a PE teacher, is forced to live a double life. When a new st
     <a href="../asteroid-city-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">99 / 100</a>
   </div>
   <div class="next">
     <a href="../killers-of-the-flower-moon-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>99 / 100</p>
 
 <article class="film slug-blue-jean-2023">
   <div class="backdrop-and-poster">

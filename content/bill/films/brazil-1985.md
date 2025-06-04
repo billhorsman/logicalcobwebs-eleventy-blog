@@ -13,14 +13,12 @@ description: "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-
     <a href="../paris-texas-1984"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">27 / 100</a>
   </div>
   <div class="next">
     <a href="../withnail--i-1987">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>27 / 100</p>
 
 <article class="film slug-brazil-1985">
   <div class="backdrop-and-poster">

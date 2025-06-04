@@ -13,14 +13,12 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
     <a href="../first-cow-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">77 / 100</a>
   </div>
   <div class="next">
     <a href="../schemers-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>77 / 100</p>
 
 <article class="film slug-limbo-2020">
   <div class="backdrop-and-poster">

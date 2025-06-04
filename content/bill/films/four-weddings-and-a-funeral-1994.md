@@ -13,14 +13,12 @@ description: "Over the course of five social occasions, a committed bachelor mus
     <a href="../whats-eating-gilbert-grape-1993"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">33 / 100</a>
   </div>
   <div class="next">
     <a href="../lon-the-professional-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>33 / 100</p>
 
 <article class="film slug-four-weddings-and-a-funeral-1994">
   <div class="backdrop-and-poster">

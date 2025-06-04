@@ -13,14 +13,12 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
     <a href="../the-french-dispatch-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">89 / 100</a>
   </div>
   <div class="next">
     <a href="../the-tragedy-of-macbeth-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>89 / 100</p>
 
 <article class="film slug-the-power-of-the-dog-2021">
   <div class="backdrop-and-poster">

@@ -13,14 +13,12 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
     <a href="../black-hawk-down-2001"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">46 / 100</a>
   </div>
   <div class="next">
     <a href="../man-on-the-train-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>46 / 100</p>
 
 <article class="film slug-24-hour-party-people-2002">
   <div class="backdrop-and-poster">

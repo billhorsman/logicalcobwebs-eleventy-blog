@@ -13,14 +13,12 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
     <a href="../the-sting-1973"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">16 / 100</a>
   </div>
   <div class="next">
     <a href="../three-days-of-the-condor-1975">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>16 / 100</p>
 
 <article class="film slug-dog-day-afternoon-1975">
   <div class="backdrop-and-poster">

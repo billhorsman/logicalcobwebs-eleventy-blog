@@ -13,14 +13,12 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
     <a href="../la-dolce-vita-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">8 / 100</a>
   </div>
   <div class="next">
     <a href="../barefoot-in-the-park-1967">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>8 / 100</p>
 
 <article class="film slug-purple-noon-1960">
   <div class="backdrop-and-poster">

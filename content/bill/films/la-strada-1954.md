@@ -13,14 +13,12 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
     <a href="../whisky-galore-1949"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">3 / 100</a>
   </div>
   <div class="next">
     <a href="../im-all-right-jack-1959">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>3 / 100</p>
 
 <article class="film slug-la-strada-1954">
   <div class="backdrop-and-poster">

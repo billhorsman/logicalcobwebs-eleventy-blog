@@ -13,14 +13,12 @@ description: "40-year-old Bertrand has been suffering from depression for the la
     <a href="../roma-2018"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">71 / 100</a>
   </div>
   <div class="next">
     <a href="../woman-at-war-2018">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>71 / 100</p>
 
 <article class="film slug-sink-or-swim-2018">
   <div class="backdrop-and-poster">

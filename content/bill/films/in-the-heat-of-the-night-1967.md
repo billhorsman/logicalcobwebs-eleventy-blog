@@ -13,14 +13,12 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
     <a href="../barefoot-in-the-park-1967"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">10 / 100</a>
   </div>
   <div class="next">
     <a href="../2001-a-space-odyssey-1968">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>10 / 100</p>
 
 <article class="film slug-in-the-heat-of-the-night-1967">
   <div class="backdrop-and-poster">

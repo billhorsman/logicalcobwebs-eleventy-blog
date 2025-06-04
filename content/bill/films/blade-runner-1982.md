@@ -13,14 +13,12 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
     <a href="../gregorys-girl-1981"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">24 / 100</a>
   </div>
   <div class="next">
     <a href="../local-hero-1983">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>24 / 100</p>
 
 <article class="film slug-blade-runner-1982">
   <div class="backdrop-and-poster">

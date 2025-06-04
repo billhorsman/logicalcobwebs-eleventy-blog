@@ -13,14 +13,12 @@ description: "A novice con man teams up with an acknowledged master to avenge th
     <a href="../butch-cassidy-and-the-sundance-kid-1969"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">15 / 100</a>
   </div>
   <div class="next">
     <a href="../dog-day-afternoon-1975">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>15 / 100</p>
 
 <article class="film slug-the-sting-1973">
   <div class="backdrop-and-poster">

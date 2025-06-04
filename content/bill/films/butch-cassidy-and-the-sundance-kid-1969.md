@@ -13,14 +13,12 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
     <a href="../once-upon-a-time-in-the-west-1968"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">14 / 100</a>
   </div>
   <div class="next">
     <a href="../the-sting-1973">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>14 / 100</p>
 
 <article class="film slug-butch-cassidy-and-the-sundance-kid-1969">
   <div class="backdrop-and-poster">

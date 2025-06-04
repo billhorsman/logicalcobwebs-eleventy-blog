@@ -13,14 +13,12 @@ description: "Wrongfully convicted of murdering his wife and sentenced to death,
     <a href="../night-on-earth-1991"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a href="../">Film list</a>
+    <a class="simple" href="../">31 / 100</a>
   </div>
   <div class="next">
     <a href="../whats-eating-gilbert-grape-1993">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
 </nav>
-
-<p>31 / 100</p>
 
 <article class="film slug-the-fugitive-1993">
   <div class="backdrop-and-poster">
