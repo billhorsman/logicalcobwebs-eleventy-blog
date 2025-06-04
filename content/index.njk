@@ -42,11 +42,15 @@ people:
 <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="blog.njk">the archive</a>.</p>
 {% endif %}
 
-{# List every content page in the project #}
-{#
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
-#}
+<h2>Lists</h2>
+
+<ol class="list">
+
+	<li class="list-item">
+		<div>
+			<a href="/bill/films/" class="list-link">Films</a>
+			<div class="list-excerpt">Bill's top 100 films</div>
+		</div>
+	</li>
+
+</ol>
