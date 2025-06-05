@@ -6,9 +6,11 @@
 
   --background-color: var(--mimi-pink);
   --background-color-80: var(--background-color);
+  --color: var(--black-bean);
 
   @supports (color: light-dark(black, white)) {
     --background-color: light-dark(var(--mimi-pink), var(--black-bean));
+    --color: light-dark(var(--black-bean), var(--mimi-pink));
   }
 }
 
@@ -29,10 +31,10 @@ nav.films {
 
   & a,
   & span { 
-    border-radius: 0.25rem;
+    border-radius: 100vh;
     color: var(--color);
     display: inline-block;
-    padding: 0.25rem 0.5rem;
+    padding: 0.25rem 0.75rem;
     text-decoration: none;
     text-align: center;
   }
@@ -41,14 +43,28 @@ nav.films {
   & a:not(.simple) {
     background: var(--color);
     color: var(--background-color);
+    
+    & i {
+      transition: transform 0.2s ease-in-out;
+    }
   }
 
   & .prev {
     text-align: left;
+    & a:hover {
+      i {
+        transform: translateX(-0.2rem) scale(1.25);
+      }
+    }
   }
 
   & .next {
     text-align: right;
+    & a:hover {
+      i {
+        transform: translateX(0.2rem) scale(1.25);
+      }
+    }
   }
 
   & span {
