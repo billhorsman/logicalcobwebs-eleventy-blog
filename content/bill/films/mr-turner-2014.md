@@ -18,6 +18,16 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
   <div class="next">
     <a href="../the-grand-budapest-hotel-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Interstellar
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Grand Budapest Hotel
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-mr-turner-2014">

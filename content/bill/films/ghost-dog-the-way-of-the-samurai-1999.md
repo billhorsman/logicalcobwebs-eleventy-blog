@@ -18,6 +18,16 @@ description: "An African-American Mafia hit man who models himself after the sam
   <div class="next">
     <a href="../magnolia-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Fight Club
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Magnolia
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-ghost-dog-the-way-of-the-samurai-1999">

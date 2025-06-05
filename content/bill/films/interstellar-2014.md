@@ -18,6 +18,16 @@ description: "The adventures of a group of explorers who make use of a newly dis
   <div class="next">
     <a href="../mr-turner-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Dallas Buyers Club
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Mr. Turner
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-interstellar-2014">

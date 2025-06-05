@@ -18,6 +18,16 @@ description: "An American oil company sends a man to Scotland to buy up an entir
   <div class="next">
     <a href="../paris-texas-1984">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Blade Runner
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Paris, Texas
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-local-hero-1983">

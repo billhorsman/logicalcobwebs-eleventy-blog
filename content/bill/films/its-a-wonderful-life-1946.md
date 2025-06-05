@@ -18,6 +18,16 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
   <div class="next">
     <a href="../whisky-galore-1949">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Start of list
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Whisky Galore!
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-its-a-wonderful-life-1946">

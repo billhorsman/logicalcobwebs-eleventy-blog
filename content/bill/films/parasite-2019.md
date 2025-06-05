@@ -18,6 +18,16 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
   <div class="next">
     <a href="../portrait-of-a-lady-on-fire-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Woman at War
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Portrait of a Lady on Fire
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-parasite-2019">

@@ -18,6 +18,16 @@ description: "Set in late-1970s Dundee, Schemers is based on writer-producer Dav
   <div class="next">
     <a href="../the-truffle-hunters-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Limbo
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Truffle Hunters
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-schemers-2020">

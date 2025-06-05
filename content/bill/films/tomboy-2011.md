@@ -18,6 +18,16 @@ description: "A French family moves to a new neighborhood with during the summer
   <div class="next">
     <a href="../all-is-lost-2013">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Le Havre
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      All Is Lost
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-tomboy-2011">

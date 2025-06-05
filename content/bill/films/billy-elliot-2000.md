@@ -18,6 +18,16 @@ description: "County Durham, England, 1984. The miners' strike has started and t
   <div class="next">
     <a href="../amlie-2001">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Talented Mr. Ripley
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Amélie
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-billy-elliot-2000">

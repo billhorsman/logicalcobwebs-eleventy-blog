@@ -18,6 +18,16 @@ description: "While standing in the doorway of the video shop where he works, Ba
   <div class="next">
     <a href="../le-havre-2011">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Fantastic Mr. Fox
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Le Havre
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-micmacs-2009">

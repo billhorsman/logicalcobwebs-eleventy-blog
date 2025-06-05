@@ -18,6 +18,16 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
   <div class="next">
     <a href="../sweetheart-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Nomadland
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Sweetheart
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-petite-maman-2021">

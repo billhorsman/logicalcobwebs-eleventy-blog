@@ -18,6 +18,16 @@ description: "As the railroad builders advance unstoppably through the Arizona d
   <div class="next">
     <a href="../butch-cassidy-and-the-sundance-kid-1969">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Bullitt
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Butch Cassidy and the Sundance Kid
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-once-upon-a-time-in-the-west-1968">

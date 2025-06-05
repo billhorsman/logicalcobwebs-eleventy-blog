@@ -18,6 +18,16 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
   <div class="next">
     <a href="../good-will-hunting-1997">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Léon: The Professional
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Good Will Hunting
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-fargo-1996">

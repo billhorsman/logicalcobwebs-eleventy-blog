@@ -18,6 +18,16 @@ description: "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-
   <div class="next">
     <a href="../withnail--i-1987">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Paris, Texas
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Withnail & I
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-brazil-1985">

@@ -18,6 +18,16 @@ description: "With a father suffering from neurodegenerative disease, a young wo
   <div class="next">
     <a href="../the-banshees-of-inisherin-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Empire of Light
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Banshees of Inisherin
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-one-fine-morning-2022">

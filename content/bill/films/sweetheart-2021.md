@@ -18,6 +18,16 @@ description: "A socially awkward, environmentally-conscious teenager named AJ is
   <div class="next">
     <a href="../the-french-dispatch-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Petite Maman
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The French Dispatch
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-sweetheart-2021">

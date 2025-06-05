@@ -18,6 +18,16 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
   <div class="next">
     <a href="../happygolucky-2008">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Hot Fuzz
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Happy-Go-Lucky
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-no-country-for-old-men-2007">

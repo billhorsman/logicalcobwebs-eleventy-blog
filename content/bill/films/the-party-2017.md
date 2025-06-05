@@ -18,6 +18,16 @@ description: "Various individuals think they’re coming together for a party in
   <div class="next">
     <a href="../roma-2018">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Lucky
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Roma
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-party-2017">

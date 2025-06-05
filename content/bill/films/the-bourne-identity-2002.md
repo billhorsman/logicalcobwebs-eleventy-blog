@@ -18,6 +18,16 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
   <div class="next">
     <a href="../phone-booth-2003">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Man on the Train
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Phone Booth
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-bourne-identity-2002">

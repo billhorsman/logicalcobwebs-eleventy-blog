@@ -18,6 +18,16 @@ description: "Buddy is a young boy on the cusp of adolescence, whose life is fil
   <div class="next">
     <a href="../coda-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Truffle Hunters
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      CODA
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-belfast-2021">

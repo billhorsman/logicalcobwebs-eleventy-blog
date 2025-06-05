@@ -18,6 +18,16 @@ description: "A simple-minded gardener named Chance has spent all his life in th
   <div class="next">
     <a href="../diva-1981">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Apocalypse Now
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Diva
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-being-there-1979">

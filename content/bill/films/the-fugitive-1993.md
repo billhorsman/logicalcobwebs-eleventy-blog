@@ -18,6 +18,16 @@ description: "Wrongfully convicted of murdering his wife and sentenced to death,
   <div class="next">
     <a href="../whats-eating-gilbert-grape-1993">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Night on Earth
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      What's Eating Gilbert Grape
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-fugitive-1993">

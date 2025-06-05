@@ -18,6 +18,16 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
   <div class="next">
     <a href="../the-straight-story-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Ghost Dog: The Way of the Samurai
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Straight Story
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-magnolia-1999">

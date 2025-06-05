@@ -18,6 +18,16 @@ description: "One night in his near-empty tower block in contemporary London, Ad
   <div class="next">
     <a href="../asteroid-city-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Fabelmans
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Asteroid City
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-all-of-us-strangers-2023">

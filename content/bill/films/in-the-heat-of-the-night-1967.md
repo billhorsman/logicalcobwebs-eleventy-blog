@@ -18,6 +18,16 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
   <div class="next">
     <a href="../2001-a-space-odyssey-1968">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Barefoot in the Park
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      2001: A Space Odyssey
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-in-the-heat-of-the-night-1967">

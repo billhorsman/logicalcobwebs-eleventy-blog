@@ -18,6 +18,16 @@ description: "In the French harbor city of Le Havre, fate throws young African r
   <div class="next">
     <a href="../tomboy-2011">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Micmacs
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Tomboy
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-le-havre-2011">

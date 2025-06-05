@@ -23,7 +23,25 @@ nav.films {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-content: space-between;
-  margin: 2rem 0 0.5rem;
+  margin: 2rem 0 0;
+
+  & .hint {
+    grid-column: 1 / 4;
+    min-height: 3rem;
+  }
+
+  & .prev-hint,
+  & .next-hint {
+    display: none;
+  }
+
+  & .prev-hint {
+    text-align: left;
+  }
+
+  & .next-hint {
+    text-align: right;
+  }
 
   & > div {
     text-align: center;
@@ -48,12 +66,18 @@ nav.films {
       transition: transform 0.2s ease-in-out;
     }
   }
+  &:has(.prev a:hover) .prev-hint {
+    display: block;
+  }
+  &:has(.next a:hover) .next-hint {
+    display: block;
+  }
 
   & .prev {
     text-align: left;
     & a:hover {
       i {
-        transform: translateX(-0.2rem) scale(1.25);
+        transform: translateX(-0.2rem);
       }
     }
   }
@@ -62,7 +86,7 @@ nav.films {
     text-align: right;
     & a:hover {
       i {
-        transform: translateX(0.2rem) scale(1.25);
+        transform: translateX(0.2rem);
       }
     }
   }

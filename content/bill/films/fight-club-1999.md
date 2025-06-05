@@ -18,6 +18,16 @@ description: "A ticking-time-bomb insomniac and a slippery soap salesman channel
   <div class="next">
     <a href="../ghost-dog-the-way-of-the-samurai-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Big Lebowski
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Ghost Dog: The Way of the Samurai
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-fight-club-1999">

@@ -18,6 +18,16 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
   <div class="next">
     <a href="../man-on-the-train-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Black Hawk Down
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Man on the Train
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-24-hour-party-people-2002">

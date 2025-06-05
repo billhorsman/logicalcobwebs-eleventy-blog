@@ -18,6 +18,16 @@ description: "An anthology of 5 different cab drivers in 5 American and European
   <div class="next">
     <a href="../the-fugitive-1993">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Delicatessen
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Fugitive
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-night-on-earth-1991">

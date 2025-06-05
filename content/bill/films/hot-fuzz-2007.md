@@ -18,6 +18,16 @@ description: "Former London constable Nicholas Angel finds it difficult to adapt
   <div class="next">
     <a href="../no-country-for-old-men-2007">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Motorcycle Diaries
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      No Country for Old Men
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-hot-fuzz-2007">

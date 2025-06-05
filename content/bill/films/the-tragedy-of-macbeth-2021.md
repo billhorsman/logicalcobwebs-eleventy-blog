@@ -18,6 +18,16 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
   <div class="next">
     <a href="../between-two-worlds-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Power of the Dog
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Between Two Worlds
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-tragedy-of-macbeth-2021">

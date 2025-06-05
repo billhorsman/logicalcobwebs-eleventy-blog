@@ -18,6 +18,16 @@ description: "Over the course of five social occasions, a committed bachelor mus
   <div class="next">
     <a href="../lon-the-professional-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      What's Eating Gilbert Grape
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Léon: The Professional
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-four-weddings-and-a-funeral-1994">

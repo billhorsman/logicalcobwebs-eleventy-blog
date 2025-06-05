@@ -18,6 +18,16 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
   <div class="next">
     <a href="../parasite-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Sink or Swim
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Parasite
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-woman-at-war-2018">

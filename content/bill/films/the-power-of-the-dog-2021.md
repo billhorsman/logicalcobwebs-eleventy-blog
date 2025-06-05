@@ -18,6 +18,16 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
   <div class="next">
     <a href="../the-tragedy-of-macbeth-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The French Dispatch
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Tragedy of Macbeth
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-power-of-the-dog-2021">

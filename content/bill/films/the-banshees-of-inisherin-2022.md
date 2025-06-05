@@ -18,6 +18,16 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
   <div class="next">
     <a href="../the-fabelmans-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      One Fine Morning
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Fabelmans
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-banshees-of-inisherin-2022">

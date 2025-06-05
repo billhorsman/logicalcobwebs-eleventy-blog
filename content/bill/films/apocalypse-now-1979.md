@@ -18,6 +18,16 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
   <div class="next">
     <a href="../being-there-1979">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Deer Hunter
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Being There
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-apocalypse-now-1979">

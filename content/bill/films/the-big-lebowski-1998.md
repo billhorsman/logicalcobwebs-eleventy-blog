@@ -18,6 +18,16 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
   <div class="next">
     <a href="../fight-club-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Good Will Hunting
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Fight Club
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-big-lebowski-1998">

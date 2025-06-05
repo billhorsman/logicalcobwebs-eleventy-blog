@@ -18,6 +18,16 @@ description: "Naive Stanley Windrush returns from the war, his mind set on a suc
   <div class="next">
     <a href="../north-by-northwest-1959">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      La Strada
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      North by Northwest
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-im-all-right-jack-1959">

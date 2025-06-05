@@ -18,6 +18,16 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
   <div class="next">
     <a href="../billy-elliot-2000">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Straight Story
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Billy Elliot
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-talented-mr-ripley-1999">

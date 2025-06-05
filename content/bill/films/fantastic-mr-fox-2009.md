@@ -18,6 +18,16 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
   <div class="next">
     <a href="../micmacs-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      District 9
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Micmacs
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-fantastic-mr-fox-2009">

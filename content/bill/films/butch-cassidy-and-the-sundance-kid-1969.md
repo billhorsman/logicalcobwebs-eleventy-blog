@@ -18,6 +18,16 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
   <div class="next">
     <a href="../the-sting-1973">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Once Upon a Time in the West
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Sting
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-butch-cassidy-and-the-sundance-kid-1969">

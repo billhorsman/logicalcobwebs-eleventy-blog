@@ -18,6 +18,16 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
   <div class="next">
     <a href="../local-hero-1983">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Gregory's Girl
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Local Hero
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-blade-runner-1982">

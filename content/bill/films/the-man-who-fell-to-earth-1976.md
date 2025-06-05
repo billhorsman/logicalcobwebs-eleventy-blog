@@ -18,6 +18,16 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
   <div class="next">
     <a href="../the-deer-hunter-1978">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Three Days of the Condor
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Deer Hunter
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-man-who-fell-to-earth-1976">

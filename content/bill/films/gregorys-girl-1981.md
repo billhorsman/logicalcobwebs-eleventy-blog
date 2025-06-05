@@ -18,6 +18,16 @@ description: "A teenager falls hard for the female soccer player who has replace
   <div class="next">
     <a href="../blade-runner-1982">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Diva
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Blade Runner
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-gregorys-girl-1981">

@@ -18,6 +18,16 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
   <div class="next">
     <a href="../24-hour-party-people-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Amélie
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      24 Hour Party People
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-black-hawk-down-2001">

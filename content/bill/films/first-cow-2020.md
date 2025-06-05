@@ -18,6 +18,16 @@ description: "In the 1820s, a taciturn loner and skilled cook travels west to Or
   <div class="next">
     <a href="../limbo-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Eternal Beauty
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Limbo
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-first-cow-2020">

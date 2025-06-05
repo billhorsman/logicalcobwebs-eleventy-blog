@@ -18,6 +18,16 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
   <div class="next">
     <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Blue Jean
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      End of list
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-killers-of-the-flower-moon-2023">

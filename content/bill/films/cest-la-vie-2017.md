@@ -18,6 +18,16 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
   <div class="next">
     <a href="../lucky-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Handmaiden
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Lucky
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-cest-la-vie-2017">

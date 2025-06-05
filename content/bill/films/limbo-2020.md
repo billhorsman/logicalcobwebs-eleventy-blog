@@ -18,6 +18,16 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
   <div class="next">
     <a href="../schemers-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      First Cow
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Schemers
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-limbo-2020">

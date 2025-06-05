@@ -18,6 +18,16 @@ description: "At a tiny Parisian café, the adorable yet painfully shy Amélie a
   <div class="next">
     <a href="../black-hawk-down-2001">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Billy Elliot
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Black Hawk Down
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-amlie-2001">

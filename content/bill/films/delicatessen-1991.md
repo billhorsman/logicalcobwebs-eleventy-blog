@@ -18,6 +18,16 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
   <div class="next">
     <a href="../night-on-earth-1991">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Withnail & I
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Night on Earth
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-delicatessen-1991">

@@ -18,6 +18,16 @@ description: "1930s Korea, in the period of Japanese occupation, a new girl, Soo
   <div class="next">
     <a href="../cest-la-vie-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Maudie
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      C'est la vie!
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-handmaiden-2016">

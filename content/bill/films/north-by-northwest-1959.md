@@ -18,6 +18,16 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
   <div class="next">
     <a href="../breathless-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      I'm All Right Jack
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Breathless
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-north-by-northwest-1959">

@@ -63,6 +63,16 @@ top_films.each_with_index do |film, index|
       <div class=\"next\">
         #{next_film ? "<a href=\"../#{next_film["slug"]}\">Next <i class=\"fa-solid fa-chevron-right fa-xs\"></i></a>" : "<span>Next <i class=\"fa-solid fa-chevron-right fa-xs\"></i></span>"}
       </div>
+      <div class="hint">
+        <span class="prev-hint">
+          <span class="sr-only">Previous film:</span>
+          #{prev_film&.dig("title") || "Start of list"}
+        </span>
+        <span class="next-hint">
+          <span class="sr-only">Next film:</span>
+          #{next_film&.dig("title") || "End of list"}
+        </span>
+      </div>
     </nav>
 
     <article class="film slug-#{film["slug"]}">

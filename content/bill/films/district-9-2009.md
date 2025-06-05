@@ -18,6 +18,16 @@ description: "Thirty years ago, aliens arrive on Earth. Not to conquer or give a
   <div class="next">
     <a href="../fantastic-mr-fox-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      In Bruges
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Fantastic Mr. Fox
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-district-9-2009">

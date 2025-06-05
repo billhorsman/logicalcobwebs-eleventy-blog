@@ -18,6 +18,16 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
   <div class="next">
     <a href="../la-dolce-vita-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      North by Northwest
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      La Dolce Vita
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-breathless-1960">

@@ -18,6 +18,16 @@ description: "In the secret forests of Northern Italy, a dwindling group of joyf
   <div class="next">
     <a href="../belfast-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Schemers
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Belfast
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-truffle-hunters-2020">

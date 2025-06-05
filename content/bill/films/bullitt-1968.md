@@ -18,6 +18,16 @@ description: "Senator Walter Chalmers is aiming to take down mob boss Pete Ross 
   <div class="next">
     <a href="../once-upon-a-time-in-the-west-1968">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      2001: A Space Odyssey
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Once Upon a Time in the West
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-bullitt-1968">

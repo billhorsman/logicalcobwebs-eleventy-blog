@@ -18,6 +18,16 @@ description: "A woman in her sixties embarks on a journey through the western Un
   <div class="next">
     <a href="../petite-maman-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Licorice Pizza
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Petite Maman
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-nomadland-2021">

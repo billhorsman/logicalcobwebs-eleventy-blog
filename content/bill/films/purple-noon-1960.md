@@ -18,6 +18,16 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
   <div class="next">
     <a href="../barefoot-in-the-park-1967">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      La Dolce Vita
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Barefoot in the Park
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-purple-noon-1960">

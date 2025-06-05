@@ -18,6 +18,16 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
   <div class="next">
     <a href="../blue-jean-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      All of Us Strangers
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Blue Jean
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-asteroid-city-2023">

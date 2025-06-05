@@ -18,6 +18,16 @@ description: "Based on the journals of Che Guevara, leader of the Cuban Revoluti
   <div class="next">
     <a href="../hot-fuzz-2007">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Phone Booth
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Hot Fuzz
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-motorcycle-diaries-2004">

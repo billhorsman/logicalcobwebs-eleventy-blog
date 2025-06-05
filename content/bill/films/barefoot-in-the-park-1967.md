@@ -18,6 +18,16 @@ description: "In this film based on a Neil Simon play, newlyweds Corie, a free s
   <div class="next">
     <a href="../in-the-heat-of-the-night-1967">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Purple Noon
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      In the Heat of the Night
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-barefoot-in-the-park-1967">

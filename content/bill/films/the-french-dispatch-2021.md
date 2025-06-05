@@ -18,6 +18,16 @@ description: "The staff of an American magazine based in France puts out its las
   <div class="next">
     <a href="../the-power-of-the-dog-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Sweetheart
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Power of the Dog
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-french-dispatch-2021">

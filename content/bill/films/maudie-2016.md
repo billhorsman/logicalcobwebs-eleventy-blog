@@ -18,6 +18,16 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
   <div class="next">
     <a href="../the-handmaiden-2016">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Grand Budapest Hotel
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Handmaiden
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-maudie-2016">

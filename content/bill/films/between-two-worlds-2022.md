@@ -18,6 +18,16 @@ description: "Marianne Winckler relocates to the port city of Caen in order to p
   <div class="next">
     <a href="../eo-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Tragedy of Macbeth
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      EO
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-between-two-worlds-2022">

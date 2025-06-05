@@ -18,6 +18,16 @@ description: "When Patrizia Reggiani, an outsider from humble beginnings, marrie
   <div class="next">
     <a href="../licorice-pizza-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Dune
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Licorice Pizza
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-house-of-gucci-2021">

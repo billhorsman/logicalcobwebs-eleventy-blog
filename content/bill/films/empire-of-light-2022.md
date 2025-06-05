@@ -18,6 +18,16 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
   <div class="next">
     <a href="../one-fine-morning-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      EO
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      One Fine Morning
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-empire-of-light-2022">

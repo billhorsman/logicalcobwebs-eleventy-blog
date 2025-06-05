@@ -18,6 +18,16 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
   <div class="next">
     <a href="../fargo-1996">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Four Weddings and a Funeral
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Fargo
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-lon-the-professional-1994">

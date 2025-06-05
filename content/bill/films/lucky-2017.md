@@ -18,6 +18,16 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
   <div class="next">
     <a href="../the-party-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      C'est la vie!
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Party
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-lucky-2017">

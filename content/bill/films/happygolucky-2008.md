@@ -18,6 +18,16 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
   <div class="next">
     <a href="../in-bruges-2008">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      No Country for Old Men
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      In Bruges
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-happygolucky-2008">

@@ -18,6 +18,16 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
   <div class="next">
     <a href="../the-talented-mr-ripley-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Magnolia
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Talented Mr. Ripley
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-straight-story-1999">

@@ -18,6 +18,16 @@ description: "Jean, a PE teacher, is forced to live a double life. When a new st
   <div class="next">
     <a href="../killers-of-the-flower-moon-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Asteroid City
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Killers of the Flower Moon
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-blue-jean-2023">

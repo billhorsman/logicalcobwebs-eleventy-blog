@@ -18,6 +18,16 @@ description: "Based on a true story. The name of the real ship, that sunk Feb 5 
   <div class="next">
     <a href="../la-strada-1954">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      It's a Wonderful Life
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      La Strada
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-whisky-galore-1949">

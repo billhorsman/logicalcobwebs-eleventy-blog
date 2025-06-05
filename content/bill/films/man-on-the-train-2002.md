@@ -18,6 +18,16 @@ description: "A man, Milan steps off a train, into a small French village. As he
   <div class="next">
     <a href="../the-bourne-identity-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      24 Hour Party People
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      The Bourne Identity
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-man-on-the-train-2002">

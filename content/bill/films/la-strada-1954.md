@@ -18,6 +18,16 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
   <div class="next">
     <a href="../im-all-right-jack-1959">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Whisky Galore!
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      I'm All Right Jack
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-la-strada-1954">

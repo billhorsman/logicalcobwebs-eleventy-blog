@@ -18,6 +18,16 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
   <div class="next">
     <a href="../eternal-beauty-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Parasite
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Eternal Beauty
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-portrait-of-a-lady-on-fire-2019">

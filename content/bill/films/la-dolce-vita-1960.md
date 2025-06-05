@@ -18,6 +18,16 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
   <div class="next">
     <a href="../purple-noon-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Breathless
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Purple Noon
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-la-dolce-vita-1960">

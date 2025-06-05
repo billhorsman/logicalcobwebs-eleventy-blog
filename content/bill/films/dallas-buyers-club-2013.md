@@ -18,6 +18,16 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
   <div class="next">
     <a href="../interstellar-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      All Is Lost
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Interstellar
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-dallas-buyers-club-2013">

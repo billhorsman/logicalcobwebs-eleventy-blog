@@ -18,6 +18,16 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
   <div class="next">
     <a href="../all-of-us-strangers-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Banshees of Inisherin
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      All of Us Strangers
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-fabelmans-2022">

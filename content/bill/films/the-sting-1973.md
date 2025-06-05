@@ -18,6 +18,16 @@ description: "A novice con man teams up with an acknowledged master to avenge th
   <div class="next">
     <a href="../dog-day-afternoon-1975">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Butch Cassidy and the Sundance Kid
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Dog Day Afternoon
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-sting-1973">

@@ -18,6 +18,16 @@ description: "Humanity finds a mysterious object buried beneath the lunar surfac
   <div class="next">
     <a href="../bullitt-1968">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      In the Heat of the Night
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Bullitt
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-2001-a-space-odyssey-1968">

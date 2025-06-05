@@ -18,6 +18,16 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
   <div class="next">
     <a href="../first-cow-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Portrait of a Lady on Fire
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      First Cow
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-eternal-beauty-2020">

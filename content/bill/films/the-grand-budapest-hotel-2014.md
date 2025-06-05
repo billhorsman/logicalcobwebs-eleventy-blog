@@ -18,6 +18,16 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
   <div class="next">
     <a href="../maudie-2016">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Mr. Turner
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Maudie
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-grand-budapest-hotel-2014">

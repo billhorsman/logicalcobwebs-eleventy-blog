@@ -18,6 +18,16 @@ description: "A group of working-class friends decide to enlist in the Army duri
   <div class="next">
     <a href="../apocalypse-now-1979">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Man Who Fell to Earth
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Apocalypse Now
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-the-deer-hunter-1978">

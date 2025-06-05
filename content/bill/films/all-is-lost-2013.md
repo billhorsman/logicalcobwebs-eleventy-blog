@@ -18,6 +18,16 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
   <div class="next">
     <a href="../dallas-buyers-club-2013">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Tomboy
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Dallas Buyers Club
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-all-is-lost-2013">

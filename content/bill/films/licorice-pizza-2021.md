@@ -18,6 +18,16 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
   <div class="next">
     <a href="../nomadland-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      House of Gucci
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Nomadland
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-licorice-pizza-2021">

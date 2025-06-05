@@ -18,6 +18,16 @@ description: "A man wanders out of the desert not knowing who he is. His brother
   <div class="next">
     <a href="../brazil-1985">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      Local Hero
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Brazil
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-paris-texas-1984">

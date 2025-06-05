@@ -18,6 +18,16 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
   <div class="next">
     <a href="../four-weddings-and-a-funeral-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      The Fugitive
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      Four Weddings and a Funeral
+    </span>
+  </div>
 </nav>
 
 <article class="film slug-whats-eating-gilbert-grape-1993">
