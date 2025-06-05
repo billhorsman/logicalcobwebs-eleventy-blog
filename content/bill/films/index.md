@@ -52,7 +52,3 @@ If you only watch {{ must_see_films.list.length }} films&hellip;
   {% endfor %}
   </ul>
 </section>
-
-<footer>
-  <a href="about">About this list</a>
-</footer>

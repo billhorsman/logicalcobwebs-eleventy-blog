@@ -56,7 +56,7 @@
     }
   }
 
-  &[data-scheme="auto"] {
+  &[data-scheme="light dark"] {
     & i.auto-icon {
       display: block;
     }

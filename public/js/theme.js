@@ -29,7 +29,7 @@ const toggleScheme = () => {
       currentScheme = 'dark';
       break;
     case 'dark':
-      currentScheme = 'auto';
+      currentScheme = 'light dark';
       break;
     default:
       currentScheme = 'light';
