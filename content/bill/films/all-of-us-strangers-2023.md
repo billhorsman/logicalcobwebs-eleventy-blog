@@ -80,6 +80,3 @@ description: "One night in his near-empty tower block in contemporary London, Ad
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

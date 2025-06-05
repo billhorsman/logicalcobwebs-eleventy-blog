@@ -80,6 +80,3 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

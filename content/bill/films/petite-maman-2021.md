@@ -80,6 +80,3 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

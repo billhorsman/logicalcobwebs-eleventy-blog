@@ -80,6 +80,3 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

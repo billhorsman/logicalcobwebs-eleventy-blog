@@ -80,6 +80,3 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

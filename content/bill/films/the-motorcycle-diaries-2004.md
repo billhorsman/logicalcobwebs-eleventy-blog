@@ -80,6 +80,3 @@ description: "Based on the journals of Che Guevara, leader of the Cuban Revoluti
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

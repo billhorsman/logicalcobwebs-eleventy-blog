@@ -80,6 +80,3 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

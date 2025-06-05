@@ -80,6 +80,3 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

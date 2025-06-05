@@ -80,6 +80,3 @@ description: "While standing in the doorway of the video shop where he works, Ba
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

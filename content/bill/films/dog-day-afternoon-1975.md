@@ -80,6 +80,3 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

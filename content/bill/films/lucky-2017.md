@@ -80,6 +80,3 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

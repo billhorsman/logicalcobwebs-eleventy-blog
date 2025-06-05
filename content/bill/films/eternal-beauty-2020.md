@@ -80,6 +80,3 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

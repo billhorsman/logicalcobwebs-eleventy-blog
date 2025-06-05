@@ -80,6 +80,3 @@ description: "Jean, a PE teacher, is forced to live a double life. When a new st
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

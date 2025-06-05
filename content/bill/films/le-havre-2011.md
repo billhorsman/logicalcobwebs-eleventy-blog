@@ -80,6 +80,3 @@ description: "In the French harbor city of Le Havre, fate throws young African r
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

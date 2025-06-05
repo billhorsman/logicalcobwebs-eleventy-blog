@@ -80,6 +80,3 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

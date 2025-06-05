@@ -80,6 +80,3 @@ description: "A man, Milan steps off a train, into a small French village. As he
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

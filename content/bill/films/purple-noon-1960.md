@@ -80,6 +80,3 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

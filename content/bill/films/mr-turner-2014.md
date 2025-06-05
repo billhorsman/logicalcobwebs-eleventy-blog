@@ -80,6 +80,3 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

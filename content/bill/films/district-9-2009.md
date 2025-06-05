@@ -80,6 +80,3 @@ description: "Thirty years ago, aliens arrive on Earth. Not to conquer or give a
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

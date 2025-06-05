@@ -80,6 +80,3 @@ description: "A simple-minded gardener named Chance has spent all his life in th
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

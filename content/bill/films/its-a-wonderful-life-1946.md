@@ -80,6 +80,3 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

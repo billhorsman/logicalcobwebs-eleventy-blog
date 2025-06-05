@@ -80,6 +80,3 @@ description: "A socially awkward, environmentally-conscious teenager named AJ is
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

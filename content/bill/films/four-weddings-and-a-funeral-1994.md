@@ -80,6 +80,3 @@ description: "Over the course of five social occasions, a committed bachelor mus
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

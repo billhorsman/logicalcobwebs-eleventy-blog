@@ -80,6 +80,3 @@ description: "1930s Korea, in the period of Japanese occupation, a new girl, Soo
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "An American oil company sends a man to Scotland to buy up an entir
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

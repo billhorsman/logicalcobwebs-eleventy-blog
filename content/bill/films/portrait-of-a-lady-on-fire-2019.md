@@ -80,6 +80,3 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

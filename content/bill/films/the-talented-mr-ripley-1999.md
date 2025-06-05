@@ -80,6 +80,3 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

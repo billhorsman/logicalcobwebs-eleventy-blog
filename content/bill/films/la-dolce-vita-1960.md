@@ -80,6 +80,3 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

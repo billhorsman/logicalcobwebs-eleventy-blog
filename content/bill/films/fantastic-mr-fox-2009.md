@@ -80,6 +80,3 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

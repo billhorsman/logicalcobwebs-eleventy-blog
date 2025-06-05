@@ -80,6 +80,3 @@ description: "A ticking-time-bomb insomniac and a slippery soap salesman channel
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

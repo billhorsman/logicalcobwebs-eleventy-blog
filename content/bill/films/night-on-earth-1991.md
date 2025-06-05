@@ -80,6 +80,3 @@ description: "An anthology of 5 different cab drivers in 5 American and European
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

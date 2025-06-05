@@ -80,6 +80,3 @@ description: "Headstrong yet aimless, Will Hunting has a genius-level IQ but cho
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

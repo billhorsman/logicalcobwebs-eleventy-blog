@@ -80,6 +80,3 @@ description: "A teenager falls hard for the female soccer player who has replace
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

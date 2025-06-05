@@ -80,6 +80,3 @@ description: "In the secret forests of Northern Italy, a dwindling group of joyf
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

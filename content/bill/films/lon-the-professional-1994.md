@@ -80,6 +80,3 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

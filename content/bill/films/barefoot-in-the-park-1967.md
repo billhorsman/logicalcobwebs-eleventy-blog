@@ -80,6 +80,3 @@ description: "In this film based on a Neil Simon play, newlyweds Corie, a free s
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

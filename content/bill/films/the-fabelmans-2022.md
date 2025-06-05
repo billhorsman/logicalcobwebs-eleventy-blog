@@ -80,6 +80,3 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

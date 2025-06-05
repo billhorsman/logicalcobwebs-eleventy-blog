@@ -80,6 +80,3 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

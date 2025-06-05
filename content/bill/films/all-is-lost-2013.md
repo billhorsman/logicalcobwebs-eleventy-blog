@@ -80,6 +80,3 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

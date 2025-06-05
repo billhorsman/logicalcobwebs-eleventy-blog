@@ -80,6 +80,3 @@ description: "In the 1820s, a taciturn loner and skilled cook travels west to Or
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "At a tiny Parisian café, the adorable yet painfully shy Amélie a
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

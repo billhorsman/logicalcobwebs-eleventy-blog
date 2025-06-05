@@ -80,6 +80,3 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

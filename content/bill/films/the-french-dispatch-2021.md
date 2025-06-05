@@ -80,6 +80,3 @@ description: "The staff of an American magazine based in France puts out its las
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

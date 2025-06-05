@@ -80,6 +80,3 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

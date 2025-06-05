@@ -80,6 +80,3 @@ description: "A man wanders out of the desert not knowing who he is. His brother
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "A French family moves to a new neighborhood with during the summer
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

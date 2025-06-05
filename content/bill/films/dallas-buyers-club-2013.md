@@ -80,6 +80,3 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

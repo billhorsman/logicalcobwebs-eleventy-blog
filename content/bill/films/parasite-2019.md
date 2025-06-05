@@ -80,6 +80,3 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

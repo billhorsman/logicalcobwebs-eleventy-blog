@@ -80,6 +80,3 @@ description: "When Patrizia Reggiani, an outsider from humble beginnings, marrie
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

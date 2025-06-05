@@ -37,6 +37,7 @@
     {#- Add the contents of a file to the bundle #}
     {%- css %}{% include "public/css/index.css" %}{% endcss %}
     {%- css %}{% include "public/css/list.css" %}{% endcss %}
+    {%- css %}{% include "public/css/theme.css" %}{% endcss %}
     {#- Or you can add from node_modules #}
     {# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
 
@@ -71,17 +72,7 @@
     </main>
 
     <footer>
-      <section class="scheme-switcher" aria-label="Color scheme switcher">
-        <button aria-pressed="false" value="light">
-          Light
-        </button>
-        <button aria-pressed="true" value="light dark">
-          Auto
-        </button>
-        <button aria-pressed="false" value="dark">
-          Dark
-        </button>
-      </section>			
+      {% include "theme-switcher.njk" %}
     </footer>
 
     <!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->

@@ -80,6 +80,3 @@ description: "The adventures of a group of explorers who make use of a newly dis
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

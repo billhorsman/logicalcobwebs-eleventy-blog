@@ -80,6 +80,3 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

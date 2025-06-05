@@ -80,6 +80,3 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

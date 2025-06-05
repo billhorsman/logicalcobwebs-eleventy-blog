@@ -80,6 +80,3 @@ description: "Two out-of-work actors -- the anxious, luckless Marwood and his ac
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

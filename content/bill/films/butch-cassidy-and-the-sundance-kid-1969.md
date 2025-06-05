@@ -80,6 +80,3 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

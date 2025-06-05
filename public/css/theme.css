@@ -1,0 +1,64 @@
+.scheme-switcher {
+  display: none;
+  width: fit-content;
+}
+
+@supports (color: light-dark(black, white)) {
+  .scheme-switcher {
+    display: flex;
+  }
+}
+
+.scheme-switcher {
+  margin: 0;
+  padding-block: 0.25em;
+  padding-inline: 0.5em;
+  border: none;
+  border-radius: calc(infinity * 1px);
+  background-color: transparent;
+  color: var(--color-text);
+  font: inherit;
+  
+  & button {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.25em;
+  }
+
+  & i {
+    display: none;
+  }
+
+  & .hint {
+    display: none;
+    font-size: 0.875rem;
+  }
+
+  &:hover {
+    background-color: light-dark(black, white);
+    color: var(--background-color);
+
+    & .hint {
+      display: block;
+    }
+  }
+
+  &[data-scheme="light"] {
+    & i.light-icon {
+      display: block;
+    }
+  }
+
+  &[data-scheme="dark"] { 
+    & i.dark-icon {
+      display: block;
+    }
+  }
+
+  &[data-scheme="auto"] {
+    & i.auto-icon {
+      display: block;
+    }
+  }
+}

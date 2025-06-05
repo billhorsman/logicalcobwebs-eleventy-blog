@@ -80,6 +80,3 @@ description: "Marianne Winckler relocates to the port city of Caen in order to p
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

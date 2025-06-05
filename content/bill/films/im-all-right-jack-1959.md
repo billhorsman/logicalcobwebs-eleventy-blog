@@ -80,6 +80,3 @@ description: "Naive Stanley Windrush returns from the war, his mind set on a suc
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

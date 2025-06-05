@@ -80,6 +80,3 @@ description: "Buddy is a young boy on the cusp of adolescence, whose life is fil
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

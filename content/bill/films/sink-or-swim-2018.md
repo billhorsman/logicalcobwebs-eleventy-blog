@@ -80,6 +80,3 @@ description: "40-year-old Bertrand has been suffering from depression for the la
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

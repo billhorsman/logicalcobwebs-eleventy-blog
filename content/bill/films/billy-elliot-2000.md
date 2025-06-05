@@ -80,6 +80,3 @@ description: "County Durham, England, 1984. The miners' strike has started and t
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

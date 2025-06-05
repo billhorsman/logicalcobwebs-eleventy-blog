@@ -80,6 +80,3 @@ description: "As the railroad builders advance unstoppably through the Arizona d
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

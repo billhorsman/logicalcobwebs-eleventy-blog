@@ -80,6 +80,3 @@ description: "Various individuals think they’re coming together for a party in
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "Based on a true story. The name of the real ship, that sunk Feb 5 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

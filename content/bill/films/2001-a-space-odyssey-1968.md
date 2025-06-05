@@ -80,6 +80,3 @@ description: "Humanity finds a mysterious object buried beneath the lunar surfac
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

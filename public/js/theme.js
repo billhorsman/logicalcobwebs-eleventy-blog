@@ -1,23 +1,46 @@
 const colorScheme = document.querySelector('meta[name=color-scheme]');
 let currentScheme = localStorage.getItem('color-scheme') || colorScheme.content;
 colorScheme.content = currentScheme;
-const switchButtons = document.querySelectorAll('button');
+const schemeSwitcher = document.querySelector('.scheme-switcher');
+const switchButton = schemeSwitcher.querySelector('button');
+const hint = schemeSwitcher.querySelector('.hint');
 
-switchButtons.forEach(button => {
-  button.setAttribute(
-    'aria-pressed', button.value === currentScheme
-  )
+schemeSwitcher.dataset.scheme = currentScheme;
 
-  button.addEventListener('click', () => {
-    const currentButton = button;
+function updateHint() {
+  switch (currentScheme) {
+    case 'light':
+      hint.textContent = 'Light theme';
+      break;
+    case 'dark':
+      hint.textContent = 'Dark theme';
+      break;
+    default:
+      hint.textContent = 'System theme';
+      break;
+  }
+}
 
-    switchButtons.forEach(
-      button => button.setAttribute(
-        'aria-pressed', button === currentButton
-      )
-    );
+updateHint();
 
-    colorScheme.content = button.value;
-    localStorage.setItem('color-scheme', button.value);
-  });
+const toggleScheme = () => {
+  switch (currentScheme) {
+    case 'light':
+      currentScheme = 'dark';
+      break;
+    case 'dark':
+      currentScheme = 'auto';
+      break;
+    default:
+      currentScheme = 'light';
+      break;
+  }
+  colorScheme.content = currentScheme;
+  schemeSwitcher.dataset.scheme = currentScheme;
+  localStorage.setItem('color-scheme', currentScheme);
+}
+
+switchButton.addEventListener('click', () => {
+  toggleScheme();
+  updateHint();
 });

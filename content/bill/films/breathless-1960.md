@@ -80,6 +80,3 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

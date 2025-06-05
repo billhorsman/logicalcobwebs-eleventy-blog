@@ -80,6 +80,3 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

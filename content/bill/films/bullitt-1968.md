@@ -80,6 +80,3 @@ description: "Senator Walter Chalmers is aiming to take down mob boss Pete Ross 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

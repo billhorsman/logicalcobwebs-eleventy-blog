@@ -80,6 +80,3 @@ description: "A woman in her sixties embarks on a journey through the western Un
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

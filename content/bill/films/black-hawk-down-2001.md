@@ -80,6 +80,3 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

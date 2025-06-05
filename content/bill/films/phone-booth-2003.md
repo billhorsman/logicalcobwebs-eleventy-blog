@@ -80,6 +80,3 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

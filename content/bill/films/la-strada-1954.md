@@ -80,6 +80,3 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

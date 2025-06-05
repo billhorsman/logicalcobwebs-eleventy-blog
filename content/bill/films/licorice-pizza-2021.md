@@ -80,6 +80,3 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

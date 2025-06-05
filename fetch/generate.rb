@@ -125,8 +125,5 @@ top_films.each_with_index do |film, index|
       </details>
 
     </article>
-    <footer>
-      <a href="../about">About this list</a>
-    </footer>
   MD
 end

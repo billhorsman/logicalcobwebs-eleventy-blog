@@ -80,6 +80,3 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

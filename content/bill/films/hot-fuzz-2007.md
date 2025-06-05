@@ -80,6 +80,3 @@ description: "Former London constable Nicholas Angel finds it difficult to adapt
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

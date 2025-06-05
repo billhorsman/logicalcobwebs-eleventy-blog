@@ -80,6 +80,3 @@ description: "A group of working-class friends decide to enlist in the Army duri
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

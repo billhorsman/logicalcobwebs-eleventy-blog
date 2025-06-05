@@ -80,6 +80,3 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

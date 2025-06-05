@@ -80,6 +80,3 @@ description: "An African-American Mafia hit man who models himself after the sam
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

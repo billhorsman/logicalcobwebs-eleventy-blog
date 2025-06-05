@@ -80,6 +80,3 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

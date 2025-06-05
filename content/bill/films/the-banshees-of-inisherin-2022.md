@@ -80,6 +80,3 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

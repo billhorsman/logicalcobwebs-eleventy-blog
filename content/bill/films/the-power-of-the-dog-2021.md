@@ -80,6 +80,3 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

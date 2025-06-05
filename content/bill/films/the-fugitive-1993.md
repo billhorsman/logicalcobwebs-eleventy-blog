@@ -80,6 +80,3 @@ description: "Wrongfully convicted of murdering his wife and sentenced to death,
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>

@@ -80,6 +80,3 @@ description: "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-
   </details>
 
 </article>
-<footer>
-  <a href="../about">About this list</a>
-</footer>
