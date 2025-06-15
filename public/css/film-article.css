@@ -1,0 +1,107 @@
+article.film {
+  margin: 3rem auto 0;
+
+  & .backdrop-and-poster {    
+    margin-bottom: 4rem;
+    position: relative;
+  }
+
+  & img.poster {
+    margin: 0 auto;
+    max-width: 100px;
+    filter: grayscale(100%) ;
+    position: absolute;
+      bottom: -2rem;
+      left: -1rem;
+    transform: rotate(-10deg);
+  }
+
+  &.slug-24-hour-party-people-2002,
+  &.slug-black-hawk-down-2001,
+  &.slug-cest-la-vie-2017,
+  &.slug-its-a-wonderful-life-1946,
+  &.slug-local-hero-1983,
+  &.slug-parasite-2019,
+  &.slug-the-big-lebowski-1998,
+  &.slug-the-french-dispatch-2021,
+  &.slug-the-party-2017 {
+    img.poster {
+      left: auto;
+      right: -1rem;
+      transform: rotate(10deg);
+    }
+  }
+
+  &.slug-fantastic-mr-fox-2009,
+  &.slug-the-handmaiden-2016 {
+    img.poster {
+      bottom: auto;
+      top: -2rem;
+      transform: rotate(10deg);
+    }
+  }
+
+  & blockquote + blockquote {
+    margin-top: 3rem;
+  }
+
+  & .director {
+    font-size: 1.25rem;
+  }
+
+  & h2 {
+    font-size: 1.25rem;
+  }
+
+  & ul {
+    list-style-type: "";
+    padding: 0 0 0 1rem;
+
+    & li {
+      padding: 0.25rem 0;
+    }
+  }
+}
+
+.film-detail {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  & .poster {
+    max-width: 200px;
+    margin: 1rem 0;
+    transform: rotate(-5deg);
+  }
+
+  dl {
+    margin: 0;
+    padding: 0;
+  }
+
+  dt {
+    color: var(--color-muted);
+    display: inline;
+
+    &:after {
+      content: ":";
+    }
+  }
+
+  dd {
+    display: inline;
+    margin: 0;
+    padding: 0;
+  }
+
+  & .title {
+    & dt {
+      display: none;
+    }
+    & dd {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+  }
+}

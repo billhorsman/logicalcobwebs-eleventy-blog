@@ -1,20 +1,28 @@
 {% set film = films[filmSlug] %}
-<article class="film-detail">
-  <div class="poster">
-    <img src="/bill/films/posters/{{ filmSlug }}.jpg" alt="Poster for {{ film.title }}">
-  </div>
-  <dl>
-    <div class="year">
-      <dt>Year</dt>
-      <dd>{{ film | filmYear }}</dd>
-    </div>
-    <div class="director">
-      <dt>Director</dt>
-      <dd>{{ film | directors }}</dd>
-    </div>
-    <div class="cast">
-      <dt>Cast</dt>
-      <dd>{{ film | topCast }}.</dd>
-    </div>
-  </dl>
+<article class="film">
+  <details>
+    <summary>
+      Cast
+    </summary>
+    <ul>
+      {%- for cast in film.credits.cast -%}
+        <li>
+          {{ cast.name }} as <em>{{ cast.character }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </details>
+
+  <details>
+    <summary>
+      Crew
+    </summary>
+    <ul>
+      {%- for crew in film.credits.crew -%}
+        <li>
+          {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </details>
 </article>
