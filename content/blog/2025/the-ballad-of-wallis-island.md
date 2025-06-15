@@ -19,9 +19,11 @@ tags: films
 
 Funny and touching, I loved this. Lots of laugh out loud writing but in a very human way. Sweet but not saccharine. I would defintely see this again.
 
-Sian Clifford as Amanda was perfect. Tim Key really nails some subtle mannerisms, like arranging his hair each time he goes into the shop to see Amanda. 
+Sian Clifford as Amanda was perfect. Tim Key really nails some subtle mannerisms, like arranging his hair each time he goes into the shop to see her. 
 
-Trying to dry Herb's phone throught the film was a long running gag. Rice pudding!
+Carey Mulligan and Tom Basden make a convincing musical duo. Kudos to Basden for the song writing. 
+
+Trying to dry Herb's phone throughout the film was a long running gag. Rice pudding!
 
 Seen at the [DCA](https://www.dca.org.uk/) on 14 June 2025.
 
