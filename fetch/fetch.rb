@@ -49,7 +49,7 @@ end
 # Get the details for each film
 list.each do |film|
   filename = "../_data/films/#{film["slug"]}.json"
-  # if !File.exist?(filename)
+  if !File.exist?(filename) || ARGV[0] == "--force"
     puts "Fetching details for #{film["title"]}"
     response = get_api_response(endpoint: "movie/#{film["id"]}", append_to_response: ["credits"])
     data = JSON.parse(response.read_body)
@@ -57,7 +57,7 @@ list.each do |film|
     data["year"] = film["year"]
     data["language"] = data["spoken_languages"]&.detect { |language| language["iso_639_1"] == data["original_language"] }&.dig("english_name")
     IO.write(filename, JSON.pretty_generate(data))
-  # end
+  end
 end
 
 # 4. Download backdrop and poster images
