@@ -20,6 +20,10 @@ Carey Mulligan and Tom Basden make a convincing musical duo. Kudos to Basden for
 
 Trying to dry Herb's phone throughout the film was a long running gag. Rice pudding!
 
-Seen at the [DCA](https://www.dca.org.uk/) on 14 June 2025.
+
+<section class="ticket-stub">
+  <img src="ticket.png" alt="Ticket stub">
+  <p><a href="https://www.dca.org.uk/">DCA</a> &mdash; 14 June 2025</p>
+</section>
 
 {% include "film-detail.njk" %}

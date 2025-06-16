@@ -16,6 +16,9 @@ Very Wes!, very stylish, impeccably done. Mia Threapleton was my favourite among
 
 It's very innovative but at the same time, more of the same. If you haven't watched a Wes Anderson film before then I'd  recommend you start elsewhere: [Fantastic Mr. Fox](/bill/films/fantastic-mr-fox-2009), [The Grand Budapest Hotel](/bill/films/the-grand-budapest-hotel-2014), [The French Dispatch](/bill/films/the-french-dispatch-2021) or [Asteroid City](/bill/films/asteroid-city-2023) — all of which make my [Top 100](/bill/films).
 
-Seen at the [DCA](https://www.dca.org.uk/) on 29 May 2025.
+<section class="ticket-stub">
+  <img src="ticket.png" alt="Ticket stub">
+  <p><a href="https://www.dca.org.uk/">DCA</a> &mdash; 29 May 2025</p>
+</section>
 
 {% include "film-detail.njk" %}
