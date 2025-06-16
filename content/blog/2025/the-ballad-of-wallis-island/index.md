@@ -24,7 +24,7 @@ Trying to dry Herb's phone throughout the film was a long running gag. Rice pudd
 <section class="ticket-stub">
   <a href="https://www.dca.org.uk/">
     <span>DCA</span>
-    <img src="ticket.png" alt="Ticket stub">
+    <img src="ticket.png" alt="Ticket stub for seat B4 in the DCA's cinema two on 14 June 2025">
   </a>
 </section>
 

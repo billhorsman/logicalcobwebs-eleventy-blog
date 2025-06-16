@@ -19,7 +19,7 @@ It's very innovative but at the same time, more of the same. If you haven't watc
 <section class="ticket-stub">
   <a href="https://www.dca.org.uk/">
     <span>DCA</span>
-    <img src="ticket.png" alt="Ticket stub">
+    <img src="ticket.png" alt="Ticket stub for seat E7 in the DCA's cinema one on 29 May 2025">
   </a>
 </section>
 
