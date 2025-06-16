@@ -1,5 +1,22 @@
+section.film-detail {
+  container-name: film-detail;
+  container-type: inline-size;
+
+  & > div {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
+@container film-detail (width > 60ch) {
+  section.film-detail > div{
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
 details {
-  margin: 1rem 0;
+  margin: 0;
 
   & summary {
     cursor: pointer;
@@ -9,6 +26,16 @@ details {
 
     &::marker {
       color: var(--color-highlight);
+    }
+  }
+
+  & ul {
+    list-style-type: "";
+    margin: 0;
+    padding: 0;
+
+    & li {
+      padding: 0.25rem 0;
     }
   }
 }

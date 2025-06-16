@@ -1,28 +1,31 @@
 {% set film = films[filmSlug] %}
-<article class="film">
-  <details>
-    <summary>
-      Cast
-    </summary>
-    <ul>
-      {%- for cast in film.credits.cast -%}
-        <li>
-          {{ cast.name }} as <em>{{ cast.character }}</em>
-        </li>
-      {%- endfor -%}
-    </ul>
-  </details>
-
-  <details>
-    <summary>
-      Crew
-    </summary>
-    <ul>
-      {%- for crew in film.credits.crew -%}
-        <li>
-          {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
-        </li>
-      {%- endfor -%}
-    </ul>
-  </details>
-</article>
+<section class="film-detail">
+  <div>
+    <details open>
+      <summary>
+        <i class="fa-solid fa-masks-theater"></i>
+        Cast
+      </summary>
+      <ul>
+        {%- for cast in film.credits.cast -%}
+          <li>
+            {{ cast.name }} as <em>{{ cast.character }}</em>
+          </li>
+        {%- endfor -%}
+      </ul>
+    </details>
+    <details open>
+      <summary>
+        <i class="fa-solid fa-clapperboard"></i>
+        Crew
+      </summary>
+      <ul>
+        {%- for crew in film.credits.crew -%}
+          <li>
+            {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
+          </li>
+        {%- endfor -%}
+      </ul>
+    </details>
+  </div>
+</section>
