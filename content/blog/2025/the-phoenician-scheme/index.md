@@ -1,7 +1,7 @@
 ---
 title: The Phoenician Scheme Review
 ogImage: content/bill/films/backdrops/the-phoenician-scheme-2025.jpg
-description: Bill's review of The Phoenician Scheme by Wes Anderson — 8/10. 
+description: Bill's review of The Phoenician Scheme by Wes Anderson — ⭐⭐⭐⭐⭐ 
 filmSlug: the-phoenician-scheme-2025
 date: 2025-05-30
 author: Bill Horsman
@@ -17,8 +17,10 @@ Very Wes!, very stylish, impeccably done. Mia Threapleton was my favourite among
 It's very innovative but at the same time, more of the same. If you haven't watched a Wes Anderson film before then I'd  recommend you start elsewhere: [Fantastic Mr. Fox](/bill/films/fantastic-mr-fox-2009), [The Grand Budapest Hotel](/bill/films/the-grand-budapest-hotel-2014), [The French Dispatch](/bill/films/the-french-dispatch-2021) or [Asteroid City](/bill/films/asteroid-city-2023) — all of which make my [Top 100](/bill/films).
 
 <section class="ticket-stub">
-  <img src="ticket.png" alt="Ticket stub">
-  <p><a href="https://www.dca.org.uk/">DCA</a> &mdash; 29 May 2025</p>
+  <a href="https://www.dca.org.uk/">
+    <span>DCA</span>
+    <img src="ticket.png" alt="Ticket stub">
+  </a>
 </section>
 
 {% include "film-detail.njk" %}

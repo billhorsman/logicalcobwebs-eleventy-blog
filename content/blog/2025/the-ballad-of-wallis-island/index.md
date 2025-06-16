@@ -1,7 +1,7 @@
 ---
 title: The Ballad of Wallis Island Review
 ogImage: content/bill/films/backdrops/the-ballad-of-wallis-island-2025.jpg
-description: Bill's review of The Ballad of Wallis Islands with Tim Key, Carey Mulligan and Tom Basden — 8/10. 
+description: Bill's review of The Ballad of Wallis Islands with Tim Key, Carey Mulligan and Tom Basden — ⭐⭐⭐⭐⭐ 
 filmSlug: the-ballad-of-wallis-island-2025
 date: 2025-06-15
 author: Bill Horsman
@@ -22,8 +22,10 @@ Trying to dry Herb's phone throughout the film was a long running gag. Rice pudd
 
 
 <section class="ticket-stub">
-  <img src="ticket.png" alt="Ticket stub">
-  <p><a href="https://www.dca.org.uk/">DCA</a> &mdash; 14 June 2025</p>
+  <a href="https://www.dca.org.uk/">
+    <span>DCA</span>
+    <img src="ticket.png" alt="Ticket stub">
+  </a>
 </section>
 
 {% include "film-detail.njk" %}

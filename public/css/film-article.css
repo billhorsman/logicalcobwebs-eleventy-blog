@@ -67,12 +67,30 @@ section.ticket-stub {
   margin: 6rem 0;
   text-align: center;
   transform: rotate(-10deg);
-
-  img {
+  
+  & a {
+    display: block;
+    margin: 0 auto;
     max-width: 300px;
+    position: relative;
   }
 
-  p {
-    text-align: center;
+  & span {
+    color: red;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    transform: rotate(-90deg);
+    position: absolute;
+    bottom: 0;
+    left: 44px;
+    top: 0;
+    z-index: 1;
+  }
+
+  & img {
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
 }
