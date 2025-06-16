@@ -8,12 +8,7 @@ author: Bill Horsman
 tags: films
 ---
 
-<article class="film">
-  <div class="backdrop-and-poster">
-    <img class="poster" src="/bill/films/posters/{{ filmSlug }}.jpg" alt="">
-    <img class="backdrop" src="/bill/films/backdrops/{{ filmSlug }}.jpg" alt="">
-  </div>
-</article>
+{% include "film-backdrop-and-poster.njk" %}
 
 ### ⭐⭐⭐⭐⭐
 
