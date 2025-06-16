@@ -53,30 +53,34 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
     </blockquote> 
   {%- endif -%}
 
-  <details>
-    <summary>
-      Cast
-    </summary>
-    <ul>
-      {%- for cast in film.credits.cast -%}
-        <li>
-          {{ cast.name }} as <em>{{ cast.character }}</em>
-        </li>
-      {%- endfor -%}
-    </ul>
-  </details>
-
-  <details>
-    <summary>
-      Crew
-    </summary>
-    <ul>
-      {%- for crew in film.credits.crew -%}
-        <li>
-          {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
-        </li>
-      {%- endfor -%}
-    </ul>
-  </details>
-
+  <section class="film-detail">
+    <div>
+      <details>
+        <summary>
+          <i class="fa-solid fa-masks-theater"></i>
+          Cast
+        </summary>
+        <ul>
+          {%- for cast in film.credits.cast -%}
+            <li>
+              {{ cast.name }} as <em>{{ cast.character }}</em>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </details>
+      <details>
+        <summary>
+          <i class="fa-solid fa-clapperboard"></i>
+          Crew
+        </summary>
+        <ul>
+          {%- for crew in film.credits.crew -%}
+            <li>
+              {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </details>
+    </div>
+  </section>
 </article>

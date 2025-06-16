@@ -53,30 +53,34 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
     </blockquote> 
   {%- endif -%}
 
-  <details>
-    <summary>
-      Cast
-    </summary>
-    <ul>
-      {%- for cast in film.credits.cast -%}
-        <li>
-          {{ cast.name }} as <em>{{ cast.character }}</em>
-        </li>
-      {%- endfor -%}
-    </ul>
-  </details>
-
-  <details>
-    <summary>
-      Crew
-    </summary>
-    <ul>
-      {%- for crew in film.credits.crew -%}
-        <li>
-          {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
-        </li>
-      {%- endfor -%}
-    </ul>
-  </details>
-
+  <section class="film-detail">
+    <div>
+      <details>
+        <summary>
+          <i class="fa-solid fa-masks-theater"></i>
+          Cast
+        </summary>
+        <ul>
+          {%- for cast in film.credits.cast -%}
+            <li>
+              {{ cast.name }} as <em>{{ cast.character }}</em>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </details>
+      <details>
+        <summary>
+          <i class="fa-solid fa-clapperboard"></i>
+          Crew
+        </summary>
+        <ul>
+          {%- for crew in film.credits.crew -%}
+            <li>
+              {{ crew.name }} &mdash; <em>{{ crew.job }}</em>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </details>
+    </div>
+  </section>
 </article>
