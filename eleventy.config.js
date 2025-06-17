@@ -203,6 +203,16 @@ export default async function(eleventyConfig) {
 		}
 	);
 
+	eleventyConfig.addAsyncShortcode(
+		"namesAndCounts", 
+		async function(list, limit) {
+			const words = list.slice(0, limit).map((o, index) => {
+				return `${o.name} (${o.count}${index == 0 ? " films" : ""})`;
+			});
+			return toSentence(words);
+		}
+	);
+
 
 
 	// Features to make your build faster (when you need them)

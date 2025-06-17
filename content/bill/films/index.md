@@ -12,9 +12,9 @@ layout: layouts/films.njk
 {% set lastFilm = films[top_films[top_films.length - 1]] %}
 Starting from {% filmLink firstFilm.slug %} in {{ firstFilm.year }} through to {% filmLink lastFilm.slug %} in {{ lastFilm.year }}, here are my {{ top_films.length }} favourite films. There are lots that are brilliant and don't make the cut but it's a nice round number. 
 
-Based on these films, my favourite directors are {{ top_directors[0].name }} ({{ top_directors[0].count }} films), {{ top_directors[1].name }} ({{ top_directors[1].count }}) and {{ top_directors[2].name }} ({{ top_directors[2].count }}).
+Based on these films, my favourite directors are {% namesAndCounts top_directors, 5 %}.
 
-Actors that crop up a lot are {{ top_cast[0].name }} ({{ top_cast[0].count }} films), {{ top_cast[1].name }} ({{ top_cast[1].count }}), {{ top_cast[2].name }} ({{ top_cast[2].count }}), {{ top_cast[3].name }} ({{ top_cast[3].count }}), {{ top_cast[4].name }} ({{ top_cast[4].count }}) and {{ top_cast[5].name }} ({{ top_cast[5].count }}).
+Actors that crop up a lot are {% namesAndCounts top_cast, 6 %}.
 
 A few films are in here because I watched them a long time ago and they have a nostalgic appeal. Films like {% summariseFilms nostalgic_films %}.
 
