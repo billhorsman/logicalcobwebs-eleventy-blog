@@ -868,3 +868,23 @@ ul {
   height: 1px;
   overflow: hidden;
 }
+
+
+.top-films-link {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin: 2rem 0 -2rem;
+
+  & a {
+    align-items: center;
+    display: flex;
+    gap: 0.5rem;
+    padding: 1rem 0;
+    text-decoration: none;
+
+    & span {
+      text-decoration: underline;
+    }
+  }
+}

@@ -24,3 +24,4 @@ It's very innovative but at the same time, more of the same. If you haven't watc
 </section>
 
 {% include "film-detail.njk" %}
+{% include "top_films_link.njk" %}
