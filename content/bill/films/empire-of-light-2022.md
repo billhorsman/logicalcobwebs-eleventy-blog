@@ -13,7 +13,7 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
     <a href="../eo-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">93 / 100</a>
+    <a class="simple" href="../">92 / 100</a>
   </div>
   <div class="next">
     <a href="../one-fine-morning-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

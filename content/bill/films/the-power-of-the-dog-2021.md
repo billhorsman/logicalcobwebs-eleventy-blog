@@ -13,7 +13,7 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
     <a href="../the-french-dispatch-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">89 / 100</a>
+    <a class="simple" href="../">88 / 100</a>
   </div>
   <div class="next">
     <a href="../the-tragedy-of-macbeth-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

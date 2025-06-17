@@ -16,7 +16,7 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
     <a class="simple" href="../">32 / 100</a>
   </div>
   <div class="next">
-    <a href="../four-weddings-and-a-funeral-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../lon-the-professional-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Four Weddings and a Funeral
+      Léon: The Professional
     </span>
   </div>
 </nav>

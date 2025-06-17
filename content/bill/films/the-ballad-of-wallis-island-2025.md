@@ -1,36 +1,36 @@
 ---
-title: "Lucky"
+title: "The Ballad of Wallis Island"
 layout: layouts/films.njk
-slug: lucky-2017
-ogImage: content/bill/films/backdrops/lucky-2017.jpg
-description: "Follows the journey of a 90-year-old atheist and the quirky characters that inhabit his off-the-map desert town. He finds himself at the precipice of life, thrust into a journey of self-exploration."
+slug: the-ballad-of-wallis-island-2025
+ogImage: content/bill/films/backdrops/the-ballad-of-wallis-island-2025.jpg
+description: "Eccentric lottery winner Charles lives alone on a remote island but dreams of hiring his favourite musician, Herb McGwyer, to play an exclusive, private gig. Unbeknownst to Herb, Charles has also hired Herb’s ex-bandmate and ex-girlfriend, Nell, with her new husband in town, to perform the old favourites. As tempers flare and old tensions resurface, the stormy weather traps them all on the island and Charles desperately looks for a way to salvage his dream gig."
 ---
 
 {% set film = films[slug] %}
 
 <nav class="films">
   <div class="prev">
-    <a href="../cest-la-vie-2017"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../killers-of-the-flower-moon-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">67 / 100</a>
+    <a class="simple" href="../">100 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-party-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      C'est la vie!
+      Killers of the Flower Moon
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Party
+      End of list
     </span>
   </div>
 </nav>
 
-<article class="film slug-lucky-2017">
+<article class="film slug-the-ballad-of-wallis-island-2025">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

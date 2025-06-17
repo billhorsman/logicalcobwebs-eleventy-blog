@@ -13,10 +13,10 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
     <a href="../blue-jean-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">100 / 100</a>
+    <a class="simple" href="../">99 / 100</a>
   </div>
   <div class="next">
-    <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
+    <a href="../the-ballad-of-wallis-island-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      End of list
+      The Ballad of Wallis Island
     </span>
   </div>
 </nav>

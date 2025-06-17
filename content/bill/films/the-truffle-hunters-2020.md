@@ -13,7 +13,7 @@ description: "In the secret forests of Northern Italy, a dwindling group of joyf
     <a href="../schemers-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">79 / 100</a>
+    <a class="simple" href="../">78 / 100</a>
   </div>
   <div class="next">
     <a href="../belfast-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

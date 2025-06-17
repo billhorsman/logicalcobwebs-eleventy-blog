@@ -10,10 +10,10 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
 
 <nav class="films">
   <div class="prev">
-    <a href="../four-weddings-and-a-funeral-1994"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../whats-eating-gilbert-grape-1993"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">34 / 100</a>
+    <a class="simple" href="../">33 / 100</a>
   </div>
   <div class="next">
     <a href="../fargo-1996">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Four Weddings and a Funeral
+      What's Eating Gilbert Grape
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

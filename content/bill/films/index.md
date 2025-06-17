@@ -44,7 +44,7 @@ If you only watch {{ must_see_films.list.length }} films&hellip;
       <i class="fa-solid fa-grip posters fa-fw"></i> 
     </button>
   </header>
-  <p>In order of release &hellip;</p>
+  <p>In order of release&hellip;</p>
   <ul class="film-list">
   {% for filmSlug in top_films %}
   <li>

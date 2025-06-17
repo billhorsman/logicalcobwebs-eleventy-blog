@@ -13,7 +13,7 @@ description: "One night in his near-empty tower block in contemporary London, Ad
     <a href="../the-fabelmans-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">97 / 100</a>
+    <a class="simple" href="../">96 / 100</a>
   </div>
   <div class="next">
     <a href="../asteroid-city-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

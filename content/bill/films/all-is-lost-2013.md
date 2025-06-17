@@ -13,7 +13,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
     <a href="../tomboy-2011"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">60 / 100</a>
+    <a class="simple" href="../">59 / 100</a>
   </div>
   <div class="next">
     <a href="../dallas-buyers-club-2013">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

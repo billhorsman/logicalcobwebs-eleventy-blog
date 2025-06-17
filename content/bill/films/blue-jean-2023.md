@@ -13,7 +13,7 @@ description: "Jean, a PE teacher, is forced to live a double life. When a new st
     <a href="../asteroid-city-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">99 / 100</a>
+    <a class="simple" href="../">98 / 100</a>
   </div>
   <div class="next">
     <a href="../killers-of-the-flower-moon-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

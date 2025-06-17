@@ -13,7 +13,7 @@ description: "In the 1820s, a taciturn loner and skilled cook travels west to Or
     <a href="../eternal-beauty-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">76 / 100</a>
+    <a class="simple" href="../">75 / 100</a>
   </div>
   <div class="next">
     <a href="../limbo-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

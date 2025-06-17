@@ -13,7 +13,7 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
     <a href="../the-straight-story-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">42 / 100</a>
+    <a class="simple" href="../">41 / 100</a>
   </div>
   <div class="next">
     <a href="../billy-elliot-2000">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

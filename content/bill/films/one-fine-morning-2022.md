@@ -13,7 +13,7 @@ description: "With a father suffering from neurodegenerative disease, a young wo
     <a href="../empire-of-light-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">94 / 100</a>
+    <a class="simple" href="../">93 / 100</a>
   </div>
   <div class="next">
     <a href="../the-banshees-of-inisherin-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
