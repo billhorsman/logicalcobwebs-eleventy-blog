@@ -13,7 +13,7 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
     <a href="../the-fugitive-1993"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">31 / 100</a>
+    <a class="simple" href="../">30 / 100</a>
   </div>
   <div class="next">
     <a href="../lon-the-professional-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

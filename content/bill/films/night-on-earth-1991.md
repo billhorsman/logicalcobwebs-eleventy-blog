@@ -13,7 +13,7 @@ description: "An anthology of 5 different cab drivers in 5 American and European
     <a href="../delicatessen-1991"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">29 / 100</a>
+    <a class="simple" href="../">28 / 100</a>
   </div>
   <div class="next">
     <a href="../the-fugitive-1993">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

@@ -10,7 +10,7 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
 
 <nav class="films">
   <div class="prev">
-    <a href="../lon-the-professional-1994"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../shallow-grave-1994"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">33 / 100</a>
@@ -21,7 +21,7 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Léon: The Professional
+      Shallow Grave
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

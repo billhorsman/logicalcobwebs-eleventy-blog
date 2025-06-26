@@ -1,36 +1,36 @@
 ---
-title: "Local Hero"
+title: "Shallow Grave"
 layout: layouts/films.njk
-slug: local-hero-1983
-ogImage: content/bill/films/backdrops/local-hero-1983.jpg
-description: "An American oil company sends a man to Scotland to buy up an entire village where they want to build a refinery. But things don't go as expected."
+slug: shallow-grave-1994
+ogImage: content/bill/films/backdrops/shallow-grave-1994.jpg
+description: "When David, Juliet, and Alex find their new roommate dead with a large sum of money, they agree to hide the body and keep the cash. However, this newfound fortune gradually corrodes their friendship."
 ---
 
 {% set film = films[slug] %}
 
 <nav class="films">
   <div class="prev">
-    <a href="../blade-runner-1982"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../lon-the-professional-1994"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">23 / 100</a>
+    <a class="simple" href="../">32 / 100</a>
   </div>
   <div class="next">
-    <a href="../paris-texas-1984">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../fargo-1996">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Blade Runner
+      Léon: The Professional
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Paris, Texas
+      Fargo
     </span>
   </div>
 </nav>
 
-<article class="film slug-local-hero-1983">
+<article class="film slug-shallow-grave-1994">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

@@ -13,7 +13,7 @@ description: "Wrongfully convicted of murdering his wife and sentenced to death,
     <a href="../night-on-earth-1991"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">30 / 100</a>
+    <a class="simple" href="../">29 / 100</a>
   </div>
   <div class="next">
     <a href="../whats-eating-gilbert-grape-1993">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

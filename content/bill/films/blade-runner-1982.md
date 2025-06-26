@@ -10,10 +10,10 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
 
 <nav class="films">
   <div class="prev">
-    <a href="../gregorys-girl-1981"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../diva-1981"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">23 / 100</a>
+    <a class="simple" href="../">22 / 100</a>
   </div>
   <div class="next">
     <a href="../local-hero-1983">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Gregory's Girl
+      Diva
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

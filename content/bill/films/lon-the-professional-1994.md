@@ -13,10 +13,10 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
     <a href="../whats-eating-gilbert-grape-1993"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">32 / 100</a>
+    <a class="simple" href="../">31 / 100</a>
   </div>
   <div class="next">
-    <a href="../fargo-1996">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../shallow-grave-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Fargo
+      Shallow Grave
     </span>
   </div>
 </nav>
