@@ -13,7 +13,7 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
     <a href="../cest-la-vie-2017"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">67 / 100</a>
+    <a class="simple" href="../">66 / 100</a>
   </div>
   <div class="next">
     <a href="../the-party-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

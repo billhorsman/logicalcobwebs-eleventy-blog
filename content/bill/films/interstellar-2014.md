@@ -13,7 +13,7 @@ description: "The adventures of a group of explorers who make use of a newly dis
     <a href="../dallas-buyers-club-2013"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">61 / 100</a>
+    <a class="simple" href="../">60 / 100</a>
   </div>
   <div class="next">
     <a href="../mr-turner-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

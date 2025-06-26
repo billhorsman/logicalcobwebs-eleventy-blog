@@ -1,36 +1,36 @@
 ---
-title: "Phone Booth"
+title: "The Lighthouse"
 layout: layouts/films.njk
-slug: phone-booth-2003
-ogImage: content/bill/films/backdrops/phone-booth-2003.jpg
-description: "A slick New York publicist who picks up a ringing receiver in a phone booth is told that if he hangs up, he'll be killed... and the little red light from a laser rifle sight is proof that the caller isn't kidding."
+slug: the-lighthouse-2019
+ogImage: content/bill/films/backdrops/the-lighthouse-2019.jpg
+description: "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s."
 ---
 
 {% set film = films[slug] %}
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-bourne-identity-2002"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../portrait-of-a-lady-on-fire-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">47 / 100</a>
+    <a class="simple" href="../">73 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-motorcycle-diaries-2004">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../eternal-beauty-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Bourne Identity
+      Portrait of a Lady on Fire
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Motorcycle Diaries
+      Eternal Beauty
     </span>
   </div>
 </nav>
 
-<article class="film slug-phone-booth-2003">
+<article class="film slug-the-lighthouse-2019">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">

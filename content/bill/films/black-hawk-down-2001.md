@@ -13,7 +13,7 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
     <a href="../amlie-2001"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">44 / 100</a>
+    <a class="simple" href="../">43 / 100</a>
   </div>
   <div class="next">
     <a href="../24-hour-party-people-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

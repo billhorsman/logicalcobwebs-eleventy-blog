@@ -13,7 +13,7 @@ description: "County Durham, England, 1984. The miners' strike has started and t
     <a href="../the-talented-mr-ripley-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">42 / 100</a>
+    <a class="simple" href="../">41 / 100</a>
   </div>
   <div class="next">
     <a href="../amlie-2001">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

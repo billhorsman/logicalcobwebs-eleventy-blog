@@ -13,7 +13,7 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
     <a href="../black-hawk-down-2001"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">45 / 100</a>
+    <a class="simple" href="../">44 / 100</a>
   </div>
   <div class="next">
     <a href="../man-on-the-train-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

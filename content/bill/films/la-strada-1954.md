@@ -16,7 +16,7 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
     <a class="simple" href="../">3 / 100</a>
   </div>
   <div class="next">
-    <a href="../im-all-right-jack-1959">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../north-by-northwest-1959">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      I'm All Right Jack
+      North by Northwest
     </span>
   </div>
 </nav>

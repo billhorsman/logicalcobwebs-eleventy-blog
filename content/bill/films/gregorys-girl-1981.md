@@ -13,7 +13,7 @@ description: "A teenager falls hard for the female soccer player who has replace
     <a href="../diva-1981"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">23 / 100</a>
+    <a class="simple" href="../">22 / 100</a>
   </div>
   <div class="next">
     <a href="../blade-runner-1982">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

@@ -13,7 +13,7 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
     <a href="../breathless-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">7 / 100</a>
+    <a class="simple" href="../">6 / 100</a>
   </div>
   <div class="next">
     <a href="../purple-noon-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

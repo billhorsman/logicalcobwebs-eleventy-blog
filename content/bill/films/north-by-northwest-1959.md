@@ -10,10 +10,10 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
 
 <nav class="films">
   <div class="prev">
-    <a href="../im-all-right-jack-1959"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../la-strada-1954"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">5 / 100</a>
+    <a class="simple" href="../">4 / 100</a>
   </div>
   <div class="next">
     <a href="../breathless-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      I'm All Right Jack
+      La Strada
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

@@ -13,10 +13,10 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
     <a href="../parasite-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">73 / 100</a>
+    <a class="simple" href="../">72 / 100</a>
   </div>
   <div class="next">
-    <a href="../eternal-beauty-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../the-lighthouse-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Eternal Beauty
+      The Lighthouse
     </span>
   </div>
 </nav>

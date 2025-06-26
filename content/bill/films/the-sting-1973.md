@@ -13,7 +13,7 @@ description: "A novice con man teams up with an acknowledged master to avenge th
     <a href="../butch-cassidy-and-the-sundance-kid-1969"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">15 / 100</a>
+    <a class="simple" href="../">14 / 100</a>
   </div>
   <div class="next">
     <a href="../dog-day-afternoon-1975">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
