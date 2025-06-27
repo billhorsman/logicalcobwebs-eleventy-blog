@@ -53,6 +53,11 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../being-there-1979">Being There</a> by Richard Basehart</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

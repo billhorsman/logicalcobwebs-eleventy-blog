@@ -53,6 +53,13 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../fight-club-1999">Fight Club</a> and <a href="../magnolia-1999">Magnolia</a> by Ezra Buzzington</li>
+<li><a href="../lucky-2017">Lucky</a> by David Lynch</li>
+<li><a href="../licorice-pizza-2021">Licorice Pizza</a> by Isabelle Kusman and Paige Locke</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

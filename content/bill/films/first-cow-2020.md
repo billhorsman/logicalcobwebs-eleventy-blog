@@ -53,6 +53,14 @@ description: "In the 1820s, a taciturn loner and skilled cook travels west to Or
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../ghost-dog-the-way-of-the-samurai-1999">Ghost Dog: The Way of the Samurai</a> by Gary Farmer</li>
+<li><a href="../black-hawk-down-2001">Black Hawk Down</a> by Ewen Bremner</li>
+<li><a href="../empire-of-light-2022">Empire of Light</a> by Toby Jones</li>
+<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by Scott Shepherd and Lily Gladstone</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

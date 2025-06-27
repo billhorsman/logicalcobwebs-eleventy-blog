@@ -53,6 +53,14 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a>, <a href="../the-sting-1973">The Sting</a>, <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> by Robert Redford</li>
+<li><a href="../in-the-heat-of-the-night-1967">In the Heat of the Night</a> by Timothy Scott</li>
+<li><a href="../the-sting-1973">The Sting</a> by Paul Newman and Charles Dierkop</li>
+<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> by Sam Elliott</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

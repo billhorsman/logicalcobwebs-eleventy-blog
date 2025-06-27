@@ -53,6 +53,14 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../shallow-grave-1994">Shallow Grave</a> by Christopher Eccleston and Keith Allen</li>
+<li><a href="../hot-fuzz-2007">Hot Fuzz</a> by Steve Coogan, Paddy Considine and Simon Pegg</li>
+<li><a href="../hot-fuzz-2007">Hot Fuzz</a> and <a href="../empire-of-light-2022">Empire of Light</a> by Ron Cook</li>
+<li><a href="../dune-2021">Dune</a> by Neil Bell</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

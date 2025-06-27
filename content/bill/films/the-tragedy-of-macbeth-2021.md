@@ -53,6 +53,13 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../fargo-1996">Fargo</a>, <a href="../nomadland-2021">Nomadland</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Frances McDormand</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> by Stephen Root</li>
+<li><a href="../in-bruges-2008">In Bruges</a> and <a href="../the-banshees-of-inisherin-2022">The Banshees of Inisherin</a> by Brendan Gleeson</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

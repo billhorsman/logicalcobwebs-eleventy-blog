@@ -53,6 +53,12 @@ description: "A man wanders out of the desert not knowing who he is. His brother
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../apocalypse-now-1979">Apocalypse Now</a> by Aurore Clément</li>
+<li><a href="../the-straight-story-1999">The Straight Story</a> and <a href="../lucky-2017">Lucky</a> by Harry Dean Stanton</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

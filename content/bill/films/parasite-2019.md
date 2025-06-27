@@ -53,6 +53,12 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../north-by-northwest-1959">North by Northwest</a> by Alfred Hitchcock</li>
+<li><a href="../the-handmaiden-2016">The Handmaiden</a> by Lee Ji-hye and Ahn Seong-bong</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

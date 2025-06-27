@@ -53,6 +53,22 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../once-upon-a-time-in-the-west-1968">Once Upon a Time in the West</a> by Jason Robards</li>
+<li><a href="../the-fugitive-1993">The Fugitive</a> and <a href="../the-big-lebowski-1998">The Big Lebowski</a> by Julianne Moore</li>
+<li><a href="../the-fugitive-1993">The Fugitive</a> by Neil Flynn</li>
+<li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> and <a href="../licorice-pizza-2021">Licorice Pizza</a> by John C. Reilly</li>
+<li><a href="../fargo-1996">Fargo</a> by William H. Macy</li>
+<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> and <a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> by Philip Seymour Hoffman</li>
+<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> by Aimee Mann</li>
+<li><a href="../fight-club-1999">Fight Club</a> and <a href="../the-fabelmans-2022">The Fabelmans</a> by Ezra Buzzington</li>
+<li><a href="../fight-club-1999">Fight Club</a> by Michael Shamus Wiles, Greg Bronson and Phil Hawn</li>
+<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> by Philip Baker Hall</li>
+<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by Pat Healy</li>
+<li><a href="../licorice-pizza-2021">Licorice Pizza</a> by Mark Flanagan and Brian Kehew</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

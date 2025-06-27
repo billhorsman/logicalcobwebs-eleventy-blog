@@ -53,6 +53,12 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../the-sting-1973">The Sting</a> by Larry D. Mann</li>
+<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> by Timothy Scott</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

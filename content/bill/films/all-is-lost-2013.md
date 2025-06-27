@@ -53,6 +53,11 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a>, <a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a>, <a href="../the-sting-1973">The Sting</a> and <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> by Robert Redford</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

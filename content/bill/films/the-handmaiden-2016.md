@@ -53,6 +53,11 @@ description: "1930s Korea, in the period of Japanese occupation, a new girl, Soo
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../parasite-2019">Parasite</a> by Lee Ji-hye and Ahn Seong-bong</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

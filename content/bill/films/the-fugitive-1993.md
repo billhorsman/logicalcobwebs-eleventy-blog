@@ -53,6 +53,14 @@ description: "Wrongfully convicted of murdering his wife and sentenced to death,
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../apocalypse-now-1979">Apocalypse Now</a> and <a href="../blade-runner-1982">Blade Runner</a> by Harrison Ford</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> by Tommy Lee Jones</li>
+<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> and <a href="../magnolia-1999">Magnolia</a> by Julianne Moore</li>
+<li><a href="../magnolia-1999">Magnolia</a> by Neil Flynn</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

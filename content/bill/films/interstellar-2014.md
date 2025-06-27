@@ -53,6 +53,15 @@ description: "The adventures of a group of explorers who make use of a newly dis
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../good-will-hunting-1997">Good Will Hunting</a>, <a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> and <a href="../the-bourne-identity-2002">The Bourne Identity</a> by Matt Damon</li>
+<li><a href="../good-will-hunting-1997">Good Will Hunting</a> by Casey Affleck</li>
+<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> by Matthew McConaughey</li>
+<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by John Lithgow</li>
+<li><a href="../dune-2021">Dune</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Timothée Chalamet</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

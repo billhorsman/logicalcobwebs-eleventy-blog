@@ -53,6 +53,11 @@ description: "Buddy is a young boy on the cusp of adolescence, whose life is fil
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../in-bruges-2008">In Bruges</a> by Ciarán Hinds</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

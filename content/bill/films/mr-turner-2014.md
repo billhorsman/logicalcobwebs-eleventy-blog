@@ -53,6 +53,16 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../brazil-1985">Brazil</a> by Roger Ashton-Griffiths</li>
+<li><a href="../the-bourne-identity-2002">The Bourne Identity</a> by Vincent Franklin</li>
+<li><a href="../hot-fuzz-2007">Hot Fuzz</a> by Karl Johnson and Peter Wight</li>
+<li><a href="../happygolucky-2008">Happy-Go-Lucky</a> by Sylvestra Le Touzel, Kate O'Flynn, Oliver Maltman, Karina Fernandez and Sinead Matthews</li>
+<li><a href="../in-bruges-2008">In Bruges</a> by Elizabeth Berrington</li>
+<li><a href="../the-party-2017">The Party</a> by Timothy Spall</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

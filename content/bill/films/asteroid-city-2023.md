@@ -53,6 +53,18 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../fargo-1996">Fargo</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Steve Park</li>
+<li><a href="../fight-club-1999">Fight Club</a>, <a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Edward Norton</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a>, <a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Jason Schwartzman and Adrien Brody</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a>, <a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a>, <a href="../the-lighthouse-2019">The Lighthouse</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Willem Dafoe</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Jarvis Cocker</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Jeff Goldblum</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Tilda Swinton, Tony Revolori, Bob Balaban and Fisher Stevens</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Jeffrey Wright, Mohamed Belhadjine, Nicolas Avinée, Rupert Friend, Tom Hudson, Stéphane Bak, Liev Schreiber, Damien Bonnard, Rodolphe Pauly and Eliel Ford</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

@@ -1,4 +1,18 @@
+require "digest"
 require "json"
+
+def to_sentence(array)
+  out = ""
+  array.each_with_index do |x, index|
+    out << x.to_s
+    if index < array.length - 2
+      out << ", "
+    elsif index == array.length - 2
+      out << " and "
+    end
+  end
+  out
+end
 
 top_film_slugs = JSON.parse(File.read("../_data/top_films.json"))
 
@@ -36,11 +50,40 @@ top_directors = top_films.map { |film|
 IO.write("../_data/top_directors.json", JSON.pretty_generate(top_directors))
 
 
+credit_lookup = {}
+top_films.each do |film|
+  film.dig("credits", "cast").each do |credit|
+    name = credit["name"]
+    credit_lookup[name] ||= []
+    credit_lookup[name] << film unless credit_lookup[name].include?(film)
+  end
+end
+
+credit_lookup.select! { |cast_name, films| films.length > 1 }
+
+related_films = {}
+credit_lookup.each do |name, films|
+  films.each do |film|
+    related_films[film["slug"]] ||= {}
+    films_hash = Digest::MD5.hexdigest(films.map { |film| film["slug"] }.sort.join)
+
+    related_films[film["slug"]][films_hash] ||= {
+      films: (films - [film]),
+    }
+    related_films[film["slug"]][films_hash][:credits] ||= []
+    related_films[film["slug"]][films_hash][:credits] << name
+  end
+end
+
 top_films.each_with_index do |film, index|
   next_film = top_films[index + 1]
   prev_film = index > 0 ? top_films[index - 1] : nil
 
-  puts "Wring #{film["slug"]}.md"
+  related = related_films[film["slug"]]&.values&.map { |x|  
+    "#{to_sentence(x[:films].map { |f| "<a href=\"../#{f["slug"]}\">#{f["title"]}</a>" })} by #{to_sentence(x[:credits])}"  
+  } || []
+  
+  puts "Writing #{film["slug"]}.md"
   path = "../content/bill/films/#{film["slug"]}.md"
   File.write(path, <<~MD)
     ---
@@ -97,6 +140,11 @@ top_films.each_with_index do |film, index|
           {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
         </blockquote> 
       {%- endif -%}
+
+      #{"<p class=\"related-films\">Related to:</p>" if related.any?}
+      #{"<ul class=\"related-films\">" if related.any?}
+      #{related.map { |x| "<li>#{x}</li>" }.join("\n")}
+      #{"</ul>" if related.any?}
 
       <section class="film-detail">
         <div>

@@ -53,6 +53,13 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> and <a href="../magnolia-1999">Magnolia</a> by John C. Reilly</li>
+<li><a href="../magnolia-1999">Magnolia</a> by Mark Flanagan and Brian Kehew</li>
+<li><a href="../the-fabelmans-2022">The Fabelmans</a> by Isabelle Kusman and Paige Locke</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

@@ -53,6 +53,12 @@ description: "While standing in the doorway of the video shop where he works, Ba
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../diva-1981">Diva</a>, <a href="../delicatessen-1991">Delicatessen</a> and <a href="../amlie-2001">Amélie</a> by Dominique Pinon</li>
+<li><a href="../amlie-2001">Amélie</a> by Yolande Moreau and André Dussollier</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

@@ -53,6 +53,11 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../sink-or-swim-2018">Sink or Swim</a> by Jean-Hugues Anglade</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

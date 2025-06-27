@@ -53,6 +53,18 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> by Meryl Streep</li>
+<li><a href="../the-bourne-identity-2002">The Bourne Identity</a> by Brian Cox</li>
+<li><a href="../hot-fuzz-2007">Hot Fuzz</a> by Garth Jennings</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Jason Schwartzman and Adrien Brody</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Wallace Wolodarsky, Bill Murray and Owen Wilson</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a>, <a href="../the-lighthouse-2019">The Lighthouse</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Willem Dafoe</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Robin Hurlstone</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Jarvis Cocker</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

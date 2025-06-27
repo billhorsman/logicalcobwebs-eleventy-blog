@@ -53,6 +53,17 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> by Sam Elliott</li>
+<li><a href="../the-fugitive-1993">The Fugitive</a> and <a href="../magnolia-1999">Magnolia</a> by Julianne Moore</li>
+<li><a href="../fargo-1996">Fargo</a> by Steve Buscemi and Peter Stormare</li>
+<li><a href="../fargo-1996">Fargo</a> and <a href="../nomadland-2021">Nomadland</a> by Warren Keith</li>
+<li><a href="../magnolia-1999">Magnolia</a> and <a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> by Philip Seymour Hoffman</li>
+<li><a href="../eternal-beauty-2020">Eternal Beauty</a> by David Thewlis</li>
+<li><a href="../magnolia-1999">Magnolia</a> by Aimee Mann</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

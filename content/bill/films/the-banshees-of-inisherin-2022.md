@@ -53,6 +53,12 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../phone-booth-2003">Phone Booth</a> and <a href="../in-bruges-2008">In Bruges</a> by Colin Farrell</li>
+<li><a href="../in-bruges-2008">In Bruges</a> and <a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Brendan Gleeson</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

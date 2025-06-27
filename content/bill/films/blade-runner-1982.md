@@ -53,6 +53,11 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../apocalypse-now-1979">Apocalypse Now</a> and <a href="../the-fugitive-1993">The Fugitive</a> by Harrison Ford</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

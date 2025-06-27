@@ -53,6 +53,13 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../paris-texas-1984">Paris, Texas</a> and <a href="../the-straight-story-1999">The Straight Story</a> by Harry Dean Stanton</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> by Beth Grant</li>
+<li><a href="../the-fabelmans-2022">The Fabelmans</a> by David Lynch</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

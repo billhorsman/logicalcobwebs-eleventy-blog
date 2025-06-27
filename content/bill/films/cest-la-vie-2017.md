@@ -53,6 +53,12 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../sink-or-swim-2018">Sink or Swim</a> by Alban Ivanov</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Benjamin Lavernhe</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

@@ -53,6 +53,18 @@ description: "Former London constable Nicholas Angel finds it difficult to adapt
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../brazil-1985">Brazil</a> by Jim Broadbent</li>
+<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> by Cate Blanchett</li>
+<li><a href="../24-hour-party-people-2002">24 Hour Party People</a> by Steve Coogan, Paddy Considine and Simon Pegg</li>
+<li><a href="../24-hour-party-people-2002">24 Hour Party People</a> and <a href="../empire-of-light-2022">Empire of Light</a> by Ron Cook</li>
+<li><a href="../empire-of-light-2022">Empire of Light</a> by Olivia Colman</li>
+<li><a href="../mr-turner-2014">Mr. Turner</a> by Karl Johnson and Peter Wight</li>
+<li><a href="../eternal-beauty-2020">Eternal Beauty</a> by Alice Lowe</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> by Garth Jennings</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

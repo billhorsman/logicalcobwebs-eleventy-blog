@@ -53,6 +53,11 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../tomboy-2011">Tomboy</a> by Christel Baras</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

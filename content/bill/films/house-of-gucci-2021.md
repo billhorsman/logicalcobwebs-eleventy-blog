@@ -53,6 +53,13 @@ description: "When Patrizia Reggiani, an outsider from humble beginnings, marrie
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../dog-day-afternoon-1975">Dog Day Afternoon</a> by Al Pacino</li>
+<li><a href="../fight-club-1999">Fight Club</a>, <a href="../phone-booth-2003">Phone Booth</a> and <a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> by Jared Leto</li>
+<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> by Pietro Ragusa</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

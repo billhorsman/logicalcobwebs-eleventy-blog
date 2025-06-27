@@ -53,6 +53,12 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by Leonardo DiCaprio</li>
+<li><a href="../magnolia-1999">Magnolia</a> and <a href="../licorice-pizza-2021">Licorice Pizza</a> by John C. Reilly</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>

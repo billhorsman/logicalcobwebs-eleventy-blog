@@ -53,6 +53,22 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
     </blockquote> 
   {%- endif -%}
 
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../fight-club-1999">Fight Club</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Edward Norton</li>
+<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> by Jude Law</li>
+<li><a href="../in-bruges-2008">In Bruges</a> by Ralph Fiennes</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Jason Schwartzman and Adrien Brody</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Wallace Wolodarsky, Bill Murray and Owen Wilson</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a>, <a href="../the-lighthouse-2019">The Lighthouse</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Willem Dafoe</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> by Robin Hurlstone</li>
+<li><a href="../sink-or-swim-2018">Sink or Swim</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Mathieu Amalric</li>
+<li><a href="../asteroid-city-2023">Asteroid City</a> by Jeff Goldblum</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Saoirse Ronan and Larry Pine</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../one-fine-morning-2022">One Fine Morning</a> by Léa Seydoux</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Tilda Swinton, Tony Revolori, Bob Balaban and Fisher Stevens</li>
+  </ul>
+
   <section class="film-detail">
     <div>
       <details>
