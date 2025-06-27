@@ -1,6 +1,54 @@
 require "digest"
 require "json"
 
+class Person
+  def initialize(data)
+    @data = data
+  end
+
+  def name
+    @data["name"]
+  end
+
+  def director?
+    @data["job"] == "Director"
+  end
+end
+
+class Film
+  attr_reader :slug
+
+  def initialize(slug)
+    @data = JSON.parse(File.read("../_data/films/#{slug}.json"))
+    @slug = slug
+  end
+
+  def title
+    @data["title"]
+  end
+
+  def original_title
+    return if @data["original_title"].downcase == @data["title"].downcase
+    @data["original_title"]
+  end
+
+  def overview
+    @data["overview"]
+  end
+
+  def cast
+    @data.dig("credits", "cast").map { |credit| Person.new(credit) }
+  end
+
+  def crew
+    @data.dig("credits", "crew").map { |credit| Person.new(credit) }
+  end
+
+  def directors
+    crew.select(&:director?)
+  end
+end
+
 def to_sentence(array)
   out = ""
   array.each_with_index do |x, index|
@@ -14,16 +62,10 @@ def to_sentence(array)
   out
 end
 
-top_film_slugs = JSON.parse(File.read("../_data/top_films.json"))
-
-top_films = top_film_slugs.map { |slug|
-  JSON.parse(File.read("../_data/films/#{slug}.json")).tap do |film|
-    film["slug"] = slug
-  end
-}
+top_films = JSON.parse(File.read("../_data/top_films.json")).map { Film.new(_1) }
 
 top_cast = top_films.map { |film| 
-  film.dig("credits", "cast").slice(0, 3).map { |cast| cast["name"] }
+  film.cast.slice(0, 3).map(&:name)
 }.flatten.tally.sort_by { |cast_name, count| 
   [-count, cast_name.downcase] 
 }.map { |cast_name, count| 
@@ -39,7 +81,7 @@ end
 IO.write("../_data/top_cast.json", JSON.pretty_generate(top_cast))
 
 top_directors = top_films.map { |film| 
-  film.dig("credits", "crew").select { |crew| crew["job"] == "Director" }.map { |crew| crew["name"] }
+  film.directors.map(&:name)
 }.flatten.tally.select { |director, count| 
   count > 1 
 }.sort_by { |director, count| 
@@ -52,8 +94,8 @@ IO.write("../_data/top_directors.json", JSON.pretty_generate(top_directors))
 
 credit_lookup = {}
 top_films.each do |film|
-  film.dig("credits", "cast").each do |credit|
-    name = credit["name"]
+  film.cast.each do |credit|
+    name = credit.name
     credit_lookup[name] ||= []
     credit_lookup[name] << film unless credit_lookup[name].include?(film)
   end
@@ -64,14 +106,14 @@ credit_lookup.select! { |cast_name, films| films.length > 1 }
 related_films = {}
 credit_lookup.each do |name, films|
   films.each do |film|
-    related_films[film["slug"]] ||= {}
-    films_hash = Digest::MD5.hexdigest(films.map { |film| film["slug"] }.sort.join)
+    related_films[film.slug] ||= {}
+    films_hash = Digest::MD5.hexdigest(films.map { |film| film.slug }.sort.join)
 
-    related_films[film["slug"]][films_hash] ||= {
+    related_films[film.slug][films_hash] ||= {
       films: (films - [film]),
     }
-    related_films[film["slug"]][films_hash][:credits] ||= []
-    related_films[film["slug"]][films_hash][:credits] << name
+    related_films[film.slug][films_hash][:credits] ||= []
+    related_films[film.slug][films_hash][:credits] << name
   end
 end
 
@@ -79,46 +121,46 @@ top_films.each_with_index do |film, index|
   next_film = top_films[index + 1]
   prev_film = index > 0 ? top_films[index - 1] : nil
 
-  related = related_films[film["slug"]]&.values&.map { |x|  
-    "#{to_sentence(x[:films].map { |f| "<a href=\"../#{f["slug"]}\">#{f["title"]}</a>" })} by #{to_sentence(x[:credits])}"  
+  related = related_films[film.slug]&.values&.map { |x|  
+    "#{to_sentence(x[:films].map { |f| "<a href=\"../#{f.slug}\">#{f.title}</a>" })} by #{to_sentence(x[:credits])}"  
   } || []
   
-  puts "Writing #{film["slug"]}.md"
-  path = "../content/bill/films/#{film["slug"]}.md"
+  puts "Writing #{film.slug}.md"
+  path = "../content/bill/films/#{film.slug}.md"
   File.write(path, <<~MD)
     ---
-    title: "#{film["title"]}"
+    title: "#{film.title}"
     layout: layouts/films.njk
-    slug: #{film["slug"]}
-    ogImage: content/bill/films/backdrops/#{film["slug"]}.jpg
-    description: "#{film["overview"].gsub('"', '\"')}"
+    slug: #{film.slug}
+    ogImage: content/bill/films/backdrops/#{film.slug}.jpg
+    description: "#{film.overview.gsub('"', '\"')}"
     ---
 
     {% set film = films[slug] %}
 
     <nav class="films">
       <div class=\"prev\">
-        #{prev_film ? "<a href=\"../#{prev_film["slug"]}\"><i class=\"fa-solid fa-chevron-left fa-xs\"></i> Previous</a>" : "<span><i class=\"fa-solid fa-chevron-left fa-xs\"></i> Previous</span>"}
+        #{prev_film ? "<a href=\"../#{prev_film.slug}\"><i class=\"fa-solid fa-chevron-left fa-xs\"></i> Previous</a>" : "<span><i class=\"fa-solid fa-chevron-left fa-xs\"></i> Previous</span>"}
       </div>
       <div>
         <a class="simple" href="../">#{index + 1} / #{top_films.length}</a>
       </div>
       <div class=\"next\">
-        #{next_film ? "<a href=\"../#{next_film["slug"]}\">Next <i class=\"fa-solid fa-chevron-right fa-xs\"></i></a>" : "<span>Next <i class=\"fa-solid fa-chevron-right fa-xs\"></i></span>"}
+        #{next_film ? "<a href=\"../#{next_film.slug}\">Next <i class=\"fa-solid fa-chevron-right fa-xs\"></i></a>" : "<span>Next <i class=\"fa-solid fa-chevron-right fa-xs\"></i></span>"}
       </div>
       <div class="hint">
         <span class="prev-hint">
           <span class="sr-only">Previous film:</span>
-          #{prev_film&.dig("title") || "Start of list"}
+          #{prev_film&.title || "Start of list"}
         </span>
         <span class="next-hint">
           <span class="sr-only">Next film:</span>
-          #{next_film&.dig("title") || "End of list"}
+          #{next_film&.title || "End of list"}
         </span>
       </div>
     </nav>
 
-    <article class="film slug-#{film["slug"]}">
+    <article class="film slug-#{film.slug}">
       <div class="backdrop-and-poster">
         <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
         <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
@@ -128,7 +170,7 @@ top_films.each_with_index do |film, index|
 
       <p>
         {%- if film.language -%}Language: {{ film.language }}.{% endif %}
-        #{ "Also known as #{film["original_title"]}." if film["original_title"].downcase != film["title"].downcase }
+        #{ "Also known as #{film.original_title}." if film.original_title }
       </p>
 
       <p class="director">
