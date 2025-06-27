@@ -32,3 +32,7 @@ https://billhorsman.link/*          https://logicalcobwebs.com/:splat 301!
 /blog/vanilla-marathon/ /blog/2024/vanilla-marathon/
 /blog/break-things-like-an-engineer/ /blog/2024/break-things-like-an-engineer/
 /manifestos/delivery-windows/ /blog/2025/delivery-windows
+
+/bill/films/four-weddings-and-a-funeral-1994/ /bill/films/
+/bill/films/gregorys-girl-1981/ /bill/films/
+/bill/films/im-all-right-jack-1959/ /bill/films/
