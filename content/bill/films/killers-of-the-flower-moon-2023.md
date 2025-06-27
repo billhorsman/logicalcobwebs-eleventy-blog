@@ -55,14 +55,15 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> and <a href="../brazil-1985">Brazil</a> by Robert De Niro</li>
-<li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> by Leonardo DiCaprio</li>
-<li><a href="../magnolia-1999">Magnolia</a> by Pat Healy</li>
-<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> by Barry Corbin and Gene Jones</li>
-<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> by Carl Palmer</li>
-<li><a href="../interstellar-2014">Interstellar</a> by John Lithgow</li>
-<li><a href="../first-cow-2020">First Cow</a> by Scott Shepherd and Lily Gladstone</li>
-<li><a href="../the-power-of-the-dog-2021">The Power of the Dog</a> by Jesse Plemons</li>
+  <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> (1978) by Robert De Niro</li>
+<li><a href="../brazil-1985">Brazil</a> (1985) by Robert De Niro</li>
+<li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> (1993) by Leonardo DiCaprio</li>
+<li><a href="../magnolia-1999">Magnolia</a> (1999) by Pat Healy</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> (2007) by Barry Corbin and Gene Jones</li>
+<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> (2013) by Carl Palmer</li>
+<li><a href="../interstellar-2014">Interstellar</a> (2014) by John Lithgow</li>
+<li><a href="../first-cow-2020">First Cow</a> (2020) by Scott Shepherd and Lily Gladstone</li>
+<li><a href="../the-power-of-the-dog-2021">The Power of the Dog</a> (2021) by Jesse Plemons</li>
   </ul>
 
   <section class="film-detail">

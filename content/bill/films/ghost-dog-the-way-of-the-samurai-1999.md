@@ -55,9 +55,9 @@ description: "An African-American Mafia hit man who models himself after the sam
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../night-on-earth-1991">Night on Earth</a> by Isaach de Bankolé</li>
-<li><a href="../phone-booth-2003">Phone Booth</a> by Forest Whitaker</li>
-<li><a href="../first-cow-2020">First Cow</a> by Gary Farmer</li>
+  <li><a href="../night-on-earth-1991">Night on Earth</a> (1991) by Isaach de Bankolé</li>
+<li><a href="../phone-booth-2003">Phone Booth</a> (2003) by Forest Whitaker</li>
+<li><a href="../first-cow-2020">First Cow</a> (2020) by Gary Farmer</li>
   </ul>
 
   <section class="film-detail">

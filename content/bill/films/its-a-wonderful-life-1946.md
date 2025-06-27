@@ -55,8 +55,8 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a> by John Indrisano</li>
-<li><a href="../north-by-northwest-1959">North by Northwest</a> by Finn Zirzow</li>
+  <li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a> (1967) by John Indrisano</li>
+<li><a href="../north-by-northwest-1959">North by Northwest</a> (1959) by Finn Zirzow</li>
   </ul>
 
   <section class="film-detail">

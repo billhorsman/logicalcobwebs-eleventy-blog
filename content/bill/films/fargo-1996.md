@@ -55,12 +55,13 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../nomadland-2021">Nomadland</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Frances McDormand</li>
-<li><a href="../magnolia-1999">Magnolia</a> by William H. Macy</li>
-<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> by Steve Buscemi and Peter Stormare</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Steve Park</li>
-<li><a href="../the-straight-story-1999">The Straight Story</a> by Sally Wingert</li>
-<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> and <a href="../nomadland-2021">Nomadland</a> by Warren Keith</li>
+  <li><a href="../nomadland-2021">Nomadland</a> (2021) by Frances McDormand and Warren Keith</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Frances McDormand and Steve Park</li>
+<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> (2021) by Frances McDormand</li>
+<li><a href="../magnolia-1999">Magnolia</a> (1999) by William H. Macy</li>
+<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> (1998) by Steve Buscemi, Peter Stormare and Warren Keith</li>
+<li><a href="../asteroid-city-2023">Asteroid City</a> (2023) by Steve Park</li>
+<li><a href="../the-straight-story-1999">The Straight Story</a> (1999) by Sally Wingert</li>
   </ul>
 
   <section class="film-detail">

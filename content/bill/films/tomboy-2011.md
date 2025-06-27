@@ -55,7 +55,7 @@ description: "A French family moves to a new neighborhood with during the summer
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../portrait-of-a-lady-on-fire-2019">Portrait of a Lady on Fire</a> by Christel Baras</li>
+  <li><a href="../portrait-of-a-lady-on-fire-2019">Portrait of a Lady on Fire</a> (2019) by Christel Baras</li>
   </ul>
 
   <section class="film-detail">

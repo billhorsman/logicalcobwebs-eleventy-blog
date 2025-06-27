@@ -55,8 +55,9 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../maudie-2016">Maudie</a> and <a href="../eternal-beauty-2020">Eternal Beauty</a> by Sally Hawkins</li>
-<li><a href="../mr-turner-2014">Mr. Turner</a> by Sylvestra Le Touzel, Kate O'Flynn, Oliver Maltman, Karina Fernandez and Sinead Matthews</li>
+  <li><a href="../maudie-2016">Maudie</a> (2016) by Sally Hawkins</li>
+<li><a href="../eternal-beauty-2020">Eternal Beauty</a> (2020) by Sally Hawkins</li>
+<li><a href="../mr-turner-2014">Mr. Turner</a> (2014) by Sylvestra Le Touzel, Kate O'Flynn, Oliver Maltman, Karina Fernandez and Sinead Matthews</li>
   </ul>
 
   <section class="film-detail">

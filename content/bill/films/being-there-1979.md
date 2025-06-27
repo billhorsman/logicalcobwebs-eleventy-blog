@@ -55,7 +55,7 @@ description: "A simple-minded gardener named Chance has spent all his life in th
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../la-strada-1954">La Strada</a> by Richard Basehart</li>
+  <li><a href="../la-strada-1954">La Strada</a> (1954) by Richard Basehart</li>
   </ul>
 
   <section class="film-detail">

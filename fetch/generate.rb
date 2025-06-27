@@ -32,6 +32,10 @@ class Film
     @data["original_title"]
   end
 
+  def year
+    @data["year"]
+  end
+
   def overview
     @data["overview"]
   end
@@ -106,14 +110,12 @@ credit_lookup.select! { |cast_name, films| films.length > 1 }
 related_films = {}
 credit_lookup.each do |name, films|
   films.each do |film|
-    related_films[film.slug] ||= {}
-    films_hash = Digest::MD5.hexdigest(films.map { |film| film.slug }.sort.join)
-
-    related_films[film.slug][films_hash] ||= {
-      films: (films - [film]),
-    }
-    related_films[film.slug][films_hash][:credits] ||= []
-    related_films[film.slug][films_hash][:credits] << name
+    other_films = films - [film]
+    related_films[film] ||= {}
+    other_films.each do |other_film|
+      related_films[film][other_film] ||= []
+      related_films[film][other_film] << name unless related_films[film][other_film].include?(name)
+    end
   end
 end
 
@@ -121,8 +123,8 @@ top_films.each_with_index do |film, index|
   next_film = top_films[index + 1]
   prev_film = index > 0 ? top_films[index - 1] : nil
 
-  related = related_films[film.slug]&.values&.map { |x|  
-    "#{to_sentence(x[:films].map { |f| "<a href=\"../#{f.slug}\">#{f.title}</a>" })} by #{to_sentence(x[:credits])}"  
+  related = related_films[film]&.map { |film, names|
+    "<a href=\"../#{film.slug}\">#{film.title}</a> (#{film.year}) by #{to_sentence(names)}"  
   } || []
   
   puts "Writing #{film.slug}.md"

@@ -55,8 +55,9 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../paris-texas-1984">Paris, Texas</a> and <a href="../lucky-2017">Lucky</a> by Harry Dean Stanton</li>
-<li><a href="../fargo-1996">Fargo</a> by Sally Wingert</li>
+  <li><a href="../paris-texas-1984">Paris, Texas</a> (1984) by Harry Dean Stanton</li>
+<li><a href="../lucky-2017">Lucky</a> (2017) by Harry Dean Stanton</li>
+<li><a href="../fargo-1996">Fargo</a> (1996) by Sally Wingert</li>
   </ul>
 
   <section class="film-detail">

@@ -55,9 +55,10 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../diva-1981">Diva</a>, <a href="../amlie-2001">Amélie</a> and <a href="../micmacs-2009">Micmacs</a> by Dominique Pinon</li>
-<li><a href="../amlie-2001">Amélie</a> by Ticky Holgado, Rufus and Patrick Paroux</li>
-<li><a href="../black-hawk-down-2001">Black Hawk Down</a> by Nikky Smedley</li>
+  <li><a href="../diva-1981">Diva</a> (1981) by Dominique Pinon</li>
+<li><a href="../amlie-2001">Amélie</a> (2001) by Dominique Pinon, Ticky Holgado, Rufus and Patrick Paroux</li>
+<li><a href="../micmacs-2009">Micmacs</a> (2009) by Dominique Pinon</li>
+<li><a href="../black-hawk-down-2001">Black Hawk Down</a> (2001) by Nikky Smedley</li>
   </ul>
 
   <section class="film-detail">

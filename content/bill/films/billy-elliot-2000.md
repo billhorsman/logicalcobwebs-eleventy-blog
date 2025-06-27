@@ -55,8 +55,8 @@ description: "County Durham, England, 1984. The miners' strike has started and t
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../shallow-grave-1994">Shallow Grave</a> by Gary Lewis</li>
-<li><a href="../all-of-us-strangers-2023">All of Us Strangers</a> by Jamie Bell</li>
+  <li><a href="../shallow-grave-1994">Shallow Grave</a> (1994) by Gary Lewis</li>
+<li><a href="../all-of-us-strangers-2023">All of Us Strangers</a> (2023) by Jamie Bell</li>
   </ul>
 
   <section class="film-detail">

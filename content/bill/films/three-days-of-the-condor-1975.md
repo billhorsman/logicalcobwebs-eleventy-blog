@@ -55,8 +55,11 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a>, <a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a>, <a href="../the-sting-1973">The Sting</a> and <a href="../all-is-lost-2013">All Is Lost</a> by Robert Redford</li>
-<li><a href="../apocalypse-now-1979">Apocalypse Now</a> by James Keane</li>
+  <li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a> (1967) by Robert Redford</li>
+<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> (1969) by Robert Redford</li>
+<li><a href="../the-sting-1973">The Sting</a> (1973) by Robert Redford</li>
+<li><a href="../all-is-lost-2013">All Is Lost</a> (2013) by Robert Redford</li>
+<li><a href="../apocalypse-now-1979">Apocalypse Now</a> (1979) by James Keane</li>
   </ul>
 
   <section class="film-detail">

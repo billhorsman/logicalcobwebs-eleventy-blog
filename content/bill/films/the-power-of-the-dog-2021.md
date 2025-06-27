@@ -55,7 +55,7 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by Jesse Plemons</li>
+  <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> (2023) by Jesse Plemons</li>
   </ul>
 
   <section class="film-detail">

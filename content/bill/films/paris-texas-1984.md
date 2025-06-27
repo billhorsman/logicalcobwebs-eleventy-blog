@@ -55,8 +55,9 @@ description: "A man wanders out of the desert not knowing who he is. His brother
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../apocalypse-now-1979">Apocalypse Now</a> by Aurore Clément</li>
-<li><a href="../the-straight-story-1999">The Straight Story</a> and <a href="../lucky-2017">Lucky</a> by Harry Dean Stanton</li>
+  <li><a href="../apocalypse-now-1979">Apocalypse Now</a> (1979) by Aurore Clément</li>
+<li><a href="../the-straight-story-1999">The Straight Story</a> (1999) by Harry Dean Stanton</li>
+<li><a href="../lucky-2017">Lucky</a> (2017) by Harry Dean Stanton</li>
   </ul>
 
   <section class="film-detail">

@@ -55,7 +55,10 @@ description: "Two lighthouse keepers try to maintain their sanity while living o
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a>, <a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Willem Dafoe</li>
+  <li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> (2009) by Willem Dafoe</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> (2014) by Willem Dafoe</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Willem Dafoe</li>
+<li><a href="../asteroid-city-2023">Asteroid City</a> (2023) by Willem Dafoe</li>
   </ul>
 
   <section class="film-detail">

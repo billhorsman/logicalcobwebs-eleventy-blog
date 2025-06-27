@@ -55,9 +55,9 @@ description: "At a tiny Parisian café, the adorable yet painfully shy Amélie a
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../diva-1981">Diva</a>, <a href="../delicatessen-1991">Delicatessen</a> and <a href="../micmacs-2009">Micmacs</a> by Dominique Pinon</li>
-<li><a href="../delicatessen-1991">Delicatessen</a> by Ticky Holgado, Rufus and Patrick Paroux</li>
-<li><a href="../micmacs-2009">Micmacs</a> by Yolande Moreau and André Dussollier</li>
+  <li><a href="../diva-1981">Diva</a> (1981) by Dominique Pinon</li>
+<li><a href="../delicatessen-1991">Delicatessen</a> (1991) by Dominique Pinon, Ticky Holgado, Rufus and Patrick Paroux</li>
+<li><a href="../micmacs-2009">Micmacs</a> (2009) by Dominique Pinon, Yolande Moreau and André Dussollier</li>
   </ul>
 
   <section class="film-detail">

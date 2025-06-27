@@ -55,8 +55,11 @@ description: "In this film based on a Neil Simon play, newlyweds Corie, a free s
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> by John Indrisano</li>
-<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a>, <a href="../the-sting-1973">The Sting</a>, <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> by Robert Redford</li>
+  <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> (1946) by John Indrisano</li>
+<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> (1969) by Robert Redford</li>
+<li><a href="../the-sting-1973">The Sting</a> (1973) by Robert Redford</li>
+<li><a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> (1975) by Robert Redford</li>
+<li><a href="../all-is-lost-2013">All Is Lost</a> (2013) by Robert Redford</li>
   </ul>
 
   <section class="film-detail">

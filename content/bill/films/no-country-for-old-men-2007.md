@@ -55,11 +55,11 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../the-fugitive-1993">The Fugitive</a> by Tommy Lee Jones</li>
-<li><a href="../dune-2021">Dune</a> by Javier Bardem and Josh Brolin</li>
-<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by Barry Corbin and Gene Jones</li>
-<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Stephen Root</li>
-<li><a href="../lucky-2017">Lucky</a> by Beth Grant</li>
+  <li><a href="../the-fugitive-1993">The Fugitive</a> (1993) by Tommy Lee Jones</li>
+<li><a href="../dune-2021">Dune</a> (2021) by Javier Bardem and Josh Brolin</li>
+<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> (2023) by Barry Corbin and Gene Jones</li>
+<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> (2021) by Stephen Root</li>
+<li><a href="../lucky-2017">Lucky</a> (2017) by Beth Grant</li>
   </ul>
 
   <section class="film-detail">

@@ -55,9 +55,10 @@ description: "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> and <a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by Robert De Niro</li>
-<li><a href="../hot-fuzz-2007">Hot Fuzz</a> by Jim Broadbent</li>
-<li><a href="../mr-turner-2014">Mr. Turner</a> by Roger Ashton-Griffiths</li>
+  <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> (1978) by Robert De Niro</li>
+<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> (2023) by Robert De Niro</li>
+<li><a href="../hot-fuzz-2007">Hot Fuzz</a> (2007) by Jim Broadbent</li>
+<li><a href="../mr-turner-2014">Mr. Turner</a> (2014) by Roger Ashton-Griffiths</li>
   </ul>
 
   <section class="film-detail">

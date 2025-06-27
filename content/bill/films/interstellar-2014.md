@@ -55,11 +55,13 @@ description: "The adventures of a group of explorers who make use of a newly dis
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../good-will-hunting-1997">Good Will Hunting</a>, <a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> and <a href="../the-bourne-identity-2002">The Bourne Identity</a> by Matt Damon</li>
-<li><a href="../good-will-hunting-1997">Good Will Hunting</a> by Casey Affleck</li>
-<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> by Matthew McConaughey</li>
-<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by John Lithgow</li>
-<li><a href="../dune-2021">Dune</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Timothée Chalamet</li>
+  <li><a href="../good-will-hunting-1997">Good Will Hunting</a> (1997) by Matt Damon and Casey Affleck</li>
+<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> (1999) by Matt Damon</li>
+<li><a href="../the-bourne-identity-2002">The Bourne Identity</a> (2002) by Matt Damon</li>
+<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> (2013) by Matthew McConaughey</li>
+<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> (2023) by John Lithgow</li>
+<li><a href="../dune-2021">Dune</a> (2021) by Timothée Chalamet</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Timothée Chalamet</li>
   </ul>
 
   <section class="film-detail">

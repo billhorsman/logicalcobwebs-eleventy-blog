@@ -55,9 +55,10 @@ description: "Headstrong yet aimless, Will Hunting has a genius-level IQ but cho
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a>, <a href="../the-bourne-identity-2002">The Bourne Identity</a> and <a href="../interstellar-2014">Interstellar</a> by Matt Damon</li>
-<li><a href="../dune-2021">Dune</a> by Stellan Skarsgård</li>
-<li><a href="../interstellar-2014">Interstellar</a> by Casey Affleck</li>
+  <li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> (1999) by Matt Damon</li>
+<li><a href="../the-bourne-identity-2002">The Bourne Identity</a> (2002) by Matt Damon</li>
+<li><a href="../interstellar-2014">Interstellar</a> (2014) by Matt Damon and Casey Affleck</li>
+<li><a href="../dune-2021">Dune</a> (2021) by Stellan Skarsgård</li>
   </ul>
 
   <section class="film-detail">

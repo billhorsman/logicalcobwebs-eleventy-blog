@@ -55,8 +55,10 @@ description: "A woman in her sixties embarks on a journey through the western Un
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../fargo-1996">Fargo</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Frances McDormand</li>
-<li><a href="../fargo-1996">Fargo</a> and <a href="../the-big-lebowski-1998">The Big Lebowski</a> by Warren Keith</li>
+  <li><a href="../fargo-1996">Fargo</a> (1996) by Frances McDormand and Warren Keith</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Frances McDormand</li>
+<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> (2021) by Frances McDormand</li>
+<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> (1998) by Warren Keith</li>
   </ul>
 
   <section class="film-detail">

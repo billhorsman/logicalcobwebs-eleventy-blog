@@ -55,10 +55,14 @@ description: "A ticking-time-bomb insomniac and a slippery soap salesman channel
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Edward Norton</li>
-<li><a href="../phone-booth-2003">Phone Booth</a>, <a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> and <a href="../house-of-gucci-2021">House of Gucci</a> by Jared Leto</li>
-<li><a href="../magnolia-1999">Magnolia</a> and <a href="../the-fabelmans-2022">The Fabelmans</a> by Ezra Buzzington</li>
-<li><a href="../magnolia-1999">Magnolia</a> by Michael Shamus Wiles, Greg Bronson and Phil Hawn</li>
+  <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> (2014) by Edward Norton</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Edward Norton</li>
+<li><a href="../asteroid-city-2023">Asteroid City</a> (2023) by Edward Norton</li>
+<li><a href="../phone-booth-2003">Phone Booth</a> (2003) by Jared Leto</li>
+<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> (2013) by Jared Leto</li>
+<li><a href="../house-of-gucci-2021">House of Gucci</a> (2021) by Jared Leto</li>
+<li><a href="../magnolia-1999">Magnolia</a> (1999) by Ezra Buzzington, Michael Shamus Wiles, Greg Bronson and Phil Hawn</li>
+<li><a href="../the-fabelmans-2022">The Fabelmans</a> (2022) by Ezra Buzzington</li>
   </ul>
 
   <section class="film-detail">
