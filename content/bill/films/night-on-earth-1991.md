@@ -16,7 +16,7 @@ description: "An anthology of 5 different cab drivers in 5 American and European
     <a class="simple" href="../">28 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-fugitive-1993">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../whats-eating-gilbert-grape-1993">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "An anthology of 5 different cab drivers in 5 American and European
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Fugitive
+      What's Eating Gilbert Grape
     </span>
   </div>
 </nav>

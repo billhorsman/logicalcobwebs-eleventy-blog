@@ -56,6 +56,7 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
   <p class="related-films">Related to:</p>
   <ul class="related-films">
   <li><a href="../brazil-1985">Brazil</a> by Roger Ashton-Griffiths</li>
+<li><a href="../trainspotting-1996">Trainspotting</a> by Stuart McQuarrie</li>
 <li><a href="../the-bourne-identity-2002">The Bourne Identity</a> by Vincent Franklin</li>
 <li><a href="../hot-fuzz-2007">Hot Fuzz</a> by Karl Johnson and Peter Wight</li>
 <li><a href="../happygolucky-2008">Happy-Go-Lucky</a> by Sylvestra Le Touzel, Kate O'Flynn, Oliver Maltman, Karina Fernandez, Sinead Matthews and Mike Leigh</li>

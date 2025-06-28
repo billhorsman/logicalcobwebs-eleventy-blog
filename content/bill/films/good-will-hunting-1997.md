@@ -10,7 +10,7 @@ description: "Headstrong yet aimless, Will Hunting has a genius-level IQ but cho
 
 <nav class="films">
   <div class="prev">
-    <a href="../fargo-1996"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../trainspotting-1996"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">34 / 100</a>
@@ -21,7 +21,7 @@ description: "Headstrong yet aimless, Will Hunting has a genius-level IQ but cho
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Fargo
+      Trainspotting
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

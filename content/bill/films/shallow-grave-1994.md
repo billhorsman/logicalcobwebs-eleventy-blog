@@ -13,7 +13,7 @@ description: "When David, Juliet, and Alex find their new roommate dead with a l
     <a href="../lon-the-professional-1994"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">32 / 100</a>
+    <a class="simple" href="../">31 / 100</a>
   </div>
   <div class="next">
     <a href="../fargo-1996">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -56,6 +56,7 @@ description: "When David, Juliet, and Alex find their new roommate dead with a l
   <p class="related-films">Related to:</p>
   <ul class="related-films">
   <li><a href="../24-hour-party-people-2002">24 Hour Party People</a> by Christopher Eccleston and Keith Allen</li>
+<li><a href="../trainspotting-1996">Trainspotting</a> by Ewan McGregor, Keith Allen, Peter Mullan, Victor Eadie, Billy Riddoch and Danny Boyle</li>
 <li><a href="../black-hawk-down-2001">Black Hawk Down</a> by Ewan McGregor</li>
 <li><a href="../billy-elliot-2000">Billy Elliot</a> by Gary Lewis</li>
   </ul>

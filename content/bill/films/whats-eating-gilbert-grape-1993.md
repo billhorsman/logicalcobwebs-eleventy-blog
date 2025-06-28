@@ -10,10 +10,10 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-fugitive-1993"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../night-on-earth-1991"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">30 / 100</a>
+    <a class="simple" href="../">29 / 100</a>
   </div>
   <div class="next">
     <a href="../lon-the-professional-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Fugitive
+      Night on Earth
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

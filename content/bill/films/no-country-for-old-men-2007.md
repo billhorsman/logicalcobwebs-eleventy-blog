@@ -55,9 +55,9 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../the-fugitive-1993">The Fugitive</a> by Tommy Lee Jones</li>
-<li><a href="../fargo-1996">Fargo</a> and <a href="../the-big-lebowski-1998">The Big Lebowski</a> by Joel Coen</li>
+  <li><a href="../fargo-1996">Fargo</a> and <a href="../the-big-lebowski-1998">The Big Lebowski</a> by Joel Coen</li>
 <li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Joel Coen and Stephen Root</li>
+<li><a href="../trainspotting-1996">Trainspotting</a> by Kelly Macdonald</li>
 <li><a href="../dune-2021">Dune</a> by Javier Bardem and Josh Brolin</li>
 <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by Barry Corbin and Gene Jones</li>
 <li><a href="../lucky-2017">Lucky</a> by Beth Grant</li>

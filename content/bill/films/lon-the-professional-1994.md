@@ -13,7 +13,7 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
     <a href="../whats-eating-gilbert-grape-1993"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">31 / 100</a>
+    <a class="simple" href="../">30 / 100</a>
   </div>
   <div class="next">
     <a href="../shallow-grave-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
