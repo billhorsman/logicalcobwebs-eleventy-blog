@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.09589,0,0,0.933333,-54.7945,22)">
+        <path d="M780,142.5C780,80.41 737.068,30 684.187,30L145.813,30C92.932,30 50,80.41 50,142.5L50,667.5C50,729.59 92.932,780 145.813,780L684.187,780C737.068,780 780,729.59 780,667.5L780,142.5Z"/>
+    </g>
+    <g transform="matrix(0.295793,1.10392,-0.466756,0.125067,806.078,207.992)">
+        <rect x="90" y="280" width="70" height="520" style="fill:rgb(255,216,0);stroke:black;stroke-width:6.84px;"/>
+    </g>
+    <g transform="matrix(1.14286,0,0,1,557.143,-129)">
+        <rect x="90" y="280" width="70" height="520" style="fill:rgb(255,216,0);stroke:black;stroke-width:5.59px;"/>
+    </g>
+    <g transform="matrix(1.14286,0,0,1,317.143,-129)">
+        <rect x="90" y="280" width="70" height="520" style="fill:rgb(255,216,0);stroke:black;stroke-width:5.59px;"/>
+    </g>
+    <g transform="matrix(1.06667,0,0,1.3913,-112,-108.13)">
+        <path d="M330,330C412.787,330 480,381.53 480,445C480,508.47 412.787,560 330,560C247.213,560 180,508.47 180,445C180,381.53 247.213,330 330,330ZM330,387.5C371.394,387.5 405,413.265 405,445C405,476.735 371.394,502.5 330,502.5C288.606,502.5 255,476.735 255,445C255,413.265 288.606,387.5 330,387.5Z" style="fill:rgb(255,216,0);stroke:black;stroke-width:4.84px;"/>
+    </g>
+    <g transform="matrix(1.14286,0,0,1,-22.8571,-130)">
+        <rect x="90" y="280" width="70" height="520" style="fill:rgb(255,216,0);stroke:black;stroke-width:5.59px;"/>
+    </g>
+    <g transform="matrix(1.06667,0,0,1.3913,-112,-308.13)">
+        <path d="M330,330C412.787,330 480,381.53 480,445C480,508.47 412.787,560 330,560C247.213,560 180,508.47 180,445C180,381.53 247.213,330 330,330ZM330,387.5C371.394,387.5 405,413.265 405,445C405,476.735 371.394,502.5 330,502.5C288.606,502.5 255,476.735 255,445C255,413.265 288.606,387.5 330,387.5Z" style="fill:rgb(255,216,0);stroke:black;stroke-width:4.84px;"/>
+    </g>
+</svg>
