@@ -55,13 +55,13 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../black-hawk-down-2001">Black Hawk Down</a> (2001) by Zeljko Ivanek</li>
-<li><a href="../phone-booth-2003">Phone Booth</a> (2003) by Colin Farrell</li>
-<li><a href="../the-banshees-of-inisherin-2022">The Banshees of Inisherin</a> (2022) by Colin Farrell and Brendan Gleeson</li>
-<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> (2021) by Brendan Gleeson</li>
-<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> (2014) by Ralph Fiennes</li>
-<li><a href="../mr-turner-2014">Mr. Turner</a> (2014) by Elizabeth Berrington</li>
-<li><a href="../belfast-2021">Belfast</a> (2021) by Ciarán Hinds</li>
+  <li><a href="../black-hawk-down-2001">Black Hawk Down</a> by Zeljko Ivanek</li>
+<li><a href="../phone-booth-2003">Phone Booth</a> by Colin Farrell</li>
+<li><a href="../the-banshees-of-inisherin-2022">The Banshees of Inisherin</a> by Colin Farrell, Brendan Gleeson and Martin McDonagh</li>
+<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Brendan Gleeson</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Ralph Fiennes</li>
+<li><a href="../mr-turner-2014">Mr. Turner</a> by Elizabeth Berrington</li>
+<li><a href="../belfast-2021">Belfast</a> by Ciarán Hinds</li>
   </ul>
 
   <section class="film-detail">

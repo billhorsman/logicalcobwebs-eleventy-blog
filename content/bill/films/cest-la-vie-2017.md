@@ -55,8 +55,8 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../sink-or-swim-2018">Sink or Swim</a> (2018) by Alban Ivanov</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Benjamin Lavernhe</li>
+  <li><a href="../sink-or-swim-2018">Sink or Swim</a> by Gilles Lellouche and Alban Ivanov</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Benjamin Lavernhe</li>
   </ul>
 
   <section class="film-detail">

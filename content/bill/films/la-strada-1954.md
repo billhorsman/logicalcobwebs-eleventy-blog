@@ -55,7 +55,8 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../being-there-1979">Being There</a> (1979) by Richard Basehart</li>
+  <li><a href="../being-there-1979">Being There</a> by Richard Basehart</li>
+<li><a href="../la-dolce-vita-1960">La Dolce Vita</a> by Federico Fellini</li>
   </ul>
 
   <section class="film-detail">

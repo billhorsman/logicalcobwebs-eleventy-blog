@@ -55,13 +55,11 @@ description: "A novice con man teams up with an acknowledged master to avenge th
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../north-by-northwest-1959">North by Northwest</a> (1959) by Alexander Lockwood and Arthur Tovey</li>
-<li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a> (1967) by Robert Redford</li>
-<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> (1969) by Robert Redford, Paul Newman and Charles Dierkop</li>
-<li><a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> (1975) by Robert Redford</li>
-<li><a href="../all-is-lost-2013">All Is Lost</a> (2013) by Robert Redford</li>
-<li><a href="../in-the-heat-of-the-night-1967">In the Heat of the Night</a> (1967) by Larry D. Mann</li>
-<li><a href="../dog-day-afternoon-1975">Dog Day Afternoon</a> (1975) by Charles Durning</li>
+  <li><a href="../north-by-northwest-1959">North by Northwest</a> by Alexander Lockwood and Arthur Tovey</li>
+<li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a>, <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> by Robert Redford</li>
+<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> by Robert Redford, Paul Newman, Charles Dierkop and George Roy Hill</li>
+<li><a href="../in-the-heat-of-the-night-1967">In the Heat of the Night</a> by Larry D. Mann</li>
+<li><a href="../dog-day-afternoon-1975">Dog Day Afternoon</a> by Charles Durning</li>
   </ul>
 
   <section class="film-detail">

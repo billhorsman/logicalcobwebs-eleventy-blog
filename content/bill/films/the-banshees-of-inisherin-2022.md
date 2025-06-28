@@ -55,9 +55,9 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../phone-booth-2003">Phone Booth</a> (2003) by Colin Farrell</li>
-<li><a href="../in-bruges-2008">In Bruges</a> (2008) by Colin Farrell and Brendan Gleeson</li>
-<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> (2021) by Brendan Gleeson</li>
+  <li><a href="../phone-booth-2003">Phone Booth</a> by Colin Farrell</li>
+<li><a href="../in-bruges-2008">In Bruges</a> by Colin Farrell, Brendan Gleeson and Martin McDonagh</li>
+<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Brendan Gleeson</li>
   </ul>
 
   <section class="film-detail">

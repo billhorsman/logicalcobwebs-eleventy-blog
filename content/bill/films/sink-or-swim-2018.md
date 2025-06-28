@@ -55,10 +55,10 @@ description: "40-year-old Bertrand has been suffering from depression for the la
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../lon-the-professional-1994">Léon: The Professional</a> (1994) by Jean-Hugues Anglade</li>
-<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> (2014) by Mathieu Amalric</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Mathieu Amalric and Félix Moati</li>
-<li><a href="../cest-la-vie-2017">C'est la vie!</a> (2017) by Alban Ivanov</li>
+  <li><a href="../lon-the-professional-1994">Léon: The Professional</a> by Jean-Hugues Anglade</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Mathieu Amalric</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Mathieu Amalric and Félix Moati</li>
+<li><a href="../cest-la-vie-2017">C'est la vie!</a> by Gilles Lellouche and Alban Ivanov</li>
   </ul>
 
   <section class="film-detail">

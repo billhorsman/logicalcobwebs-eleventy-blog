@@ -55,11 +55,9 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../good-will-hunting-1997">Good Will Hunting</a> (1997) by Matt Damon</li>
-<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> (1999) by Matt Damon</li>
-<li><a href="../interstellar-2014">Interstellar</a> (2014) by Matt Damon</li>
-<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> (2009) by Brian Cox</li>
-<li><a href="../mr-turner-2014">Mr. Turner</a> (2014) by Vincent Franklin</li>
+  <li><a href="../good-will-hunting-1997">Good Will Hunting</a>, <a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> and <a href="../interstellar-2014">Interstellar</a> by Matt Damon</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> by Brian Cox</li>
+<li><a href="../mr-turner-2014">Mr. Turner</a> by Vincent Franklin</li>
   </ul>
 
   <section class="film-detail">

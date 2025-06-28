@@ -55,11 +55,10 @@ description: "Wrongfully convicted of murdering his wife and sentenced to death,
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../apocalypse-now-1979">Apocalypse Now</a> (1979) by Harrison Ford</li>
-<li><a href="../blade-runner-1982">Blade Runner</a> (1982) by Harrison Ford</li>
-<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> (2007) by Tommy Lee Jones</li>
-<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> (1998) by Julianne Moore</li>
-<li><a href="../magnolia-1999">Magnolia</a> (1999) by Julianne Moore and Neil Flynn</li>
+  <li><a href="../apocalypse-now-1979">Apocalypse Now</a> and <a href="../blade-runner-1982">Blade Runner</a> by Harrison Ford</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> by Tommy Lee Jones</li>
+<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> by Julianne Moore</li>
+<li><a href="../magnolia-1999">Magnolia</a> by Julianne Moore and Neil Flynn</li>
   </ul>
 
   <section class="film-detail">

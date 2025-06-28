@@ -55,14 +55,12 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../good-will-hunting-1997">Good Will Hunting</a> (1997) by Matt Damon</li>
-<li><a href="../the-bourne-identity-2002">The Bourne Identity</a> (2002) by Matt Damon</li>
-<li><a href="../interstellar-2014">Interstellar</a> (2014) by Matt Damon</li>
-<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> (1998) by Philip Seymour Hoffman</li>
-<li><a href="../magnolia-1999">Magnolia</a> (1999) by Philip Seymour Hoffman and Philip Baker Hall</li>
-<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> (2014) by Jude Law</li>
-<li><a href="../hot-fuzz-2007">Hot Fuzz</a> (2007) by Cate Blanchett</li>
-<li><a href="../house-of-gucci-2021">House of Gucci</a> (2021) by Pietro Ragusa</li>
+  <li><a href="../good-will-hunting-1997">Good Will Hunting</a>, <a href="../the-bourne-identity-2002">The Bourne Identity</a> and <a href="../interstellar-2014">Interstellar</a> by Matt Damon</li>
+<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> by Philip Seymour Hoffman</li>
+<li><a href="../magnolia-1999">Magnolia</a> by Philip Seymour Hoffman and Philip Baker Hall</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Jude Law</li>
+<li><a href="../hot-fuzz-2007">Hot Fuzz</a> by Cate Blanchett</li>
+<li><a href="../house-of-gucci-2021">House of Gucci</a> by Pietro Ragusa</li>
   </ul>
 
   <section class="film-detail">

@@ -55,10 +55,10 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> (1946) by Finn Zirzow</li>
-<li><a href="../bullitt-1968">Bullitt</a> (1968) by Paul Genge</li>
-<li><a href="../parasite-2019">Parasite</a> (2019) by Alfred Hitchcock</li>
-<li><a href="../the-sting-1973">The Sting</a> (1973) by Alexander Lockwood and Arthur Tovey</li>
+  <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> by Finn Zirzow</li>
+<li><a href="../bullitt-1968">Bullitt</a> by Paul Genge</li>
+<li><a href="../parasite-2019">Parasite</a> by Alfred Hitchcock</li>
+<li><a href="../the-sting-1973">The Sting</a> by Alexander Lockwood and Arthur Tovey</li>
   </ul>
 
   <section class="film-detail">

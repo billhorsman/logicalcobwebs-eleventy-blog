@@ -55,12 +55,9 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../fight-club-1999">Fight Club</a> (1999) by Jared Leto</li>
-<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> (2013) by Jared Leto</li>
-<li><a href="../house-of-gucci-2021">House of Gucci</a> (2021) by Jared Leto</li>
-<li><a href="../ghost-dog-the-way-of-the-samurai-1999">Ghost Dog: The Way of the Samurai</a> (1999) by Forest Whitaker</li>
-<li><a href="../in-bruges-2008">In Bruges</a> (2008) by Colin Farrell</li>
-<li><a href="../the-banshees-of-inisherin-2022">The Banshees of Inisherin</a> (2022) by Colin Farrell</li>
+  <li><a href="../fight-club-1999">Fight Club</a>, <a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> and <a href="../house-of-gucci-2021">House of Gucci</a> by Jared Leto</li>
+<li><a href="../ghost-dog-the-way-of-the-samurai-1999">Ghost Dog: The Way of the Samurai</a> by Forest Whitaker</li>
+<li><a href="../in-bruges-2008">In Bruges</a> and <a href="../the-banshees-of-inisherin-2022">The Banshees of Inisherin</a> by Colin Farrell</li>
   </ul>
 
   <section class="film-detail">

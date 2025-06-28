@@ -55,13 +55,14 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> (1969) by Sam Elliott</li>
-<li><a href="../the-fugitive-1993">The Fugitive</a> (1993) by Julianne Moore</li>
-<li><a href="../magnolia-1999">Magnolia</a> (1999) by Julianne Moore, Philip Seymour Hoffman and Aimee Mann</li>
-<li><a href="../fargo-1996">Fargo</a> (1996) by Steve Buscemi, Peter Stormare and Warren Keith</li>
-<li><a href="../nomadland-2021">Nomadland</a> (2021) by Warren Keith</li>
-<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> (1999) by Philip Seymour Hoffman</li>
-<li><a href="../eternal-beauty-2020">Eternal Beauty</a> (2020) by David Thewlis</li>
+  <li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> by Sam Elliott</li>
+<li><a href="../the-fugitive-1993">The Fugitive</a> by Julianne Moore</li>
+<li><a href="../magnolia-1999">Magnolia</a> by Julianne Moore, Philip Seymour Hoffman and Aimee Mann</li>
+<li><a href="../fargo-1996">Fargo</a> by Steve Buscemi, Peter Stormare, Warren Keith and Joel Coen</li>
+<li><a href="../nomadland-2021">Nomadland</a> by Warren Keith</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> and <a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Joel Coen</li>
+<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> by Philip Seymour Hoffman</li>
+<li><a href="../eternal-beauty-2020">Eternal Beauty</a> by David Thewlis</li>
   </ul>
 
   <section class="film-detail">

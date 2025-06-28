@@ -55,11 +55,10 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../bullitt-1968">Bullitt</a> (1968) by Robert Duvall</li>
-<li><a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> (1975) by James Keane</li>
-<li><a href="../blade-runner-1982">Blade Runner</a> (1982) by Harrison Ford</li>
-<li><a href="../the-fugitive-1993">The Fugitive</a> (1993) by Harrison Ford</li>
-<li><a href="../paris-texas-1984">Paris, Texas</a> (1984) by Aurore Clément</li>
+  <li><a href="../bullitt-1968">Bullitt</a> by Robert Duvall</li>
+<li><a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> by James Keane</li>
+<li><a href="../blade-runner-1982">Blade Runner</a> and <a href="../the-fugitive-1993">The Fugitive</a> by Harrison Ford</li>
+<li><a href="../paris-texas-1984">Paris, Texas</a> by Aurore Clément</li>
   </ul>
 
   <section class="film-detail">

@@ -53,10 +53,10 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../la-strada-1954">La Strada</a> by Federico Fellini</li>
+  </ul>
 
   <section class="film-detail">
     <div>

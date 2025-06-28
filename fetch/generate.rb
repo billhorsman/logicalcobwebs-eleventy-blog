@@ -98,7 +98,7 @@ IO.write("../_data/top_directors.json", JSON.pretty_generate(top_directors))
 
 credit_lookup = {}
 top_films.each do |film|
-  film.cast.each do |credit|
+  (film.cast + film.directors).each do |credit|
     name = credit.name
     credit_lookup[name] ||= []
     credit_lookup[name] << film unless credit_lookup[name].include?(film)
@@ -123,9 +123,16 @@ top_films.each_with_index do |film, index|
   next_film = top_films[index + 1]
   prev_film = index > 0 ? top_films[index - 1] : nil
 
-  related = related_films[film]&.map { |film, names|
-    "<a href=\"../#{film.slug}\">#{film.title}</a> (#{film.year}) by #{to_sentence(names)}"  
-  } || []
+  related = []
+  reverse_lookup = {}
+  related_films[film]&.each do |film, names|
+    reverse_lookup[names] ||= []
+    reverse_lookup[names] << film
+  end
+  reverse_lookup.each do |names, films|
+    links = films.map { |film| "<a href=\"../#{film.slug}\">#{film.title}</a>" }
+    related << "#{to_sentence(links)} by #{to_sentence(names)}"  
+  end
   
   puts "Writing #{film.slug}.md"
   path = "../content/bill/films/#{film.slug}.md"

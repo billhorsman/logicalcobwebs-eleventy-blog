@@ -55,12 +55,12 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../fargo-1996">Fargo</a> (1996) by Steve Park</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Steve Park, Edward Norton, Jason Schwartzman, Willem Dafoe, Jarvis Cocker, Adrien Brody, Tilda Swinton, Tony Revolori, Bob Balaban, Fisher Stevens, Jeffrey Wright, Mohamed Belhadjine, Nicolas Avinée, Rupert Friend, Tom Hudson, Stéphane Bak, Liev Schreiber, Damien Bonnard, Rodolphe Pauly and Eliel Ford</li>
-<li><a href="../fight-club-1999">Fight Club</a> (1999) by Edward Norton</li>
-<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> (2014) by Edward Norton, Jason Schwartzman, Willem Dafoe, Adrien Brody, Jeff Goldblum, Tilda Swinton, Tony Revolori, Bob Balaban and Fisher Stevens</li>
-<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> (2009) by Jason Schwartzman, Willem Dafoe, Jarvis Cocker and Adrien Brody</li>
-<li><a href="../the-lighthouse-2019">The Lighthouse</a> (2019) by Willem Dafoe</li>
+  <li><a href="../fargo-1996">Fargo</a> by Steve Park</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Steve Park, Edward Norton, Jason Schwartzman, Willem Dafoe, Wes Anderson, Jarvis Cocker, Adrien Brody, Tilda Swinton, Tony Revolori, Bob Balaban, Fisher Stevens, Jeffrey Wright, Mohamed Belhadjine, Nicolas Avinée, Rupert Friend, Tom Hudson, Stéphane Bak, Liev Schreiber, Damien Bonnard, Rodolphe Pauly and Eliel Ford</li>
+<li><a href="../fight-club-1999">Fight Club</a> by Edward Norton</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Edward Norton, Jason Schwartzman, Willem Dafoe, Wes Anderson, Adrien Brody, Jeff Goldblum, Tilda Swinton, Tony Revolori, Bob Balaban and Fisher Stevens</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> by Jason Schwartzman, Willem Dafoe, Wes Anderson, Jarvis Cocker and Adrien Brody</li>
+<li><a href="../the-lighthouse-2019">The Lighthouse</a> by Willem Dafoe</li>
   </ul>
 
   <section class="film-detail">

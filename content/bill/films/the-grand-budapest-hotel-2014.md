@@ -55,15 +55,15 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../fight-club-1999">Fight Club</a> (1999) by Edward Norton</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Edward Norton, Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Owen Wilson, Adrien Brody, Mathieu Amalric, Saoirse Ronan, Léa Seydoux, Tilda Swinton, Tony Revolori, Larry Pine, Bob Balaban and Fisher Stevens</li>
-<li><a href="../asteroid-city-2023">Asteroid City</a> (2023) by Edward Norton, Jason Schwartzman, Willem Dafoe, Adrien Brody, Jeff Goldblum, Tilda Swinton, Tony Revolori, Bob Balaban and Fisher Stevens</li>
-<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> (1999) by Jude Law</li>
-<li><a href="../in-bruges-2008">In Bruges</a> (2008) by Ralph Fiennes</li>
-<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> (2009) by Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Robin Hurlstone, Owen Wilson and Adrien Brody</li>
-<li><a href="../the-lighthouse-2019">The Lighthouse</a> (2019) by Willem Dafoe</li>
-<li><a href="../sink-or-swim-2018">Sink or Swim</a> (2018) by Mathieu Amalric</li>
-<li><a href="../one-fine-morning-2022">One Fine Morning</a> (2022) by Léa Seydoux</li>
+  <li><a href="../fight-club-1999">Fight Club</a> by Edward Norton</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Edward Norton, Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Wes Anderson, Owen Wilson, Adrien Brody, Mathieu Amalric, Saoirse Ronan, Léa Seydoux, Tilda Swinton, Tony Revolori, Larry Pine, Bob Balaban and Fisher Stevens</li>
+<li><a href="../asteroid-city-2023">Asteroid City</a> by Edward Norton, Jason Schwartzman, Willem Dafoe, Wes Anderson, Adrien Brody, Jeff Goldblum, Tilda Swinton, Tony Revolori, Bob Balaban and Fisher Stevens</li>
+<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> by Jude Law</li>
+<li><a href="../in-bruges-2008">In Bruges</a> by Ralph Fiennes</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> by Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Robin Hurlstone, Wes Anderson, Owen Wilson and Adrien Brody</li>
+<li><a href="../the-lighthouse-2019">The Lighthouse</a> by Willem Dafoe</li>
+<li><a href="../sink-or-swim-2018">Sink or Swim</a> by Mathieu Amalric</li>
+<li><a href="../one-fine-morning-2022">One Fine Morning</a> by Léa Seydoux</li>
   </ul>
 
   <section class="film-detail">

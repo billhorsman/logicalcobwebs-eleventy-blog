@@ -55,12 +55,10 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../fight-club-1999">Fight Club</a> (1999) by Jared Leto</li>
-<li><a href="../phone-booth-2003">Phone Booth</a> (2003) by Jared Leto</li>
-<li><a href="../house-of-gucci-2021">House of Gucci</a> (2021) by Jared Leto</li>
-<li><a href="../interstellar-2014">Interstellar</a> (2014) by Matthew McConaughey</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Griffin Dunne</li>
-<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> (2023) by Carl Palmer</li>
+  <li><a href="../fight-club-1999">Fight Club</a>, <a href="../phone-booth-2003">Phone Booth</a> and <a href="../house-of-gucci-2021">House of Gucci</a> by Jared Leto</li>
+<li><a href="../interstellar-2014">Interstellar</a> by Matthew McConaughey</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Griffin Dunne</li>
+<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by Carl Palmer</li>
   </ul>
 
   <section class="film-detail">

@@ -55,20 +55,18 @@ description: "The staff of an American magazine based in France puts out its las
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../fargo-1996">Fargo</a> (1996) by Frances McDormand and Steve Park</li>
-<li><a href="../nomadland-2021">Nomadland</a> (2021) by Frances McDormand</li>
-<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> (2021) by Frances McDormand</li>
-<li><a href="../asteroid-city-2023">Asteroid City</a> (2023) by Steve Park, Edward Norton, Jason Schwartzman, Willem Dafoe, Jarvis Cocker, Adrien Brody, Tilda Swinton, Tony Revolori, Bob Balaban, Fisher Stevens, Jeffrey Wright, Mohamed Belhadjine, Nicolas Avinée, Rupert Friend, Tom Hudson, Stéphane Bak, Liev Schreiber, Damien Bonnard, Rodolphe Pauly and Eliel Ford</li>
-<li><a href="../fight-club-1999">Fight Club</a> (1999) by Edward Norton</li>
-<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> (2014) by Edward Norton, Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Owen Wilson, Adrien Brody, Mathieu Amalric, Saoirse Ronan, Léa Seydoux, Tilda Swinton, Tony Revolori, Larry Pine, Bob Balaban and Fisher Stevens</li>
-<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> (2009) by Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Jarvis Cocker, Owen Wilson and Adrien Brody</li>
-<li><a href="../the-lighthouse-2019">The Lighthouse</a> (2019) by Willem Dafoe</li>
-<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> (2013) by Griffin Dunne</li>
-<li><a href="../interstellar-2014">Interstellar</a> (2014) by Timothée Chalamet</li>
-<li><a href="../dune-2021">Dune</a> (2021) by Timothée Chalamet</li>
-<li><a href="../sink-or-swim-2018">Sink or Swim</a> (2018) by Mathieu Amalric and Félix Moati</li>
-<li><a href="../one-fine-morning-2022">One Fine Morning</a> (2022) by Léa Seydoux and Sharif Andoura</li>
-<li><a href="../cest-la-vie-2017">C'est la vie!</a> (2017) by Benjamin Lavernhe</li>
+  <li><a href="../fargo-1996">Fargo</a> by Frances McDormand and Steve Park</li>
+<li><a href="../nomadland-2021">Nomadland</a> and <a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Frances McDormand</li>
+<li><a href="../asteroid-city-2023">Asteroid City</a> by Steve Park, Edward Norton, Jason Schwartzman, Willem Dafoe, Wes Anderson, Jarvis Cocker, Adrien Brody, Tilda Swinton, Tony Revolori, Bob Balaban, Fisher Stevens, Jeffrey Wright, Mohamed Belhadjine, Nicolas Avinée, Rupert Friend, Tom Hudson, Stéphane Bak, Liev Schreiber, Damien Bonnard, Rodolphe Pauly and Eliel Ford</li>
+<li><a href="../fight-club-1999">Fight Club</a> by Edward Norton</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Edward Norton, Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Wes Anderson, Owen Wilson, Adrien Brody, Mathieu Amalric, Saoirse Ronan, Léa Seydoux, Tilda Swinton, Tony Revolori, Larry Pine, Bob Balaban and Fisher Stevens</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> by Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Wes Anderson, Jarvis Cocker, Owen Wilson and Adrien Brody</li>
+<li><a href="../the-lighthouse-2019">The Lighthouse</a> by Willem Dafoe</li>
+<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> by Griffin Dunne</li>
+<li><a href="../interstellar-2014">Interstellar</a> and <a href="../dune-2021">Dune</a> by Timothée Chalamet</li>
+<li><a href="../sink-or-swim-2018">Sink or Swim</a> by Mathieu Amalric and Félix Moati</li>
+<li><a href="../one-fine-morning-2022">One Fine Morning</a> by Léa Seydoux and Sharif Andoura</li>
+<li><a href="../cest-la-vie-2017">C'est la vie!</a> by Benjamin Lavernhe</li>
   </ul>
 
   <section class="film-detail">

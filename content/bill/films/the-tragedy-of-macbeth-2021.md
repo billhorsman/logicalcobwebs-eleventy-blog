@@ -55,12 +55,11 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../fargo-1996">Fargo</a> (1996) by Frances McDormand</li>
-<li><a href="../nomadland-2021">Nomadland</a> (2021) by Frances McDormand</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Frances McDormand</li>
-<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> (2007) by Stephen Root</li>
-<li><a href="../in-bruges-2008">In Bruges</a> (2008) by Brendan Gleeson</li>
-<li><a href="../the-banshees-of-inisherin-2022">The Banshees of Inisherin</a> (2022) by Brendan Gleeson</li>
+  <li><a href="../fargo-1996">Fargo</a> by Frances McDormand and Joel Coen</li>
+<li><a href="../nomadland-2021">Nomadland</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Frances McDormand</li>
+<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> by Joel Coen</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> by Joel Coen and Stephen Root</li>
+<li><a href="../in-bruges-2008">In Bruges</a> and <a href="../the-banshees-of-inisherin-2022">The Banshees of Inisherin</a> by Brendan Gleeson</li>
   </ul>
 
   <section class="film-detail">

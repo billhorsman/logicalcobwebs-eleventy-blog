@@ -55,7 +55,7 @@ description: "An anthology of 5 different cab drivers in 5 American and European
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../ghost-dog-the-way-of-the-samurai-1999">Ghost Dog: The Way of the Samurai</a> (1999) by Isaach de Bankolé</li>
+  <li><a href="../ghost-dog-the-way-of-the-samurai-1999">Ghost Dog: The Way of the Samurai</a> by Isaach de Bankolé and Jim Jarmusch</li>
   </ul>
 
   <section class="film-detail">

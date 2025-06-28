@@ -53,10 +53,10 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
+  <p class="related-films">Related to:</p>
+  <ul class="related-films">
+  <li><a href="../tomboy-2011">Tomboy</a> and <a href="../portrait-of-a-lady-on-fire-2019">Portrait of a Lady on Fire</a> by Céline Sciamma</li>
+  </ul>
 
   <section class="film-detail">
     <div>

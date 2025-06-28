@@ -55,9 +55,9 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../24-hour-party-people-2002">24 Hour Party People</a> (2002) by Ron Cook</li>
-<li><a href="../hot-fuzz-2007">Hot Fuzz</a> (2007) by Ron Cook and Olivia Colman</li>
-<li><a href="../first-cow-2020">First Cow</a> (2020) by Toby Jones</li>
+  <li><a href="../24-hour-party-people-2002">24 Hour Party People</a> by Ron Cook</li>
+<li><a href="../hot-fuzz-2007">Hot Fuzz</a> by Ron Cook and Olivia Colman</li>
+<li><a href="../first-cow-2020">First Cow</a> by Toby Jones</li>
   </ul>
 
   <section class="film-detail">

@@ -55,9 +55,8 @@ description: "Gilbert Grape is a small-town young man with a lot of responsibili
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> (2023) by Leonardo DiCaprio</li>
-<li><a href="../magnolia-1999">Magnolia</a> (1999) by John C. Reilly</li>
-<li><a href="../licorice-pizza-2021">Licorice Pizza</a> (2021) by John C. Reilly</li>
+  <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by Leonardo DiCaprio</li>
+<li><a href="../magnolia-1999">Magnolia</a> and <a href="../licorice-pizza-2021">Licorice Pizza</a> by John C. Reilly</li>
   </ul>
 
   <section class="film-detail">

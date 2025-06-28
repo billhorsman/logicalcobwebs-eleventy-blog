@@ -55,8 +55,8 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../apocalypse-now-1979">Apocalypse Now</a> (1979) by Harrison Ford</li>
-<li><a href="../the-fugitive-1993">The Fugitive</a> (1993) by Harrison Ford</li>
+  <li><a href="../apocalypse-now-1979">Apocalypse Now</a> and <a href="../the-fugitive-1993">The Fugitive</a> by Harrison Ford</li>
+<li><a href="../black-hawk-down-2001">Black Hawk Down</a> and <a href="../house-of-gucci-2021">House of Gucci</a> by Ridley Scott</li>
   </ul>
 
   <section class="film-detail">

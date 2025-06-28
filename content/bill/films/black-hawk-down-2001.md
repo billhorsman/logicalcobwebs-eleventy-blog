@@ -55,10 +55,11 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../delicatessen-1991">Delicatessen</a> (1991) by Nikky Smedley</li>
-<li><a href="../shallow-grave-1994">Shallow Grave</a> (1994) by Ewan McGregor</li>
-<li><a href="../first-cow-2020">First Cow</a> (2020) by Ewen Bremner</li>
-<li><a href="../in-bruges-2008">In Bruges</a> (2008) by Zeljko Ivanek</li>
+  <li><a href="../blade-runner-1982">Blade Runner</a> and <a href="../house-of-gucci-2021">House of Gucci</a> by Ridley Scott</li>
+<li><a href="../delicatessen-1991">Delicatessen</a> by Nikky Smedley</li>
+<li><a href="../shallow-grave-1994">Shallow Grave</a> by Ewan McGregor</li>
+<li><a href="../first-cow-2020">First Cow</a> by Ewen Bremner</li>
+<li><a href="../in-bruges-2008">In Bruges</a> by Zeljko Ivanek</li>
   </ul>
 
   <section class="film-detail">

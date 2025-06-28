@@ -55,8 +55,8 @@ description: "Senator Walter Chalmers is aiming to take down mob boss Pete Ross 
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../north-by-northwest-1959">North by Northwest</a> (1959) by Paul Genge</li>
-<li><a href="../apocalypse-now-1979">Apocalypse Now</a> (1979) by Robert Duvall</li>
+  <li><a href="../north-by-northwest-1959">North by Northwest</a> by Paul Genge</li>
+<li><a href="../apocalypse-now-1979">Apocalypse Now</a> by Robert Duvall</li>
   </ul>
 
   <section class="film-detail">

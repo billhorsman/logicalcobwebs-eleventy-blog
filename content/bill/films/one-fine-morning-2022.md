@@ -55,8 +55,8 @@ description: "With a father suffering from neurodegenerative disease, a young wo
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> (2014) by Léa Seydoux</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Léa Seydoux and Sharif Andoura</li>
+  <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Léa Seydoux</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Léa Seydoux and Sharif Andoura</li>
   </ul>
 
   <section class="film-detail">

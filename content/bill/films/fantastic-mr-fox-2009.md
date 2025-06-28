@@ -55,13 +55,13 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> (1978) by Meryl Streep</li>
-<li><a href="../the-bourne-identity-2002">The Bourne Identity</a> (2002) by Brian Cox</li>
-<li><a href="../hot-fuzz-2007">Hot Fuzz</a> (2007) by Garth Jennings</li>
-<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> (2014) by Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Robin Hurlstone, Owen Wilson and Adrien Brody</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> (2021) by Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Jarvis Cocker, Owen Wilson and Adrien Brody</li>
-<li><a href="../asteroid-city-2023">Asteroid City</a> (2023) by Jason Schwartzman, Willem Dafoe, Jarvis Cocker and Adrien Brody</li>
-<li><a href="../the-lighthouse-2019">The Lighthouse</a> (2019) by Willem Dafoe</li>
+  <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> by Meryl Streep</li>
+<li><a href="../the-bourne-identity-2002">The Bourne Identity</a> by Brian Cox</li>
+<li><a href="../hot-fuzz-2007">Hot Fuzz</a> by Garth Jennings</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Robin Hurlstone, Wes Anderson, Owen Wilson and Adrien Brody</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Wes Anderson, Jarvis Cocker, Owen Wilson and Adrien Brody</li>
+<li><a href="../asteroid-city-2023">Asteroid City</a> by Jason Schwartzman, Willem Dafoe, Wes Anderson, Jarvis Cocker and Adrien Brody</li>
+<li><a href="../the-lighthouse-2019">The Lighthouse</a> by Willem Dafoe</li>
   </ul>
 
   <section class="film-detail">

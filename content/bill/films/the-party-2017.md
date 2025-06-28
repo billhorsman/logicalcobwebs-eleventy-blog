@@ -55,7 +55,7 @@ description: "Various individuals think they’re coming together for a party in
 
   <p class="related-films">Related to:</p>
   <ul class="related-films">
-  <li><a href="../mr-turner-2014">Mr. Turner</a> (2014) by Timothy Spall</li>
+  <li><a href="../mr-turner-2014">Mr. Turner</a> by Timothy Spall</li>
   </ul>
 
   <section class="film-detail">
