@@ -93,6 +93,7 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
 <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> because of Edward Norton, Jason Schwartzman, Willem Dafoe, Wes Anderson, Adrien Brody, Jeff Goldblum, Tilda Swinton, Tony Revolori, Bob Balaban and Fisher Stevens</li>
 <li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> because of Jason Schwartzman, Willem Dafoe, Wes Anderson, Jarvis Cocker and Adrien Brody</li>
 <li><a href="../the-lighthouse-2019">The Lighthouse</a> because of Willem Dafoe</li>
+<li><a href="../uncut-gems-2019">Uncut Gems</a> because of Tilda Swinton and Jake Ryan</li>
   </ul>
 </section>
 

@@ -13,7 +13,7 @@ description: "An African-American Mafia hit man who models himself after the sam
     <a href="../fight-club-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">36 / 100</a>
+    <a class="simple" href="../">35 / 100</a>
   </div>
   <div class="next">
     <a href="../magnolia-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

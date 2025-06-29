@@ -16,7 +16,7 @@ description: "As the railroad builders advance unstoppably through the Arizona d
     <a class="simple" href="../">11 / 100</a>
   </div>
   <div class="next">
-    <a href="../butch-cassidy-and-the-sundance-kid-1969">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../the-sting-1973">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "As the railroad builders advance unstoppably through the Arizona d
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Butch Cassidy and the Sundance Kid
+      The Sting
     </span>
   </div>
 </nav>

@@ -13,7 +13,7 @@ description: "A group of working-class friends decide to enlist in the Army duri
     <a href="../the-man-who-fell-to-earth-1976"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">17 / 100</a>
+    <a class="simple" href="../">16 / 100</a>
   </div>
   <div class="next">
     <a href="../apocalypse-now-1979">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -89,7 +89,7 @@ description: "A group of working-class friends decide to enlist in the Army duri
   <ul>
     <li><a href="../dog-day-afternoon-1975">Dog Day Afternoon</a> because of John Cazale</li>
 <li><a href="../brazil-1985">Brazil</a> and <a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of Robert De Niro</li>
-<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> because of Meryl Streep</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> and <a href="../little-women-2019">Little Women</a> because of Meryl Streep</li>
   </ul>
 </section>
 

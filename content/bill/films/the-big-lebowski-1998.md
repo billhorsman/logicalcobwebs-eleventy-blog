@@ -13,7 +13,7 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
     <a href="../good-will-hunting-1997"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">34 / 100</a>
+    <a class="simple" href="../">33 / 100</a>
   </div>
   <div class="next">
     <a href="../fight-club-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -87,8 +87,7 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> because of Sam Elliott</li>
-<li><a href="../fargo-1996">Fargo</a> because of Steve Buscemi, Peter Stormare, Warren Keith and Joel Coen</li>
+    <li><a href="../fargo-1996">Fargo</a> because of Steve Buscemi, Peter Stormare, Warren Keith and Joel Coen</li>
 <li><a href="../nomadland-2021">Nomadland</a> because of Warren Keith</li>
 <li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> and <a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> because of Joel Coen</li>
 <li><a href="../magnolia-1999">Magnolia</a> because of Julianne Moore, Philip Seymour Hoffman and Aimee Mann</li>

@@ -10,10 +10,10 @@ description: "A novice con man teams up with an acknowledged master to avenge th
 
 <nav class="films">
   <div class="prev">
-    <a href="../butch-cassidy-and-the-sundance-kid-1969"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../once-upon-a-time-in-the-west-1968"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">13 / 100</a>
+    <a class="simple" href="../">12 / 100</a>
   </div>
   <div class="next">
     <a href="../dog-day-afternoon-1975">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "A novice con man teams up with an acknowledged master to avenge th
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Butch Cassidy and the Sundance Kid
+      Once Upon a Time in the West
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
@@ -89,7 +89,6 @@ description: "A novice con man teams up with an acknowledged master to avenge th
   <ul>
     <li><a href="../north-by-northwest-1959">North by Northwest</a> because of Alexander Lockwood and Arthur Tovey</li>
 <li><a href="../in-the-heat-of-the-night-1967">In the Heat of the Night</a> because of Larry D. Mann</li>
-<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> because of Paul Newman, Robert Redford, Charles Dierkop and George Roy Hill</li>
 <li><a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> because of Robert Redford</li>
 <li><a href="../dog-day-afternoon-1975">Dog Day Afternoon</a> because of Charles Durning</li>
   </ul>

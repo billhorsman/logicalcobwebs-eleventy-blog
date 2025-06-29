@@ -10,7 +10,7 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
 
 <nav class="films">
   <div class="prev">
-    <a href="../la-strada-1954"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../rear-window-1954"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">4 / 100</a>
@@ -21,7 +21,7 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      La Strada
+      Rear Window
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
@@ -88,8 +88,9 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
   <h2>Related films</h2>
   <ul>
     <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> because of Finn Zirzow</li>
-<li><a href="../bullitt-1968">Bullitt</a> because of Paul Genge</li>
+<li><a href="../rear-window-1954">Rear Window</a> because of Jesslyn Fax, Bess Flowers, Len Hendry and Alfred Hitchcock</li>
 <li><a href="../parasite-2019">Parasite</a> because of Alfred Hitchcock</li>
+<li><a href="../bullitt-1968">Bullitt</a> because of Paul Genge</li>
 <li><a href="../the-sting-1973">The Sting</a> because of Alexander Lockwood and Arthur Tovey</li>
   </ul>
 </section>

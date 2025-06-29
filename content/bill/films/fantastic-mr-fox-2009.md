@@ -10,10 +10,10 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
 
 <nav class="films">
   <div class="prev">
-    <a href="../district-9-2009"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../in-bruges-2008"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">53 / 100</a>
+    <a class="simple" href="../">51 / 100</a>
   </div>
   <div class="next">
     <a href="../micmacs-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      District 9
+      In Bruges
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
@@ -87,7 +87,7 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> because of Meryl Streep</li>
+    <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> and <a href="../little-women-2019">Little Women</a> because of Meryl Streep</li>
 <li><a href="../the-bourne-identity-2002">The Bourne Identity</a> because of Brian Cox</li>
 <li><a href="../hot-fuzz-2007">Hot Fuzz</a> because of Garth Jennings</li>
 <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> because of Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Robin Hurlstone, Wes Anderson, Owen Wilson and Adrien Brody</li>

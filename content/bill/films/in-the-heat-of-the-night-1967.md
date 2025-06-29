@@ -88,7 +88,6 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
   <h2>Related films</h2>
   <ul>
     <li><a href="../the-sting-1973">The Sting</a> because of Larry D. Mann</li>
-<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> because of Timothy Scott</li>
   </ul>
 </section>
 

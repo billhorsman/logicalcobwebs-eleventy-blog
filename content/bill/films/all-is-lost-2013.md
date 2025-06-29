@@ -13,7 +13,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
     <a href="../kill-bill-the-whole-bloody-affair-2011"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">58 / 100</a>
+    <a class="simple" href="../">56 / 100</a>
   </div>
   <div class="next">
     <a href="../dallas-buyers-club-2013">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -87,7 +87,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a>, <a href="../the-sting-1973">The Sting</a> and <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> because of Robert Redford</li>
+    <li><a href="../the-sting-1973">The Sting</a> and <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> because of Robert Redford</li>
   </ul>
 </section>
 

@@ -16,7 +16,7 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
     <a class="simple" href="../">1 / 100</a>
   </div>
   <div class="next">
-    <a href="../whisky-galore-1949">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../la-strada-1954">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Whisky Galore!
+      La Strada
     </span>
   </div>
 </nav>
@@ -87,7 +87,8 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../north-by-northwest-1959">North by Northwest</a> because of Finn Zirzow</li>
+    <li><a href="../rear-window-1954">Rear Window</a> because of James Stewart</li>
+<li><a href="../north-by-northwest-1959">North by Northwest</a> because of Finn Zirzow</li>
   </ul>
 </section>
 

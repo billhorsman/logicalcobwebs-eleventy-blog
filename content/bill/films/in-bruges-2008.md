@@ -13,10 +13,10 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
     <a href="../happygolucky-2008"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">51 / 100</a>
+    <a class="simple" href="../">50 / 100</a>
   </div>
   <div class="next">
-    <a href="../district-9-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../fantastic-mr-fox-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      District 9
+      Fantastic Mr. Fox
     </span>
   </div>
 </nav>

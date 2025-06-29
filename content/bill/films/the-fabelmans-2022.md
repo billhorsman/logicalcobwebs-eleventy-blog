@@ -89,6 +89,7 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
   <ul>
     <li><a href="../fight-club-1999">Fight Club</a> and <a href="../magnolia-1999">Magnolia</a> because of Ezra Buzzington</li>
 <li><a href="../the-straight-story-1999">The Straight Story</a> and <a href="../lucky-2017">Lucky</a> because of David Lynch</li>
+<li><a href="../uncut-gems-2019">Uncut Gems</a> because of Judd Hirsch</li>
 <li><a href="../licorice-pizza-2021">Licorice Pizza</a> because of Isabelle Kusman and Paige Locke</li>
   </ul>
 </section>

@@ -13,7 +13,7 @@ description: "The adventures of a group of explorers who make use of a newly dis
     <a href="../dallas-buyers-club-2013"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">60 / 100</a>
+    <a class="simple" href="../">58 / 100</a>
   </div>
   <div class="next">
     <a href="../mr-turner-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -91,7 +91,7 @@ description: "The adventures of a group of explorers who make use of a newly dis
 <li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> and <a href="../the-bourne-identity-2002">The Bourne Identity</a> because of Matt Damon</li>
 <li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> because of Matthew McConaughey</li>
 <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of John Lithgow</li>
-<li><a href="../dune-2021">Dune</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> because of Timothée Chalamet</li>
+<li><a href="../little-women-2019">Little Women</a>, <a href="../dune-2021">Dune</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> because of Timothée Chalamet</li>
   </ul>
 </section>
 

@@ -13,10 +13,10 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
     <a href="../sink-or-swim-2018"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">70 / 100</a>
+    <a class="simple" href="../">68 / 100</a>
   </div>
   <div class="next">
-    <a href="../parasite-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../little-women-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Parasite
+      Little Women
     </span>
   </div>
 </nav>

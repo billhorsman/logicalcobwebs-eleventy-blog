@@ -1,9 +1,5 @@
 [
   {
-    "name": "Robert Redford",
-    "count": 4
-  },
-  {
     "name": "Colin Farrell",
     "count": 3
   },
@@ -21,6 +17,10 @@
   },
   {
     "name": "Robert De Niro",
+    "count": 3
+  },
+  {
+    "name": "Robert Redford",
     "count": 3
   },
   {

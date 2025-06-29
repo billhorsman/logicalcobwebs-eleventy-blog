@@ -10,10 +10,10 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
 
 <nav class="films">
   <div class="prev">
-    <a href="../woman-at-war-2018"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../little-women-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">71 / 100</a>
+    <a class="simple" href="../">70 / 100</a>
   </div>
   <div class="next">
     <a href="../portrait-of-a-lady-on-fire-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Woman at War
+      Little Women
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
@@ -87,7 +87,7 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../north-by-northwest-1959">North by Northwest</a> because of Alfred Hitchcock</li>
+    <li><a href="../rear-window-1954">Rear Window</a> and <a href="../north-by-northwest-1959">North by Northwest</a> because of Alfred Hitchcock</li>
 <li><a href="../the-handmaiden-2016">The Handmaiden</a> because of Lee Ji-hye and Ahn Seong-bong</li>
   </ul>
 </section>

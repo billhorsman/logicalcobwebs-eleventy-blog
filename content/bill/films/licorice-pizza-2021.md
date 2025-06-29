@@ -89,6 +89,7 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
   <ul>
     <li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> because of John C. Reilly</li>
 <li><a href="../magnolia-1999">Magnolia</a> because of John C. Reilly, Mark Flanagan, Paul Thomas Anderson and Brian Kehew</li>
+<li><a href="../uncut-gems-2019">Uncut Gems</a> because of Benny Safdie</li>
 <li><a href="../the-fabelmans-2022">The Fabelmans</a> because of Isabelle Kusman and Paige Locke</li>
   </ul>
 </section>

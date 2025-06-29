@@ -14,7 +14,7 @@ Starting from {% filmLink firstFilm.slug %} in {{ firstFilm.year }} through to {
 
 Based on these films, my favourite directors are {% namesAndCounts top_directors, 5 %}.
 
-Actors that crop up a lot are {% namesAndCounts top_cast, 6 %}.
+Actors that crop up a lot are {% namesAndCounts top_cast, 7 %}.
 
 A few films are in here because I watched them a long time ago and they have a nostalgic appeal. Films like {% summariseFilms nostalgic_films %}.
 

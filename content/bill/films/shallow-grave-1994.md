@@ -13,7 +13,7 @@ description: "When David, Juliet, and Alex find their new roommate dead with a l
     <a href="../lon-the-professional-1994"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">30 / 100</a>
+    <a class="simple" href="../">29 / 100</a>
   </div>
   <div class="next">
     <a href="../fargo-1996">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

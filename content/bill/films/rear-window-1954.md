@@ -1,36 +1,36 @@
 ---
-title: "Butch Cassidy and the Sundance Kid"
+title: "Rear Window"
 layout: layouts/films.njk
-slug: butch-cassidy-and-the-sundance-kid-1969
-ogImage: content/bill/films/backdrops/butch-cassidy-and-the-sundance-kid-1969.jpg
-description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law."
+slug: rear-window-1954
+ogImage: content/bill/films/backdrops/rear-window-1954.jpg
+description: "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder."
 ---
 
 {% set film = films[slug] %}
 
 <nav class="films">
   <div class="prev">
-    <a href="../once-upon-a-time-in-the-west-1968"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../la-strada-1954"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">12 / 100</a>
+    <a class="simple" href="../">3 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-sting-1973">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../north-by-northwest-1959">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Once Upon a Time in the West
+      La Strada
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Sting
+      North by Northwest
     </span>
   </div>
 </nav>
 
-<article class="film slug-butch-cassidy-and-the-sundance-kid-1969">
+<article class="film slug-rear-window-1954">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
@@ -87,10 +87,9 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../in-the-heat-of-the-night-1967">In the Heat of the Night</a> because of Timothy Scott</li>
-<li><a href="../the-sting-1973">The Sting</a> because of Paul Newman, Robert Redford, Charles Dierkop and George Roy Hill</li>
-<li><a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> because of Robert Redford</li>
-<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> because of Sam Elliott</li>
+    <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> because of James Stewart</li>
+<li><a href="../north-by-northwest-1959">North by Northwest</a> because of Jesslyn Fax, Bess Flowers, Len Hendry and Alfred Hitchcock</li>
+<li><a href="../parasite-2019">Parasite</a> because of Alfred Hitchcock</li>
   </ul>
 </section>
 

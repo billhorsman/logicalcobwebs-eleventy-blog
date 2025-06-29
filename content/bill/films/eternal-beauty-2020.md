@@ -10,7 +10,7 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-lighthouse-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../uncut-gems-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">74 / 100</a>
@@ -21,7 +21,7 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Lighthouse
+      Uncut Gems
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

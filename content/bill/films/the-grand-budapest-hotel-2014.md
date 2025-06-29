@@ -13,7 +13,7 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
     <a href="../mr-turner-2014"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">62 / 100</a>
+    <a class="simple" href="../">60 / 100</a>
   </div>
   <div class="next">
     <a href="../maudie-2016">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -95,7 +95,9 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
 <li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> because of Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Robin Hurlstone, Wes Anderson, Owen Wilson and Adrien Brody</li>
 <li><a href="../the-lighthouse-2019">The Lighthouse</a> because of Willem Dafoe</li>
 <li><a href="../sink-or-swim-2018">Sink or Swim</a> because of Mathieu Amalric</li>
+<li><a href="../little-women-2019">Little Women</a> because of Saoirse Ronan</li>
 <li><a href="../one-fine-morning-2022">One Fine Morning</a> because of Léa Seydoux</li>
+<li><a href="../uncut-gems-2019">Uncut Gems</a> because of Tilda Swinton</li>
   </ul>
 </section>
 
