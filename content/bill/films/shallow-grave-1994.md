@@ -53,14 +53,6 @@ description: "When David, Juliet, and Alex find their new roommate dead with a l
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../24-hour-party-people-2002">24 Hour Party People</a> by Christopher Eccleston and Keith Allen</li>
-<li><a href="../trainspotting-1996">Trainspotting</a> by Ewan McGregor, Keith Allen, Peter Mullan, Victor Eadie, Billy Riddoch and Danny Boyle</li>
-<li><a href="../black-hawk-down-2001">Black Hawk Down</a> by Ewan McGregor</li>
-<li><a href="../billy-elliot-2000">Billy Elliot</a> by Gary Lewis</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -91,4 +83,15 @@ description: "When David, Juliet, and Alex find their new roommate dead with a l
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../24-hour-party-people-2002">24 Hour Party People</a> because of Christopher Eccleston and Keith Allen</li>
+<li><a href="../trainspotting-1996">Trainspotting</a> because of Ewan McGregor, Keith Allen, Peter Mullan, Victor Eadie, Billy Riddoch and Danny Boyle</li>
+<li><a href="../black-hawk-down-2001">Black Hawk Down</a> because of Ewan McGregor</li>
+<li><a href="../billy-elliot-2000">Billy Elliot</a> because of Gary Lewis</li>
+  </ul>
+</section>
+
 </article>

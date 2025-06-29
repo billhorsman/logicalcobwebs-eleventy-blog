@@ -53,11 +53,6 @@ description: "One night in his near-empty tower block in contemporary London, Ad
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../billy-elliot-2000">Billy Elliot</a> by Jamie Bell</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,12 @@ description: "One night in his near-empty tower block in contemporary London, Ad
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../billy-elliot-2000">Billy Elliot</a> because of Jamie Bell</li>
+  </ul>
+</section>
+
 </article>

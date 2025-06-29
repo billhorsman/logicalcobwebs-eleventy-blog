@@ -53,15 +53,6 @@ description: "A novice con man teams up with an acknowledged master to avenge th
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../north-by-northwest-1959">North by Northwest</a> by Alexander Lockwood and Arthur Tovey</li>
-<li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a>, <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> by Robert Redford</li>
-<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> by Robert Redford, Paul Newman, Charles Dierkop and George Roy Hill</li>
-<li><a href="../in-the-heat-of-the-night-1967">In the Heat of the Night</a> by Larry D. Mann</li>
-<li><a href="../dog-day-afternoon-1975">Dog Day Afternoon</a> by Charles Durning</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -92,4 +83,16 @@ description: "A novice con man teams up with an acknowledged master to avenge th
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../north-by-northwest-1959">North by Northwest</a> because of Alexander Lockwood and Arthur Tovey</li>
+<li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a>, <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> because of Robert Redford</li>
+<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> because of Robert Redford, Paul Newman, Charles Dierkop and George Roy Hill</li>
+<li><a href="../in-the-heat-of-the-night-1967">In the Heat of the Night</a> because of Larry D. Mann</li>
+<li><a href="../dog-day-afternoon-1975">Dog Day Afternoon</a> because of Charles Durning</li>
+  </ul>
+</section>
+
 </article>

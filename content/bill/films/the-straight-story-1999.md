@@ -53,14 +53,6 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../paris-texas-1984">Paris, Texas</a> by Harry Dean Stanton</li>
-<li><a href="../lucky-2017">Lucky</a> by Harry Dean Stanton and David Lynch</li>
-<li><a href="../fargo-1996">Fargo</a> by Sally Wingert</li>
-<li><a href="../the-fabelmans-2022">The Fabelmans</a> by David Lynch</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -91,4 +83,15 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../paris-texas-1984">Paris, Texas</a> because of Harry Dean Stanton</li>
+<li><a href="../lucky-2017">Lucky</a> because of Harry Dean Stanton and David Lynch</li>
+<li><a href="../fargo-1996">Fargo</a> because of Sally Wingert</li>
+<li><a href="../the-fabelmans-2022">The Fabelmans</a> because of David Lynch</li>
+  </ul>
+</section>
+
 </article>

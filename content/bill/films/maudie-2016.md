@@ -53,11 +53,6 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../happygolucky-2008">Happy-Go-Lucky</a> and <a href="../eternal-beauty-2020">Eternal Beauty</a> by Sally Hawkins</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,12 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../happygolucky-2008">Happy-Go-Lucky</a> and <a href="../eternal-beauty-2020">Eternal Beauty</a> because of Sally Hawkins</li>
+  </ul>
+</section>
+
 </article>

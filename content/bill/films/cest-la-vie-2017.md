@@ -53,12 +53,6 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../sink-or-swim-2018">Sink or Swim</a> by Gilles Lellouche and Alban Ivanov</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Benjamin Lavernhe</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -89,4 +83,13 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../sink-or-swim-2018">Sink or Swim</a> because of Gilles Lellouche and Alban Ivanov</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> because of Benjamin Lavernhe</li>
+  </ul>
+</section>
+
 </article>

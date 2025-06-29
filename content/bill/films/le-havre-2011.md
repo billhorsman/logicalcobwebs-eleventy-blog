@@ -53,11 +53,6 @@ description: "In the French harbor city of Le Havre, fate throws young African r
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,6 @@ description: "In the French harbor city of Le Havre, fate throws young African r
       </details>
     </div>
   </section>
+
+  
 </article>

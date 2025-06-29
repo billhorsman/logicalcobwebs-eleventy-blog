@@ -53,17 +53,6 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> by Sam Elliott</li>
-<li><a href="../fargo-1996">Fargo</a> by Steve Buscemi, Peter Stormare, Warren Keith and Joel Coen</li>
-<li><a href="../nomadland-2021">Nomadland</a> by Warren Keith</li>
-<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> and <a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Joel Coen</li>
-<li><a href="../magnolia-1999">Magnolia</a> by Julianne Moore, Philip Seymour Hoffman and Aimee Mann</li>
-<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> by Philip Seymour Hoffman</li>
-<li><a href="../eternal-beauty-2020">Eternal Beauty</a> by David Thewlis</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -94,4 +83,18 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a> because of Sam Elliott</li>
+<li><a href="../fargo-1996">Fargo</a> because of Steve Buscemi, Peter Stormare, Warren Keith and Joel Coen</li>
+<li><a href="../nomadland-2021">Nomadland</a> because of Warren Keith</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> and <a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> because of Joel Coen</li>
+<li><a href="../magnolia-1999">Magnolia</a> because of Julianne Moore, Philip Seymour Hoffman and Aimee Mann</li>
+<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> because of Philip Seymour Hoffman</li>
+<li><a href="../eternal-beauty-2020">Eternal Beauty</a> because of David Thewlis</li>
+  </ul>
+</section>
+
 </article>

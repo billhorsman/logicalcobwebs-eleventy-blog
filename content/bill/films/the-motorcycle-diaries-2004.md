@@ -53,11 +53,6 @@ description: "Based on the journals of Che Guevara, leader of the Cuban Revoluti
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,6 @@ description: "Based on the journals of Che Guevara, leader of the Cuban Revoluti
       </details>
     </div>
   </section>
+
+  
 </article>

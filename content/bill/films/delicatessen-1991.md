@@ -53,14 +53,6 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../diva-1981">Diva</a> by Dominique Pinon</li>
-<li><a href="../amlie-2001">Amélie</a> by Dominique Pinon, Ticky Holgado, Rufus, Patrick Paroux and Jean-Pierre Jeunet</li>
-<li><a href="../micmacs-2009">Micmacs</a> by Dominique Pinon and Jean-Pierre Jeunet</li>
-<li><a href="../black-hawk-down-2001">Black Hawk Down</a> by Nikky Smedley</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -91,4 +83,15 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../diva-1981">Diva</a> because of Dominique Pinon</li>
+<li><a href="../amlie-2001">Amélie</a> because of Dominique Pinon, Ticky Holgado, Rufus, Patrick Paroux and Jean-Pierre Jeunet</li>
+<li><a href="../micmacs-2009">Micmacs</a> because of Dominique Pinon and Jean-Pierre Jeunet</li>
+<li><a href="../black-hawk-down-2001">Black Hawk Down</a> because of Nikky Smedley</li>
+  </ul>
+</section>
+
 </article>

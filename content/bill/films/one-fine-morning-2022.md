@@ -53,12 +53,6 @@ description: "With a father suffering from neurodegenerative disease, a young wo
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Léa Seydoux</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Léa Seydoux and Sharif Andoura</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -89,4 +83,13 @@ description: "With a father suffering from neurodegenerative disease, a young wo
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> because of Léa Seydoux</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> because of Léa Seydoux and Sharif Andoura</li>
+  </ul>
+</section>
+
 </article>

@@ -53,13 +53,6 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../the-big-lebowski-1998">The Big Lebowski</a> by David Thewlis</li>
-<li><a href="../hot-fuzz-2007">Hot Fuzz</a> by Alice Lowe</li>
-<li><a href="../happygolucky-2008">Happy-Go-Lucky</a> and <a href="../maudie-2016">Maudie</a> by Sally Hawkins</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -90,4 +83,14 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../the-big-lebowski-1998">The Big Lebowski</a> because of David Thewlis</li>
+<li><a href="../hot-fuzz-2007">Hot Fuzz</a> because of Alice Lowe</li>
+<li><a href="../happygolucky-2008">Happy-Go-Lucky</a> and <a href="../maudie-2016">Maudie</a> because of Sally Hawkins</li>
+  </ul>
+</section>
+
 </article>

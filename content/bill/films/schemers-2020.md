@@ -53,11 +53,6 @@ description: "Set in late-1970s Dundee, Schemers is based on writer-producer Dav
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,6 @@ description: "Set in late-1970s Dundee, Schemers is based on writer-producer Dav
       </details>
     </div>
   </section>
+
+  
 </article>

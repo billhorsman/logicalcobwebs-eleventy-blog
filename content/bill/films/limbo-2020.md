@@ -53,11 +53,6 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,6 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
       </details>
     </div>
   </section>
+
+  
 </article>

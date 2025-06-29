@@ -53,19 +53,6 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../fight-club-1999">Fight Club</a> by Edward Norton</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Edward Norton, Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Wes Anderson, Owen Wilson, Adrien Brody, Mathieu Amalric, Saoirse Ronan, Léa Seydoux, Tilda Swinton, Tony Revolori, Larry Pine, Bob Balaban and Fisher Stevens</li>
-<li><a href="../asteroid-city-2023">Asteroid City</a> by Edward Norton, Jason Schwartzman, Willem Dafoe, Wes Anderson, Adrien Brody, Jeff Goldblum, Tilda Swinton, Tony Revolori, Bob Balaban and Fisher Stevens</li>
-<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> by Jude Law</li>
-<li><a href="../in-bruges-2008">In Bruges</a> by Ralph Fiennes</li>
-<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> by Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Robin Hurlstone, Wes Anderson, Owen Wilson and Adrien Brody</li>
-<li><a href="../the-lighthouse-2019">The Lighthouse</a> by Willem Dafoe</li>
-<li><a href="../sink-or-swim-2018">Sink or Swim</a> by Mathieu Amalric</li>
-<li><a href="../one-fine-morning-2022">One Fine Morning</a> by Léa Seydoux</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -96,4 +83,20 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../fight-club-1999">Fight Club</a> because of Edward Norton</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> because of Edward Norton, Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Wes Anderson, Owen Wilson, Adrien Brody, Mathieu Amalric, Saoirse Ronan, Léa Seydoux, Tilda Swinton, Tony Revolori, Larry Pine, Bob Balaban and Fisher Stevens</li>
+<li><a href="../asteroid-city-2023">Asteroid City</a> because of Edward Norton, Jason Schwartzman, Willem Dafoe, Wes Anderson, Adrien Brody, Jeff Goldblum, Tilda Swinton, Tony Revolori, Bob Balaban and Fisher Stevens</li>
+<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> because of Jude Law</li>
+<li><a href="../in-bruges-2008">In Bruges</a> because of Ralph Fiennes</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> because of Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Robin Hurlstone, Wes Anderson, Owen Wilson and Adrien Brody</li>
+<li><a href="../the-lighthouse-2019">The Lighthouse</a> because of Willem Dafoe</li>
+<li><a href="../sink-or-swim-2018">Sink or Swim</a> because of Mathieu Amalric</li>
+<li><a href="../one-fine-morning-2022">One Fine Morning</a> because of Léa Seydoux</li>
+  </ul>
+</section>
+
 </article>

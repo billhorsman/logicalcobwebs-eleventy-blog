@@ -53,11 +53,6 @@ description: "As the railroad builders advance unstoppably through the Arizona d
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../magnolia-1999">Magnolia</a> by Jason Robards</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,12 @@ description: "As the railroad builders advance unstoppably through the Arizona d
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../magnolia-1999">Magnolia</a> because of Jason Robards</li>
+  </ul>
+</section>
+
 </article>

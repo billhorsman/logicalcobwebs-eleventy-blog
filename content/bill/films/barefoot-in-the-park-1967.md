@@ -53,12 +53,6 @@ description: "In this film based on a Neil Simon play, newlyweds Corie, a free s
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> by John Indrisano</li>
-<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a>, <a href="../the-sting-1973">The Sting</a>, <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> by Robert Redford</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -89,4 +83,13 @@ description: "In this film based on a Neil Simon play, newlyweds Corie, a free s
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> because of John Indrisano</li>
+<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a>, <a href="../the-sting-1973">The Sting</a>, <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> because of Robert Redford</li>
+  </ul>
+</section>
+
 </article>

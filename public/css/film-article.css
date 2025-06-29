@@ -95,10 +95,14 @@ section.ticket-stub {
   }
 }
 
-p.related-films {
-  margin-bottom: 0;
-}
+section.related-films {
+  margin-top: 2rem;
 
-ul.related-films {
-  margin-top: 0;
+  & h2 {
+    margin-bottom: 0;
+  }
+
+  & ul {
+    margin-top: 0;
+  }
 }

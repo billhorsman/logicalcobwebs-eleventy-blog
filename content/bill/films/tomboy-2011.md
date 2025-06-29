@@ -53,12 +53,6 @@ description: "A French family moves to a new neighborhood with during the summer
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../portrait-of-a-lady-on-fire-2019">Portrait of a Lady on Fire</a> by Christel Baras and Céline Sciamma</li>
-<li><a href="../petite-maman-2021">Petite Maman</a> by Céline Sciamma</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -89,4 +83,13 @@ description: "A French family moves to a new neighborhood with during the summer
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../portrait-of-a-lady-on-fire-2019">Portrait of a Lady on Fire</a> because of Christel Baras and Céline Sciamma</li>
+<li><a href="../petite-maman-2021">Petite Maman</a> because of Céline Sciamma</li>
+  </ul>
+</section>
+
 </article>

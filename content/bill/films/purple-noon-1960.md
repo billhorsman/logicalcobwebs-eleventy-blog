@@ -53,11 +53,6 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,6 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
       </details>
     </div>
   </section>
+
+  
 </article>

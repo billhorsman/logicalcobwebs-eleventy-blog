@@ -53,11 +53,6 @@ description: "Thirty years ago, aliens arrive on Earth. Not to conquer or give a
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,6 @@ description: "Thirty years ago, aliens arrive on Earth. Not to conquer or give a
       </details>
     </div>
   </section>
+
+  
 </article>

@@ -53,15 +53,6 @@ description: "The adventures of a group of explorers who make use of a newly dis
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../good-will-hunting-1997">Good Will Hunting</a> by Matt Damon and Casey Affleck</li>
-<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> and <a href="../the-bourne-identity-2002">The Bourne Identity</a> by Matt Damon</li>
-<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> by Matthew McConaughey</li>
-<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by John Lithgow</li>
-<li><a href="../dune-2021">Dune</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> by Timothée Chalamet</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -92,4 +83,16 @@ description: "The adventures of a group of explorers who make use of a newly dis
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../good-will-hunting-1997">Good Will Hunting</a> because of Matt Damon and Casey Affleck</li>
+<li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> and <a href="../the-bourne-identity-2002">The Bourne Identity</a> because of Matt Damon</li>
+<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> because of Matthew McConaughey</li>
+<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of John Lithgow</li>
+<li><a href="../dune-2021">Dune</a> and <a href="../the-french-dispatch-2021">The French Dispatch</a> because of Timothée Chalamet</li>
+  </ul>
+</section>
+
 </article>

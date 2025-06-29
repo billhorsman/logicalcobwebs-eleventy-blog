@@ -53,11 +53,6 @@ description: "An anthology of 5 different cab drivers in 5 American and European
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../ghost-dog-the-way-of-the-samurai-1999">Ghost Dog: The Way of the Samurai</a> by Isaach de Bankolé and Jim Jarmusch</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,12 @@ description: "An anthology of 5 different cab drivers in 5 American and European
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../ghost-dog-the-way-of-the-samurai-1999">Ghost Dog: The Way of the Samurai</a> because of Isaach de Bankolé and Jim Jarmusch</li>
+  </ul>
+</section>
+
 </article>

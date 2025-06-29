@@ -53,12 +53,6 @@ description: "County Durham, England, 1984. The miners' strike has started and t
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../shallow-grave-1994">Shallow Grave</a> by Gary Lewis</li>
-<li><a href="../all-of-us-strangers-2023">All of Us Strangers</a> by Jamie Bell</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -89,4 +83,13 @@ description: "County Durham, England, 1984. The miners' strike has started and t
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../shallow-grave-1994">Shallow Grave</a> because of Gary Lewis</li>
+<li><a href="../all-of-us-strangers-2023">All of Us Strangers</a> because of Jamie Bell</li>
+  </ul>
+</section>
+
 </article>

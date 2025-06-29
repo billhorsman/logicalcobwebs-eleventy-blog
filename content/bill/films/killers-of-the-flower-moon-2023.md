@@ -53,18 +53,6 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> and <a href="../brazil-1985">Brazil</a> by Robert De Niro</li>
-<li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> by Leonardo DiCaprio</li>
-<li><a href="../magnolia-1999">Magnolia</a> by Pat Healy</li>
-<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> by Barry Corbin and Gene Jones</li>
-<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> by Carl Palmer</li>
-<li><a href="../interstellar-2014">Interstellar</a> by John Lithgow</li>
-<li><a href="../first-cow-2020">First Cow</a> by Scott Shepherd and Lily Gladstone</li>
-<li><a href="../the-power-of-the-dog-2021">The Power of the Dog</a> by Jesse Plemons</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -95,4 +83,19 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> and <a href="../brazil-1985">Brazil</a> because of Robert De Niro</li>
+<li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> because of Leonardo DiCaprio</li>
+<li><a href="../magnolia-1999">Magnolia</a> because of Pat Healy</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> because of Barry Corbin and Gene Jones</li>
+<li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> because of Carl Palmer</li>
+<li><a href="../interstellar-2014">Interstellar</a> because of John Lithgow</li>
+<li><a href="../first-cow-2020">First Cow</a> because of Scott Shepherd and Lily Gladstone</li>
+<li><a href="../the-power-of-the-dog-2021">The Power of the Dog</a> because of Jesse Plemons</li>
+  </ul>
+</section>
+
 </article>

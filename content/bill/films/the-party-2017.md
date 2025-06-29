@@ -53,11 +53,6 @@ description: "Various individuals think they’re coming together for a party in
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../mr-turner-2014">Mr. Turner</a> by Timothy Spall</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,12 @@ description: "Various individuals think they’re coming together for a party in
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../mr-turner-2014">Mr. Turner</a> because of Timothy Spall</li>
+  </ul>
+</section>
+
 </article>

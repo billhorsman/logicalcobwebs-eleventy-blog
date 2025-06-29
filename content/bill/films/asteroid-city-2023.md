@@ -53,16 +53,6 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../fargo-1996">Fargo</a> by Steve Park</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Steve Park, Edward Norton, Jason Schwartzman, Willem Dafoe, Wes Anderson, Jarvis Cocker, Adrien Brody, Tilda Swinton, Tony Revolori, Bob Balaban, Fisher Stevens, Jeffrey Wright, Mohamed Belhadjine, Nicolas Avinée, Rupert Friend, Tom Hudson, Stéphane Bak, Liev Schreiber, Damien Bonnard, Rodolphe Pauly and Eliel Ford</li>
-<li><a href="../fight-club-1999">Fight Club</a> by Edward Norton</li>
-<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Edward Norton, Jason Schwartzman, Willem Dafoe, Wes Anderson, Adrien Brody, Jeff Goldblum, Tilda Swinton, Tony Revolori, Bob Balaban and Fisher Stevens</li>
-<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> by Jason Schwartzman, Willem Dafoe, Wes Anderson, Jarvis Cocker and Adrien Brody</li>
-<li><a href="../the-lighthouse-2019">The Lighthouse</a> by Willem Dafoe</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -93,4 +83,17 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../fargo-1996">Fargo</a> because of Steve Park</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> because of Steve Park, Edward Norton, Jason Schwartzman, Willem Dafoe, Wes Anderson, Jarvis Cocker, Adrien Brody, Tilda Swinton, Tony Revolori, Bob Balaban, Fisher Stevens, Jeffrey Wright, Mohamed Belhadjine, Nicolas Avinée, Rupert Friend, Tom Hudson, Stéphane Bak, Liev Schreiber, Damien Bonnard, Rodolphe Pauly and Eliel Ford</li>
+<li><a href="../fight-club-1999">Fight Club</a> because of Edward Norton</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> because of Edward Norton, Jason Schwartzman, Willem Dafoe, Wes Anderson, Adrien Brody, Jeff Goldblum, Tilda Swinton, Tony Revolori, Bob Balaban and Fisher Stevens</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> because of Jason Schwartzman, Willem Dafoe, Wes Anderson, Jarvis Cocker and Adrien Brody</li>
+<li><a href="../the-lighthouse-2019">The Lighthouse</a> because of Willem Dafoe</li>
+  </ul>
+</section>
+
 </article>

@@ -53,13 +53,6 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../24-hour-party-people-2002">24 Hour Party People</a> by Ron Cook</li>
-<li><a href="../hot-fuzz-2007">Hot Fuzz</a> by Ron Cook and Olivia Colman</li>
-<li><a href="../first-cow-2020">First Cow</a> by Toby Jones</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -90,4 +83,14 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../24-hour-party-people-2002">24 Hour Party People</a> because of Ron Cook</li>
+<li><a href="../hot-fuzz-2007">Hot Fuzz</a> because of Ron Cook and Olivia Colman</li>
+<li><a href="../first-cow-2020">First Cow</a> because of Toby Jones</li>
+  </ul>
+</section>
+
 </article>

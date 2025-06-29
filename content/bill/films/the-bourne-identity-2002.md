@@ -53,13 +53,6 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../good-will-hunting-1997">Good Will Hunting</a>, <a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> and <a href="../interstellar-2014">Interstellar</a> by Matt Damon</li>
-<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> by Brian Cox</li>
-<li><a href="../mr-turner-2014">Mr. Turner</a> by Vincent Franklin</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -90,4 +83,14 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../good-will-hunting-1997">Good Will Hunting</a>, <a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> and <a href="../interstellar-2014">Interstellar</a> because of Matt Damon</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> because of Brian Cox</li>
+<li><a href="../mr-turner-2014">Mr. Turner</a> because of Vincent Franklin</li>
+  </ul>
+</section>
+
 </article>

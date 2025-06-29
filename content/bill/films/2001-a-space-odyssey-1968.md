@@ -53,11 +53,6 @@ description: "Humanity finds a mysterious object buried beneath the lunar surfac
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,6 @@ description: "Humanity finds a mysterious object buried beneath the lunar surfac
       </details>
     </div>
   </section>
+
+  
 </article>

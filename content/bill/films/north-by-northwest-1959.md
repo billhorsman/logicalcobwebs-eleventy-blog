@@ -53,14 +53,6 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> by Finn Zirzow</li>
-<li><a href="../bullitt-1968">Bullitt</a> by Paul Genge</li>
-<li><a href="../parasite-2019">Parasite</a> by Alfred Hitchcock</li>
-<li><a href="../the-sting-1973">The Sting</a> by Alexander Lockwood and Arthur Tovey</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -91,4 +83,15 @@ description: "Advertising man Roger Thornhill is mistaken for a spy, triggering 
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> because of Finn Zirzow</li>
+<li><a href="../bullitt-1968">Bullitt</a> because of Paul Genge</li>
+<li><a href="../parasite-2019">Parasite</a> because of Alfred Hitchcock</li>
+<li><a href="../the-sting-1973">The Sting</a> because of Alexander Lockwood and Arthur Tovey</li>
+  </ul>
+</section>
+
 </article>

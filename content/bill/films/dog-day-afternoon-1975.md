@@ -53,13 +53,6 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../the-sting-1973">The Sting</a> by Charles Durning</li>
-<li><a href="../house-of-gucci-2021">House of Gucci</a> by Al Pacino</li>
-<li><a href="../the-deer-hunter-1978">The Deer Hunter</a> by John Cazale</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -90,4 +83,14 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../the-sting-1973">The Sting</a> because of Charles Durning</li>
+<li><a href="../house-of-gucci-2021">House of Gucci</a> because of Al Pacino</li>
+<li><a href="../the-deer-hunter-1978">The Deer Hunter</a> because of John Cazale</li>
+  </ul>
+</section>
+
 </article>

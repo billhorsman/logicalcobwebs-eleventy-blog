@@ -53,13 +53,6 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../fight-club-1999">Fight Club</a> and <a href="../magnolia-1999">Magnolia</a> by Ezra Buzzington</li>
-<li><a href="../the-straight-story-1999">The Straight Story</a> and <a href="../lucky-2017">Lucky</a> by David Lynch</li>
-<li><a href="../licorice-pizza-2021">Licorice Pizza</a> by Isabelle Kusman and Paige Locke</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -90,4 +83,14 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../fight-club-1999">Fight Club</a> and <a href="../magnolia-1999">Magnolia</a> because of Ezra Buzzington</li>
+<li><a href="../the-straight-story-1999">The Straight Story</a> and <a href="../lucky-2017">Lucky</a> because of David Lynch</li>
+<li><a href="../licorice-pizza-2021">Licorice Pizza</a> because of Isabelle Kusman and Paige Locke</li>
+  </ul>
+</section>
+
 </article>

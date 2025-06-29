@@ -53,17 +53,6 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../black-hawk-down-2001">Black Hawk Down</a> by Zeljko Ivanek</li>
-<li><a href="../phone-booth-2003">Phone Booth</a> by Colin Farrell</li>
-<li><a href="../the-banshees-of-inisherin-2022">The Banshees of Inisherin</a> by Colin Farrell, Brendan Gleeson and Martin McDonagh</li>
-<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Brendan Gleeson</li>
-<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Ralph Fiennes</li>
-<li><a href="../mr-turner-2014">Mr. Turner</a> by Elizabeth Berrington</li>
-<li><a href="../belfast-2021">Belfast</a> by Ciarán Hinds</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -94,4 +83,18 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../black-hawk-down-2001">Black Hawk Down</a> because of Zeljko Ivanek</li>
+<li><a href="../phone-booth-2003">Phone Booth</a> because of Colin Farrell</li>
+<li><a href="../the-banshees-of-inisherin-2022">The Banshees of Inisherin</a> because of Colin Farrell, Brendan Gleeson and Martin McDonagh</li>
+<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> because of Brendan Gleeson</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> because of Ralph Fiennes</li>
+<li><a href="../mr-turner-2014">Mr. Turner</a> because of Elizabeth Berrington</li>
+<li><a href="../belfast-2021">Belfast</a> because of Ciarán Hinds</li>
+  </ul>
+</section>
+
 </article>

@@ -53,11 +53,6 @@ description: "Two lighthouse keepers try to maintain their sanity while living o
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a>, <a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Willem Dafoe</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,12 @@ description: "Two lighthouse keepers try to maintain their sanity while living o
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a>, <a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> because of Willem Dafoe</li>
+  </ul>
+</section>
+
 </article>

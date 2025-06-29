@@ -53,11 +53,6 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,6 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
       </details>
     </div>
   </section>
+
+  
 </article>

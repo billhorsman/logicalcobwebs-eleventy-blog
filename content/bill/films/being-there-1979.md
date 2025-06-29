@@ -53,11 +53,6 @@ description: "A simple-minded gardener named Chance has spent all his life in th
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../la-strada-1954">La Strada</a> by Richard Basehart</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,12 @@ description: "A simple-minded gardener named Chance has spent all his life in th
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../la-strada-1954">La Strada</a> because of Richard Basehart</li>
+  </ul>
+</section>
+
 </article>

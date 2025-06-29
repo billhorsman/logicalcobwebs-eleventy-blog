@@ -53,14 +53,6 @@ description: "A ticking-time-bomb insomniac and a slippery soap salesman channel
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> by Edward Norton</li>
-<li><a href="../phone-booth-2003">Phone Booth</a>, <a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> and <a href="../house-of-gucci-2021">House of Gucci</a> by Jared Leto</li>
-<li><a href="../magnolia-1999">Magnolia</a> by Ezra Buzzington, Michael Shamus Wiles, Greg Bronson and Phil Hawn</li>
-<li><a href="../the-fabelmans-2022">The Fabelmans</a> by Ezra Buzzington</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -91,4 +83,15 @@ description: "A ticking-time-bomb insomniac and a slippery soap salesman channel
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a>, <a href="../the-french-dispatch-2021">The French Dispatch</a> and <a href="../asteroid-city-2023">Asteroid City</a> because of Edward Norton</li>
+<li><a href="../phone-booth-2003">Phone Booth</a>, <a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> and <a href="../house-of-gucci-2021">House of Gucci</a> because of Jared Leto</li>
+<li><a href="../magnolia-1999">Magnolia</a> because of Ezra Buzzington, Michael Shamus Wiles, Greg Bronson and Phil Hawn</li>
+<li><a href="../the-fabelmans-2022">The Fabelmans</a> because of Ezra Buzzington</li>
+  </ul>
+</section>
+
 </article>

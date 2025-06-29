@@ -53,16 +53,6 @@ description: "Hilarious but harrowing, the film charts the disintegration of the
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../shallow-grave-1994">Shallow Grave</a> by Ewan McGregor, Keith Allen, Peter Mullan, Victor Eadie, Billy Riddoch and Danny Boyle</li>
-<li><a href="../black-hawk-down-2001">Black Hawk Down</a> by Ewan McGregor and Ewen Bremner</li>
-<li><a href="../24-hour-party-people-2002">24 Hour Party People</a> by Keith Allen and Shirley Henderson</li>
-<li><a href="../first-cow-2020">First Cow</a> by Ewen Bremner</li>
-<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> by Kelly Macdonald</li>
-<li><a href="../mr-turner-2014">Mr. Turner</a> by Stuart McQuarrie</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -93,4 +83,17 @@ description: "Hilarious but harrowing, the film charts the disintegration of the
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../shallow-grave-1994">Shallow Grave</a> because of Ewan McGregor, Keith Allen, Peter Mullan, Victor Eadie, Billy Riddoch and Danny Boyle</li>
+<li><a href="../black-hawk-down-2001">Black Hawk Down</a> because of Ewan McGregor and Ewen Bremner</li>
+<li><a href="../24-hour-party-people-2002">24 Hour Party People</a> because of Keith Allen and Shirley Henderson</li>
+<li><a href="../first-cow-2020">First Cow</a> because of Ewen Bremner</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> because of Kelly Macdonald</li>
+<li><a href="../mr-turner-2014">Mr. Turner</a> because of Stuart McQuarrie</li>
+  </ul>
+</section>
+
 </article>

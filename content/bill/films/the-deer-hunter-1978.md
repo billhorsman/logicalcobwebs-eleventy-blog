@@ -53,13 +53,6 @@ description: "A group of working-class friends decide to enlist in the Army duri
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../dog-day-afternoon-1975">Dog Day Afternoon</a> by John Cazale</li>
-<li><a href="../brazil-1985">Brazil</a> and <a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by Robert De Niro</li>
-<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> by Meryl Streep</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -90,4 +83,14 @@ description: "A group of working-class friends decide to enlist in the Army duri
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../dog-day-afternoon-1975">Dog Day Afternoon</a> because of John Cazale</li>
+<li><a href="../brazil-1985">Brazil</a> and <a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of Robert De Niro</li>
+<li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> because of Meryl Streep</li>
+  </ul>
+</section>
+
 </article>

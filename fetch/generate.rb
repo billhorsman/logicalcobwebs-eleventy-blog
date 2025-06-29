@@ -131,7 +131,18 @@ top_films.each_with_index do |film, index|
   end
   reverse_lookup.each do |names, films|
     links = films.map { |film| "<a href=\"../#{film.slug}\">#{film.title}</a>" }
-    related << "#{to_sentence(links)} by #{to_sentence(names)}"  
+    related << "#{to_sentence(links)} because of #{to_sentence(names)}"  
+  end
+
+  related_section = if related.any?
+    <<~MD
+      <section class="related-films">
+        <h2>Related films</h2>
+        <ul>
+          #{related.map { |x| "<li>#{x}</li>" }.join("\n")}
+        </ul>
+      </section>
+    MD
   end
   
   puts "Writing #{film.slug}.md"
@@ -192,11 +203,6 @@ top_films.each_with_index do |film, index|
         </blockquote> 
       {%- endif -%}
 
-      #{"<p class=\"related-films\">Related to:</p>" if related.any?}
-      #{"<ul class=\"related-films\">" if related.any?}
-      #{related.map { |x| "<li>#{x}</li>" }.join("\n")}
-      #{"</ul>" if related.any?}
-
       <section class="film-detail">
         <div>
           <details>
@@ -227,6 +233,8 @@ top_films.each_with_index do |film, index|
           </details>
         </div>
       </section>
+
+      #{related_section}
     </article>
   MD
 end

@@ -53,13 +53,6 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> by John C. Reilly</li>
-<li><a href="../magnolia-1999">Magnolia</a> by John C. Reilly, Mark Flanagan, Paul Thomas Anderson and Brian Kehew</li>
-<li><a href="../the-fabelmans-2022">The Fabelmans</a> by Isabelle Kusman and Paige Locke</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -90,4 +83,14 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> because of John C. Reilly</li>
+<li><a href="../magnolia-1999">Magnolia</a> because of John C. Reilly, Mark Flanagan, Paul Thomas Anderson and Brian Kehew</li>
+<li><a href="../the-fabelmans-2022">The Fabelmans</a> because of Isabelle Kusman and Paige Locke</li>
+  </ul>
+</section>
+
 </article>

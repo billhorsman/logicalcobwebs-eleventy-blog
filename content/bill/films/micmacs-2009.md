@@ -53,13 +53,6 @@ description: "While standing in the doorway of the video shop where he works, Ba
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../diva-1981">Diva</a> by Dominique Pinon</li>
-<li><a href="../delicatessen-1991">Delicatessen</a> by Dominique Pinon and Jean-Pierre Jeunet</li>
-<li><a href="../amlie-2001">Amélie</a> by Dominique Pinon, Jean-Pierre Jeunet, Yolande Moreau and André Dussollier</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -90,4 +83,14 @@ description: "While standing in the doorway of the video shop where he works, Ba
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../diva-1981">Diva</a> because of Dominique Pinon</li>
+<li><a href="../delicatessen-1991">Delicatessen</a> because of Dominique Pinon and Jean-Pierre Jeunet</li>
+<li><a href="../amlie-2001">Amélie</a> because of Dominique Pinon, Jean-Pierre Jeunet, Yolande Moreau and André Dussollier</li>
+  </ul>
+</section>
+
 </article>

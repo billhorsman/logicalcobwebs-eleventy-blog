@@ -53,11 +53,6 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,6 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
       </details>
     </div>
   </section>
+
+  
 </article>

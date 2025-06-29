@@ -53,12 +53,6 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../tomboy-2011">Tomboy</a> by Christel Baras and Céline Sciamma</li>
-<li><a href="../petite-maman-2021">Petite Maman</a> by Céline Sciamma</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -89,4 +83,13 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../tomboy-2011">Tomboy</a> because of Christel Baras and Céline Sciamma</li>
+<li><a href="../petite-maman-2021">Petite Maman</a> because of Céline Sciamma</li>
+  </ul>
+</section>
+
 </article>

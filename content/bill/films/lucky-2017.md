@@ -53,15 +53,6 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../paris-texas-1984">Paris, Texas</a> by Harry Dean Stanton</li>
-<li><a href="../the-straight-story-1999">The Straight Story</a> by Harry Dean Stanton and David Lynch</li>
-<li><a href="../fargo-1996">Fargo</a> by John Carroll Lynch</li>
-<li><a href="../the-fabelmans-2022">The Fabelmans</a> by David Lynch</li>
-<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> by Beth Grant</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -92,4 +83,16 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../paris-texas-1984">Paris, Texas</a> because of Harry Dean Stanton</li>
+<li><a href="../the-straight-story-1999">The Straight Story</a> because of Harry Dean Stanton and David Lynch</li>
+<li><a href="../fargo-1996">Fargo</a> because of John Carroll Lynch</li>
+<li><a href="../the-fabelmans-2022">The Fabelmans</a> because of David Lynch</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> because of Beth Grant</li>
+  </ul>
+</section>
+
 </article>

@@ -53,11 +53,6 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> by Jesse Plemons</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,12 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of Jesse Plemons</li>
+  </ul>
+</section>
+
 </article>

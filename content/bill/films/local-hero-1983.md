@@ -53,11 +53,6 @@ description: "An American oil company sends a man to Scotland to buy up an entir
     </blockquote> 
   {%- endif -%}
 
-  
-  
-  
-  
-
   <section class="film-detail">
     <div>
       <details>
@@ -88,4 +83,6 @@ description: "An American oil company sends a man to Scotland to buy up an entir
       </details>
     </div>
   </section>
+
+  
 </article>

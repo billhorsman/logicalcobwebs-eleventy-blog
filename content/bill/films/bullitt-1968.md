@@ -53,12 +53,6 @@ description: "Senator Walter Chalmers is aiming to take down mob boss Pete Ross 
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../north-by-northwest-1959">North by Northwest</a> by Paul Genge</li>
-<li><a href="../apocalypse-now-1979">Apocalypse Now</a> by Robert Duvall</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -89,4 +83,13 @@ description: "Senator Walter Chalmers is aiming to take down mob boss Pete Ross 
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../north-by-northwest-1959">North by Northwest</a> because of Paul Genge</li>
+<li><a href="../apocalypse-now-1979">Apocalypse Now</a> because of Robert Duvall</li>
+  </ul>
+</section>
+
 </article>

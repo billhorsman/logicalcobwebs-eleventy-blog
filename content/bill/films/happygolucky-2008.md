@@ -53,12 +53,6 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../maudie-2016">Maudie</a> and <a href="../eternal-beauty-2020">Eternal Beauty</a> by Sally Hawkins</li>
-<li><a href="../mr-turner-2014">Mr. Turner</a> by Sylvestra Le Touzel, Kate O'Flynn, Oliver Maltman, Karina Fernandez, Sinead Matthews and Mike Leigh</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -89,4 +83,13 @@ description: "A look at a few chapters in the life of Poppy, a cheery, colorful,
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../maudie-2016">Maudie</a> and <a href="../eternal-beauty-2020">Eternal Beauty</a> because of Sally Hawkins</li>
+<li><a href="../mr-turner-2014">Mr. Turner</a> because of Sylvestra Le Touzel, Kate O'Flynn, Oliver Maltman, Karina Fernandez, Sinead Matthews and Mike Leigh</li>
+  </ul>
+</section>
+
 </article>

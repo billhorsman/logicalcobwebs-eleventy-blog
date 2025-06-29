@@ -53,16 +53,6 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../good-will-hunting-1997">Good Will Hunting</a>, <a href="../the-bourne-identity-2002">The Bourne Identity</a> and <a href="../interstellar-2014">Interstellar</a> by Matt Damon</li>
-<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> by Philip Seymour Hoffman</li>
-<li><a href="../magnolia-1999">Magnolia</a> by Philip Seymour Hoffman and Philip Baker Hall</li>
-<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> by Jude Law</li>
-<li><a href="../hot-fuzz-2007">Hot Fuzz</a> by Cate Blanchett</li>
-<li><a href="../house-of-gucci-2021">House of Gucci</a> by Pietro Ragusa</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -93,4 +83,17 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../good-will-hunting-1997">Good Will Hunting</a>, <a href="../the-bourne-identity-2002">The Bourne Identity</a> and <a href="../interstellar-2014">Interstellar</a> because of Matt Damon</li>
+<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> because of Philip Seymour Hoffman</li>
+<li><a href="../magnolia-1999">Magnolia</a> because of Philip Seymour Hoffman and Philip Baker Hall</li>
+<li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> because of Jude Law</li>
+<li><a href="../hot-fuzz-2007">Hot Fuzz</a> because of Cate Blanchett</li>
+<li><a href="../house-of-gucci-2021">House of Gucci</a> because of Pietro Ragusa</li>
+  </ul>
+</section>
+
 </article>

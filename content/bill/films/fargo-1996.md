@@ -53,19 +53,6 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../nomadland-2021">Nomadland</a> by Frances McDormand and Warren Keith</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> by Frances McDormand and Steve Park</li>
-<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> by Frances McDormand and Joel Coen</li>
-<li><a href="../magnolia-1999">Magnolia</a> by William H. Macy</li>
-<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> by Steve Buscemi, Peter Stormare, Warren Keith and Joel Coen</li>
-<li><a href="../lucky-2017">Lucky</a> by John Carroll Lynch</li>
-<li><a href="../asteroid-city-2023">Asteroid City</a> by Steve Park</li>
-<li><a href="../the-straight-story-1999">The Straight Story</a> by Sally Wingert</li>
-<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> by Joel Coen</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -96,4 +83,20 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../nomadland-2021">Nomadland</a> because of Frances McDormand and Warren Keith</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> because of Frances McDormand and Steve Park</li>
+<li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> because of Frances McDormand and Joel Coen</li>
+<li><a href="../magnolia-1999">Magnolia</a> because of William H. Macy</li>
+<li><a href="../the-big-lebowski-1998">The Big Lebowski</a> because of Steve Buscemi, Peter Stormare, Warren Keith and Joel Coen</li>
+<li><a href="../lucky-2017">Lucky</a> because of John Carroll Lynch</li>
+<li><a href="../asteroid-city-2023">Asteroid City</a> because of Steve Park</li>
+<li><a href="../the-straight-story-1999">The Straight Story</a> because of Sally Wingert</li>
+<li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> because of Joel Coen</li>
+  </ul>
+</section>
+
 </article>

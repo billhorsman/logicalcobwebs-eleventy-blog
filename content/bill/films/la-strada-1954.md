@@ -53,12 +53,6 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../being-there-1979">Being There</a> by Richard Basehart</li>
-<li><a href="../la-dolce-vita-1960">La Dolce Vita</a> by Federico Fellini</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -89,4 +83,13 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../being-there-1979">Being There</a> because of Richard Basehart</li>
+<li><a href="../la-dolce-vita-1960">La Dolce Vita</a> because of Federico Fellini</li>
+  </ul>
+</section>
+
 </article>

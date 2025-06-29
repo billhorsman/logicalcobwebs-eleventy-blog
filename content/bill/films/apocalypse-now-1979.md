@@ -53,14 +53,6 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
     </blockquote> 
   {%- endif -%}
 
-  <p class="related-films">Related to:</p>
-  <ul class="related-films">
-  <li><a href="../bullitt-1968">Bullitt</a> by Robert Duvall</li>
-<li><a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> by James Keane</li>
-<li><a href="../blade-runner-1982">Blade Runner</a> by Harrison Ford</li>
-<li><a href="../paris-texas-1984">Paris, Texas</a> by Aurore Clément</li>
-  </ul>
-
   <section class="film-detail">
     <div>
       <details>
@@ -91,4 +83,15 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
       </details>
     </div>
   </section>
+
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../bullitt-1968">Bullitt</a> because of Robert Duvall</li>
+<li><a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> because of James Keane</li>
+<li><a href="../blade-runner-1982">Blade Runner</a> because of Harrison Ford</li>
+<li><a href="../paris-texas-1984">Paris, Texas</a> because of Aurore Clément</li>
+  </ul>
+</section>
+
 </article>
