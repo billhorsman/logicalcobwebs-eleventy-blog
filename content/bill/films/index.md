@@ -22,7 +22,7 @@ Some older films I only discovered relatively recently: {% summariseFilms ["la-s
 
 One film is in here twice: {% filmLink "purple-noon-1960" %} (aka Plan Soleil) and {% filmLink "the-talented-mr-ripley-1999" %}. I would have added it again for Steven Zaillian's 2024 TV miniseries <em>Ripley</em> with Andrew Scott but that's not a film.
 
-Only one actor is connected with more than one film in my top 5: Isaach de Bankolé, who plays a Parisian cab driver in {% filmLink "night-on-earth-1991" %} and Raymond in {% filmLink "ghost-dog-the-way-of-the-samurai-1999" %}. Both those are directed by Jim Jarmusch.
+Only one actor is connected with more than one film in my top 5: Isaach de Bankolé, who plays a Parisian cab driver in {% filmLink "night-on-earth-1991" %} and Raymond in {% filmLink "ghost-dog-the-way-of-the-samurai-1999" %}, both directed by Jim Jarmusch.
 
 ### Top {{ must_see_films.list.length }}
 
