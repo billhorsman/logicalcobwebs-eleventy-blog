@@ -87,7 +87,7 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../good-will-hunting-1997">Good Will Hunting</a>, <a href="../the-bourne-identity-2002">The Bourne Identity</a> and <a href="../interstellar-2014">Interstellar</a> because of Matt Damon</li>
+    <li><a href="../good-will-hunting-1997">Good Will Hunting</a> and <a href="../the-bourne-identity-2002">The Bourne Identity</a> because of Matt Damon</li>
 <li><a href="../the-big-lebowski-1998">The Big Lebowski</a> because of Philip Seymour Hoffman</li>
 <li><a href="../magnolia-1999">Magnolia</a> because of Philip Seymour Hoffman and Philip Baker Hall</li>
 <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> because of Jude Law</li>

@@ -13,7 +13,7 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
     <a href="../eo-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">92 / 100</a>
+    <a class="simple" href="../">91 / 100</a>
   </div>
   <div class="next">
     <a href="../one-fine-morning-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -89,7 +89,7 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
   <ul>
     <li><a href="../24-hour-party-people-2002">24 Hour Party People</a> because of Ron Cook</li>
 <li><a href="../hot-fuzz-2007">Hot Fuzz</a> because of Ron Cook and Olivia Colman</li>
-<li><a href="../first-cow-2020">First Cow</a> because of Toby Jones</li>
+<li><a href="../1917-2019">1917</a> because of Colin Firth, Justin Edwards, Spike Leighton and Sam Mendes</li>
   </ul>
 </section>
 

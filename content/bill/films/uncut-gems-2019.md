@@ -16,7 +16,7 @@ description: "A charismatic New York City jeweler always on the lookout for the 
     <a class="simple" href="../">73 / 100</a>
   </div>
   <div class="next">
-    <a href="../eternal-beauty-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../1917-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "A charismatic New York City jeweler always on the lookout for the 
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Eternal Beauty
+      1917
     </span>
   </div>
 </nav>

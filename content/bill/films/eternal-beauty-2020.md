@@ -10,22 +10,22 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
 
 <nav class="films">
   <div class="prev">
-    <a href="../uncut-gems-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../1917-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">74 / 100</a>
+    <a class="simple" href="../">75 / 100</a>
   </div>
   <div class="next">
-    <a href="../first-cow-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../limbo-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Uncut Gems
+      1917
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      First Cow
+      Limbo
     </span>
   </div>
 </nav>

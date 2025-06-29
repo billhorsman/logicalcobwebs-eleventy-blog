@@ -13,7 +13,7 @@ description: "A socially awkward, environmentally-conscious teenager named AJ is
     <a href="../petite-maman-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">86 / 100</a>
+    <a class="simple" href="../">85 / 100</a>
   </div>
   <div class="next">
     <a href="../the-french-dispatch-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

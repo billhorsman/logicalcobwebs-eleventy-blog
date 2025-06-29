@@ -10,7 +10,7 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
 
 <nav class="films">
   <div class="prev">
-    <a href="../cest-la-vie-2017"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../lady-bird-2017"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">64 / 100</a>
@@ -21,7 +21,7 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      C'est la vie!
+      Lady Bird
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

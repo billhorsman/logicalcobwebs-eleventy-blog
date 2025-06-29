@@ -91,7 +91,6 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
 <li><a href="../delicatessen-1991">Delicatessen</a> because of Nikky Smedley</li>
 <li><a href="../shallow-grave-1994">Shallow Grave</a> because of Ewan McGregor</li>
 <li><a href="../trainspotting-1996">Trainspotting</a> because of Ewan McGregor and Ewen Bremner</li>
-<li><a href="../first-cow-2020">First Cow</a> because of Ewen Bremner</li>
 <li><a href="../in-bruges-2008">In Bruges</a> because of Zeljko Ivanek</li>
   </ul>
 </section>

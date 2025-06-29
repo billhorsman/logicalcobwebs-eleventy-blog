@@ -84,5 +84,11 @@ description: "A man, Milan steps off a train, into a small French village. As he
     </div>
   </section>
 
-  
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../day-for-night-1973">Day for Night</a> because of Jean-François Stévenin</li>
+  </ul>
+</section>
+
 </article>

@@ -13,7 +13,7 @@ description: "A man wanders out of the desert not knowing who he is. His brother
     <a href="../local-hero-1983"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">22 / 100</a>
+    <a class="simple" href="../">23 / 100</a>
   </div>
   <div class="next">
     <a href="../brazil-1985">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

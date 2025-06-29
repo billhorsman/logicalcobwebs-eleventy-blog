@@ -10,10 +10,10 @@ description: "In the secret forests of Northern Italy, a dwindling group of joyf
 
 <nav class="films">
   <div class="prev">
-    <a href="../schemers-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../limbo-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">78 / 100</a>
+    <a class="simple" href="../">77 / 100</a>
   </div>
   <div class="next">
     <a href="../belfast-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "In the secret forests of Northern Italy, a dwindling group of joyf
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Schemers
+      Limbo
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

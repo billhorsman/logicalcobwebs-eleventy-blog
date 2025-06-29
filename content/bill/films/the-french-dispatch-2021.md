@@ -13,7 +13,7 @@ description: "The staff of an American magazine based in France puts out its las
     <a href="../sweetheart-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">87 / 100</a>
+    <a class="simple" href="../">86 / 100</a>
   </div>
   <div class="next">
     <a href="../the-power-of-the-dog-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -95,12 +95,13 @@ description: "The staff of an American magazine based in France puts out its las
 <li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> because of Jason Schwartzman, Wallace Wolodarsky, Willem Dafoe, Bill Murray, Wes Anderson, Jarvis Cocker, Owen Wilson and Adrien Brody</li>
 <li><a href="../the-lighthouse-2019">The Lighthouse</a> because of Willem Dafoe</li>
 <li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> because of Griffin Dunne</li>
-<li><a href="../interstellar-2014">Interstellar</a> and <a href="../dune-2021">Dune</a> because of Timothée Chalamet</li>
-<li><a href="../little-women-2019">Little Women</a> because of Timothée Chalamet and Saoirse Ronan</li>
 <li><a href="../sink-or-swim-2018">Sink or Swim</a> because of Mathieu Amalric and Félix Moati</li>
+<li><a href="../lady-bird-2017">Lady Bird</a> because of Saoirse Ronan, Timothée Chalamet and Lois Smith</li>
+<li><a href="../little-women-2019">Little Women</a> because of Saoirse Ronan and Timothée Chalamet</li>
 <li><a href="../one-fine-morning-2022">One Fine Morning</a> because of Léa Seydoux and Sharif Andoura</li>
 <li><a href="../uncut-gems-2019">Uncut Gems</a> because of Tilda Swinton</li>
 <li><a href="../cest-la-vie-2017">C'est la vie!</a> because of Benjamin Lavernhe</li>
+<li><a href="../dune-2021">Dune</a> because of Timothée Chalamet</li>
   </ul>
 </section>
 

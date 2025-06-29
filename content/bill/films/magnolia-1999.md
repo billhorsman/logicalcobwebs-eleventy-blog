@@ -88,13 +88,12 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
   <h2>Related films</h2>
   <ul>
     <li><a href="../once-upon-a-time-in-the-west-1968">Once Upon a Time in the West</a> because of Jason Robards</li>
-<li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> because of John C. Reilly</li>
-<li><a href="../licorice-pizza-2021">Licorice Pizza</a> because of John C. Reilly, Mark Flanagan, Paul Thomas Anderson and Brian Kehew</li>
 <li><a href="../fargo-1996">Fargo</a> because of William H. Macy</li>
 <li><a href="../the-big-lebowski-1998">The Big Lebowski</a> because of Julianne Moore, Philip Seymour Hoffman and Aimee Mann</li>
 <li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> because of Philip Seymour Hoffman and Philip Baker Hall</li>
 <li><a href="../fight-club-1999">Fight Club</a> because of Ezra Buzzington, Michael Shamus Wiles, Greg Bronson and Phil Hawn</li>
 <li><a href="../the-fabelmans-2022">The Fabelmans</a> because of Ezra Buzzington</li>
+<li><a href="../licorice-pizza-2021">Licorice Pizza</a> because of John C. Reilly, Mark Flanagan, Paul Thomas Anderson and Brian Kehew</li>
 <li><a href="../kill-bill-the-whole-bloody-affair-2011">Kill Bill: The Whole Bloody Affair</a> because of Michael Bowen</li>
 <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of Pat Healy</li>
   </ul>

@@ -10,10 +10,10 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
 
 <nav class="films">
   <div class="prev">
-    <a href="../interstellar-2014"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../dallas-buyers-club-2013"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">59 / 100</a>
+    <a class="simple" href="../">58 / 100</a>
   </div>
   <div class="next">
     <a href="../the-grand-budapest-hotel-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Interstellar
+      Dallas Buyers Club
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

@@ -13,7 +13,7 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
     <a href="../the-power-of-the-dog-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">89 / 100</a>
+    <a class="simple" href="../">88 / 100</a>
   </div>
   <div class="next">
     <a href="../between-two-worlds-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

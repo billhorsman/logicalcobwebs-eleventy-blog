@@ -16,7 +16,7 @@ description: "A novice con man teams up with an acknowledged master to avenge th
     <a class="simple" href="../">12 / 100</a>
   </div>
   <div class="next">
-    <a href="../dog-day-afternoon-1975">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../day-for-night-1973">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "A novice con man teams up with an acknowledged master to avenge th
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Dog Day Afternoon
+      Day for Night
     </span>
   </div>
 </nav>

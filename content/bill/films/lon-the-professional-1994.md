@@ -10,7 +10,7 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
 
 <nav class="films">
   <div class="prev">
-    <a href="../whats-eating-gilbert-grape-1993"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../night-on-earth-1991"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">28 / 100</a>
@@ -21,7 +21,7 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      What's Eating Gilbert Grape
+      Night on Earth
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

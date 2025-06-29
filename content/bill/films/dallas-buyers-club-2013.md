@@ -16,7 +16,7 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
     <a class="simple" href="../">57 / 100</a>
   </div>
   <div class="next">
-    <a href="../interstellar-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../mr-turner-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Interstellar
+      Mr. Turner
     </span>
   </div>
 </nav>
@@ -88,7 +88,6 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
   <h2>Related films</h2>
   <ul>
     <li><a href="../fight-club-1999">Fight Club</a>, <a href="../phone-booth-2003">Phone Booth</a> and <a href="../house-of-gucci-2021">House of Gucci</a> because of Jared Leto</li>
-<li><a href="../interstellar-2014">Interstellar</a> because of Matthew McConaughey</li>
 <li><a href="../the-french-dispatch-2021">The French Dispatch</a> because of Griffin Dunne</li>
 <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of Carl Palmer</li>
   </ul>

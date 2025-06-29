@@ -88,12 +88,9 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
   <h2>Related films</h2>
   <ul>
     <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> and <a href="../brazil-1985">Brazil</a> because of Robert De Niro</li>
-<li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> because of Leonardo DiCaprio</li>
 <li><a href="../magnolia-1999">Magnolia</a> because of Pat Healy</li>
 <li><a href="../no-country-for-old-men-2007">No Country for Old Men</a> because of Barry Corbin and Gene Jones</li>
 <li><a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> because of Carl Palmer</li>
-<li><a href="../interstellar-2014">Interstellar</a> because of John Lithgow</li>
-<li><a href="../first-cow-2020">First Cow</a> because of Scott Shepherd and Lily Gladstone</li>
 <li><a href="../the-power-of-the-dog-2021">The Power of the Dog</a> because of Jesse Plemons</li>
   </ul>
 </section>

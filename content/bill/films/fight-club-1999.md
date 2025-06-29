@@ -91,6 +91,7 @@ description: "A ticking-time-bomb insomniac and a slippery soap salesman channel
 <li><a href="../phone-booth-2003">Phone Booth</a>, <a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> and <a href="../house-of-gucci-2021">House of Gucci</a> because of Jared Leto</li>
 <li><a href="../magnolia-1999">Magnolia</a> because of Ezra Buzzington, Michael Shamus Wiles, Greg Bronson and Phil Hawn</li>
 <li><a href="../the-fabelmans-2022">The Fabelmans</a> because of Ezra Buzzington</li>
+<li><a href="../lady-bird-2017">Lady Bird</a> because of Bob Stephenson</li>
   </ul>
 </section>
 

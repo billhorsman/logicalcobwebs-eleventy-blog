@@ -1,36 +1,36 @@
 ---
-title: "The Man Who Fell to Earth"
+title: "Day for Night"
 layout: layouts/films.njk
-slug: the-man-who-fell-to-earth-1976
-ogImage: content/bill/films/backdrops/the-man-who-fell-to-earth-1976.jpg
-description: "Thomas Jerome Newton is an alien who has come to Earth in search of water to save his home planet. Aided by lawyer Oliver Farnsworth, Thomas uses his knowledge of advanced technology to create profitable inventions. While developing a method to transport water, Thomas meets Mary-Lou, a quiet hotel clerk, and begins to fall in love with her. Just as he is ready to leave Earth, Thomas is intercepted by the U.S. government, and his entire plan is threatened."
+slug: day-for-night-1973
+ogImage: content/bill/films/backdrops/day-for-night-1973.jpg
+description: "A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew."
 ---
 
 {% set film = films[slug] %}
 
 <nav class="films">
   <div class="prev">
-    <a href="../three-days-of-the-condor-1975"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-sting-1973"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">16 / 100</a>
+    <a class="simple" href="../">13 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-deer-hunter-1978">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../dog-day-afternoon-1975">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Three Days of the Condor
+      The Sting
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Deer Hunter
+      Dog Day Afternoon
     </span>
   </div>
 </nav>
 
-<article class="film slug-the-man-who-fell-to-earth-1976">
+<article class="film slug-day-for-night-1973">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
@@ -40,7 +40,7 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
 
   <p>
     {%- if film.language -%}Language: {{ film.language }}.{% endif %}
-    
+    Also known as La Nuit américaine.
   </p>
 
   <p class="director">
@@ -84,5 +84,13 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
     </div>
   </section>
 
-  
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../bullitt-1968">Bullitt</a> because of Jacqueline Bisset</li>
+<li><a href="../le-havre-2011">Le Havre</a> because of Jean-Pierre Léaud</li>
+<li><a href="../man-on-the-train-2002">Man on the Train</a> because of Jean-François Stévenin</li>
+  </ul>
+</section>
+
 </article>

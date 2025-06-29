@@ -1,36 +1,36 @@
 ---
-title: "Schemers"
+title: "Anatomy of a Fall"
 layout: layouts/films.njk
-slug: schemers-2020
-ogImage: content/bill/films/backdrops/schemers-2020.jpg
-description: "Set in late-1970s Dundee, Schemers is based on writer-producer David McLean’s early years in the music business. After a run in with a local gangster, a fledgling promoter and his two friends raise their ambitions to booking major bands in order to escape their debt."
+slug: anatomy-of-a-fall-2023
+ogImage: content/bill/films/backdrops/anatomy-of-a-fall-2023.jpg
+description: "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness."
 ---
 
 {% set film = films[slug] %}
 
 <nav class="films">
   <div class="prev">
-    <a href="../limbo-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-fabelmans-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">77 / 100</a>
+    <a class="simple" href="../">95 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-truffle-hunters-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../all-of-us-strangers-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Limbo
+      The Fabelmans
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Truffle Hunters
+      All of Us Strangers
     </span>
   </div>
 </nav>
 
-<article class="film slug-schemers-2020">
+<article class="film slug-anatomy-of-a-fall-2023">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
@@ -40,7 +40,7 @@ description: "Set in late-1970s Dundee, Schemers is based on writer-producer Dav
 
   <p>
     {%- if film.language -%}Language: {{ film.language }}.{% endif %}
-    
+    Also known as Anatomie d'une chute.
   </p>
 
   <p class="director">

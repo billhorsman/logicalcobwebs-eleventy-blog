@@ -89,7 +89,6 @@ description: "An African-American Mafia hit man who models himself after the sam
   <ul>
     <li><a href="../night-on-earth-1991">Night on Earth</a> because of Isaach de Bankolé and Jim Jarmusch</li>
 <li><a href="../phone-booth-2003">Phone Booth</a> because of Forest Whitaker</li>
-<li><a href="../first-cow-2020">First Cow</a> because of Gary Farmer</li>
   </ul>
 </section>
 

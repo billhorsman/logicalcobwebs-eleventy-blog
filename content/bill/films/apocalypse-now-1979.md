@@ -13,7 +13,7 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
     <a href="../the-deer-hunter-1978"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">17 / 100</a>
+    <a class="simple" href="../">18 / 100</a>
   </div>
   <div class="next">
     <a href="../being-there-1979">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

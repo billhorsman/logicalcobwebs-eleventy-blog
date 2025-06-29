@@ -13,7 +13,7 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
     <a href="../house-of-gucci-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">83 / 100</a>
+    <a class="simple" href="../">82 / 100</a>
   </div>
   <div class="next">
     <a href="../nomadland-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -87,8 +87,7 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../whats-eating-gilbert-grape-1993">What's Eating Gilbert Grape</a> because of John C. Reilly</li>
-<li><a href="../magnolia-1999">Magnolia</a> because of John C. Reilly, Mark Flanagan, Paul Thomas Anderson and Brian Kehew</li>
+    <li><a href="../magnolia-1999">Magnolia</a> because of John C. Reilly, Mark Flanagan, Paul Thomas Anderson and Brian Kehew</li>
 <li><a href="../uncut-gems-2019">Uncut Gems</a> because of Benny Safdie</li>
 <li><a href="../the-fabelmans-2022">The Fabelmans</a> because of Isabelle Kusman and Paige Locke</li>
   </ul>

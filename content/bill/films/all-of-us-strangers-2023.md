@@ -10,7 +10,7 @@ description: "One night in his near-empty tower block in contemporary London, Ad
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-fabelmans-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../anatomy-of-a-fall-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">96 / 100</a>
@@ -21,7 +21,7 @@ description: "One night in his near-empty tower block in contemporary London, Ad
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Fabelmans
+      Anatomy of a Fall
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
@@ -88,6 +88,7 @@ description: "One night in his near-empty tower block in contemporary London, Ad
   <h2>Related films</h2>
   <ul>
     <li><a href="../billy-elliot-2000">Billy Elliot</a> because of Jamie Bell</li>
+<li><a href="../1917-2019">1917</a> because of Andrew Scott</li>
   </ul>
 </section>
 

@@ -13,10 +13,10 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
     <a href="../the-handmaiden-2016"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">63 / 100</a>
+    <a class="simple" href="../">62 / 100</a>
   </div>
   <div class="next">
-    <a href="../lucky-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../lady-bird-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Lucky
+      Lady Bird
     </span>
   </div>
 </nav>

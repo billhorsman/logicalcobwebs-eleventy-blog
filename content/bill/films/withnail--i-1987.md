@@ -13,7 +13,7 @@ description: "Two out-of-work actors -- the anxious, luckless Marwood and his ac
     <a href="../brazil-1985"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">24 / 100</a>
+    <a class="simple" href="../">25 / 100</a>
   </div>
   <div class="next">
     <a href="../delicatessen-1991">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

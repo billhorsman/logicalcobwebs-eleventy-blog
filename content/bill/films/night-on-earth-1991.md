@@ -13,10 +13,10 @@ description: "An anthology of 5 different cab drivers in 5 American and European
     <a href="../delicatessen-1991"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">26 / 100</a>
+    <a class="simple" href="../">27 / 100</a>
   </div>
   <div class="next">
-    <a href="../whats-eating-gilbert-grape-1993">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../lon-the-professional-1994">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "An anthology of 5 different cab drivers in 5 American and European
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      What's Eating Gilbert Grape
+      Léon: The Professional
     </span>
   </div>
 </nav>

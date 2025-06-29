@@ -89,10 +89,11 @@ description: "Four sisters come of age in America in the aftermath of the Civil 
   <ul>
     <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> and <a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> because of Meryl Streep</li>
 <li><a href="../the-bourne-identity-2002">The Bourne Identity</a> because of Chris Cooper</li>
-<li><a href="../interstellar-2014">Interstellar</a> and <a href="../dune-2021">Dune</a> because of Timothée Chalamet</li>
-<li><a href="../the-french-dispatch-2021">The French Dispatch</a> because of Timothée Chalamet and Saoirse Ronan</li>
 <li><a href="../mr-turner-2014">Mr. Turner</a> because of James Norton</li>
 <li><a href="../the-grand-budapest-hotel-2014">The Grand Budapest Hotel</a> because of Saoirse Ronan</li>
+<li><a href="../lady-bird-2017">Lady Bird</a> because of Saoirse Ronan, Tracy Letts, Timothée Chalamet and Greta Gerwig</li>
+<li><a href="../the-french-dispatch-2021">The French Dispatch</a> because of Saoirse Ronan and Timothée Chalamet</li>
+<li><a href="../dune-2021">Dune</a> because of Timothée Chalamet</li>
 <li><a href="../coda-2021">CODA</a> because of Lonnie Farmer</li>
   </ul>
 </section>

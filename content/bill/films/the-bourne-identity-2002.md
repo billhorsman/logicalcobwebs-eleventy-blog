@@ -87,7 +87,7 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../good-will-hunting-1997">Good Will Hunting</a>, <a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> and <a href="../interstellar-2014">Interstellar</a> because of Matt Damon</li>
+    <li><a href="../good-will-hunting-1997">Good Will Hunting</a> and <a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> because of Matt Damon</li>
 <li><a href="../little-women-2019">Little Women</a> because of Chris Cooper</li>
 <li><a href="../fantastic-mr-fox-2009">Fantastic Mr. Fox</a> because of Brian Cox</li>
 <li><a href="../mr-turner-2014">Mr. Turner</a> because of Vincent Franklin</li>

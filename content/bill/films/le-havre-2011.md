@@ -84,5 +84,11 @@ description: "In the French harbor city of Le Havre, fate throws young African r
     </div>
   </section>
 
-  
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../day-for-night-1973">Day for Night</a> because of Jean-Pierre Léaud</li>
+  </ul>
+</section>
+
 </article>

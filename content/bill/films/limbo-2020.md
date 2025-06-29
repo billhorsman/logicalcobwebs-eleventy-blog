@@ -10,22 +10,22 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
 
 <nav class="films">
   <div class="prev">
-    <a href="../first-cow-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../eternal-beauty-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">76 / 100</a>
   </div>
   <div class="next">
-    <a href="../schemers-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../the-truffle-hunters-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      First Cow
+      Eternal Beauty
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Schemers
+      The Truffle Hunters
     </span>
   </div>
 </nav>
