@@ -13,7 +13,7 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
     <a href="../withnail--i-1987"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">27 / 100</a>
+    <a class="simple" href="../">26 / 100</a>
   </div>
   <div class="next">
     <a href="../night-on-earth-1991">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

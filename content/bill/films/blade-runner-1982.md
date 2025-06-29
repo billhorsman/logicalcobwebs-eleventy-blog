@@ -13,7 +13,7 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
     <a href="../diva-1981"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">22 / 100</a>
+    <a class="simple" href="../">21 / 100</a>
   </div>
   <div class="next">
     <a href="../local-hero-1983">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -88,6 +88,7 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
   <h2>Related films</h2>
   <ul>
     <li><a href="../apocalypse-now-1979">Apocalypse Now</a> because of Harrison Ford</li>
+<li><a href="../kill-bill-the-whole-bloody-affair-2011">Kill Bill: The Whole Bloody Affair</a> because of Daryl Hannah</li>
 <li><a href="../black-hawk-down-2001">Black Hawk Down</a> and <a href="../house-of-gucci-2021">House of Gucci</a> because of Ridley Scott</li>
   </ul>
 </section>

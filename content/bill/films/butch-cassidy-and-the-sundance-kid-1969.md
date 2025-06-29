@@ -13,7 +13,7 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
     <a href="../once-upon-a-time-in-the-west-1968"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">13 / 100</a>
+    <a class="simple" href="../">12 / 100</a>
   </div>
   <div class="next">
     <a href="../the-sting-1973">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -87,9 +87,9 @@ description: "As the west rapidly becomes civilized, a pair of outlaws in 1890s 
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a>, <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> because of Robert Redford</li>
-<li><a href="../the-sting-1973">The Sting</a> because of Robert Redford, Paul Newman, Charles Dierkop and George Roy Hill</li>
-<li><a href="../in-the-heat-of-the-night-1967">In the Heat of the Night</a> because of Timothy Scott</li>
+    <li><a href="../in-the-heat-of-the-night-1967">In the Heat of the Night</a> because of Timothy Scott</li>
+<li><a href="../the-sting-1973">The Sting</a> because of Paul Newman, Robert Redford, Charles Dierkop and George Roy Hill</li>
+<li><a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> because of Robert Redford</li>
 <li><a href="../the-big-lebowski-1998">The Big Lebowski</a> because of Sam Elliott</li>
   </ul>
 </section>

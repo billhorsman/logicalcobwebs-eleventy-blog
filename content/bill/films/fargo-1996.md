@@ -13,7 +13,7 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
     <a href="../shallow-grave-1994"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">32 / 100</a>
+    <a class="simple" href="../">31 / 100</a>
   </div>
   <div class="next">
     <a href="../trainspotting-1996">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

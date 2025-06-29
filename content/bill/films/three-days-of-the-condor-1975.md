@@ -13,7 +13,7 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
     <a href="../dog-day-afternoon-1975"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">16 / 100</a>
+    <a class="simple" href="../">15 / 100</a>
   </div>
   <div class="next">
     <a href="../the-man-who-fell-to-earth-1976">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -87,7 +87,7 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a>, <a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a>, <a href="../the-sting-1973">The Sting</a> and <a href="../all-is-lost-2013">All Is Lost</a> because of Robert Redford</li>
+    <li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a>, <a href="../the-sting-1973">The Sting</a> and <a href="../all-is-lost-2013">All Is Lost</a> because of Robert Redford</li>
 <li><a href="../apocalypse-now-1979">Apocalypse Now</a> because of James Keane</li>
   </ul>
 </section>

@@ -16,7 +16,7 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
     <a class="simple" href="../">7 / 100</a>
   </div>
   <div class="next">
-    <a href="../barefoot-in-the-park-1967">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../in-the-heat-of-the-night-1967">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Barefoot in the Park
+      In the Heat of the Night
     </span>
   </div>
 </nav>

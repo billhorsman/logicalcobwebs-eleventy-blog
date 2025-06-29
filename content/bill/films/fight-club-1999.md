@@ -13,7 +13,7 @@ description: "A ticking-time-bomb insomniac and a slippery soap salesman channel
     <a href="../the-big-lebowski-1998"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">36 / 100</a>
+    <a class="simple" href="../">35 / 100</a>
   </div>
   <div class="next">
     <a href="../ghost-dog-the-way-of-the-samurai-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

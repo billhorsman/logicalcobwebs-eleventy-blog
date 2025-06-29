@@ -13,7 +13,7 @@ description: "Senator Walter Chalmers is aiming to take down mob boss Pete Ross 
     <a href="../2001-a-space-odyssey-1968"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">11 / 100</a>
+    <a class="simple" href="../">10 / 100</a>
   </div>
   <div class="next">
     <a href="../once-upon-a-time-in-the-west-1968">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

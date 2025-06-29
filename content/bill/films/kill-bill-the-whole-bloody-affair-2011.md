@@ -1,36 +1,36 @@
 ---
-title: "Barefoot in the Park"
+title: "Kill Bill: The Whole Bloody Affair"
 layout: layouts/films.njk
-slug: barefoot-in-the-park-1967
-ogImage: content/bill/films/backdrops/barefoot-in-the-park-1967.jpg
-description: "In this film based on a Neil Simon play, newlyweds Corie, a free spirit, and Paul Bratter, an uptight lawyer, share a sixth-floor apartment in Greenwich Village. Soon after their marriage, Corie tries to find a companion for mother, Ethel, who is now alone, and sets up Ethel with neighbor Victor. Inappropriate behavior on a double date causes conflict, and the young couple considers divorce."
+slug: kill-bill-the-whole-bloody-affair-2011
+ogImage: content/bill/films/backdrops/kill-bill-the-whole-bloody-affair-2011.jpg
+description: "An assassin is shot and almost killed by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance."
 ---
 
 {% set film = films[slug] %}
 
 <nav class="films">
   <div class="prev">
-    <a href="../purple-noon-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../tomboy-2011"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">8 / 100</a>
+    <a class="simple" href="../">57 / 100</a>
   </div>
   <div class="next">
-    <a href="../in-the-heat-of-the-night-1967">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../all-is-lost-2013">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Purple Noon
+      Tomboy
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      In the Heat of the Night
+      All Is Lost
     </span>
   </div>
 </nav>
 
-<article class="film slug-barefoot-in-the-park-1967">
+<article class="film slug-kill-bill-the-whole-bloody-affair-2011">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
@@ -87,8 +87,9 @@ description: "In this film based on a Neil Simon play, newlyweds Corie, a free s
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> because of John Indrisano</li>
-<li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a>, <a href="../the-sting-1973">The Sting</a>, <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> because of Robert Redford</li>
+    <li><a href="../blade-runner-1982">Blade Runner</a> because of Daryl Hannah</li>
+<li><a href="../magnolia-1999">Magnolia</a> because of Michael Bowen</li>
+<li><a href="../phone-booth-2003">Phone Booth</a> because of Shu Lan Tuan</li>
   </ul>
 </section>
 

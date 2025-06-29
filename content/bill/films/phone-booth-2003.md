@@ -13,7 +13,7 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
     <a href="../the-bourne-identity-2002"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">47 / 100</a>
+    <a class="simple" href="../">46 / 100</a>
   </div>
   <div class="next">
     <a href="../the-motorcycle-diaries-2004">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -90,6 +90,7 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
     <li><a href="../fight-club-1999">Fight Club</a>, <a href="../dallas-buyers-club-2013">Dallas Buyers Club</a> and <a href="../house-of-gucci-2021">House of Gucci</a> because of Jared Leto</li>
 <li><a href="../ghost-dog-the-way-of-the-samurai-1999">Ghost Dog: The Way of the Samurai</a> because of Forest Whitaker</li>
 <li><a href="../in-bruges-2008">In Bruges</a> and <a href="../the-banshees-of-inisherin-2022">The Banshees of Inisherin</a> because of Colin Farrell</li>
+<li><a href="../kill-bill-the-whole-bloody-affair-2011">Kill Bill: The Whole Bloody Affair</a> because of Shu Lan Tuan</li>
   </ul>
 </section>
 

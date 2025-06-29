@@ -10,7 +10,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
 
 <nav class="films">
   <div class="prev">
-    <a href="../tomboy-2011"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../kill-bill-the-whole-bloody-affair-2011"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">58 / 100</a>
@@ -21,7 +21,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Tomboy
+      Kill Bill: The Whole Bloody Affair
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
@@ -87,7 +87,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a>, <a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a>, <a href="../the-sting-1973">The Sting</a> and <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> because of Robert Redford</li>
+    <li><a href="../butch-cassidy-and-the-sundance-kid-1969">Butch Cassidy and the Sundance Kid</a>, <a href="../the-sting-1973">The Sting</a> and <a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> because of Robert Redford</li>
   </ul>
 </section>
 

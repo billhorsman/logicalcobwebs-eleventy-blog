@@ -13,7 +13,7 @@ description: "Humanity finds a mysterious object buried beneath the lunar surfac
     <a href="../in-the-heat-of-the-night-1967"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">10 / 100</a>
+    <a class="simple" href="../">9 / 100</a>
   </div>
   <div class="next">
     <a href="../bullitt-1968">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

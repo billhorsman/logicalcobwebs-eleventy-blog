@@ -87,8 +87,7 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../barefoot-in-the-park-1967">Barefoot in the Park</a> because of John Indrisano</li>
-<li><a href="../north-by-northwest-1959">North by Northwest</a> because of Finn Zirzow</li>
+    <li><a href="../north-by-northwest-1959">North by Northwest</a> because of Finn Zirzow</li>
   </ul>
 </section>
 

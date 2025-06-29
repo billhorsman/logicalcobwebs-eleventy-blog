@@ -13,7 +13,7 @@ description: "Hilarious but harrowing, the film charts the disintegration of the
     <a href="../fargo-1996"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">33 / 100</a>
+    <a class="simple" href="../">32 / 100</a>
   </div>
   <div class="next">
     <a href="../good-will-hunting-1997">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

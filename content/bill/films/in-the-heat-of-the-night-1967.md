@@ -10,10 +10,10 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
 
 <nav class="films">
   <div class="prev">
-    <a href="../barefoot-in-the-park-1967"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../purple-noon-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">9 / 100</a>
+    <a class="simple" href="../">8 / 100</a>
   </div>
   <div class="next">
     <a href="../2001-a-space-odyssey-1968">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Barefoot in the Park
+      Purple Noon
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

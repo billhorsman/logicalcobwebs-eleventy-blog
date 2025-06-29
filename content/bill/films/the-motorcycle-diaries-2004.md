@@ -13,7 +13,7 @@ description: "Based on the journals of Che Guevara, leader of the Cuban Revoluti
     <a href="../phone-booth-2003"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">48 / 100</a>
+    <a class="simple" href="../">47 / 100</a>
   </div>
   <div class="next">
     <a href="../hot-fuzz-2007">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

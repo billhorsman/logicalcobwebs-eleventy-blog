@@ -13,7 +13,7 @@ description: "A simple-minded gardener named Chance has spent all his life in th
     <a href="../apocalypse-now-1979"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">20 / 100</a>
+    <a class="simple" href="../">19 / 100</a>
   </div>
   <div class="next">
     <a href="../diva-1981">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

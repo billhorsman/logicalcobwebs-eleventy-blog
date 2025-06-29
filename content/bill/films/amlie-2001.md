@@ -13,7 +13,7 @@ description: "At a tiny Parisian café, the adorable yet painfully shy Amélie a
     <a href="../billy-elliot-2000"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">42 / 100</a>
+    <a class="simple" href="../">41 / 100</a>
   </div>
   <div class="next">
     <a href="../black-hawk-down-2001">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

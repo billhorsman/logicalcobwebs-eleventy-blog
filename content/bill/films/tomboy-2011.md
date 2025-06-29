@@ -13,10 +13,10 @@ description: "A French family moves to a new neighborhood with during the summer
     <a href="../le-havre-2011"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">57 / 100</a>
+    <a class="simple" href="../">56 / 100</a>
   </div>
   <div class="next">
-    <a href="../all-is-lost-2013">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../kill-bill-the-whole-bloody-affair-2011">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "A French family moves to a new neighborhood with during the summer
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      All Is Lost
+      Kill Bill: The Whole Bloody Affair
     </span>
   </div>
 </nav>

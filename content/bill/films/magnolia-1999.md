@@ -13,7 +13,7 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
     <a href="../ghost-dog-the-way-of-the-samurai-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">38 / 100</a>
+    <a class="simple" href="../">37 / 100</a>
   </div>
   <div class="next">
     <a href="../the-straight-story-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -95,6 +95,7 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
 <li><a href="../the-talented-mr-ripley-1999">The Talented Mr. Ripley</a> because of Philip Seymour Hoffman and Philip Baker Hall</li>
 <li><a href="../fight-club-1999">Fight Club</a> because of Ezra Buzzington, Michael Shamus Wiles, Greg Bronson and Phil Hawn</li>
 <li><a href="../the-fabelmans-2022">The Fabelmans</a> because of Ezra Buzzington</li>
+<li><a href="../kill-bill-the-whole-bloody-affair-2011">Kill Bill: The Whole Bloody Affair</a> because of Michael Bowen</li>
 <li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of Pat Healy</li>
   </ul>
 </section>
