@@ -33,4 +33,4 @@ https://billhorsman.link/*          https://logicalcobwebs.com/:splat 301!
 /blog/break-things-like-an-engineer/ /blog/2024/break-things-like-an-engineer/
 /manifestos/delivery-windows/ /blog/2025/delivery-windows
 
-/bill/films/* /bill/films/ 302!
+/bill/films/* /bill/films/404 404
