@@ -10,13 +10,13 @@ schemeSwitcher.dataset.scheme = currentScheme;
 function updateHint() {
   switch (currentScheme) {
     case 'light':
-      hint.textContent = 'Light theme';
+      hint.textContent = 'Light';
       break;
     case 'dark':
-      hint.textContent = 'Dark theme';
+      hint.textContent = 'Dark';
       break;
     default:
-      hint.textContent = 'System theme';
+      hint.textContent = 'System';
       break;
   }
 }
