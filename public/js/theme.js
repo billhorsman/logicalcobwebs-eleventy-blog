@@ -41,6 +41,8 @@ const toggleScheme = () => {
 }
 
 switchButton.addEventListener('click', () => {
-  toggleScheme();
-  updateHint();
+  document.startViewTransition(() => {
+    toggleScheme();
+    updateHint();
+  })
 });

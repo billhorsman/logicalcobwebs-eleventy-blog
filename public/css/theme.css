@@ -31,17 +31,7 @@
   }
 
   & .hint {
-    display: none;
     font-size: 0.875rem;
-  }
-
-  &:hover {
-    background-color: light-dark(black, white);
-    color: var(--background-color);
-
-    & .hint {
-      display: block;
-    }
   }
 
   &[data-scheme="light"] {
@@ -61,4 +51,12 @@
       display: block;
     }
   }
+}
+
+::view-transition-old(root) {
+  animation-duration: 0.3s;
+}
+
+::view-transition-new(root) {
+  animation-duration: 0.3s;
 }
