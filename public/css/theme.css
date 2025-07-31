@@ -54,25 +54,15 @@
 }
 
 :root {
-  --view-transition-duration: 0.5s;
+  --view-transition-duration: 0.3s;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   ::view-transition-old(root) {
-    animation-delay: var(--view-transition-duration);
+    animation-duration: var(--view-transition-duration);
   }
 
   ::view-transition-new(root) {
-    animation: circle-in var(--view-transition-duration);
-  }
-}
-
-@keyframes circle-in {
-  from {
-    clip-path: circle(0% at 50% 50%);
-  }
-
-  to {
-    clip-path: circle(100% at 50% 50%);
+    animation-duration: var(--view-transition-duration);
   }
 }
