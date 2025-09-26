@@ -38,3 +38,9 @@ I've got two profiles set up: one for work and one for personal. I'm using the 1
 If you can afford it, switch to Kagi for search. You won't regret it. If you don't use it for a month then you don't pay for the month, [a policy](https://kagi.com/pricing#fair-pricing) I'd like to see more services adopt. You get 100 searches a month on their free plan. I've upgraded to the professional plan for unlimited searches ($10/month).
 
 Yes, switch to Orion too, if you like WebKit. And if you like privacy.
+
+## Update 26 September 2026
+
+Maybe Orion is not quite mature enough. I get strange, incomplete results in the web inspector and there are some sites I can't login to ([Humaans](https://humaans.io/)) even if I switch off all blocking. I notice its version is 0.99.136-beta so maybe I just have to come back to it at a later date.
+
+In the meantime, I've switched to Firefox.
