@@ -10,7 +10,7 @@ tags: films
 
 {% include "film-backdrop-and-poster.njk" %}
 
-### ⭐⭐⭐⭐⭐
+{% outOfFive 5 %}
 
 Very Wes!, very stylish, impeccably done. Mia Threapleton was my favourite among a strong cast. The plot seemed almost incidental — more a series of scenes, all precisely and well written. I also liked Michael Cera's _Bjorn Lund_, especially the bit where one of his paint brushes was ever so slightly bent after a plane crash. I love all that detail. 
 

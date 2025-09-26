@@ -44,6 +44,7 @@
   --cta-background-color-hover: #333;
   --badge-background-color: white;
   --subtle-link-background-color: var(--gray-900);
+  --gold: #D3B001;
 
   --mastodon: #5a59ff;
   --linkedin: #2d65bc;
@@ -67,6 +68,7 @@
     --cta-background-color-hover: light-dark(#333, #eee);
     --badge-background-color: light-dark(white, var(--yellow-300));
     --subtle-link-background-color: light-dark(var(--gray-900), var(--yellow-300));
+    --gold: light-dark(#D3B001, gold);
 
     --mastodon: light-dark(#5a59ff, #6364f6);
     --linkedin: light-dark(#2d65bc, #2d65bc);
@@ -886,5 +888,17 @@ ul {
     & span {
       text-decoration: underline;
     }
+  }
+}
+
+.rating-stars {
+  display: flex;
+  font-size: 1.5rem;
+  gap: 0.25rem;
+  & .yes {
+    color: var(--gold);
+  }
+  & .no {
+    opacity: 0.2;
   }
 }

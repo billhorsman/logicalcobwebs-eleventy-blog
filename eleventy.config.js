@@ -213,6 +213,20 @@ export default async function(eleventyConfig) {
 		}
 	);
 
+	eleventyConfig.addAsyncShortcode(
+		"outOfFive",
+		async function(rating) {
+			const stars = [];
+			for (let i = 0; i < 5; i++) {
+				if (i < rating) {
+					stars.push("<i class='fa-solid fa-star yes'></i>");
+				} else {
+					stars.push("<i class='fa-regular fa-star no'></i>");
+				}
+			}
+			return `<span class="rating-stars">${stars.join("")}<span class="sr-only">${rating}/5</span></span>`;
+		}
+	);
 
 
 	// Features to make your build faster (when you need them)

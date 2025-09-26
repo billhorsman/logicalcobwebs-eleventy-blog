@@ -10,7 +10,7 @@ tags: films
 
 {% include "film-backdrop-and-poster.njk" %}
 
-### ⭐⭐⭐⭐⭐
+{% outOfFive 5 %}
 
 Funny and touching, I loved this. Lots of laugh out loud writing but in a very human way. Sweet but not saccharine. I would defintely see this again.
 
