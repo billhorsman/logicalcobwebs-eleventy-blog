@@ -10,7 +10,7 @@ tags: films
 
 {% include "film-backdrop-and-poster.njk" %}
 
-### ⭐⭐⭐⭐⭐⭐︎
+### ⭐⭐⭐⭐⭐︎
 
 From the opening credits I was hooked: a disjointed drive through a desolate looking Albuquerque with credits shown on the sides of buildings, road signs, hoardings and shop names. It would have been cheaper, I suspect, to digitally superimpose the credits onto the buildings but I'm pretty sure these were real pieces of graffiti and art. A nice touch.
 
