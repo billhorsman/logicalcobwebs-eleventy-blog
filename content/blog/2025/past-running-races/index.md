@@ -88,11 +88,20 @@ My 6th marathon. A little slower than Dramathon 2022 but I felt good. Ran with G
 
 That was a hard one. I did the first half at around the same pace as last year but my heart rate was 5 - 10 bpm higher, which was a bad sign. My ego wouldn't let me slow down to a pace that I knew I could sustain. Ended up doing the second half 11 minutes slower than the first half, slowing down considerably from 37k (23 miles) onwards. The 20mph headwind for the last 12k (7.5 miles) didn't help! Very pleased to have finished.
 
-I've [raised £1,100](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025) for Macmillan Cancer Support so far. 
+I [raised £1,100](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025) for Macmillan Cancer Support. 
 
-### Dramathon 2025
+### #8 Dramathon 2025
 
-18 October 2025 &hellip; {{ "2025-10-18" | daysToGo }} days to go. This will be my 5th Dramathon.
+18 October 2025 [5:22:37](dramathon-2025.pdf) (aged 58)
+
+My 7th slowest time, but expected. I was out of shape and had neglected my running since the Edinburgh marathon 5 months earlier. Pleased to have got the pacing right this time. 
+
+My time is skewed slightly by two things:
+
+- I forgot my dibber 🤦‍♂️ so the usual timeouts while you wait to cross busy roads weren't deducted from my time. That's probably a total of 2 minutes. 
+- There was a queue for a weak bridge at about 30k (groups of only five allowed across at once) which stopped me for about 15 minutes. I did have the advantage of a nice rest though.
+
+I think it's fair to say my time would have been more like 5:05 in normal circumstances. My goal was 5 hours so happy with that.
 
 ## Parkruns
 
