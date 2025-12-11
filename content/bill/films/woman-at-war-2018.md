@@ -13,7 +13,7 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
     <a href="../sink-or-swim-2018"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">68 / 100</a>
+    <a class="simple" href="../">67 / 100</a>
   </div>
   <div class="next">
     <a href="../little-women-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

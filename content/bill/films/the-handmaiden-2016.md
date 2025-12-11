@@ -13,7 +13,7 @@ description: "1930s Korea, in the period of Japanese occupation, a new girl, Soo
     <a href="../maudie-2016"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">61 / 100</a>
+    <a class="simple" href="../">60 / 100</a>
   </div>
   <div class="next">
     <a href="../cest-la-vie-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

@@ -13,7 +13,7 @@ description: "Lady Bird McPherson, a strong willed, deeply opinionated, artistic
     <a href="../cest-la-vie-2017"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">63 / 100</a>
+    <a class="simple" href="../">62 / 100</a>
   </div>
   <div class="next">
     <a href="../lucky-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

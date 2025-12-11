@@ -13,7 +13,7 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
     <a href="../in-bruges-2008"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">51 / 100</a>
+    <a class="simple" href="../">50 / 100</a>
   </div>
   <div class="next">
     <a href="../micmacs-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

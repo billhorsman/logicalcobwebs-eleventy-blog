@@ -13,7 +13,7 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
     <a href="../little-women-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">70 / 100</a>
+    <a class="simple" href="../">69 / 100</a>
   </div>
   <div class="next">
     <a href="../portrait-of-a-lady-on-fire-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

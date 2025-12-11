@@ -16,7 +16,7 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
     <a class="simple" href="../">48 / 100</a>
   </div>
   <div class="next">
-    <a href="../happygolucky-2008">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../in-bruges-2008">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Happy-Go-Lucky
+      In Bruges
     </span>
   </div>
 </nav>

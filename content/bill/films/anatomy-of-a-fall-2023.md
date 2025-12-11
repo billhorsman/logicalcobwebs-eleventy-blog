@@ -13,7 +13,7 @@ description: "A woman is suspected of her husband's murder, and their blind son 
     <a href="../the-fabelmans-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">95 / 100</a>
+    <a class="simple" href="../">94 / 100</a>
   </div>
   <div class="next">
     <a href="../all-of-us-strangers-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -84,5 +84,11 @@ description: "A woman is suspected of her husband's murder, and their blind son 
     </div>
   </section>
 
-  
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../nouvelle-vague-2025">Nouvelle Vague</a> because of Pierre-François Garel</li>
+  </ul>
+</section>
+
 </article>

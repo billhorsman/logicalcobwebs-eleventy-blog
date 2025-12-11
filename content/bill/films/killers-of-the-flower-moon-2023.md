@@ -13,7 +13,7 @@ description: "When oil is discovered in 1920s Oklahoma under Osage Nation land, 
     <a href="../blue-jean-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">99 / 100</a>
+    <a class="simple" href="../">98 / 100</a>
   </div>
   <div class="next">
     <a href="../the-ballad-of-wallis-island-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

@@ -13,7 +13,7 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
     <a href="../1917-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">75 / 100</a>
+    <a class="simple" href="../">74 / 100</a>
   </div>
   <div class="next">
     <a href="../limbo-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -89,7 +89,7 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
   <ul>
     <li><a href="../the-big-lebowski-1998">The Big Lebowski</a> because of David Thewlis</li>
 <li><a href="../hot-fuzz-2007">Hot Fuzz</a> because of Alice Lowe</li>
-<li><a href="../happygolucky-2008">Happy-Go-Lucky</a> and <a href="../maudie-2016">Maudie</a> because of Sally Hawkins</li>
+<li><a href="../maudie-2016">Maudie</a> because of Sally Hawkins</li>
   </ul>
 </section>
 

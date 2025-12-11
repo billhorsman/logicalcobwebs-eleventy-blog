@@ -13,7 +13,7 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
     <a href="../parasite-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">71 / 100</a>
+    <a class="simple" href="../">70 / 100</a>
   </div>
   <div class="next">
     <a href="../the-lighthouse-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

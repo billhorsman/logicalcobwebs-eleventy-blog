@@ -13,7 +13,7 @@ description: "A charismatic New York City jeweler always on the lookout for the 
     <a href="../the-lighthouse-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">73 / 100</a>
+    <a class="simple" href="../">72 / 100</a>
   </div>
   <div class="next">
     <a href="../1917-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

@@ -13,7 +13,7 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
     <a href="../dallas-buyers-club-2013"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">58 / 100</a>
+    <a class="simple" href="../">57 / 100</a>
   </div>
   <div class="next">
     <a href="../the-grand-budapest-hotel-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -91,7 +91,6 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
 <li><a href="../trainspotting-1996">Trainspotting</a> because of Stuart McQuarrie</li>
 <li><a href="../the-bourne-identity-2002">The Bourne Identity</a> because of Vincent Franklin</li>
 <li><a href="../hot-fuzz-2007">Hot Fuzz</a> because of Karl Johnson and Peter Wight</li>
-<li><a href="../happygolucky-2008">Happy-Go-Lucky</a> because of Sylvestra Le Touzel, Kate O'Flynn, Oliver Maltman, Karina Fernandez, Sinead Matthews and Mike Leigh</li>
 <li><a href="../in-bruges-2008">In Bruges</a> because of Elizabeth Berrington</li>
 <li><a href="../the-party-2017">The Party</a> because of Timothy Spall</li>
 <li><a href="../little-women-2019">Little Women</a> because of James Norton</li>

@@ -1,36 +1,36 @@
 ---
-title: "The Ballad of Wallis Island"
+title: "Nouvelle Vague"
 layout: layouts/films.njk
-slug: the-ballad-of-wallis-island-2025
-ogImage: content/bill/films/backdrops/the-ballad-of-wallis-island-2025.jpg
-description: "Eccentric lottery winner Charles lives alone on a remote island but dreams of hiring his favourite musician, Herb McGwyer, to play an exclusive, private gig. Unbeknownst to Herb, Charles has also hired Herb’s ex-bandmate and ex-girlfriend, Nell, with her new husband in town, to perform the old favourites. As tempers flare and old tensions resurface, the stormy weather traps them all on the island and Charles desperately looks for a way to salvage his dream gig."
+slug: nouvelle-vague-2025
+ogImage: content/bill/films/backdrops/nouvelle-vague-2025.jpg
+description: "After writing for Cahiers du cinéma, a young Jean-Luc Godard decides making films is the best film criticism. He convinces producer Georges de Beauregard to fund a low-budget feature, and creates a treatment with fellow New Wave filmmaker François Truffaut about a gangster couple. The result? Breathless, one of the first features of the Nouvelle Vague era of French cinema."
 ---
 
 {% set film = films[slug] %}
 
 <nav class="films">
   <div class="prev">
-    <a href="../killers-of-the-flower-moon-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-ballad-of-wallis-island-2025"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">99 / 100</a>
+    <a class="simple" href="../">100 / 100</a>
   </div>
   <div class="next">
-    <a href="../nouvelle-vague-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Killers of the Flower Moon
+      The Ballad of Wallis Island
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Nouvelle Vague
+      End of list
     </span>
   </div>
 </nav>
 
-<article class="film slug-the-ballad-of-wallis-island-2025">
+<article class="film slug-nouvelle-vague-2025">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
@@ -84,5 +84,11 @@ description: "Eccentric lottery winner Charles lives alone on a remote island bu
     </div>
   </section>
 
-  
+  <section class="related-films">
+  <h2>Related films</h2>
+  <ul>
+    <li><a href="../anatomy-of-a-fall-2023">Anatomy of a Fall</a> because of Pierre-François Garel</li>
+  </ul>
+</section>
+
 </article>

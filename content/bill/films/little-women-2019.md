@@ -13,7 +13,7 @@ description: "Four sisters come of age in America in the aftermath of the Civil 
     <a href="../woman-at-war-2018"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">69 / 100</a>
+    <a class="simple" href="../">68 / 100</a>
   </div>
   <div class="next">
     <a href="../parasite-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

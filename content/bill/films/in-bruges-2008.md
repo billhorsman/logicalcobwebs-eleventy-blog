@@ -10,10 +10,10 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
 
 <nav class="films">
   <div class="prev">
-    <a href="../happygolucky-2008"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../no-country-for-old-men-2007"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">50 / 100</a>
+    <a class="simple" href="../">49 / 100</a>
   </div>
   <div class="next">
     <a href="../fantastic-mr-fox-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Happy-Go-Lucky
+      No Country for Old Men
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

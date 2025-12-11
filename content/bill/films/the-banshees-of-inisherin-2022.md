@@ -13,7 +13,7 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
     <a href="../one-fine-morning-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">93 / 100</a>
+    <a class="simple" href="../">92 / 100</a>
   </div>
   <div class="next">
     <a href="../the-fabelmans-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

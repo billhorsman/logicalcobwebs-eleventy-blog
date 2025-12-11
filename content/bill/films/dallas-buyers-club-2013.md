@@ -13,7 +13,7 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
     <a href="../all-is-lost-2013"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">57 / 100</a>
+    <a class="simple" href="../">56 / 100</a>
   </div>
   <div class="next">
     <a href="../mr-turner-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
