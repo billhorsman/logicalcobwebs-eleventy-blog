@@ -16,6 +16,10 @@ When [Team Tito](https://teamtito.com/) asked me to go out to the [Mozilla Festi
 
 ## Caledonian Sleeper
 
+<img src="dundee.png" alt="An empty platform at night">
+
+_Dundee train station_
+
 This is the perfect way to get to London if you want to arrive there early in the morning. It's expensive, especially if you're travelling on your own and can't share a cabin but it's about the same price a the regular train + a hotel in London. The best bit is that you sleep the whole way. Actually, it can be a slightly disturbed sleep because the train rumbles and gently nudges you awake as you trundle through stations during the night. I find it charming and soporific but it's not for everyone. You board at 21:54 and on previous trips I've sat in the club car with a whisky before going to bed but I was tired so I just went straight to sleep.
 
 Beakfast in the club car nice and early at 06:30 was very good. Nice coffee and a full vegan breakfast. Rolled into Euston station just at 08:00, bang on time.
@@ -26,7 +30,15 @@ My train to Paris was at 10:31 which was a nice relaxed transfer. It's only 10 m
 
 I couldn't check into my hotel until 15:00 and it was only 50 minutes walk so instead of jumping on the Metro I walked in the sunshine instead.
 
+<img src="gard-du-nord.png" alt="a train station and busy street">
+
+_Gard du Nord_
+
 ## Overnight in Paris
+
+<img src="place-de-la-bastille.png" alt="a bike and a statue">
+
+_Place de la Bastille_
 
 In theory, you can get from London to Barcelona in one day but I would have had to get an earlier Eurostar (which would have been tight in St Pancras) and it would have been a dash across Paris from Gare du Nord to Gare de Lyon. Any delays would have meant an unplanned overnight stop somewhere and additional costs for rebooking trains. Also, coming straight off the sleeper and spending ten hours on two train would be a long old day.
 
@@ -37,6 +49,10 @@ Of course, the upside of stopping overnight in Paris is more time in Paris (a li
 To get the cheapest ticket, I waited until 14:40 to get the train from Gare de Lyon. It's almost 7 hours to Sants station in Barcelona but it was a good journey. Mostly in the dark so I had to wait for the return journey to see the Pyrenees and the Alps.
 
 Checked into my hotel at 22:00 and then straight out for some tapas with friends.
+
+<img src="sants.png" alt="a busy train station">
+
+_Sants station, Barcelona_
 
 ## Return
 
