@@ -18,12 +18,14 @@ I look to [Strava](https://www.strava.com/athletes/5349071) as the primary sourc
 
 I've run two different marathons:
 
-- [The Dramathon](https://www.thedramathon.com/) along the river Spey four times
+- [The Dramathon](https://www.thedramathon.com/) along the river Spey five times
 - [Edinburgh](https://www.edinburghmarathon.com/) three times
 
 They are very different races. The Dramathon is mostly on trails and has a few hills, including a big one at halfway and a long, steady climb to the finish. The scenery is beautiful. I think there are about 500 marathon runners so you're never far from someone but it's not crowded. You run past numerous distilleries and are handed about 8 minutures of whisky when you cross the finish line. There are very few spectators.
 
 Edinburgh is all paved, closed roads and over 10,000 marathon runners. Crowded to start with but it soon stretches out. There's a lot of spectator support which is motivating. Starting off in the centre of Edinburgh, through the suburbs and then down and along the coast.
+
+I'm planning a new marathon in 2026 though&hellip;.
 
 ### ~~Dramathon 2017~~
 
@@ -45,7 +47,7 @@ My second marathon and I trained better for this one. Improved by around 47 minu
 
 29 May 2022, [4:28:19](https://www.myrunning.uk/emf-marathon-2022/results-stats?entry_id=1201689&race_number=10809&people_id=674652)
 
-My 3rd marathon. Ran with George all the way. A PB by more than 10 minutes, but Edinburgh is a fast course. Too hot. Race number 10809. 
+My 3rd marathon. Ran with George all the way. A PB by more than 10 minutes, but Edinburgh is a fast course. Too hot. Race number 10809.
 
 - 10k: 57:14
 - Half: 2:06:55
@@ -60,7 +62,7 @@ My 4th marathon. Ran with George but he left me at 30k and easily beat me. Not a
 
 ### ~~Edinburgh 2023~~
 
-Did Not Start due to a toe injury. I [raised £110](https://www.justgiving.com/fundraising/bill-runs-edinburgh-marathon-2023) for Macmillan Cancer Support before I pulled out though. 
+Did Not Start due to a toe injury. I [raised £110](https://www.justgiving.com/fundraising/bill-runs-edinburgh-marathon-2023) for Macmillan Cancer Support before I pulled out though.
 
 ### ~~Dramathon 2023~~
 
@@ -74,7 +76,7 @@ My 5th marathon. Not a PB but definitely a victory for pacing. 6 minutes slower 
 
 - 10k: 1:00:57
 - Half: 2:12:31
-- 30k: 3:11:16. 
+- 30k: 3:11:16.
 
 ### #6 Dramathon 2024
 
@@ -88,20 +90,34 @@ My 6th marathon. A little slower than Dramathon 2022 but I felt good. Ran with G
 
 That was a hard one. I did the first half at around the same pace as last year but my heart rate was 5 - 10 bpm higher, which was a bad sign. My ego wouldn't let me slow down to a pace that I knew I could sustain. Ended up doing the second half 11 minutes slower than the first half, slowing down considerably from 37k (23 miles) onwards. The 20mph headwind for the last 12k (7.5 miles) didn't help! Very pleased to have finished.
 
-I [raised £1,100](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025) for Macmillan Cancer Support. 
+I [raised £1,100](https://www.justgiving.com/page/bill-runs-edinburgh-marathon-2025) for Macmillan Cancer Support.
 
 ### #8 Dramathon 2025
 
 18 October 2025 [5:22:37](dramathon-2025.pdf) (aged 58)
 
-My 7th slowest time, but expected. I was out of shape and had neglected my running since the Edinburgh marathon 5 months earlier. Pleased to have got the pacing right this time. 
+My 7th slowest time, but expected. I was out of shape and had neglected my running since the Edinburgh marathon 5 months earlier. Pleased to have got the pacing right this time.
 
 My time is skewed slightly by two things:
 
-- I forgot my dibber 🤦‍♂️ so the usual timeouts while you wait to cross busy roads weren't deducted from my time. That's probably a total of 2 minutes. 
+- I forgot my dibber 🤦‍♂️ so the usual timeouts while you wait to cross busy roads weren't deducted from my time. That's probably a total of 2 minutes.
 - There was a queue for a weak bridge at about 30k (groups of only five allowed across at once) which stopped me for about 15 minutes. I did have the advantage of a nice rest though.
 
 I think it's fair to say my time would have been more like 5:05 in normal circumstances. My goal was 5 hours so happy with that.
+
+### #9 Strathearn 2026
+
+14 June 2026 &hellip; <time date="2026-06-14" days-to-go></time>
+
+I was looking around for another marathon because I left it too late to enter Edinburgh. [Strathearn](https://www.strathearnharriers.org.uk/our-races/strathearn-marathon) looks really nice. Much, much smaller. There's a bit of a hill for the first 5k which is interesting. All in all, 460 metres of ascent.
+
+### #10 Dramathon 2026
+
+17 October 2026 &hellip; <time date="2026-10-17" days-to-go></time>
+
+### After that
+
+Depending how my body feels, I quite like the idea of entering a flatish marathon and trying to get a PB. I've always hankered after a sub-4 hour marathon but with each passing year that seems harder. I need to run something like 40 seconds/km faster to achieve that. Realistically, I'd be happy just to keep running at whatever pace I can manage.
 
 ## Parkruns
 
@@ -113,13 +129,13 @@ I started running Parkrun in 2019 at Camperdown, Dundee. I defer to [Parkrun](ht
 
 10k: 1 May 2011, [48:36](https://sportstats.one/results/38792) (aged 44)
 
-Tracked this result down online. I think I could get within a minute or two of this time now but this might be a PB I won't beat. This is a flatish run in Victoria, British Columbia (where we were living at the time). 
+Tracked this result down online. I think I could get within a minute or two of this time now but this might be a PB I won't beat. This is a flatish run in Victoria, British Columbia (where we were living at the time).
 
 ### Two Breweries Hill Race 2005
 
 30k: 2005
 
-The [Two Breweries Hill Race](https://twobreweries.org.uk/) is a gruelling 30k trail race with 1500m of ascent. I ran this with the legendary Graham Kelly, in preparation for the KIMM later in the year. It's a long old race and Graham was very patient at my slow pace. It took well over 4 hours. Can't find any results. 
+The [Two Breweries Hill Race](https://twobreweries.org.uk/) is a gruelling 30k trail race with 1500m of ascent. I ran this with the legendary Graham Kelly, in preparation for the KIMM later in the year. It's a long old race and Graham was very patient at my slow pace. It took well over 4 hours. Can't find any results.
 
 ### KIMM 2005
 
