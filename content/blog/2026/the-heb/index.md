@@ -10,13 +10,19 @@ tags:
   - adventure
 ---
 
-The Heb was born out of the ashes of the Hebridean Challenge which stopped in 2008, if I remember correctly. It was a simplified 2-day race instead of the complex and expensive 5-day Hebridean Challenge. Based on the Uists on the Outer Hebrides it ran from 2016 to 2022 (except for 2020 and 2021). It's a combination of biking, running and kayaking covering 200km in two days.
+## Before the Heb
 
-This is a record of my four years of racing (and one marshalling).
+The Heb was born out of the ashes of the Hebridean Challenge which ran from about 2002 to 2009. It was a complex and expensive 5-day race the length of the Outer Hebrides (either from Barra to the Butt of Lewis or vice versa). Nonie raced it in 2003 and 2004. I raced it in 2006 and 2008.
+
+The Hebridean Challenge was, in turn, born out of the ashes of the Western Isles Challenge which ran from about 1994 to 2000. They were very similar but different organisers.
+
+## The Heb
+
+The Heb is a simpler 2-day race over 200km on The Uists, a series of islands connected by causeways. There's a core route by bike which is mostly on-road but includes significant off-road sections and beach rides. There's a short kayak section each day and some serious hill runs over some unforgiving terrain. The whole course is achievable by the top competitors but the majority have to skip sections to get to the finish of each day in time (incurring time penalties). It was run by [Durty Events](https://durtyevents.com/).
 
 ## 2016
 
-Nonie and I marshalled because we were curious about the race. Had a great time and resolved to come back and race it the next year.
+The first race ([BBC](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-37337078)). Nonie and I marshalled because we were curious about the race. Had a great time and resolved to come back and race it the next year.
 
 <img src="./2016.png" alt="A woman sits in a high-vis yellow vest with a dog.">
 
@@ -60,7 +66,7 @@ Cancelled due to COVID-19 restrictions.
 
 ## 2021
 
-Cancelled due to ferry complications. Getting 150 people onto South Uist isn't an easy if they cancel a ferry and the tight schedule doesn't allow for any wiggle room. We ended up going out (on a different ferry) and completing most of the course for fun. With Sue Couling, Jon Whitaker, and George Horsman.
+Cancelled due to ferry complications. Getting 150 people onto South Uist isn't easy if they cancel a ferry and the tight schedule doesn't allow for any wiggle room. We ended up going out (on a different ferry) and completing most of the course for fun. With Sue Couling, Jon Whitaker, and George Horsman.
 
 <img src="./2021.png" alt="A group of people standing in an almost empty campsite. Five people with bikes, the rest still getting ready.">
 
