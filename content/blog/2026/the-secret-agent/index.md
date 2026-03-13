@@ -20,6 +20,14 @@ Dona Sebastiana, played by Tânia Maria, was just brilliant. "Marcelo", played b
 
 It looks like I've got three other Kleber Mendonça Filho films to watch now: Neighbouring Sounds (2012), Aquarius (2016), and Bacurau (2019).
 
+<img src="beetle.jpg" alt="A man standing beside a yellow VW Beetle">
+
+_The iconic Beetle from the opening scene_
+
+<img src="group.jpg" alt="A group of people sitting down and talking. A man in a green shirt is smiling and looking at the camera.">
+
+_Dona Sebastiana's "refugees"_
+
 <section class="ticket-stub">
   <a href="https://www.dca.org.uk/">
     <span>DCA</span>
