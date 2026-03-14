@@ -91,7 +91,6 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
 <li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> because of Joel Coen and Stephen Root</li>
 <li><a href="../trainspotting-1996">Trainspotting</a> because of Kelly Macdonald</li>
 <li><a href="../dune-2021">Dune</a> because of Javier Bardem and Josh Brolin</li>
-<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of Barry Corbin and Gene Jones</li>
 <li><a href="../lucky-2017">Lucky</a> because of Beth Grant</li>
   </ul>
 </section>

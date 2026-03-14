@@ -16,7 +16,7 @@ description: "Jean, a PE teacher, is forced to live a double life. When a new st
     <a class="simple" href="../">97 / 100</a>
   </div>
   <div class="next">
-    <a href="../killers-of-the-flower-moon-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../the-ballad-of-wallis-island-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Jean, a PE teacher, is forced to live a double life. When a new st
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Killers of the Flower Moon
+      The Ballad of Wallis Island
     </span>
   </div>
 </nav>

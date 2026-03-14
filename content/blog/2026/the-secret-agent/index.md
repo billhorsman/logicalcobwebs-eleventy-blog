@@ -18,7 +18,7 @@ The tempo was mesmerising. Very slow and reflective, which is just my thing. The
 
 Dona Sebastiana, played by Tânia Maria, brilliantly played the matriarch of her small community: caring but not to be messed with. "Marcelo", played by Wagner Moura, amazed in every scene: quiet, introspective.
 
-It looks like I've got three other Kleber Mendonça Filho films to watch now: Neighbouring Sounds (2012), Aquarius (2016), and Bacurau (2019).
+The Secret Agent has gone straight into my [top 100 films](/bill/films), replacing Killers of the Flower Moon (it's a cut throat list). It looks like I've got three other Kleber Mendonça Filho films to watch now: Neighbouring Sounds (2012), Aquarius (2016), and Bacurau (2019).
 
 <img src="beetle.jpg" alt="A man standing beside a yellow VW Beetle">
 

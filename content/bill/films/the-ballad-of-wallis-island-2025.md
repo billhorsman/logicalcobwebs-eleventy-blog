@@ -10,10 +10,10 @@ description: "Eccentric lottery winner Charles lives alone on a remote island bu
 
 <nav class="films">
   <div class="prev">
-    <a href="../killers-of-the-flower-moon-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../blue-jean-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">99 / 100</a>
+    <a class="simple" href="../">98 / 100</a>
   </div>
   <div class="next">
     <a href="../nouvelle-vague-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "Eccentric lottery winner Charles lives alone on a remote island bu
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Killers of the Flower Moon
+      Blue Jean
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

@@ -1,36 +1,36 @@
 ---
-title: "Nouvelle Vague"
+title: "The Secret Agent"
 layout: layouts/films.njk
-slug: nouvelle-vague-2025
-ogImage: content/bill/films/backdrops/nouvelle-vague-2025.jpg
-description: "After writing for Cahiers du cinéma, a young Jean-Luc Godard decides making films is the best film criticism. He convinces producer Georges de Beauregard to fund a low-budget feature, and creates a treatment with fellow New Wave filmmaker François Truffaut about a gangster couple. The result? Breathless, one of the first features of the Nouvelle Vague era of French cinema."
+slug: the-secret-agent-2025
+ogImage: content/bill/films/backdrops/the-secret-agent-2025.jpg
+description: "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting."
 ---
 
 {% set film = films[slug] %}
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-ballad-of-wallis-island-2025"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../nouvelle-vague-2025"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">99 / 100</a>
+    <a class="simple" href="../">100 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-secret-agent-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Ballad of Wallis Island
+      Nouvelle Vague
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Secret Agent
+      End of list
     </span>
   </div>
 </nav>
 
-<article class="film slug-nouvelle-vague-2025">
+<article class="film slug-the-secret-agent-2025">
   <div class="backdrop-and-poster">
     <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
     <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
@@ -40,7 +40,7 @@ description: "After writing for Cahiers du cinéma, a young Jean-Luc Godard deci
 
   <p>
     {%- if film.language -%}Language: {{ film.language }}.{% endif %}
-    
+    Also known as O Agente Secreto.
   </p>
 
   <p class="director">
@@ -84,11 +84,5 @@ description: "After writing for Cahiers du cinéma, a young Jean-Luc Godard deci
     </div>
   </section>
 
-  <section class="related-films">
-  <h2>Related films</h2>
-  <ul>
-    <li><a href="../anatomy-of-a-fall-2023">Anatomy of a Fall</a> because of Pierre-François Garel</li>
-  </ul>
-</section>
-
+  
 </article>

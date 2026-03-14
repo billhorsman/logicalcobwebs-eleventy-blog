@@ -89,7 +89,6 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
   <ul>
     <li><a href="../fight-club-1999">Fight Club</a>, <a href="../phone-booth-2003">Phone Booth</a> and <a href="../house-of-gucci-2021">House of Gucci</a> because of Jared Leto</li>
 <li><a href="../the-french-dispatch-2021">The French Dispatch</a> because of Griffin Dunne</li>
-<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of Carl Palmer</li>
   </ul>
 </section>
 

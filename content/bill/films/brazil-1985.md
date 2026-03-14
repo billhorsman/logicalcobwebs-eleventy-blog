@@ -87,7 +87,7 @@ description: "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> and <a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of Robert De Niro</li>
+    <li><a href="../the-deer-hunter-1978">The Deer Hunter</a> because of Robert De Niro</li>
 <li><a href="../hot-fuzz-2007">Hot Fuzz</a> because of Jim Broadbent</li>
 <li><a href="../mr-turner-2014">Mr. Turner</a> because of Roger Ashton-Griffiths</li>
   </ul>

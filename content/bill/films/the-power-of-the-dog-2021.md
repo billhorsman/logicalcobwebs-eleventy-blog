@@ -88,7 +88,6 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
   <h2>Related films</h2>
   <ul>
     <li><a href="../1917-2019">1917</a> because of Benedict Cumberbatch</li>
-<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of Jesse Plemons</li>
   </ul>
 </section>
 

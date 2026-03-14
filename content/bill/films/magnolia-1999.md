@@ -95,7 +95,6 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
 <li><a href="../the-fabelmans-2022">The Fabelmans</a> because of Ezra Buzzington</li>
 <li><a href="../licorice-pizza-2021">Licorice Pizza</a> because of John C. Reilly, Mark Flanagan, Paul Thomas Anderson and Brian Kehew</li>
 <li><a href="../kill-bill-the-whole-bloody-affair-2011">Kill Bill: The Whole Bloody Affair</a> because of Michael Bowen</li>
-<li><a href="../killers-of-the-flower-moon-2023">Killers of the Flower Moon</a> because of Pat Healy</li>
   </ul>
 </section>
 
