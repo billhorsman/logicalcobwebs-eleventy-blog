@@ -32,8 +32,8 @@ description: "An assassin is shot and almost killed by her ruthless employer, Bi
 
 <article class="film slug-kill-bill-the-whole-bloody-affair-2011">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="" eleventy:ignore>
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="" eleventy:ignore>
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

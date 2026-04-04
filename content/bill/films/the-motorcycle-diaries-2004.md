@@ -32,8 +32,8 @@ description: "Based on the journals of Che Guevara, leader of the Cuban Revoluti
 
 <article class="film slug-the-motorcycle-diaries-2004">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="" eleventy:ignore>
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="" eleventy:ignore>
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>

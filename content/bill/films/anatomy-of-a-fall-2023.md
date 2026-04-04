@@ -32,8 +32,8 @@ description: "A woman is suspected of her husband's murder, and their blind son 
 
 <article class="film slug-anatomy-of-a-fall-2023">
   <div class="backdrop-and-poster">
-    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="">
-    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="">
+    <img class="poster" src="../films/posters/{{ slug }}.jpg" alt="" eleventy:ignore>
+    <img class="backdrop" src="../films/backdrops/{{ slug }}.jpg" alt="" eleventy:ignore>
   </div>
 
   <h1>{{ film.title }} ({{ film | filmYear }})</h1>
