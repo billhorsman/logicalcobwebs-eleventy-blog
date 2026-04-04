@@ -56,84 +56,84 @@ description: "Four sisters come of age in America in the aftermath of the Civil 
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/36592.jpg" alt="Saoirse Ronan" loading="lazy">
+  <img src="../films/profiles/36592.jpg" alt="Saoirse Ronan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Saoirse Ronan</span>
     <span class="cast-card-character">Jo March</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/10990.jpg" alt="Emma Watson" loading="lazy">
+  <img src="../films/profiles/10990.jpg" alt="Emma Watson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Emma Watson</span>
     <span class="cast-card-character">Meg March</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1373737.jpg" alt="Florence Pugh" loading="lazy">
+  <img src="../films/profiles/1373737.jpg" alt="Florence Pugh" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Florence Pugh</span>
     <span class="cast-card-character">Amy March</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1669125.jpg" alt="Eliza Scanlen" loading="lazy">
+  <img src="../films/profiles/1669125.jpg" alt="Eliza Scanlen" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Eliza Scanlen</span>
     <span class="cast-card-character">Beth March</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4784.jpg" alt="Laura Dern" loading="lazy">
+  <img src="../films/profiles/4784.jpg" alt="Laura Dern" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Laura Dern</span>
     <span class="cast-card-character">Marmee March</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1190668.jpg" alt="Timothée Chalamet" loading="lazy">
+  <img src="../films/profiles/1190668.jpg" alt="Timothée Chalamet" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Timothée Chalamet</span>
     <span class="cast-card-character">Laurie</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/72638.jpg" alt="Tracy Letts" loading="lazy">
+  <img src="../films/profiles/72638.jpg" alt="Tracy Letts" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tracy Letts</span>
     <span class="cast-card-character">Mr. Dashwood</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/59410.jpg" alt="Bob Odenkirk" loading="lazy">
+  <img src="../films/profiles/59410.jpg" alt="Bob Odenkirk" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Bob Odenkirk</span>
     <span class="cast-card-character">Father March</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1205278.jpg" alt="James Norton" loading="lazy">
+  <img src="../films/profiles/1205278.jpg" alt="James Norton" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">James Norton</span>
     <span class="cast-card-character">John Brooke</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/16269.jpg" alt="Louis Garrel" loading="lazy">
+  <img src="../films/profiles/16269.jpg" alt="Louis Garrel" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Louis Garrel</span>
     <span class="cast-card-character">Friedrich Bhaer</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1232500.jpg" alt="Jayne Houdyshell" loading="lazy">
+  <img src="../films/profiles/1232500.jpg" alt="Jayne Houdyshell" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jayne Houdyshell</span>
     <span class="cast-card-character">Hannah</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2955.jpg" alt="Chris Cooper" loading="lazy">
+  <img src="../films/profiles/2955.jpg" alt="Chris Cooper" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Chris Cooper</span>
     <span class="cast-card-character">Mr. Laurence</span>

@@ -56,56 +56,56 @@ description: "Hirayama is content with his life as a toilet cleaner in Tokyo. Ou
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/18056.jpg" alt="Koji Yakusho" loading="lazy">
+  <img src="../films/profiles/18056.jpg" alt="Koji Yakusho" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Koji Yakusho</span>
     <span class="cast-card-character">Hirayama</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1015822.jpg" alt="Tokio Emoto" loading="lazy">
+  <img src="../films/profiles/1015822.jpg" alt="Tokio Emoto" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tokio Emoto</span>
     <span class="cast-card-character">Takashi</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4011271.jpg" alt="Arisa Nakano" loading="lazy">
+  <img src="../films/profiles/4011271.jpg" alt="Arisa Nakano" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Arisa Nakano</span>
     <span class="cast-card-character">Niko</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3086230.jpg" alt="Aoi Yamada" loading="lazy">
+  <img src="../films/profiles/3086230.jpg" alt="Aoi Yamada" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Aoi Yamada</span>
     <span class="cast-card-character">Aya</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/79457.jpg" alt="Yumi Aso" loading="lazy">
+  <img src="../films/profiles/79457.jpg" alt="Yumi Aso" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Yumi Aso</span>
     <span class="cast-card-character">Keiko</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1630770.jpg" alt="Sayuri Ishikawa" loading="lazy">
+  <img src="../films/profiles/1630770.jpg" alt="Sayuri Ishikawa" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sayuri Ishikawa</span>
     <span class="cast-card-character">Mama</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/33134.jpg" alt="Tomokazu Miura" loading="lazy">
+  <img src="../films/profiles/33134.jpg" alt="Tomokazu Miura" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tomokazu Miura</span>
     <span class="cast-card-character">Tomoyama</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/136191.jpg" alt="Min Tanaka" loading="lazy">
+  <img src="../films/profiles/136191.jpg" alt="Min Tanaka" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Min Tanaka</span>
     <span class="cast-card-character">Homeless</span>
@@ -119,14 +119,14 @@ description: "Hirayama is content with his life as a toilet cleaner in Tokyo. Ou
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2212955.jpg" alt="Ron Mizuma" loading="lazy">
+  <img src="../films/profiles/2212955.jpg" alt="Ron Mizuma" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ron Mizuma</span>
     <span class="cast-card-character">Businessman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4500898.jpg" alt="Soraji Shibuya" loading="lazy">
+  <img src="../films/profiles/4500898.jpg" alt="Soraji Shibuya" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Soraji Shibuya</span>
     <span class="cast-card-character">Kid</span>

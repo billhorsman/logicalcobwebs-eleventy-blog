@@ -151,7 +151,7 @@ top_films.each_with_index do |film, index|
 
   cast_cards = film.top_cast.map do |person|
     image_tag = if person.profile_path
-        "<img src=\"../films/profiles/#{person.id}.jpg\" alt=\"#{person.name}\" loading=\"lazy\">"
+        "<img src=\"../films/profiles/#{person.id}.jpg\" alt=\"#{person.name}\" loading=\"lazy\" eleventy:ignore>"
       else
         "<div class=\"cast-card-no-image\"><i class=\"fa-solid fa-user\"></i></div>"
       end

@@ -56,84 +56,84 @@ description: "The Fantastic Mr. Fox, bored with his current life, plans a heist 
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/1461.jpg" alt="George Clooney" loading="lazy">
+  <img src="../films/profiles/1461.jpg" alt="George Clooney" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">George Clooney</span>
     <span class="cast-card-character">Mr. Fox (voice)</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5064.jpg" alt="Meryl Streep" loading="lazy">
+  <img src="../films/profiles/5064.jpg" alt="Meryl Streep" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Meryl Streep</span>
     <span class="cast-card-character">Felicity Fox (voice)</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/17881.jpg" alt="Jason Schwartzman" loading="lazy">
+  <img src="../films/profiles/17881.jpg" alt="Jason Schwartzman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jason Schwartzman</span>
     <span class="cast-card-character">Ash Fox (voice)</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/486.jpg" alt="Wallace Wolodarsky" loading="lazy">
+  <img src="../films/profiles/486.jpg" alt="Wallace Wolodarsky" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Wallace Wolodarsky</span>
     <span class="cast-card-character">Kylie (voice)</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1332415.jpg" alt="Eric Chase Anderson" loading="lazy">
+  <img src="../films/profiles/1332415.jpg" alt="Eric Chase Anderson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Eric Chase Anderson</span>
     <span class="cast-card-character">Kristofferson Silverfox (voice)</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5293.jpg" alt="Willem Dafoe" loading="lazy">
+  <img src="../films/profiles/5293.jpg" alt="Willem Dafoe" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Willem Dafoe</span>
     <span class="cast-card-character">Rat (voice)</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1532.jpg" alt="Bill Murray" loading="lazy">
+  <img src="../films/profiles/1532.jpg" alt="Bill Murray" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Bill Murray</span>
     <span class="cast-card-character">Clive Badger (voice)</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1332416.jpg" alt="Robin Hurlstone" loading="lazy">
+  <img src="../films/profiles/1332416.jpg" alt="Robin Hurlstone" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robin Hurlstone</span>
     <span class="cast-card-character">Walter Boggis (voice)</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/992097.jpg" alt="Hugo Guinness" loading="lazy">
+  <img src="../films/profiles/992097.jpg" alt="Hugo Guinness" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Hugo Guinness</span>
     <span class="cast-card-character">Nathan Bunce (voice)</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5658.jpg" alt="Michael Gambon" loading="lazy">
+  <img src="../films/profiles/5658.jpg" alt="Michael Gambon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Michael Gambon</span>
     <span class="cast-card-character">Franklin Bean (voice)</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/15737.jpg" alt="Helen McCrory" loading="lazy">
+  <img src="../films/profiles/15737.jpg" alt="Helen McCrory" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Helen McCrory</span>
     <span class="cast-card-character">Mrs. Bean (voice)</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5655.jpg" alt="Wes Anderson" loading="lazy">
+  <img src="../films/profiles/5655.jpg" alt="Wes Anderson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Wes Anderson</span>
     <span class="cast-card-character">Stan Weasel (voice)</span>

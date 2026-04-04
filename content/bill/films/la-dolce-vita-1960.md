@@ -56,84 +56,84 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/5676.jpg" alt="Marcello Mastroianni" loading="lazy">
+  <img src="../films/profiles/5676.jpg" alt="Marcello Mastroianni" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Marcello Mastroianni</span>
     <span class="cast-card-character">Marcello Rubini</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5961.jpg" alt="Anita Ekberg" loading="lazy">
+  <img src="../films/profiles/5961.jpg" alt="Anita Ekberg" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Anita Ekberg</span>
     <span class="cast-card-character">Sylvia</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5682.jpg" alt="Anouk Aimée" loading="lazy">
+  <img src="../films/profiles/5682.jpg" alt="Anouk Aimée" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Anouk Aimée</span>
     <span class="cast-card-character">Maddalena</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5962.jpg" alt="Yvonne Furneaux" loading="lazy">
+  <img src="../films/profiles/5962.jpg" alt="Yvonne Furneaux" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Yvonne Furneaux</span>
     <span class="cast-card-character">Emma</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5963.jpg" alt="Magali Noël" loading="lazy">
+  <img src="../films/profiles/5963.jpg" alt="Magali Noël" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Magali Noël</span>
     <span class="cast-card-character">Fanny</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5964.jpg" alt="Alain Cuny" loading="lazy">
+  <img src="../films/profiles/5964.jpg" alt="Alain Cuny" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Alain Cuny</span>
     <span class="cast-card-character">Steiner</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5965.jpg" alt="Annibale Ninchi" loading="lazy">
+  <img src="../films/profiles/5965.jpg" alt="Annibale Ninchi" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Annibale Ninchi</span>
     <span class="cast-card-character">Marcello's father</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5966.jpg" alt="Walter Santesso" loading="lazy">
+  <img src="../films/profiles/5966.jpg" alt="Walter Santesso" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Walter Santesso</span>
     <span class="cast-card-character">Paparazzo</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5967.jpg" alt="Valeria Ciangottini" loading="lazy">
+  <img src="../films/profiles/5967.jpg" alt="Valeria Ciangottini" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Valeria Ciangottini</span>
     <span class="cast-card-character">Paola</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5968.jpg" alt="Riccardo Garrone" loading="lazy">
+  <img src="../films/profiles/5968.jpg" alt="Riccardo Garrone" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Riccardo Garrone</span>
     <span class="cast-card-character">Riccardo</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5969.jpg" alt="Ida Galli" loading="lazy">
+  <img src="../films/profiles/5969.jpg" alt="Ida Galli" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ida Galli</span>
     <span class="cast-card-character">Debutante of the year</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1736893.jpg" alt="Audrey McDonald" loading="lazy">
+  <img src="../films/profiles/1736893.jpg" alt="Audrey McDonald" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Audrey McDonald</span>
     <span class="cast-card-character">Jane</span>

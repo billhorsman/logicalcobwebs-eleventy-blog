@@ -56,84 +56,84 @@ description: "Buddy is a young boy on the cusp of adolescence, whose life is fil
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/3232669.jpg" alt="Jude Hill" loading="lazy">
+  <img src="../films/profiles/3232669.jpg" alt="Jude Hill" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jude Hill</span>
     <span class="cast-card-character">Buddy</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1254583.jpg" alt="Jamie Dornan" loading="lazy">
+  <img src="../films/profiles/1254583.jpg" alt="Jamie Dornan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jamie Dornan</span>
     <span class="cast-card-character">Pa</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/147056.jpg" alt="Caitríona Balfe" loading="lazy">
+  <img src="../films/profiles/147056.jpg" alt="Caitríona Balfe" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Caitríona Balfe</span>
     <span class="cast-card-character">Ma</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3065081.jpg" alt="Lewis McAskie" loading="lazy">
+  <img src="../films/profiles/3065081.jpg" alt="Lewis McAskie" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Lewis McAskie</span>
     <span class="cast-card-character">Will</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5309.jpg" alt="Judi Dench" loading="lazy">
+  <img src="../films/profiles/5309.jpg" alt="Judi Dench" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Judi Dench</span>
     <span class="cast-card-character">Granny</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/8785.jpg" alt="Ciarán Hinds" loading="lazy">
+  <img src="../films/profiles/8785.jpg" alt="Ciarán Hinds" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ciarán Hinds</span>
     <span class="cast-card-character">Pop</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1726976.jpg" alt="Lara McDonnell" loading="lazy">
+  <img src="../films/profiles/1726976.jpg" alt="Lara McDonnell" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Lara McDonnell</span>
     <span class="cast-card-character">Moira</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/228866.jpg" alt="Colin Morgan" loading="lazy">
+  <img src="../films/profiles/228866.jpg" alt="Colin Morgan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Colin Morgan</span>
     <span class="cast-card-character">Billy Clanton</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/56101.jpg" alt="Gerard Horan" loading="lazy">
+  <img src="../films/profiles/56101.jpg" alt="Gerard Horan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Gerard Horan</span>
     <span class="cast-card-character">Mackie</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1709739.jpg" alt="Josie Walker" loading="lazy">
+  <img src="../films/profiles/1709739.jpg" alt="Josie Walker" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Josie Walker</span>
     <span class="cast-card-character">Auntie Violet</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2893134.jpg" alt="Olive Tennant" loading="lazy">
+  <img src="../films/profiles/2893134.jpg" alt="Olive Tennant" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Olive Tennant</span>
     <span class="cast-card-character">Catherine</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/17483.jpg" alt="Michael Maloney" loading="lazy">
+  <img src="../films/profiles/17483.jpg" alt="Michael Maloney" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Michael Maloney</span>
     <span class="cast-card-character">Frankie West</span>

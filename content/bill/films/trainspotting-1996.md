@@ -56,84 +56,84 @@ description: "Hilarious but harrowing, the film charts the disintegration of the
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/3061.jpg" alt="Ewan McGregor" loading="lazy">
+  <img src="../films/profiles/3061.jpg" alt="Ewan McGregor" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ewan McGregor</span>
     <span class="cast-card-character">Renton</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1125.jpg" alt="Ewen Bremner" loading="lazy">
+  <img src="../films/profiles/1125.jpg" alt="Ewen Bremner" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ewen Bremner</span>
     <span class="cast-card-character">Spud</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/9012.jpg" alt="Jonny Lee Miller" loading="lazy">
+  <img src="../films/profiles/9012.jpg" alt="Jonny Lee Miller" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jonny Lee Miller</span>
     <span class="cast-card-character">Sick Boy</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/9013.jpg" alt="Kevin McKidd" loading="lazy">
+  <img src="../films/profiles/9013.jpg" alt="Kevin McKidd" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Kevin McKidd</span>
     <span class="cast-card-character">Tommy</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/18023.jpg" alt="Robert Carlyle" loading="lazy">
+  <img src="../films/profiles/18023.jpg" alt="Robert Carlyle" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robert Carlyle</span>
     <span class="cast-card-character">Begbie</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/9015.jpg" alt="Kelly Macdonald" loading="lazy">
+  <img src="../films/profiles/9015.jpg" alt="Kelly Macdonald" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Kelly Macdonald</span>
     <span class="cast-card-character">Diane</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3064.jpg" alt="Peter Mullan" loading="lazy">
+  <img src="../films/profiles/3064.jpg" alt="Peter Mullan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Peter Mullan</span>
     <span class="cast-card-character">Swanney</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2467.jpg" alt="James Cosmo" loading="lazy">
+  <img src="../films/profiles/2467.jpg" alt="James Cosmo" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">James Cosmo</span>
     <span class="cast-card-character">Renton's Father</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/9016.jpg" alt="Eileen Nicholas" loading="lazy">
+  <img src="../films/profiles/9016.jpg" alt="Eileen Nicholas" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Eileen Nicholas</span>
     <span class="cast-card-character">Renton's Mother</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1837.jpg" alt="Susan Vidler" loading="lazy">
+  <img src="../films/profiles/1837.jpg" alt="Susan Vidler" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Susan Vidler</span>
     <span class="cast-card-character">Allison</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/9017.jpg" alt="Pauline Lynch" loading="lazy">
+  <img src="../films/profiles/9017.jpg" alt="Pauline Lynch" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Pauline Lynch</span>
     <span class="cast-card-character">Lizzy</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1834.jpg" alt="Shirley Henderson" loading="lazy">
+  <img src="../films/profiles/1834.jpg" alt="Shirley Henderson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Shirley Henderson</span>
     <span class="cast-card-character">Gail</span>

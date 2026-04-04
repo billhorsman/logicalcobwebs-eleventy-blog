@@ -56,28 +56,28 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/142874.jpg" alt="Halldóra Geirharðsdóttir" loading="lazy">
+  <img src="../films/profiles/142874.jpg" alt="Halldóra Geirharðsdóttir" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Halldóra Geirharðsdóttir</span>
     <span class="cast-card-character">Halla / Ása</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/110901.jpg" alt="Jóhann Sigurðarson" loading="lazy">
+  <img src="../films/profiles/110901.jpg" alt="Jóhann Sigurðarson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jóhann Sigurðarson</span>
     <span class="cast-card-character">Sveinbjörn</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/544972.jpg" alt="Davíð Þór Jónsson" loading="lazy">
+  <img src="../films/profiles/544972.jpg" alt="Davíð Þór Jónsson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Davíð Þór Jónsson</span>
     <span class="cast-card-character">Pianist / Accordion Player</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2153591.jpg" alt="Magnús Trygvason Eliassen" loading="lazy">
+  <img src="../films/profiles/2153591.jpg" alt="Magnús Trygvason Eliassen" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Magnús Trygvason Eliassen</span>
     <span class="cast-card-character">Drummer</span>
@@ -112,28 +112,28 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/118345.jpg" alt="Jörundur Ragnarsson" loading="lazy">
+  <img src="../films/profiles/118345.jpg" alt="Jörundur Ragnarsson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jörundur Ragnarsson</span>
     <span class="cast-card-character">Baldvin</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1290765.jpg" alt="Juan Camillo Roman Estrada" loading="lazy">
+  <img src="../films/profiles/1290765.jpg" alt="Juan Camillo Roman Estrada" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Juan Camillo Roman Estrada</span>
     <span class="cast-card-character">Juan Camillo</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1183138.jpg" alt="Charlotte Bøving" loading="lazy">
+  <img src="../films/profiles/1183138.jpg" alt="Charlotte Bøving" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Charlotte Bøving</span>
     <span class="cast-card-character">Adoption agency lady</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1093246.jpg" alt="Björn Thors" loading="lazy">
+  <img src="../films/profiles/1093246.jpg" alt="Björn Thors" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Björn Thors</span>
     <span class="cast-card-character">The Prime Minister</span>

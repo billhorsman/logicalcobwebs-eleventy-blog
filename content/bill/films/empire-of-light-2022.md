@@ -56,84 +56,84 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/39187.jpg" alt="Olivia Colman" loading="lazy">
+  <img src="../films/profiles/39187.jpg" alt="Olivia Colman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Olivia Colman</span>
     <span class="cast-card-character">Hilary</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2380397.jpg" alt="Micheal Ward" loading="lazy">
+  <img src="../films/profiles/2380397.jpg" alt="Micheal Ward" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Micheal Ward</span>
     <span class="cast-card-character">Stephen</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/13014.jpg" alt="Toby Jones" loading="lazy">
+  <img src="../films/profiles/13014.jpg" alt="Toby Jones" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Toby Jones</span>
     <span class="cast-card-character">Norman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5472.jpg" alt="Colin Firth" loading="lazy">
+  <img src="../films/profiles/5472.jpg" alt="Colin Firth" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Colin Firth</span>
     <span class="cast-card-character">Donald Ellis</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/75066.jpg" alt="Tom Brooke" loading="lazy">
+  <img src="../films/profiles/75066.jpg" alt="Tom Brooke" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tom Brooke</span>
     <span class="cast-card-character">Neil</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/31427.jpg" alt="Tanya Moodie" loading="lazy">
+  <img src="../films/profiles/31427.jpg" alt="Tanya Moodie" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tanya Moodie</span>
     <span class="cast-card-character">Delia</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3260026.jpg" alt="Hannah Onslow" loading="lazy">
+  <img src="../films/profiles/3260026.jpg" alt="Hannah Onslow" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Hannah Onslow</span>
     <span class="cast-card-character">Janine</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1371518.jpg" alt="Crystal Clarke" loading="lazy">
+  <img src="../films/profiles/1371518.jpg" alt="Crystal Clarke" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Crystal Clarke</span>
     <span class="cast-card-character">Ruby</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/229606.jpg" alt="Monica Dolan" loading="lazy">
+  <img src="../films/profiles/229606.jpg" alt="Monica Dolan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Monica Dolan</span>
     <span class="cast-card-character">Rosemary Bates</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5319.jpg" alt="Ron Cook" loading="lazy">
+  <img src="../films/profiles/5319.jpg" alt="Ron Cook" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ron Cook</span>
     <span class="cast-card-character">Mr. Cooper</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3902.jpg" alt="Sara Stewart" loading="lazy">
+  <img src="../films/profiles/3902.jpg" alt="Sara Stewart" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sara Stewart</span>
     <span class="cast-card-character">Brenda Ellis</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/206724.jpg" alt="Justin Edwards" loading="lazy">
+  <img src="../films/profiles/206724.jpg" alt="Justin Edwards" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Justin Edwards</span>
     <span class="cast-card-character">Jim Booth</span>

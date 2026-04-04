@@ -56,84 +56,84 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/1741367.jpg" alt="Alana Haim" loading="lazy">
+  <img src="../films/profiles/1741367.jpg" alt="Alana Haim" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Alana Haim</span>
     <span class="cast-card-character">Alana Kane</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2764542.jpg" alt="Cooper Hoffman" loading="lazy">
+  <img src="../films/profiles/2764542.jpg" alt="Cooper Hoffman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Cooper Hoffman</span>
     <span class="cast-card-character">Gary Valentine</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2228.jpg" alt="Sean Penn" loading="lazy">
+  <img src="../films/profiles/2228.jpg" alt="Sean Penn" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sean Penn</span>
     <span class="cast-card-character">Jack Holden</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2887.jpg" alt="Tom Waits" loading="lazy">
+  <img src="../films/profiles/2887.jpg" alt="Tom Waits" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tom Waits</span>
     <span class="cast-card-character">Rex Blau</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/51329.jpg" alt="Bradley Cooper" loading="lazy">
+  <img src="../films/profiles/51329.jpg" alt="Bradley Cooper" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Bradley Cooper</span>
     <span class="cast-card-character">Jon Peters</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/227564.jpg" alt="Benny Safdie" loading="lazy">
+  <img src="../films/profiles/227564.jpg" alt="Benny Safdie" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Benny Safdie</span>
     <span class="cast-card-character">Joel Wachs</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/61263.jpg" alt="Skyler Gisondo" loading="lazy">
+  <img src="../films/profiles/61263.jpg" alt="Skyler Gisondo" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Skyler Gisondo</span>
     <span class="cast-card-character">Lance Brannigan</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/139309.jpg" alt="Mary Elizabeth Ellis" loading="lazy">
+  <img src="../films/profiles/139309.jpg" alt="Mary Elizabeth Ellis" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Mary Elizabeth Ellis</span>
     <span class="cast-card-character">Momma Anita</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/8265.jpg" alt="John Michael Higgins" loading="lazy">
+  <img src="../films/profiles/8265.jpg" alt="John Michael Higgins" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Michael Higgins</span>
     <span class="cast-card-character">Jerry Frick</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4003.jpg" alt="Christine Ebersole" loading="lazy">
+  <img src="../films/profiles/4003.jpg" alt="Christine Ebersole" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Christine Ebersole</span>
     <span class="cast-card-character">Lucille Doolittle</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/538.jpg" alt="Harriet Sansom Harris" loading="lazy">
+  <img src="../films/profiles/538.jpg" alt="Harriet Sansom Harris" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Harriet Sansom Harris</span>
     <span class="cast-card-character">Mary Grady</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/33528.jpg" alt="Joseph Cross" loading="lazy">
+  <img src="../films/profiles/33528.jpg" alt="Joseph Cross" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Joseph Cross</span>
     <span class="cast-card-character">Matthew</span>

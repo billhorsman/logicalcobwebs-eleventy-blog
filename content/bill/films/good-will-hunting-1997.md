@@ -56,63 +56,63 @@ description: "Headstrong yet aimless, Will Hunting has a genius-level IQ but cho
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/1892.jpg" alt="Matt Damon" loading="lazy">
+  <img src="../films/profiles/1892.jpg" alt="Matt Damon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Matt Damon</span>
     <span class="cast-card-character">Will Hunting</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2157.jpg" alt="Robin Williams" loading="lazy">
+  <img src="../films/profiles/2157.jpg" alt="Robin Williams" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robin Williams</span>
     <span class="cast-card-character">Sean Maguire</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/880.jpg" alt="Ben Affleck" loading="lazy">
+  <img src="../films/profiles/880.jpg" alt="Ben Affleck" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ben Affleck</span>
     <span class="cast-card-character">Chuckie Sullivan</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1640.jpg" alt="Stellan Skarsgård" loading="lazy">
+  <img src="../films/profiles/1640.jpg" alt="Stellan Skarsgård" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Stellan Skarsgård</span>
     <span class="cast-card-character">Gerald Lambeau</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/6613.jpg" alt="Minnie Driver" loading="lazy">
+  <img src="../films/profiles/6613.jpg" alt="Minnie Driver" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Minnie Driver</span>
     <span class="cast-card-character">Skylar</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1893.jpg" alt="Casey Affleck" loading="lazy">
+  <img src="../films/profiles/1893.jpg" alt="Casey Affleck" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Casey Affleck</span>
     <span class="cast-card-character">Morgan O'Mally</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/6614.jpg" alt="Cole Hauser" loading="lazy">
+  <img src="../films/profiles/6614.jpg" alt="Cole Hauser" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Cole Hauser</span>
     <span class="cast-card-character">Billy McBride</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/6623.jpg" alt="Vik Sahay" loading="lazy">
+  <img src="../films/profiles/6623.jpg" alt="Vik Sahay" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Vik Sahay</span>
     <span class="cast-card-character">MIT Student</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/6615.jpg" alt="John Mighton" loading="lazy">
+  <img src="../films/profiles/6615.jpg" alt="John Mighton" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Mighton</span>
     <span class="cast-card-character">Tom</span>

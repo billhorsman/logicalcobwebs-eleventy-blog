@@ -56,35 +56,35 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/2973328.jpg" alt="Joséphine Sanz" loading="lazy">
+  <img src="../films/profiles/2973328.jpg" alt="Joséphine Sanz" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Joséphine Sanz</span>
     <span class="cast-card-character">Nelly</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2973329.jpg" alt="Gabrielle Sanz" loading="lazy">
+  <img src="../films/profiles/2973329.jpg" alt="Gabrielle Sanz" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Gabrielle Sanz</span>
     <span class="cast-card-character">Marion</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/144763.jpg" alt="Nina Meurisse" loading="lazy">
+  <img src="../films/profiles/144763.jpg" alt="Nina Meurisse" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Nina Meurisse</span>
     <span class="cast-card-character">La mère</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1639988.jpg" alt="Stéphane Varupenne" loading="lazy">
+  <img src="../films/profiles/1639988.jpg" alt="Stéphane Varupenne" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Stéphane Varupenne</span>
     <span class="cast-card-character">Le père</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/113605.jpg" alt="Margot Abascal" loading="lazy">
+  <img src="../films/profiles/113605.jpg" alt="Margot Abascal" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Margot Abascal</span>
     <span class="cast-card-character">La grand-mère</span>
@@ -105,7 +105,7 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/583565.jpg" alt="Guylène Péan" loading="lazy">
+  <img src="../films/profiles/583565.jpg" alt="Guylène Péan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Guylène Péan</span>
     <span class="cast-card-character">Dame maison de retraite</span>

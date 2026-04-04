@@ -56,49 +56,49 @@ description: "A group of working-class friends decide to enlist in the Army duri
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/380.jpg" alt="Robert De Niro" loading="lazy">
+  <img src="../films/profiles/380.jpg" alt="Robert De Niro" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robert De Niro</span>
     <span class="cast-card-character">Michael Vronsky</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4690.jpg" alt="Christopher Walken" loading="lazy">
+  <img src="../films/profiles/4690.jpg" alt="Christopher Walken" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Christopher Walken</span>
     <span class="cast-card-character">Nikanor "Nick" Chevotarevich</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3096.jpg" alt="John Cazale" loading="lazy">
+  <img src="../films/profiles/3096.jpg" alt="John Cazale" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Cazale</span>
     <span class="cast-card-character">Stan</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/47879.jpg" alt="John Savage" loading="lazy">
+  <img src="../films/profiles/47879.jpg" alt="John Savage" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Savage</span>
     <span class="cast-card-character">Steven Pushkov</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5064.jpg" alt="Meryl Streep" loading="lazy">
+  <img src="../films/profiles/5064.jpg" alt="Meryl Streep" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Meryl Streep</span>
     <span class="cast-card-character">Linda</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/10477.jpg" alt="George Dzundza" loading="lazy">
+  <img src="../films/profiles/10477.jpg" alt="George Dzundza" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">George Dzundza</span>
     <span class="cast-card-character">John</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/80135.jpg" alt="Rutanya Alda" loading="lazy">
+  <img src="../films/profiles/80135.jpg" alt="Rutanya Alda" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Rutanya Alda</span>
     <span class="cast-card-character">Angela</span>
@@ -112,21 +112,21 @@ description: "A group of working-class friends decide to enlist in the Army duri
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/87007.jpg" alt="Amy Wright" loading="lazy">
+  <img src="../films/profiles/87007.jpg" alt="Amy Wright" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Amy Wright</span>
     <span class="cast-card-character">Bridesmaid</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1222806.jpg" alt="Richard Kuss" loading="lazy">
+  <img src="../films/profiles/1222806.jpg" alt="Richard Kuss" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Richard Kuss</span>
     <span class="cast-card-character">Linda's Father</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4887.jpg" alt="Joe Grifasi" loading="lazy">
+  <img src="../films/profiles/4887.jpg" alt="Joe Grifasi" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Joe Grifasi</span>
     <span class="cast-card-character">Bandleader</span>

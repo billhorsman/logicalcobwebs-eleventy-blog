@@ -56,84 +56,84 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/500.jpg" alt="Tom Cruise" loading="lazy">
+  <img src="../films/profiles/500.jpg" alt="Tom Cruise" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tom Cruise</span>
     <span class="cast-card-character">Frank T.J. Mackey</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4492.jpg" alt="Philip Baker Hall" loading="lazy">
+  <img src="../films/profiles/4492.jpg" alt="Philip Baker Hall" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Philip Baker Hall</span>
     <span class="cast-card-character">Jimmy Gator</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1233.jpg" alt="Philip Seymour Hoffman" loading="lazy">
+  <img src="../films/profiles/1233.jpg" alt="Philip Seymour Hoffman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Philip Seymour Hoffman</span>
     <span class="cast-card-character">Phil Parma</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1231.jpg" alt="Julianne Moore" loading="lazy">
+  <img src="../films/profiles/1231.jpg" alt="Julianne Moore" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Julianne Moore</span>
     <span class="cast-card-character">Linda Partridge</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3905.jpg" alt="William H. Macy" loading="lazy">
+  <img src="../films/profiles/3905.jpg" alt="William H. Macy" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">William H. Macy</span>
     <span class="cast-card-character">Quiz Kid Donnie Smith</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4764.jpg" alt="John C. Reilly" loading="lazy">
+  <img src="../films/profiles/4764.jpg" alt="John C. Reilly" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John C. Reilly</span>
     <span class="cast-card-character">Officer Jim Kurring</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4766.jpg" alt="Melora Walters" loading="lazy">
+  <img src="../films/profiles/4766.jpg" alt="Melora Walters" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Melora Walters</span>
     <span class="cast-card-character">Claudia Wilson Gator</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4779.jpg" alt="Jeremy Blackman" loading="lazy">
+  <img src="../films/profiles/4779.jpg" alt="Jeremy Blackman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jeremy Blackman</span>
     <span class="cast-card-character">Stanley Spector</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4765.jpg" alt="Jason Robards" loading="lazy">
+  <img src="../films/profiles/4765.jpg" alt="Jason Robards" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jason Robards</span>
     <span class="cast-card-character">Earl Partridge</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4778.jpg" alt="Melinda Dillon" loading="lazy">
+  <img src="../films/profiles/4778.jpg" alt="Melinda Dillon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Melinda Dillon</span>
     <span class="cast-card-character">Rose Gator</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2234.jpg" alt="Michael Bowen" loading="lazy">
+  <img src="../films/profiles/2234.jpg" alt="Michael Bowen" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Michael Bowen</span>
     <span class="cast-card-character">Rick Spector</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/10691.jpg" alt="April Grace" loading="lazy">
+  <img src="../films/profiles/10691.jpg" alt="April Grace" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">April Grace</span>
     <span class="cast-card-character">Gwenovier</span>

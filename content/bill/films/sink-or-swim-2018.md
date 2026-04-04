@@ -56,84 +56,84 @@ description: "40-year-old Bertrand has been suffering from depression for the la
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/8789.jpg" alt="Mathieu Amalric" loading="lazy">
+  <img src="../films/profiles/8789.jpg" alt="Mathieu Amalric" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Mathieu Amalric</span>
     <span class="cast-card-character">Bertrand</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/19866.jpg" alt="Guillaume Canet" loading="lazy">
+  <img src="../films/profiles/19866.jpg" alt="Guillaume Canet" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Guillaume Canet</span>
     <span class="cast-card-character">Laurent</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/47820.jpg" alt="Benoît Poelvoorde" loading="lazy">
+  <img src="../films/profiles/47820.jpg" alt="Benoît Poelvoorde" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Benoît Poelvoorde</span>
     <span class="cast-card-character">Marcus</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/7037.jpg" alt="Jean-Hugues Anglade" loading="lazy">
+  <img src="../films/profiles/7037.jpg" alt="Jean-Hugues Anglade" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean-Hugues Anglade</span>
     <span class="cast-card-character">Simon</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/118178.jpg" alt="Virginie Efira" loading="lazy">
+  <img src="../films/profiles/118178.jpg" alt="Virginie Efira" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Virginie Efira</span>
     <span class="cast-card-character">Delphine</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/23383.jpg" alt="Leïla Bekhti" loading="lazy">
+  <img src="../films/profiles/23383.jpg" alt="Leïla Bekhti" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Leïla Bekhti</span>
     <span class="cast-card-character">Amanda</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/76820.jpg" alt="Marina Foïs" loading="lazy">
+  <img src="../films/profiles/76820.jpg" alt="Marina Foïs" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Marina Foïs</span>
     <span class="cast-card-character">Claire</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/119501.jpg" alt="Philippe Katerine" loading="lazy">
+  <img src="../films/profiles/119501.jpg" alt="Philippe Katerine" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Philippe Katerine</span>
     <span class="cast-card-character">Thierry</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/930288.jpg" alt="Félix Moati" loading="lazy">
+  <img src="../films/profiles/930288.jpg" alt="Félix Moati" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Félix Moati</span>
     <span class="cast-card-character">John</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/544681.jpg" alt="Alban Ivanov" loading="lazy">
+  <img src="../films/profiles/544681.jpg" alt="Alban Ivanov" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Alban Ivanov</span>
     <span class="cast-card-character">Basile</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3144543.jpg" alt="Balasingham Thamilchelvan" loading="lazy">
+  <img src="../films/profiles/3144543.jpg" alt="Balasingham Thamilchelvan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Balasingham Thamilchelvan</span>
     <span class="cast-card-character">Avanish</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/17499.jpg" alt="Jonathan Zaccaï" loading="lazy">
+  <img src="../films/profiles/17499.jpg" alt="Jonathan Zaccaï" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jonathan Zaccaï</span>
     <span class="cast-card-character">Thibault</span>

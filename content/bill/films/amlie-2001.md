@@ -56,84 +56,84 @@ description: "At a tiny Parisian café, the adorable yet painfully shy Amélie a
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/2405.jpg" alt="Audrey Tautou" loading="lazy">
+  <img src="../films/profiles/2405.jpg" alt="Audrey Tautou" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Audrey Tautou</span>
     <span class="cast-card-character">Amélie Poulain</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2406.jpg" alt="Mathieu Kassovitz" loading="lazy">
+  <img src="../films/profiles/2406.jpg" alt="Mathieu Kassovitz" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Mathieu Kassovitz</span>
     <span class="cast-card-character">Nino Quincampoix</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2407.jpg" alt="Rufus" loading="lazy">
+  <img src="../films/profiles/2407.jpg" alt="Rufus" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Rufus</span>
     <span class="cast-card-character">Raphaël Poulain</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2410.jpg" alt="Serge Merlin" loading="lazy">
+  <img src="../films/profiles/2410.jpg" alt="Serge Merlin" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Serge Merlin</span>
     <span class="cast-card-character">Raymond Dufayel</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2408.jpg" alt="Jamel Debbouze" loading="lazy">
+  <img src="../films/profiles/2408.jpg" alt="Jamel Debbouze" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jamel Debbouze</span>
     <span class="cast-card-character">Lucien</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2411.jpg" alt="Clotilde Mollet" loading="lazy">
+  <img src="../films/profiles/2411.jpg" alt="Clotilde Mollet" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Clotilde Mollet</span>
     <span class="cast-card-character">Gina</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1654.jpg" alt="Claire Maurier" loading="lazy">
+  <img src="../films/profiles/1654.jpg" alt="Claire Maurier" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Claire Maurier</span>
     <span class="cast-card-character">Suzanne</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2412.jpg" alt="Isabelle Nanty" loading="lazy">
+  <img src="../films/profiles/2412.jpg" alt="Isabelle Nanty" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Isabelle Nanty</span>
     <span class="cast-card-character">Georgette</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2413.jpg" alt="Dominique Pinon" loading="lazy">
+  <img src="../films/profiles/2413.jpg" alt="Dominique Pinon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Dominique Pinon</span>
     <span class="cast-card-character">Joseph</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2414.jpg" alt="Artus de Penguern" loading="lazy">
+  <img src="../films/profiles/2414.jpg" alt="Artus de Penguern" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Artus de Penguern</span>
     <span class="cast-card-character">Hipolito</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2415.jpg" alt="Yolande Moreau" loading="lazy">
+  <img src="../films/profiles/2415.jpg" alt="Yolande Moreau" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Yolande Moreau</span>
     <span class="cast-card-character">Madeleine Wallace</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2416.jpg" alt="Urbain Cancelier" loading="lazy">
+  <img src="../films/profiles/2416.jpg" alt="Urbain Cancelier" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Urbain Cancelier</span>
     <span class="cast-card-character">Collignon</span>

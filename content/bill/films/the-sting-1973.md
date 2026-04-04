@@ -56,84 +56,84 @@ description: "A novice con man teams up with an acknowledged master to avenge th
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/3636.jpg" alt="Paul Newman" loading="lazy">
+  <img src="../films/profiles/3636.jpg" alt="Paul Newman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Paul Newman</span>
     <span class="cast-card-character">Henry Gondorff</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4135.jpg" alt="Robert Redford" loading="lazy">
+  <img src="../films/profiles/4135.jpg" alt="Robert Redford" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robert Redford</span>
     <span class="cast-card-character">Johnny Hooker</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/8606.jpg" alt="Robert Shaw" loading="lazy">
+  <img src="../films/profiles/8606.jpg" alt="Robert Shaw" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robert Shaw</span>
     <span class="cast-card-character">Doyle Lonnegan</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1466.jpg" alt="Charles Durning" loading="lazy">
+  <img src="../films/profiles/1466.jpg" alt="Charles Durning" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Charles Durning</span>
     <span class="cast-card-character">Lt. Wm. Snyder</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4093.jpg" alt="Ray Walston" loading="lazy">
+  <img src="../films/profiles/4093.jpg" alt="Ray Walston" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ray Walston</span>
     <span class="cast-card-character">J.J. Singleton</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/39015.jpg" alt="Eileen Brennan" loading="lazy">
+  <img src="../films/profiles/39015.jpg" alt="Eileen Brennan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Eileen Brennan</span>
     <span class="cast-card-character">Billie</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14833.jpg" alt="Harold Gould" loading="lazy">
+  <img src="../films/profiles/14833.jpg" alt="Harold Gould" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Harold Gould</span>
     <span class="cast-card-character">Kid Twist</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/171056.jpg" alt="John Heffernan" loading="lazy">
+  <img src="../films/profiles/171056.jpg" alt="John Heffernan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Heffernan</span>
     <span class="cast-card-character">Eddie Niles</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/37712.jpg" alt="Dana Elcar" loading="lazy">
+  <img src="../films/profiles/37712.jpg" alt="Dana Elcar" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Dana Elcar</span>
     <span class="cast-card-character">F.B.I. Agent Polk</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1273.jpg" alt="Jack Kehoe" loading="lazy">
+  <img src="../films/profiles/1273.jpg" alt="Jack Kehoe" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jack Kehoe</span>
     <span class="cast-card-character">Erie Kid</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1220923.jpg" alt="Dimitra Arliss" loading="lazy">
+  <img src="../films/profiles/1220923.jpg" alt="Dimitra Arliss" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Dimitra Arliss</span>
     <span class="cast-card-character">Loretta</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/98927.jpg" alt="Robert Earl Jones" loading="lazy">
+  <img src="../films/profiles/98927.jpg" alt="Robert Earl Jones" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robert Earl Jones</span>
     <span class="cast-card-character">Luther Coleman</span>

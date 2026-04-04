@@ -56,70 +56,70 @@ description: "A woman is suspected of her husband's murder, and their blind son 
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/7152.jpg" alt="Sandra Hüller" loading="lazy">
+  <img src="../films/profiles/7152.jpg" alt="Sandra Hüller" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sandra Hüller</span>
     <span class="cast-card-character">Sandra Voyter</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/145120.jpg" alt="Swann Arlaud" loading="lazy">
+  <img src="../films/profiles/145120.jpg" alt="Swann Arlaud" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Swann Arlaud</span>
     <span class="cast-card-character">Maître Vincent Renzi</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3302971.jpg" alt="Milo Machado-Graner" loading="lazy">
+  <img src="../films/profiles/3302971.jpg" alt="Milo Machado-Graner" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Milo Machado-Graner</span>
     <span class="cast-card-character">Daniel</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1795152.jpg" alt="Antoine Reinartz" loading="lazy">
+  <img src="../films/profiles/1795152.jpg" alt="Antoine Reinartz" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Antoine Reinartz</span>
     <span class="cast-card-character">Advocate General</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1312061.jpg" alt="Samuel Theis" loading="lazy">
+  <img src="../films/profiles/1312061.jpg" alt="Samuel Theis" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Samuel Theis</span>
     <span class="cast-card-character">Samuel Maleski</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1029285.jpg" alt="Jehnny Beth" loading="lazy">
+  <img src="../films/profiles/1029285.jpg" alt="Jehnny Beth" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jehnny Beth</span>
     <span class="cast-card-character">Marge Berger</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1613123.jpg" alt="Saadia Bentaïeb" loading="lazy">
+  <img src="../films/profiles/1613123.jpg" alt="Saadia Bentaïeb" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Saadia Bentaïeb</span>
     <span class="cast-card-character">Maître Nour Boudaoud</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1033745.jpg" alt="Camille Rutherford" loading="lazy">
+  <img src="../films/profiles/1033745.jpg" alt="Camille Rutherford" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Camille Rutherford</span>
     <span class="cast-card-character">Zoé Solidor</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2670733.jpg" alt="Anne Rotger" loading="lazy">
+  <img src="../films/profiles/2670733.jpg" alt="Anne Rotger" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Anne Rotger</span>
     <span class="cast-card-character">President of the Court</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/233491.jpg" alt="Sophie Fillières" loading="lazy">
+  <img src="../films/profiles/233491.jpg" alt="Sophie Fillières" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sophie Fillières</span>
     <span class="cast-card-character">Monica</span>
@@ -133,7 +133,7 @@ description: "A woman is suspected of her husband's murder, and their blind son 
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3040614.jpg" alt="Pierre-François Garel" loading="lazy">
+  <img src="../films/profiles/3040614.jpg" alt="Pierre-François Garel" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Pierre-François Garel</span>
     <span class="cast-card-character">Judge Janvier</span>

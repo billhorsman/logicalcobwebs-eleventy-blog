@@ -56,77 +56,77 @@ description: "A socially awkward, environmentally-conscious teenager named AJ is
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/1865843.jpg" alt="Nell Barlow" loading="lazy">
+  <img src="../films/profiles/1865843.jpg" alt="Nell Barlow" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Nell Barlow</span>
     <span class="cast-card-character">A.J.</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1770528.jpg" alt="Ella-Rae Smith" loading="lazy">
+  <img src="../films/profiles/1770528.jpg" alt="Ella-Rae Smith" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ella-Rae Smith</span>
     <span class="cast-card-character">Isla</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/70518.jpg" alt="Jo Hartley" loading="lazy">
+  <img src="../films/profiles/70518.jpg" alt="Jo Hartley" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jo Hartley</span>
     <span class="cast-card-character">Tina</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1252533.jpg" alt="Sophia Di Martino" loading="lazy">
+  <img src="../films/profiles/1252533.jpg" alt="Sophia Di Martino" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sophia Di Martino</span>
     <span class="cast-card-character">Lucy</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/55465.jpg" alt="Samuel Anderson" loading="lazy">
+  <img src="../films/profiles/55465.jpg" alt="Samuel Anderson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Samuel Anderson</span>
     <span class="cast-card-character">Steve</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2798731.jpg" alt="Tabitha Byron" loading="lazy">
+  <img src="../films/profiles/2798731.jpg" alt="Tabitha Byron" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tabitha Byron</span>
     <span class="cast-card-character">Dayna</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2108331.jpg" alt="Steffan Cennydd" loading="lazy">
+  <img src="../films/profiles/2108331.jpg" alt="Steffan Cennydd" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Steffan Cennydd</span>
     <span class="cast-card-character">Nathan</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2304140.jpg" alt="Spike Fearn" loading="lazy">
+  <img src="../films/profiles/2304140.jpg" alt="Spike Fearn" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Spike Fearn</span>
     <span class="cast-card-character">Elvis</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1586290.jpg" alt="William Andrews" loading="lazy">
+  <img src="../films/profiles/1586290.jpg" alt="William Andrews" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">William Andrews</span>
     <span class="cast-card-character">Phil the Magician</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1945730.jpg" alt="Anna Antoniades" loading="lazy">
+  <img src="../films/profiles/1945730.jpg" alt="Anna Antoniades" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Anna Antoniades</span>
     <span class="cast-card-character">Gemma G</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2936317.jpg" alt="Celeste De Veazey" loading="lazy">
+  <img src="../films/profiles/2936317.jpg" alt="Celeste De Veazey" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Celeste De Veazey</span>
     <span class="cast-card-character">Bendy Wendy</span>

@@ -56,35 +56,35 @@ description: "Two lighthouse keepers try to maintain their sanity while living o
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/11288.jpg" alt="Robert Pattinson" loading="lazy">
+  <img src="../films/profiles/11288.jpg" alt="Robert Pattinson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robert Pattinson</span>
     <span class="cast-card-character">Thomas Howard</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5293.jpg" alt="Willem Dafoe" loading="lazy">
+  <img src="../films/profiles/5293.jpg" alt="Willem Dafoe" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Willem Dafoe</span>
     <span class="cast-card-character">Thomas Wake</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2309944.jpg" alt="Valeriia Karaman" loading="lazy">
+  <img src="../films/profiles/2309944.jpg" alt="Valeriia Karaman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Valeriia Karaman</span>
     <span class="cast-card-character">Mermaid</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2507696.jpg" alt="Logan Hawkes" loading="lazy">
+  <img src="../films/profiles/2507696.jpg" alt="Logan Hawkes" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Logan Hawkes</span>
     <span class="cast-card-character">Ephraim Winslow</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2507697.jpg" alt="Kyla Nicolle" loading="lazy">
+  <img src="../films/profiles/2507697.jpg" alt="Kyla Nicolle" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Kyla Nicolle</span>
     <span class="cast-card-character">Woman on the Rocks</span>

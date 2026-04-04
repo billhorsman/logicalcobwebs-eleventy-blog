@@ -56,77 +56,77 @@ description: "A committed film director struggles to complete his movie while co
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/14061.jpg" alt="Jacqueline Bisset" loading="lazy">
+  <img src="../films/profiles/14061.jpg" alt="Jacqueline Bisset" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jacqueline Bisset</span>
     <span class="cast-card-character">Julie Baker</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/24499.jpg" alt="Valentina Cortese" loading="lazy">
+  <img src="../films/profiles/24499.jpg" alt="Valentina Cortese" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Valentina Cortese</span>
     <span class="cast-card-character">Séverine</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3591.jpg" alt="Dani" loading="lazy">
+  <img src="../films/profiles/3591.jpg" alt="Dani" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Dani</span>
     <span class="cast-card-character">Liliane, the Trainee Script Girl</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/18765.jpg" alt="Alexandra Stewart" loading="lazy">
+  <img src="../films/profiles/18765.jpg" alt="Alexandra Stewart" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Alexandra Stewart</span>
     <span class="cast-card-character">Stacey</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/18766.jpg" alt="Jean-Pierre Aumont" loading="lazy">
+  <img src="../films/profiles/18766.jpg" alt="Jean-Pierre Aumont" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean-Pierre Aumont</span>
     <span class="cast-card-character">Alexandre</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/18767.jpg" alt="Jean Champion" loading="lazy">
+  <img src="../films/profiles/18767.jpg" alt="Jean Champion" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean Champion</span>
     <span class="cast-card-character">Bertrand, the Producer</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1653.jpg" alt="Jean-Pierre Léaud" loading="lazy">
+  <img src="../films/profiles/1653.jpg" alt="Jean-Pierre Léaud" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean-Pierre Léaud</span>
     <span class="cast-card-character">Alphonse</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1650.jpg" alt="François Truffaut" loading="lazy">
+  <img src="../films/profiles/1650.jpg" alt="François Truffaut" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">François Truffaut</span>
     <span class="cast-card-character">Ferrand, the Director</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/18768.jpg" alt="Niké Arrighi" loading="lazy">
+  <img src="../films/profiles/18768.jpg" alt="Niké Arrighi" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Niké Arrighi</span>
     <span class="cast-card-character">Odile, the Makeup Artist</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/136761.jpg" alt="Nathalie Baye" loading="lazy">
+  <img src="../films/profiles/136761.jpg" alt="Nathalie Baye" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Nathalie Baye</span>
     <span class="cast-card-character">Joelle, the Script Girl</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/578333.jpg" alt="Maurice Seveno" loading="lazy">
+  <img src="../films/profiles/578333.jpg" alt="Maurice Seveno" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Maurice Seveno</span>
     <span class="cast-card-character">TV Reporter</span>

@@ -56,35 +56,35 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/5402.jpg" alt="Giulietta Masina" loading="lazy">
+  <img src="../films/profiles/5402.jpg" alt="Giulietta Masina" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Giulietta Masina</span>
     <span class="cast-card-character">Gelsomina</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5401.jpg" alt="Anthony Quinn" loading="lazy">
+  <img src="../films/profiles/5401.jpg" alt="Anthony Quinn" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Anthony Quinn</span>
     <span class="cast-card-character">Zampanò</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5403.jpg" alt="Richard Basehart" loading="lazy">
+  <img src="../films/profiles/5403.jpg" alt="Richard Basehart" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Richard Basehart</span>
     <span class="cast-card-character">Il 'Matto'</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5404.jpg" alt="Aldo Silvani" loading="lazy">
+  <img src="../films/profiles/5404.jpg" alt="Aldo Silvani" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Aldo Silvani</span>
     <span class="cast-card-character">Il Signor Giraffa</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5405.jpg" alt="Marcella Rovere" loading="lazy">
+  <img src="../films/profiles/5405.jpg" alt="Marcella Rovere" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Marcella Rovere</span>
     <span class="cast-card-character">La Vedova</span>
@@ -98,7 +98,7 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/240913.jpg" alt="Pietro Ceccarelli" loading="lazy">
+  <img src="../films/profiles/240913.jpg" alt="Pietro Ceccarelli" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Pietro Ceccarelli</span>
     <span class="cast-card-character">Innkeeper (uncredited)</span>
@@ -126,7 +126,7 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5409.jpg" alt="Mario Passante" loading="lazy">
+  <img src="../films/profiles/5409.jpg" alt="Mario Passante" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Mario Passante</span>
     <span class="cast-card-character">Waiter (uncredited)</span>

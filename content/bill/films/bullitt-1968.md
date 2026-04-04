@@ -56,84 +56,84 @@ description: "Senator Walter Chalmers is aiming to take down mob boss Pete Ross 
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/13565.jpg" alt="Steve McQueen" loading="lazy">
+  <img src="../films/profiles/13565.jpg" alt="Steve McQueen" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Steve McQueen</span>
     <span class="cast-card-character">Lt. Frank Bullitt</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14060.jpg" alt="Robert Vaughn" loading="lazy">
+  <img src="../films/profiles/14060.jpg" alt="Robert Vaughn" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robert Vaughn</span>
     <span class="cast-card-character">Walter Chalmers</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14061.jpg" alt="Jacqueline Bisset" loading="lazy">
+  <img src="../films/profiles/14061.jpg" alt="Jacqueline Bisset" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jacqueline Bisset</span>
     <span class="cast-card-character">Cathy</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14062.jpg" alt="Don Gordon" loading="lazy">
+  <img src="../films/profiles/14062.jpg" alt="Don Gordon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Don Gordon</span>
     <span class="cast-card-character">Lt. Delgetti</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3087.jpg" alt="Robert Duvall" loading="lazy">
+  <img src="../films/profiles/3087.jpg" alt="Robert Duvall" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robert Duvall</span>
     <span class="cast-card-character">Cabbie Weissberg</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14063.jpg" alt="Simon Oakland" loading="lazy">
+  <img src="../films/profiles/14063.jpg" alt="Simon Oakland" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Simon Oakland</span>
     <span class="cast-card-character">Captain Sam Bennett</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14064.jpg" alt="Norman Fell" loading="lazy">
+  <img src="../films/profiles/14064.jpg" alt="Norman Fell" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Norman Fell</span>
     <span class="cast-card-character">Captain Baker</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14065.jpg" alt="Georg Stanford Brown" loading="lazy">
+  <img src="../films/profiles/14065.jpg" alt="Georg Stanford Brown" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Georg Stanford Brown</span>
     <span class="cast-card-character">Dr. Willard</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14066.jpg" alt="Justin Tarr" loading="lazy">
+  <img src="../films/profiles/14066.jpg" alt="Justin Tarr" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Justin Tarr</span>
     <span class="cast-card-character">Eddy</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14067.jpg" alt="Carl Reindel" loading="lazy">
+  <img src="../films/profiles/14067.jpg" alt="Carl Reindel" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Carl Reindel</span>
     <span class="cast-card-character">Detective Stanton</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14068.jpg" alt="Felice Orlandi" loading="lazy">
+  <img src="../films/profiles/14068.jpg" alt="Felice Orlandi" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Felice Orlandi</span>
     <span class="cast-card-character">Albert E. Renick</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14069.jpg" alt="Vic Tayback" loading="lazy">
+  <img src="../films/profiles/14069.jpg" alt="Vic Tayback" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Vic Tayback</span>
     <span class="cast-card-character">Pete Ross</span>

@@ -56,63 +56,63 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/15135.jpg" alt="Alain Delon" loading="lazy">
+  <img src="../films/profiles/15135.jpg" alt="Alain Delon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Alain Delon</span>
     <span class="cast-card-character">Tom Ripley</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/39644.jpg" alt="Marie Laforêt" loading="lazy">
+  <img src="../films/profiles/39644.jpg" alt="Marie Laforêt" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Marie Laforêt</span>
     <span class="cast-card-character">Marge Duval</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/15395.jpg" alt="Maurice Ronet" loading="lazy">
+  <img src="../films/profiles/15395.jpg" alt="Maurice Ronet" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Maurice Ronet</span>
     <span class="cast-card-character">Philippe Greenleaf</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/37728.jpg" alt="Erno Crisa" loading="lazy">
+  <img src="../films/profiles/37728.jpg" alt="Erno Crisa" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Erno Crisa</span>
     <span class="cast-card-character">Inspector Riccordi</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/13733.jpg" alt="Frank Latimore" loading="lazy">
+  <img src="../films/profiles/13733.jpg" alt="Frank Latimore" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Frank Latimore</span>
     <span class="cast-card-character">O'Brien</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/35958.jpg" alt="Billy Kearns" loading="lazy">
+  <img src="../films/profiles/35958.jpg" alt="Billy Kearns" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Billy Kearns</span>
     <span class="cast-card-character">Freddy Miles</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/40165.jpg" alt="Ave Ninchi" loading="lazy">
+  <img src="../films/profiles/40165.jpg" alt="Ave Ninchi" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ave Ninchi</span>
     <span class="cast-card-character">Signora Gianna</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/64926.jpg" alt="Viviane Chantel" loading="lazy">
+  <img src="../films/profiles/64926.jpg" alt="Viviane Chantel" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Viviane Chantel</span>
     <span class="cast-card-character">Belgian Lady</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/99530.jpg" alt="Nerio Bernardi" loading="lazy">
+  <img src="../films/profiles/99530.jpg" alt="Nerio Bernardi" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Nerio Bernardi</span>
     <span class="cast-card-character">Agency Director</span>

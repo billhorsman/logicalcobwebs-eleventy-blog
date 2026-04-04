@@ -56,70 +56,70 @@ description: "When bookish CIA researcher Joe Turner finds all his co-workers de
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/4135.jpg" alt="Robert Redford" loading="lazy">
+  <img src="../films/profiles/4135.jpg" alt="Robert Redford" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robert Redford</span>
     <span class="cast-card-character">Joseph Turner</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/6450.jpg" alt="Faye Dunaway" loading="lazy">
+  <img src="../films/profiles/6450.jpg" alt="Faye Dunaway" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Faye Dunaway</span>
     <span class="cast-card-character">Kathy Hale</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/19153.jpg" alt="Cliff Robertson" loading="lazy">
+  <img src="../films/profiles/19153.jpg" alt="Cliff Robertson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Cliff Robertson</span>
     <span class="cast-card-character">J. Higgins</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2201.jpg" alt="Max von Sydow" loading="lazy">
+  <img src="../films/profiles/2201.jpg" alt="Max von Sydow" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Max von Sydow</span>
     <span class="cast-card-character">G. Joubert</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/11783.jpg" alt="John Houseman" loading="lazy">
+  <img src="../films/profiles/11783.jpg" alt="John Houseman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Houseman</span>
     <span class="cast-card-character">Mr. Wabash</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/13948.jpg" alt="Addison Powell" loading="lazy">
+  <img src="../films/profiles/13948.jpg" alt="Addison Powell" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Addison Powell</span>
     <span class="cast-card-character">Leonard Atwood</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/81734.jpg" alt="Walter McGinn" loading="lazy">
+  <img src="../films/profiles/81734.jpg" alt="Walter McGinn" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Walter McGinn</span>
     <span class="cast-card-character">Sam Barber</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/44550.jpg" alt="Tina Chen" loading="lazy">
+  <img src="../films/profiles/44550.jpg" alt="Tina Chen" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tina Chen</span>
     <span class="cast-card-character">Janice Chon</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/6758.jpg" alt="John Randolph Jones" loading="lazy">
+  <img src="../films/profiles/6758.jpg" alt="John Randolph Jones" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Randolph Jones</span>
     <span class="cast-card-character">Beefy Man</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/72659.jpg" alt="Michael Kane" loading="lazy">
+  <img src="../films/profiles/72659.jpg" alt="Michael Kane" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Michael Kane</span>
     <span class="cast-card-character">S.W. Wicks</span>

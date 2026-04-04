@@ -56,42 +56,42 @@ description: "A man wanders out of the desert not knowing who he is. His brother
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/5048.jpg" alt="Harry Dean Stanton" loading="lazy">
+  <img src="../films/profiles/5048.jpg" alt="Harry Dean Stanton" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Harry Dean Stanton</span>
     <span class="cast-card-character">Travis</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2630.jpg" alt="Nastassja Kinski" loading="lazy">
+  <img src="../films/profiles/2630.jpg" alt="Nastassja Kinski" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Nastassja Kinski</span>
     <span class="cast-card-character">Jane</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/923.jpg" alt="Dean Stockwell" loading="lazy">
+  <img src="../films/profiles/923.jpg" alt="Dean Stockwell" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Dean Stockwell</span>
     <span class="cast-card-character">Walt</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/9892.jpg" alt="Hunter Carson" loading="lazy">
+  <img src="../films/profiles/9892.jpg" alt="Hunter Carson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Hunter Carson</span>
     <span class="cast-card-character">Hunter</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/9893.jpg" alt="Aurore Clément" loading="lazy">
+  <img src="../films/profiles/9893.jpg" alt="Aurore Clément" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Aurore Clément</span>
     <span class="cast-card-character">Anne</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/9894.jpg" alt="Bernhard Wicki" loading="lazy">
+  <img src="../films/profiles/9894.jpg" alt="Bernhard Wicki" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Bernhard Wicki</span>
     <span class="cast-card-character">Doctor Ulmer</span>
@@ -112,7 +112,7 @@ description: "A man wanders out of the desert not knowing who he is. His brother
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/54754.jpg" alt="Viva" loading="lazy">
+  <img src="../films/profiles/54754.jpg" alt="Viva" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Viva</span>
     <span class="cast-card-character">Woman on TV</span>

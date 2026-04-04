@@ -56,84 +56,84 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/1812.jpg" alt="Michelle Williams" loading="lazy">
+  <img src="../films/profiles/1812.jpg" alt="Michelle Williams" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Michelle Williams</span>
     <span class="cast-card-character">Mitzi Fabelman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/17142.jpg" alt="Paul Dano" loading="lazy">
+  <img src="../films/profiles/17142.jpg" alt="Paul Dano" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Paul Dano</span>
     <span class="cast-card-character">Burt Fabelman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/19274.jpg" alt="Seth Rogen" loading="lazy">
+  <img src="../films/profiles/19274.jpg" alt="Seth Rogen" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Seth Rogen</span>
     <span class="cast-card-character">Benny Loewy</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1476330.jpg" alt="Gabriel LaBelle" loading="lazy">
+  <img src="../films/profiles/1476330.jpg" alt="Gabriel LaBelle" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Gabriel LaBelle</span>
     <span class="cast-card-character">Sammy Fabelman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3731015.jpg" alt="Mateo Zoryan Francis-DeFord" loading="lazy">
+  <img src="../films/profiles/3731015.jpg" alt="Mateo Zoryan Francis-DeFord" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Mateo Zoryan Francis-DeFord</span>
     <span class="cast-card-character">Younger Sammy Fabelman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3690404.jpg" alt="Keeley Karsten" loading="lazy">
+  <img src="../films/profiles/3690404.jpg" alt="Keeley Karsten" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Keeley Karsten</span>
     <span class="cast-card-character">Natalie Fabelman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3690411.jpg" alt="Alina Brace" loading="lazy">
+  <img src="../films/profiles/3690411.jpg" alt="Alina Brace" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Alina Brace</span>
     <span class="cast-card-character">Young Natalie Fabelman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1651362.jpg" alt="Julia Butters" loading="lazy">
+  <img src="../films/profiles/1651362.jpg" alt="Julia Butters" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Julia Butters</span>
     <span class="cast-card-character">Reggie Fabelman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3690410.jpg" alt="Birdie Borria" loading="lazy">
+  <img src="../films/profiles/3690410.jpg" alt="Birdie Borria" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Birdie Borria</span>
     <span class="cast-card-character">Younger Reggie Fabelman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/6167.jpg" alt="Judd Hirsch" loading="lazy">
+  <img src="../films/profiles/6167.jpg" alt="Judd Hirsch" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Judd Hirsch</span>
     <span class="cast-card-character">Uncle Boris</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3233032.jpg" alt="Sophia Kopera" loading="lazy">
+  <img src="../films/profiles/3233032.jpg" alt="Sophia Kopera" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sophia Kopera</span>
     <span class="cast-card-character">Lisa Fabelman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/124377.jpg" alt="Jeannie Berlin" loading="lazy">
+  <img src="../films/profiles/124377.jpg" alt="Jeannie Berlin" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jeannie Berlin</span>
     <span class="cast-card-character">Hadassah Fabelman</span>

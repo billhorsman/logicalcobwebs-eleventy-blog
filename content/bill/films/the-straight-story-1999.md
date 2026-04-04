@@ -56,21 +56,21 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/5605.jpg" alt="Richard Farnsworth" loading="lazy">
+  <img src="../films/profiles/5605.jpg" alt="Richard Farnsworth" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Richard Farnsworth</span>
     <span class="cast-card-character">Alvin</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5606.jpg" alt="Sissy Spacek" loading="lazy">
+  <img src="../films/profiles/5606.jpg" alt="Sissy Spacek" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sissy Spacek</span>
     <span class="cast-card-character">Rose</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5607.jpg" alt="Jane Galloway Heitz" loading="lazy">
+  <img src="../films/profiles/5607.jpg" alt="Jane Galloway Heitz" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jane Galloway Heitz</span>
     <span class="cast-card-character">Dorothy</span>
@@ -91,14 +91,14 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5610.jpg" alt="Tracey Maloney" loading="lazy">
+  <img src="../films/profiles/5610.jpg" alt="Tracey Maloney" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tracey Maloney</span>
     <span class="cast-card-character">Nurse</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5611.jpg" alt="Dan Flannery" loading="lazy">
+  <img src="../films/profiles/5611.jpg" alt="Dan Flannery" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Dan Flannery</span>
     <span class="cast-card-character">Doctor Gibbons</span>
@@ -119,7 +119,7 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5613.jpg" alt="Jack Walsh" loading="lazy">
+  <img src="../films/profiles/5613.jpg" alt="Jack Walsh" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jack Walsh</span>
     <span class="cast-card-character">Apple</span>

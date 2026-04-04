@@ -56,84 +56,84 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/1892.jpg" alt="Matt Damon" loading="lazy">
+  <img src="../films/profiles/1892.jpg" alt="Matt Damon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Matt Damon</span>
     <span class="cast-card-character">Tom Ripley</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/12052.jpg" alt="Gwyneth Paltrow" loading="lazy">
+  <img src="../films/profiles/12052.jpg" alt="Gwyneth Paltrow" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Gwyneth Paltrow</span>
     <span class="cast-card-character">Marge Sherwood</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/9642.jpg" alt="Jude Law" loading="lazy">
+  <img src="../films/profiles/9642.jpg" alt="Jude Law" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jude Law</span>
     <span class="cast-card-character">Dickie Greenleaf</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/112.jpg" alt="Cate Blanchett" loading="lazy">
+  <img src="../films/profiles/112.jpg" alt="Cate Blanchett" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Cate Blanchett</span>
     <span class="cast-card-character">Meredith Logue</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1233.jpg" alt="Philip Seymour Hoffman" loading="lazy">
+  <img src="../films/profiles/1233.jpg" alt="Philip Seymour Hoffman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Philip Seymour Hoffman</span>
     <span class="cast-card-character">Freddie Miles</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1709.jpg" alt="Jack Davenport" loading="lazy">
+  <img src="../films/profiles/1709.jpg" alt="Jack Davenport" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jack Davenport</span>
     <span class="cast-card-character">Peter Smith-Kingsley</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/8986.jpg" alt="James Rebhorn" loading="lazy">
+  <img src="../films/profiles/8986.jpg" alt="James Rebhorn" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">James Rebhorn</span>
     <span class="cast-card-character">Herbert Greenleaf</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/15915.jpg" alt="Sergio Rubini" loading="lazy">
+  <img src="../films/profiles/15915.jpg" alt="Sergio Rubini" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sergio Rubini</span>
     <span class="cast-card-character">Inspector Roverini</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4492.jpg" alt="Philip Baker Hall" loading="lazy">
+  <img src="../films/profiles/4492.jpg" alt="Philip Baker Hall" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Philip Baker Hall</span>
     <span class="cast-card-character">Alvin MacCarron</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1989.jpg" alt="Celia Weston" loading="lazy">
+  <img src="../films/profiles/1989.jpg" alt="Celia Weston" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Celia Weston</span>
     <span class="cast-card-character">Aunt Joan</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/15916.jpg" alt="Fiorello" loading="lazy">
+  <img src="../films/profiles/15916.jpg" alt="Fiorello" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Fiorello</span>
     <span class="cast-card-character">Fausto</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/15917.jpg" alt="Stefania Rocca" loading="lazy">
+  <img src="../films/profiles/15917.jpg" alt="Stefania Rocca" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Stefania Rocca</span>
     <span class="cast-card-character">Silvana</span>

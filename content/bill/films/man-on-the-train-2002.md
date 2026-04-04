@@ -56,63 +56,63 @@ description: "A man, Milan steps off a train, into a small French village. As he
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/24421.jpg" alt="Jean Rochefort" loading="lazy">
+  <img src="../films/profiles/24421.jpg" alt="Jean Rochefort" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean Rochefort</span>
     <span class="cast-card-character">Monsieur Manesquier</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/35084.jpg" alt="Johnny Hallyday" loading="lazy">
+  <img src="../films/profiles/35084.jpg" alt="Johnny Hallyday" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Johnny Hallyday</span>
     <span class="cast-card-character">Milan</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/6304.jpg" alt="Jean-François Stévenin" loading="lazy">
+  <img src="../films/profiles/6304.jpg" alt="Jean-François Stévenin" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean-François Stévenin</span>
     <span class="cast-card-character">Luigi</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/91271.jpg" alt="Pascal Parmentier" loading="lazy">
+  <img src="../films/profiles/91271.jpg" alt="Pascal Parmentier" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Pascal Parmentier</span>
     <span class="cast-card-character">Sadko</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1543580.jpg" alt="Charlie Nelson" loading="lazy">
+  <img src="../films/profiles/1543580.jpg" alt="Charlie Nelson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Charlie Nelson</span>
     <span class="cast-card-character">Max</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/91272.jpg" alt="Isabelle Petit-Jacques" loading="lazy">
+  <img src="../films/profiles/91272.jpg" alt="Isabelle Petit-Jacques" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Isabelle Petit-Jacques</span>
     <span class="cast-card-character">Viviane, Manesquier's mistress</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/27980.jpg" alt="Édith Scob" loading="lazy">
+  <img src="../films/profiles/27980.jpg" alt="Édith Scob" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Édith Scob</span>
     <span class="cast-card-character">Manesquier's Sister</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/68722.jpg" alt="Maurice Chevit" loading="lazy">
+  <img src="../films/profiles/68722.jpg" alt="Maurice Chevit" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Maurice Chevit</span>
     <span class="cast-card-character">Hairdresser</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/35882.jpg" alt="Riton Liebman" loading="lazy">
+  <img src="../films/profiles/35882.jpg" alt="Riton Liebman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Riton Liebman</span>
     <span class="cast-card-character">Burly Guy</span>
@@ -126,7 +126,7 @@ description: "A man, Milan steps off a train, into a small French village. As he
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1291135.jpg" alt="Véronique Kapoyan" loading="lazy">
+  <img src="../films/profiles/1291135.jpg" alt="Véronique Kapoyan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Véronique Kapoyan</span>
     <span class="cast-card-character">Baker</span>

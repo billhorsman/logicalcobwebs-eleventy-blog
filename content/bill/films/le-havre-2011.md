@@ -56,42 +56,42 @@ description: "In the French harbor city of Le Havre, fate throws young African r
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/20853.jpg" alt="André Wilms" loading="lazy">
+  <img src="../films/profiles/20853.jpg" alt="André Wilms" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">André Wilms</span>
     <span class="cast-card-character">Marcel Marx</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5999.jpg" alt="Kati Outinen" loading="lazy">
+  <img src="../films/profiles/5999.jpg" alt="Kati Outinen" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Kati Outinen</span>
     <span class="cast-card-character">Arletty</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/28463.jpg" alt="Jean-Pierre Darroussin" loading="lazy">
+  <img src="../films/profiles/28463.jpg" alt="Jean-Pierre Darroussin" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean-Pierre Darroussin</span>
     <span class="cast-card-character">Monet</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/569369.jpg" alt="Blondin Miguel" loading="lazy">
+  <img src="../films/profiles/569369.jpg" alt="Blondin Miguel" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Blondin Miguel</span>
     <span class="cast-card-character">Idrissa</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/53507.jpg" alt="Elina Salo" loading="lazy">
+  <img src="../films/profiles/53507.jpg" alt="Elina Salo" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Elina Salo</span>
     <span class="cast-card-character">Claire</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/49756.jpg" alt="Evelyne Didi" loading="lazy">
+  <img src="../films/profiles/49756.jpg" alt="Evelyne Didi" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Evelyne Didi</span>
     <span class="cast-card-character">Yvette</span>
@@ -119,14 +119,14 @@ description: "In the French harbor city of Le Havre, fate throws young African r
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/548816.jpg" alt="Pierre Étaix" loading="lazy">
+  <img src="../films/profiles/548816.jpg" alt="Pierre Étaix" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Pierre Étaix</span>
     <span class="cast-card-character">Dr. Becker</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1653.jpg" alt="Jean-Pierre Léaud" loading="lazy">
+  <img src="../films/profiles/1653.jpg" alt="Jean-Pierre Léaud" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean-Pierre Léaud</span>
     <span class="cast-card-character">The Whistleblower</span>

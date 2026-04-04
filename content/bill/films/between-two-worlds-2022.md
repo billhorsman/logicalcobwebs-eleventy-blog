@@ -56,7 +56,7 @@ description: "Marianne Winckler relocates to the port city of Caen in order to p
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/1137.jpg" alt="Juliette Binoche" loading="lazy">
+  <img src="../films/profiles/1137.jpg" alt="Juliette Binoche" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Juliette Binoche</span>
     <span class="cast-card-character">Marianne Winckler</span>

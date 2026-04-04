@@ -56,84 +56,84 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/1892.jpg" alt="Matt Damon" loading="lazy">
+  <img src="../films/profiles/1892.jpg" alt="Matt Damon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Matt Damon</span>
     <span class="cast-card-character">Jason Bourne</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/679.jpg" alt="Franka Potente" loading="lazy">
+  <img src="../films/profiles/679.jpg" alt="Franka Potente" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Franka Potente</span>
     <span class="cast-card-character">Marie Helena Kreutz</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2955.jpg" alt="Chris Cooper" loading="lazy">
+  <img src="../films/profiles/2955.jpg" alt="Chris Cooper" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Chris Cooper</span>
     <span class="cast-card-character">Alexander Conklin</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2296.jpg" alt="Clive Owen" loading="lazy">
+  <img src="../films/profiles/2296.jpg" alt="Clive Owen" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Clive Owen</span>
     <span class="cast-card-character">The Professor</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1248.jpg" alt="Brian Cox" loading="lazy">
+  <img src="../films/profiles/1248.jpg" alt="Brian Cox" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Brian Cox</span>
     <span class="cast-card-character">Ward Abbott</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/31164.jpg" alt="Adewale Akinnuoye-Agbaje" loading="lazy">
+  <img src="../films/profiles/31164.jpg" alt="Adewale Akinnuoye-Agbaje" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Adewale Akinnuoye-Agbaje</span>
     <span class="cast-card-character">Nykwana Wombosi</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/32458.jpg" alt="Gabriel Mann" loading="lazy">
+  <img src="../films/profiles/32458.jpg" alt="Gabriel Mann" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Gabriel Mann</span>
     <span class="cast-card-character">Danny Zorn</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/12041.jpg" alt="Julia Stiles" loading="lazy">
+  <img src="../films/profiles/12041.jpg" alt="Julia Stiles" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Julia Stiles</span>
     <span class="cast-card-character">Nicky Parsons</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/27740.jpg" alt="Walton Goggins" loading="lazy">
+  <img src="../films/profiles/27740.jpg" alt="Walton Goggins" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Walton Goggins</span>
     <span class="cast-card-character">Research Tech</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/52419.jpg" alt="Josh Hamilton" loading="lazy">
+  <img src="../films/profiles/52419.jpg" alt="Josh Hamilton" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Josh Hamilton</span>
     <span class="cast-card-character">Research Tech</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/27198.jpg" alt="Orso Maria Guerrini" loading="lazy">
+  <img src="../films/profiles/27198.jpg" alt="Orso Maria Guerrini" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Orso Maria Guerrini</span>
     <span class="cast-card-character">Giancarlo</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/49965.jpg" alt="Tim Dutton" loading="lazy">
+  <img src="../films/profiles/49965.jpg" alt="Tim Dutton" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tim Dutton</span>
     <span class="cast-card-character">Eamon</span>

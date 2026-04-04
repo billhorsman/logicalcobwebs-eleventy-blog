@@ -56,77 +56,77 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/854.jpg" alt="James Stewart" loading="lazy">
+  <img src="../films/profiles/854.jpg" alt="James Stewart" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">James Stewart</span>
     <span class="cast-card-character">George Bailey</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/17752.jpg" alt="Donna Reed" loading="lazy">
+  <img src="../films/profiles/17752.jpg" alt="Donna Reed" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Donna Reed</span>
     <span class="cast-card-character">Mary Hatch</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/17753.jpg" alt="Lionel Barrymore" loading="lazy">
+  <img src="../films/profiles/17753.jpg" alt="Lionel Barrymore" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Lionel Barrymore</span>
     <span class="cast-card-character">Mr. Potter</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3383.jpg" alt="Thomas Mitchell" loading="lazy">
+  <img src="../films/profiles/3383.jpg" alt="Thomas Mitchell" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Thomas Mitchell</span>
     <span class="cast-card-character">Uncle Billy</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/7666.jpg" alt="Henry Travers" loading="lazy">
+  <img src="../films/profiles/7666.jpg" alt="Henry Travers" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Henry Travers</span>
     <span class="cast-card-character">Clarence</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/17755.jpg" alt="Beulah Bondi" loading="lazy">
+  <img src="../films/profiles/17755.jpg" alt="Beulah Bondi" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Beulah Bondi</span>
     <span class="cast-card-character">Mrs. Bailey</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/17759.jpg" alt="Frank Faylen" loading="lazy">
+  <img src="../films/profiles/17759.jpg" alt="Frank Faylen" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Frank Faylen</span>
     <span class="cast-card-character">Ernie</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4303.jpg" alt="Ward Bond" loading="lazy">
+  <img src="../films/profiles/4303.jpg" alt="Ward Bond" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ward Bond</span>
     <span class="cast-card-character">Bert</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/77081.jpg" alt="Gloria Grahame" loading="lazy">
+  <img src="../films/profiles/77081.jpg" alt="Gloria Grahame" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Gloria Grahame</span>
     <span class="cast-card-character">Violet</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/33278.jpg" alt="H.B. Warner" loading="lazy">
+  <img src="../films/profiles/33278.jpg" alt="H.B. Warner" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">H.B. Warner</span>
     <span class="cast-card-character">Mr. Gower</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/78902.jpg" alt="Frank Albertson" loading="lazy">
+  <img src="../films/profiles/78902.jpg" alt="Frank Albertson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Frank Albertson</span>
     <span class="cast-card-character">Sam Wainwright</span>

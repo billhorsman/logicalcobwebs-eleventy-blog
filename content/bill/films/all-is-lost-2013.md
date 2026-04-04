@@ -56,7 +56,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/4135.jpg" alt="Robert Redford" loading="lazy">
+  <img src="../films/profiles/4135.jpg" alt="Robert Redford" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Robert Redford</span>
     <span class="cast-card-character">Our Man</span>

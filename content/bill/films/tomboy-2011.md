@@ -56,35 +56,35 @@ description: "A French family moves to a new neighborhood with during the summer
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/240732.jpg" alt="Zoé Héran" loading="lazy">
+  <img src="../films/profiles/240732.jpg" alt="Zoé Héran" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Zoé Héran</span>
     <span class="cast-card-character">Laure / Mickaël</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/240733.jpg" alt="Malonn Lévana" loading="lazy">
+  <img src="../films/profiles/240733.jpg" alt="Malonn Lévana" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Malonn Lévana</span>
     <span class="cast-card-character">Jeanne</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/240734.jpg" alt="Jeanne Disson" loading="lazy">
+  <img src="../films/profiles/240734.jpg" alt="Jeanne Disson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jeanne Disson</span>
     <span class="cast-card-character">Lisa</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/124072.jpg" alt="Sophie Cattani" loading="lazy">
+  <img src="../films/profiles/124072.jpg" alt="Sophie Cattani" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sophie Cattani</span>
     <span class="cast-card-character">La mère</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/64751.jpg" alt="Mathieu Demy" loading="lazy">
+  <img src="../films/profiles/64751.jpg" alt="Mathieu Demy" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Mathieu Demy</span>
     <span class="cast-card-character">Le père</span>
@@ -105,7 +105,7 @@ description: "A French family moves to a new neighborhood with during the summer
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1119267.jpg" alt="Noah Vero" loading="lazy">
+  <img src="../films/profiles/1119267.jpg" alt="Noah Vero" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Noah Vero</span>
     <span class="cast-card-character">Noah</span>
@@ -119,7 +119,7 @@ description: "A French family moves to a new neighborhood with during the summer
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/96295.jpg" alt="Christel Baras" loading="lazy">
+  <img src="../films/profiles/96295.jpg" alt="Christel Baras" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Christel Baras</span>
     <span class="cast-card-character">La mère de Lisa</span>

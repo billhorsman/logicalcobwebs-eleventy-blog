@@ -56,84 +56,84 @@ description: "Lady Bird McPherson, a strong willed, deeply opinionated, artistic
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/36592.jpg" alt="Saoirse Ronan" loading="lazy">
+  <img src="../films/profiles/36592.jpg" alt="Saoirse Ronan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Saoirse Ronan</span>
     <span class="cast-card-character">Lady Bird McPherson</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/12133.jpg" alt="Laurie Metcalf" loading="lazy">
+  <img src="../films/profiles/12133.jpg" alt="Laurie Metcalf" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Laurie Metcalf</span>
     <span class="cast-card-character">Marion McPherson</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/72638.jpg" alt="Tracy Letts" loading="lazy">
+  <img src="../films/profiles/72638.jpg" alt="Tracy Letts" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tracy Letts</span>
     <span class="cast-card-character">Larry McPherson</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1105079.jpg" alt="Lucas Hedges" loading="lazy">
+  <img src="../films/profiles/1105079.jpg" alt="Lucas Hedges" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Lucas Hedges</span>
     <span class="cast-card-character">Danny O'Neill</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1190668.jpg" alt="Timothée Chalamet" loading="lazy">
+  <img src="../films/profiles/1190668.jpg" alt="Timothée Chalamet" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Timothée Chalamet</span>
     <span class="cast-card-character">Kyle Sheible</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1496393.jpg" alt="Beanie Feldstein" loading="lazy">
+  <img src="../films/profiles/1496393.jpg" alt="Beanie Feldstein" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Beanie Feldstein</span>
     <span class="cast-card-character">Julie Steffans</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2207.jpg" alt="Lois Smith" loading="lazy">
+  <img src="../films/profiles/2207.jpg" alt="Lois Smith" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Lois Smith</span>
     <span class="cast-card-character">Sister Sarah Joan</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/196179.jpg" alt="Stephen McKinley Henderson" loading="lazy">
+  <img src="../films/profiles/196179.jpg" alt="Stephen McKinley Henderson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Stephen McKinley Henderson</span>
     <span class="cast-card-character">Father Leviatch</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1121786.jpg" alt="Odeya Rush" loading="lazy">
+  <img src="../films/profiles/1121786.jpg" alt="Odeya Rush" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Odeya Rush</span>
     <span class="cast-card-character">Jenna Walton</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1231115.jpg" alt="Jordan Rodrigues" loading="lazy">
+  <img src="../films/profiles/1231115.jpg" alt="Jordan Rodrigues" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jordan Rodrigues</span>
     <span class="cast-card-character">Miguel McPherson</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1702762.jpg" alt="Marielle Scott" loading="lazy">
+  <img src="../films/profiles/1702762.jpg" alt="Marielle Scott" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Marielle Scott</span>
     <span class="cast-card-character">Shelly Yuhan</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1061132.jpg" alt="John Karna" loading="lazy">
+  <img src="../films/profiles/1061132.jpg" alt="John Karna" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Karna</span>
     <span class="cast-card-character">Greg Anrue</span>

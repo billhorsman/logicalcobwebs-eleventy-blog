@@ -56,84 +56,84 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/4581.jpg" alt="Steve Coogan" loading="lazy">
+  <img src="../films/profiles/4581.jpg" alt="Steve Coogan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Steve Coogan</span>
     <span class="cast-card-character">Tony Wilson</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14887.jpg" alt="Paddy Considine" loading="lazy">
+  <img src="../films/profiles/14887.jpg" alt="Paddy Considine" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Paddy Considine</span>
     <span class="cast-card-character">Rob Gretton</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/16702.jpg" alt="Sean Harris" loading="lazy">
+  <img src="../films/profiles/16702.jpg" alt="Sean Harris" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sean Harris</span>
     <span class="cast-card-character">Ian Curtis</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1120.jpg" alt="Lennie James" loading="lazy">
+  <img src="../films/profiles/1120.jpg" alt="Lennie James" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Lennie James</span>
     <span class="cast-card-character">Alan Erasmus</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1834.jpg" alt="Shirley Henderson" loading="lazy">
+  <img src="../films/profiles/1834.jpg" alt="Shirley Henderson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Shirley Henderson</span>
     <span class="cast-card-character">Lindsay Wilson</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1333.jpg" alt="Andy Serkis" loading="lazy">
+  <img src="../films/profiles/1333.jpg" alt="Andy Serkis" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Andy Serkis</span>
     <span class="cast-card-character">Martin Hannett</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/42604.jpg" alt="John Simm" loading="lazy">
+  <img src="../films/profiles/42604.jpg" alt="John Simm" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Simm</span>
     <span class="cast-card-character">Bernard Sumner</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/96280.jpg" alt="Ralf Little" loading="lazy">
+  <img src="../films/profiles/96280.jpg" alt="Ralf Little" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ralf Little</span>
     <span class="cast-card-character">Hooky</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1667.jpg" alt="Danny Cunningham" loading="lazy">
+  <img src="../films/profiles/1667.jpg" alt="Danny Cunningham" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Danny Cunningham</span>
     <span class="cast-card-character">Shaun Ryder</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/7318.jpg" alt="Peter Kay" loading="lazy">
+  <img src="../films/profiles/7318.jpg" alt="Peter Kay" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Peter Kay</span>
     <span class="cast-card-character">Don Tonay</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/7321.jpg" alt="John Thomson" loading="lazy">
+  <img src="../films/profiles/7321.jpg" alt="John Thomson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Thomson</span>
     <span class="cast-card-character">Charles</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/71282.jpg" alt="Kate Magowan" loading="lazy">
+  <img src="../films/profiles/71282.jpg" alt="Kate Magowan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Kate Magowan</span>
     <span class="cast-card-character">Yvette Livesay</span>

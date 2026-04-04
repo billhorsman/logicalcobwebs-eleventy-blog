@@ -56,84 +56,84 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/10297.jpg" alt="Matthew McConaughey" loading="lazy">
+  <img src="../films/profiles/10297.jpg" alt="Matthew McConaughey" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Matthew McConaughey</span>
     <span class="cast-card-character">Ron Woodroof</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/9278.jpg" alt="Jennifer Garner" loading="lazy">
+  <img src="../films/profiles/9278.jpg" alt="Jennifer Garner" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jennifer Garner</span>
     <span class="cast-card-character">Eve</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/7499.jpg" alt="Jared Leto" loading="lazy">
+  <img src="../films/profiles/7499.jpg" alt="Jared Leto" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jared Leto</span>
     <span class="cast-card-character">Rayon</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/81681.jpg" alt="Denis O'Hare" loading="lazy">
+  <img src="../films/profiles/81681.jpg" alt="Denis O'Hare" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Denis O'Hare</span>
     <span class="cast-card-character">Dr. Sevard</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/18324.jpg" alt="Steve Zahn" loading="lazy">
+  <img src="../films/profiles/18324.jpg" alt="Steve Zahn" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Steve Zahn</span>
     <span class="cast-card-character">Tucker</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/21710.jpg" alt="Michael O'Neill" loading="lazy">
+  <img src="../films/profiles/21710.jpg" alt="Michael O'Neill" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Michael O'Neill</span>
     <span class="cast-card-character">Richard Barkley</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/424.jpg" alt="Dallas Roberts" loading="lazy">
+  <img src="../films/profiles/424.jpg" alt="Dallas Roberts" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Dallas Roberts</span>
     <span class="cast-card-character">David Wayne</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2171.jpg" alt="Griffin Dunne" loading="lazy">
+  <img src="../films/profiles/2171.jpg" alt="Griffin Dunne" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Griffin Dunne</span>
     <span class="cast-card-character">Dr. Vass</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/114000.jpg" alt="Kevin Rankin" loading="lazy">
+  <img src="../films/profiles/114000.jpg" alt="Kevin Rankin" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Kevin Rankin</span>
     <span class="cast-card-character">T.J.</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/230995.jpg" alt="Donna DuPlantier" loading="lazy">
+  <img src="../films/profiles/230995.jpg" alt="Donna DuPlantier" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Donna DuPlantier</span>
     <span class="cast-card-character">Nurse Frazin</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/29933.jpg" alt="Deneen Tyler" loading="lazy">
+  <img src="../films/profiles/29933.jpg" alt="Deneen Tyler" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Deneen Tyler</span>
     <span class="cast-card-character">Denise</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/129868.jpg" alt="J.D. Evermore" loading="lazy">
+  <img src="../films/profiles/129868.jpg" alt="J.D. Evermore" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">J.D. Evermore</span>
     <span class="cast-card-character">Clint</span>

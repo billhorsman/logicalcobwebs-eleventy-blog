@@ -56,84 +56,84 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/72466.jpg" alt="Colin Farrell" loading="lazy">
+  <img src="../films/profiles/72466.jpg" alt="Colin Farrell" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Colin Farrell</span>
     <span class="cast-card-character">Ray</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2039.jpg" alt="Brendan Gleeson" loading="lazy">
+  <img src="../films/profiles/2039.jpg" alt="Brendan Gleeson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Brendan Gleeson</span>
     <span class="cast-card-character">Ken</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5469.jpg" alt="Ralph Fiennes" loading="lazy">
+  <img src="../films/profiles/5469.jpg" alt="Ralph Fiennes" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ralph Fiennes</span>
     <span class="cast-card-character">Harry</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/11291.jpg" alt="Clémence Poésy" loading="lazy">
+  <img src="../films/profiles/11291.jpg" alt="Clémence Poésy" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Clémence Poésy</span>
     <span class="cast-card-character">Chloë</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/45749.jpg" alt="Thekla Reuten" loading="lazy">
+  <img src="../films/profiles/45749.jpg" alt="Thekla Reuten" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Thekla Reuten</span>
     <span class="cast-card-character">Marie</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/54476.jpg" alt="Jordan Prentice" loading="lazy">
+  <img src="../films/profiles/54476.jpg" alt="Jordan Prentice" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jordan Prentice</span>
     <span class="cast-card-character">Jimmy</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/42998.jpg" alt="Elizabeth Berrington" loading="lazy">
+  <img src="../films/profiles/42998.jpg" alt="Elizabeth Berrington" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Elizabeth Berrington</span>
     <span class="cast-card-character">Natalie</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/51325.jpg" alt="Jérémie Renier" loading="lazy">
+  <img src="../films/profiles/51325.jpg" alt="Jérémie Renier" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jérémie Renier</span>
     <span class="cast-card-character">Eirik</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/211413.jpg" alt="Mark Donovan" loading="lazy">
+  <img src="../films/profiles/211413.jpg" alt="Mark Donovan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Mark Donovan</span>
     <span class="cast-card-character">Overweight Man</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/145299.jpg" alt="Éric Godon" loading="lazy">
+  <img src="../films/profiles/145299.jpg" alt="Éric Godon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Éric Godon</span>
     <span class="cast-card-character">Yuri</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/72857.jpg" alt="Anna Madeley" loading="lazy">
+  <img src="../films/profiles/72857.jpg" alt="Anna Madeley" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Anna Madeley</span>
     <span class="cast-card-character">Denise</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/588742.jpg" alt="Theo Stevenson" loading="lazy">
+  <img src="../films/profiles/588742.jpg" alt="Theo Stevenson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Theo Stevenson</span>
     <span class="cast-card-character">Boy in Church</span>

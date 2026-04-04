@@ -56,56 +56,56 @@ description: "With a father suffering from neurodegenerative disease, a young wo
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/121529.jpg" alt="Léa Seydoux" loading="lazy">
+  <img src="../films/profiles/121529.jpg" alt="Léa Seydoux" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Léa Seydoux</span>
     <span class="cast-card-character">Sandra Kienzler</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/16923.jpg" alt="Pascal Greggory" loading="lazy">
+  <img src="../films/profiles/16923.jpg" alt="Pascal Greggory" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Pascal Greggory</span>
     <span class="cast-card-character">Georg Kienzler</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/26100.jpg" alt="Melvil Poupaud" loading="lazy">
+  <img src="../films/profiles/26100.jpg" alt="Melvil Poupaud" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Melvil Poupaud</span>
     <span class="cast-card-character">Clément</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/24485.jpg" alt="Nicole Garcia" loading="lazy">
+  <img src="../films/profiles/24485.jpg" alt="Nicole Garcia" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Nicole Garcia</span>
     <span class="cast-card-character">Françoise</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3549778.jpg" alt="Camille Leban Martins" loading="lazy">
+  <img src="../films/profiles/3549778.jpg" alt="Camille Leban Martins" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Camille Leban Martins</span>
     <span class="cast-card-character">Linn</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1096268.jpg" alt="Sarah Le Picard" loading="lazy">
+  <img src="../films/profiles/1096268.jpg" alt="Sarah Le Picard" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sarah Le Picard</span>
     <span class="cast-card-character">Elodie Kienzler</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2814135.jpg" alt="Pierre Meunier" loading="lazy">
+  <img src="../films/profiles/2814135.jpg" alt="Pierre Meunier" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Pierre Meunier</span>
     <span class="cast-card-character">Michel</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1770282.jpg" alt="Fejria Deliba" loading="lazy">
+  <img src="../films/profiles/1770282.jpg" alt="Fejria Deliba" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Fejria Deliba</span>
     <span class="cast-card-character">Leila</span>
@@ -119,14 +119,14 @@ description: "With a father suffering from neurodegenerative disease, a young wo
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/59045.jpg" alt="Catherine Vinatier" loading="lazy">
+  <img src="../films/profiles/59045.jpg" alt="Catherine Vinatier" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Catherine Vinatier</span>
     <span class="cast-card-character">Soeur de Georg</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1652770.jpg" alt="Samuel Achache" loading="lazy">
+  <img src="../films/profiles/1652770.jpg" alt="Samuel Achache" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Samuel Achache</span>
     <span class="cast-card-character">Mari d'Elodie</span>

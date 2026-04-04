@@ -56,42 +56,42 @@ description: "Two out-of-work actors -- the anxious, luckless Marwood and his ac
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/20766.jpg" alt="Richard E. Grant" loading="lazy">
+  <img src="../films/profiles/20766.jpg" alt="Richard E. Grant" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Richard E. Grant</span>
     <span class="cast-card-character">Withnail</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/47654.jpg" alt="Paul McGann" loading="lazy">
+  <img src="../films/profiles/47654.jpg" alt="Paul McGann" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Paul McGann</span>
     <span class="cast-card-character">...& I</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/10983.jpg" alt="Richard Griffiths" loading="lazy">
+  <img src="../films/profiles/10983.jpg" alt="Richard Griffiths" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Richard Griffiths</span>
     <span class="cast-card-character">Monty</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/53916.jpg" alt="Ralph Brown" loading="lazy">
+  <img src="../films/profiles/53916.jpg" alt="Ralph Brown" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Ralph Brown</span>
     <span class="cast-card-character">Danny</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1821.jpg" alt="Michael Elphick" loading="lazy">
+  <img src="../films/profiles/1821.jpg" alt="Michael Elphick" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Michael Elphick</span>
     <span class="cast-card-character">Jake</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/144863.jpg" alt="Daragh O'Malley" loading="lazy">
+  <img src="../films/profiles/144863.jpg" alt="Daragh O'Malley" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Daragh O'Malley</span>
     <span class="cast-card-character">Irishman</span>
@@ -105,7 +105,7 @@ description: "Two out-of-work actors -- the anxious, luckless Marwood and his ac
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1368909.jpg" alt="Una Brandon-Jones" loading="lazy">
+  <img src="../films/profiles/1368909.jpg" alt="Una Brandon-Jones" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Una Brandon-Jones</span>
     <span class="cast-card-character">Mrs. Parkin</span>
@@ -126,7 +126,7 @@ description: "Two out-of-work actors -- the anxious, luckless Marwood and his ac
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1221507.jpg" alt="Llewellyn Rees" loading="lazy">
+  <img src="../films/profiles/1221507.jpg" alt="Llewellyn Rees" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Llewellyn Rees</span>
     <span class="cast-card-character">Tea Shop Proprietor</span>

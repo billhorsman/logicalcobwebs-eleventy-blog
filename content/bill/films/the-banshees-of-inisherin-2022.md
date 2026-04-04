@@ -56,77 +56,77 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/72466.jpg" alt="Colin Farrell" loading="lazy">
+  <img src="../films/profiles/72466.jpg" alt="Colin Farrell" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Colin Farrell</span>
     <span class="cast-card-character">Pádraic Súilleabháin</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2039.jpg" alt="Brendan Gleeson" loading="lazy">
+  <img src="../films/profiles/2039.jpg" alt="Brendan Gleeson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Brendan Gleeson</span>
     <span class="cast-card-character">Colm Doherty</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/62105.jpg" alt="Kerry Condon" loading="lazy">
+  <img src="../films/profiles/62105.jpg" alt="Kerry Condon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Kerry Condon</span>
     <span class="cast-card-character">Siobhán Súilleabháin</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1290466.jpg" alt="Barry Keoghan" loading="lazy">
+  <img src="../films/profiles/1290466.jpg" alt="Barry Keoghan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Barry Keoghan</span>
     <span class="cast-card-character">Dominic Kearney</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/93209.jpg" alt="Gary Lydon" loading="lazy">
+  <img src="../films/profiles/93209.jpg" alt="Gary Lydon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Gary Lydon</span>
     <span class="cast-card-character">Peadar Kearney</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/83278.jpg" alt="Pat Shortt" loading="lazy">
+  <img src="../films/profiles/83278.jpg" alt="Pat Shortt" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Pat Shortt</span>
     <span class="cast-card-character">Jonjo Devine</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1597386.jpg" alt="Sheila Flitton" loading="lazy">
+  <img src="../films/profiles/1597386.jpg" alt="Sheila Flitton" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sheila Flitton</span>
     <span class="cast-card-character">Mrs. McCormick</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1907071.jpg" alt="Bríd Ní Neachtain" loading="lazy">
+  <img src="../films/profiles/1907071.jpg" alt="Bríd Ní Neachtain" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Bríd Ní Neachtain</span>
     <span class="cast-card-character">Mrs. O'Riordan</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/37169.jpg" alt="Jon Kenny" loading="lazy">
+  <img src="../films/profiles/37169.jpg" alt="Jon Kenny" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jon Kenny</span>
     <span class="cast-card-character">Gerry</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/210061.jpg" alt="Aaron Monaghan" loading="lazy">
+  <img src="../films/profiles/210061.jpg" alt="Aaron Monaghan" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Aaron Monaghan</span>
     <span class="cast-card-character">Declan</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1122014.jpg" alt="David Pearse" loading="lazy">
+  <img src="../films/profiles/1122014.jpg" alt="David Pearse" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">David Pearse</span>
     <span class="cast-card-character">Priest</span>

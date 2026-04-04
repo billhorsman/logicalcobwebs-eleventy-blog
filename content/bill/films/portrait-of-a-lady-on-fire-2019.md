@@ -56,56 +56,56 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/1385600.jpg" alt="Noémie Merlant" loading="lazy">
+  <img src="../films/profiles/1385600.jpg" alt="Noémie Merlant" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Noémie Merlant</span>
     <span class="cast-card-character">Marianne</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/68816.jpg" alt="Adèle Haenel" loading="lazy">
+  <img src="../films/profiles/68816.jpg" alt="Adèle Haenel" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Adèle Haenel</span>
     <span class="cast-card-character">Héloïse</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1442550.jpg" alt="Luàna Bajrami" loading="lazy">
+  <img src="../films/profiles/1442550.jpg" alt="Luàna Bajrami" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Luàna Bajrami</span>
     <span class="cast-card-character">Sophie</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3124.jpg" alt="Valeria Golino" loading="lazy">
+  <img src="../films/profiles/3124.jpg" alt="Valeria Golino" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Valeria Golino</span>
     <span class="cast-card-character">La Comtesse</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/96295.jpg" alt="Christel Baras" loading="lazy">
+  <img src="../films/profiles/96295.jpg" alt="Christel Baras" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Christel Baras</span>
     <span class="cast-card-character">La faiseuse d'ange</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1187034.jpg" alt="Armande Boulanger" loading="lazy">
+  <img src="../films/profiles/1187034.jpg" alt="Armande Boulanger" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Armande Boulanger</span>
     <span class="cast-card-character">L'élève atelier</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2385689.jpg" alt="Guy Delamarche" loading="lazy">
+  <img src="../films/profiles/2385689.jpg" alt="Guy Delamarche" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Guy Delamarche</span>
     <span class="cast-card-character">L'homme salon</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2385690.jpg" alt="Clément Bouyssou" loading="lazy">
+  <img src="../films/profiles/2385690.jpg" alt="Clément Bouyssou" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Clément Bouyssou</span>
     <span class="cast-card-character">Le batelier</span>

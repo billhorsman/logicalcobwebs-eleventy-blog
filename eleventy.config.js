@@ -85,7 +85,8 @@ export default async function(eleventyConfig) {
 			// e.g. <img loading decoding> assigned on the HTML tag will override these values.
 			loading: "lazy",
 			decoding: "async",
-		}
+		},
+
 	});
 
 	// Filters

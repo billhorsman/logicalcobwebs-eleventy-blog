@@ -56,49 +56,49 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/1158.jpg" alt="Al Pacino" loading="lazy">
+  <img src="../films/profiles/1158.jpg" alt="Al Pacino" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Al Pacino</span>
     <span class="cast-card-character">Sonny</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3096.jpg" alt="John Cazale" loading="lazy">
+  <img src="../films/profiles/3096.jpg" alt="John Cazale" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Cazale</span>
     <span class="cast-card-character">Sal</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1466.jpg" alt="Charles Durning" loading="lazy">
+  <img src="../films/profiles/1466.jpg" alt="Charles Durning" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Charles Durning</span>
     <span class="cast-card-character">Moretti</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14541.jpg" alt="Chris Sarandon" loading="lazy">
+  <img src="../films/profiles/14541.jpg" alt="Chris Sarandon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Chris Sarandon</span>
     <span class="cast-card-character">Leon</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14542.jpg" alt="James Broderick" loading="lazy">
+  <img src="../films/profiles/14542.jpg" alt="James Broderick" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">James Broderick</span>
     <span class="cast-card-character">Sheldon</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14544.jpg" alt="Penelope Allen" loading="lazy">
+  <img src="../films/profiles/14544.jpg" alt="Penelope Allen" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Penelope Allen</span>
     <span class="cast-card-character">Sylvia</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14545.jpg" alt="Sully Boyar" loading="lazy">
+  <img src="../films/profiles/14545.jpg" alt="Sully Boyar" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Sully Boyar</span>
     <span class="cast-card-character">Mulvaney</span>
@@ -112,7 +112,7 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/10556.jpg" alt="Carol Kane" loading="lazy">
+  <img src="../films/profiles/10556.jpg" alt="Carol Kane" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Carol Kane</span>
     <span class="cast-card-character">Jenny</span>
@@ -126,7 +126,7 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/14548.jpg" alt="Marcia Jean Kurtz" loading="lazy">
+  <img src="../films/profiles/14548.jpg" alt="Marcia Jean Kurtz" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Marcia Jean Kurtz</span>
     <span class="cast-card-character">Miriam</span>

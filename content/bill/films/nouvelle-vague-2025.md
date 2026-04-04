@@ -56,84 +56,84 @@ description: "After writing for Cahiers du cinéma, a young Jean-Luc Godard deci
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/3624024.jpg" alt="Guillaume Marbeck" loading="lazy">
+  <img src="../films/profiles/3624024.jpg" alt="Guillaume Marbeck" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Guillaume Marbeck</span>
     <span class="cast-card-character">Jean-Luc Godard</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1059597.jpg" alt="Zoey Deutch" loading="lazy">
+  <img src="../films/profiles/1059597.jpg" alt="Zoey Deutch" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Zoey Deutch</span>
     <span class="cast-card-character">Jean Seberg</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4620704.jpg" alt="Aubry Dullin" loading="lazy">
+  <img src="../films/profiles/4620704.jpg" alt="Aubry Dullin" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Aubry Dullin</span>
     <span class="cast-card-character">Jean-Paul Belmondo</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4782604.jpg" alt="Adrien Rouyard" loading="lazy">
+  <img src="../films/profiles/4782604.jpg" alt="Adrien Rouyard" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Adrien Rouyard</span>
     <span class="cast-card-character">François Truffaut</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2623513.jpg" alt="Antoine Besson" loading="lazy">
+  <img src="../films/profiles/2623513.jpg" alt="Antoine Besson" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Antoine Besson</span>
     <span class="cast-card-character">Claude Chabrol</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4620691.jpg" alt="Jodie Ruth-Forest" loading="lazy">
+  <img src="../films/profiles/4620691.jpg" alt="Jodie Ruth-Forest" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jodie Ruth-Forest</span>
     <span class="cast-card-character">Suzanne Schiffman</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2250217.jpg" alt="Bruno Dreyfürst" loading="lazy">
+  <img src="../films/profiles/2250217.jpg" alt="Bruno Dreyfürst" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Bruno Dreyfürst</span>
     <span class="cast-card-character">Georges de Beauregard</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/4195610.jpg" alt="Benjamin Cléry" loading="lazy">
+  <img src="../films/profiles/4195610.jpg" alt="Benjamin Cléry" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Benjamin Cléry</span>
     <span class="cast-card-character">Pierre Rissient</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2408218.jpg" alt="Matthieu Penchinat" loading="lazy">
+  <img src="../films/profiles/2408218.jpg" alt="Matthieu Penchinat" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Matthieu Penchinat</span>
     <span class="cast-card-character">Raoul Coutard</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3402505.jpg" alt="Pauline Belle" loading="lazy">
+  <img src="../films/profiles/3402505.jpg" alt="Pauline Belle" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Pauline Belle</span>
     <span class="cast-card-character">Suzon Faye</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2158224.jpg" alt="Frank Cicurel" loading="lazy">
+  <img src="../films/profiles/2158224.jpg" alt="Frank Cicurel" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Frank Cicurel</span>
     <span class="cast-card-character">Raymond Cauchetier</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/5227510.jpg" alt="Blaise Pettebone" loading="lazy">
+  <img src="../films/profiles/5227510.jpg" alt="Blaise Pettebone" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Blaise Pettebone</span>
     <span class="cast-card-character">Marc Pierret</span>

@@ -56,56 +56,56 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/3829.jpg" alt="Jean-Paul Belmondo" loading="lazy">
+  <img src="../films/profiles/3829.jpg" alt="Jean-Paul Belmondo" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean-Paul Belmondo</span>
     <span class="cast-card-character">Michel Poiccard / László Kovács</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3830.jpg" alt="Jean Seberg" loading="lazy">
+  <img src="../films/profiles/3830.jpg" alt="Jean Seberg" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean Seberg</span>
     <span class="cast-card-character">Patricia Franchini</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3573.jpg" alt="Daniel Boulanger" loading="lazy">
+  <img src="../films/profiles/3573.jpg" alt="Daniel Boulanger" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Daniel Boulanger</span>
     <span class="cast-card-character">Police Inspector Vital</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3832.jpg" alt="Henri-Jacques Huet" loading="lazy">
+  <img src="../films/profiles/3832.jpg" alt="Henri-Jacques Huet" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Henri-Jacques Huet</span>
     <span class="cast-card-character">Antonio Berrutti</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3836.jpg" alt="Roger Hanin" loading="lazy">
+  <img src="../films/profiles/3836.jpg" alt="Roger Hanin" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Roger Hanin</span>
     <span class="cast-card-character">Carl Zubart</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3833.jpg" alt="Van Doude" loading="lazy">
+  <img src="../films/profiles/3833.jpg" alt="Van Doude" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Van Doude</span>
     <span class="cast-card-character">American Journalist, Patricia's Friend</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3834.jpg" alt="Claude Mansard" loading="lazy">
+  <img src="../films/profiles/3834.jpg" alt="Claude Mansard" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Claude Mansard</span>
     <span class="cast-card-character">Claudius Mansard</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/331806.jpg" alt="Liliane Dreyfus" loading="lazy">
+  <img src="../films/profiles/331806.jpg" alt="Liliane Dreyfus" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Liliane Dreyfus</span>
     <span class="cast-card-character">Liliane / Minouche</span>
@@ -119,21 +119,21 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3831.jpg" alt="Jean-Pierre Melville" loading="lazy">
+  <img src="../films/profiles/3831.jpg" alt="Jean-Pierre Melville" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean-Pierre Melville</span>
     <span class="cast-card-character">Parvulesco the Writer</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3776.jpg" alt="Jean-Luc Godard" loading="lazy">
+  <img src="../films/profiles/3776.jpg" alt="Jean-Luc Godard" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jean-Luc Godard</span>
     <span class="cast-card-character">The Snitch</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/3835.jpg" alt="Richard Balducci" loading="lazy">
+  <img src="../films/profiles/3835.jpg" alt="Richard Balducci" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Richard Balducci</span>
     <span class="cast-card-character">Tolmatchoff</span>

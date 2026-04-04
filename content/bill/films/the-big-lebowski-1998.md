@@ -56,84 +56,84 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/1229.jpg" alt="Jeff Bridges" loading="lazy">
+  <img src="../films/profiles/1229.jpg" alt="Jeff Bridges" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Jeff Bridges</span>
     <span class="cast-card-character">The Dude</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1230.jpg" alt="John Goodman" loading="lazy">
+  <img src="../films/profiles/1230.jpg" alt="John Goodman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">John Goodman</span>
     <span class="cast-card-character">Walter Sobchak</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1231.jpg" alt="Julianne Moore" loading="lazy">
+  <img src="../films/profiles/1231.jpg" alt="Julianne Moore" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Julianne Moore</span>
     <span class="cast-card-character">Maude Lebowski</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/884.jpg" alt="Steve Buscemi" loading="lazy">
+  <img src="../films/profiles/884.jpg" alt="Steve Buscemi" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Steve Buscemi</span>
     <span class="cast-card-character">Donny</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1232.jpg" alt="David Huddleston" loading="lazy">
+  <img src="../films/profiles/1232.jpg" alt="David Huddleston" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">David Huddleston</span>
     <span class="cast-card-character">The Big Lebowski</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1233.jpg" alt="Philip Seymour Hoffman" loading="lazy">
+  <img src="../films/profiles/1233.jpg" alt="Philip Seymour Hoffman" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Philip Seymour Hoffman</span>
     <span class="cast-card-character">Brandt</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1234.jpg" alt="Tara Reid" loading="lazy">
+  <img src="../films/profiles/1234.jpg" alt="Tara Reid" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Tara Reid</span>
     <span class="cast-card-character">Bunny Lebowski</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1235.jpg" alt="Philip Moon" loading="lazy">
+  <img src="../films/profiles/1235.jpg" alt="Philip Moon" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Philip Moon</span>
     <span class="cast-card-character">Treehorn Thug</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1236.jpg" alt="Mark Pellegrino" loading="lazy">
+  <img src="../films/profiles/1236.jpg" alt="Mark Pellegrino" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Mark Pellegrino</span>
     <span class="cast-card-character">Treehorn Thug</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/53.jpg" alt="Peter Stormare" loading="lazy">
+  <img src="../films/profiles/53.jpg" alt="Peter Stormare" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Peter Stormare</span>
     <span class="cast-card-character">Nihilist</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1237.jpg" alt="Flea" loading="lazy">
+  <img src="../films/profiles/1237.jpg" alt="Flea" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Flea</span>
     <span class="cast-card-character">Nihilist</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/1238.jpg" alt="Torsten Voges" loading="lazy">
+  <img src="../films/profiles/1238.jpg" alt="Torsten Voges" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Torsten Voges</span>
     <span class="cast-card-character">Nihilist</span>

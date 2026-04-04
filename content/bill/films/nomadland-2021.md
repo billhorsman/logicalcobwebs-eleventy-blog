@@ -56,28 +56,28 @@ description: "A woman in her sixties embarks on a journey through the western Un
   <section class="cast-grid">
   <div class="cast-grid-cards">
     <div class="cast-card">
-  <img src="../films/profiles/3910.jpg" alt="Frances McDormand" loading="lazy">
+  <img src="../films/profiles/3910.jpg" alt="Frances McDormand" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Frances McDormand</span>
     <span class="cast-card-character">Fern</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/11064.jpg" alt="David Strathairn" loading="lazy">
+  <img src="../films/profiles/11064.jpg" alt="David Strathairn" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">David Strathairn</span>
     <span class="cast-card-character">Dave</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2241214.jpg" alt="Linda May" loading="lazy">
+  <img src="../films/profiles/2241214.jpg" alt="Linda May" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Linda May</span>
     <span class="cast-card-character">Linda</span>
   </div>
 </div>
     <div class="cast-card">
-  <img src="../films/profiles/2776341.jpg" alt="Swankie" loading="lazy">
+  <img src="../films/profiles/2776341.jpg" alt="Swankie" loading="lazy" eleventy:ignore>
   <div class="cast-card-info">
     <span class="cast-card-name">Swankie</span>
     <span class="cast-card-character">Swankie</span>
