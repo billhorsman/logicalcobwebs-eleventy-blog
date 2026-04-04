@@ -16,7 +16,7 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
     <a class="simple" href="../">17 / 100</a>
   </div>
   <div class="next">
-    <a href="../being-there-1979">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../diva-1981">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Being There
+      Diva
     </span>
   </div>
 </nav>

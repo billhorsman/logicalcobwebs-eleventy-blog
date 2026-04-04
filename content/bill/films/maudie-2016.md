@@ -10,7 +10,7 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-grand-budapest-hotel-2014"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../taxi-2015"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">58 / 100</a>
@@ -21,7 +21,7 @@ description: "Canadian folk artist Maud Lewis falls in love with a fishmonger wh
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Grand Budapest Hotel
+      Taxi
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

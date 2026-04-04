@@ -87,8 +87,7 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../being-there-1979">Being There</a> because of Richard Basehart</li>
-<li><a href="../la-dolce-vita-1960">La Dolce Vita</a> because of Federico Fellini</li>
+    <li><a href="../la-dolce-vita-1960">La Dolce Vita</a> because of Federico Fellini</li>
   </ul>
 </section>
 
