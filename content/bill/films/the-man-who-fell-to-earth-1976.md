@@ -48,10 +48,99 @@ description: "Thomas Jerome Newton is an alien who has come to Earth in search o
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/7487.jpg" alt="David Bowie" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">David Bowie</span>
+    <span class="cast-card-character">Thomas Jerome Newton</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/9626.jpg" alt="Rip Torn" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Rip Torn</span>
+    <span class="cast-card-character">Nathan Bryce</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/12407.jpg" alt="Candy Clark" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Candy Clark</span>
+    <span class="cast-card-character">Mary-Lou</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/14904.jpg" alt="Tony Mascia" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tony Mascia</span>
+    <span class="cast-card-character">Arthur</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7795.jpg" alt="Buck Henry" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Buck Henry</span>
+    <span class="cast-card-character">Oliver Farnsworth</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/10939.jpg" alt="Bernie Casey" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Bernie Casey</span>
+    <span class="cast-card-character">Peters</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/105335.jpg" alt="Adrienne La Russa" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Adrienne La Russa</span>
+    <span class="cast-card-character">Helen</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/45469.jpg" alt="Claudia Jennings" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Claudia Jennings</span>
+    <span class="cast-card-character">Peters' Wife</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/14908.jpg" alt="Rick Riccardo" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Rick Riccardo</span>
+    <span class="cast-card-character">Trevor</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7852.jpg" alt="Jim Lovell" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jim Lovell</span>
+    <span class="cast-card-character">James Lovell</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Hilary Holland</span>
+    <span class="cast-card-character">Jill</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Linda Hutton</span>
+    <span class="cast-card-character">Elaine</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

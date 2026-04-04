@@ -48,10 +48,99 @@ description: "Halla declares a one-woman-war on the local aluminium industry. Sh
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/142874.jpg" alt="Halldóra Geirharðsdóttir" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Halldóra Geirharðsdóttir</span>
+    <span class="cast-card-character">Halla / Ása</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/110901.jpg" alt="Jóhann Sigurðarson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jóhann Sigurðarson</span>
+    <span class="cast-card-character">Sveinbjörn</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/544972.jpg" alt="Davíð Þór Jónsson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Davíð Þór Jónsson</span>
+    <span class="cast-card-character">Pianist / Accordion Player</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2153591.jpg" alt="Magnús Trygvason Eliassen" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Magnús Trygvason Eliassen</span>
+    <span class="cast-card-character">Drummer</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ómar Guðjónsson</span>
+    <span class="cast-card-character">Sousaphone Player</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Iryna Danyleiko</span>
+    <span class="cast-card-character">Ukrainian Choir Singer</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Galyna Goncharenko</span>
+    <span class="cast-card-character">Ukrainian Choir Singer</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Susanna Kurpenko</span>
+    <span class="cast-card-character">Ukrainian Choir Singer</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/118345.jpg" alt="Jörundur Ragnarsson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jörundur Ragnarsson</span>
+    <span class="cast-card-character">Baldvin</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1290765.jpg" alt="Juan Camillo Roman Estrada" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Juan Camillo Roman Estrada</span>
+    <span class="cast-card-character">Juan Camillo</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1183138.jpg" alt="Charlotte Bøving" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Charlotte Bøving</span>
+    <span class="cast-card-character">Adoption agency lady</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1093246.jpg" alt="Björn Thors" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Björn Thors</span>
+    <span class="cast-card-character">The Prime Minister</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

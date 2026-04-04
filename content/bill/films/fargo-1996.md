@@ -48,10 +48,99 @@ description: "Jerry, a small-town Minnesota car salesman is bursting at the seam
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/3910.jpg" alt="Frances McDormand" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Frances McDormand</span>
+    <span class="cast-card-character">Marge Gunderson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3905.jpg" alt="William H. Macy" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">William H. Macy</span>
+    <span class="cast-card-character">Jerry Lundegaard</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/884.jpg" alt="Steve Buscemi" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Steve Buscemi</span>
+    <span class="cast-card-character">Carl Showalter</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/53.jpg" alt="Peter Stormare" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Peter Stormare</span>
+    <span class="cast-card-character">Gaear Grimsrud</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3907.jpg" alt="Harve Presnell" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Harve Presnell</span>
+    <span class="cast-card-character">Wade Gustafson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3911.jpg" alt="John Carroll Lynch" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">John Carroll Lynch</span>
+    <span class="cast-card-character">Norm Gunderson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3906.jpg" alt="Kristin Rudrüd" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kristin Rudrüd</span>
+    <span class="cast-card-character">Jean Lundegaard</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/155861.jpg" alt="Bruce Bohne" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Bruce Bohne</span>
+    <span class="cast-card-character">Lou</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4024.jpg" alt="Steve Reevis" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Steve Reevis</span>
+    <span class="cast-card-character">Shep Proudfoot</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4025.jpg" alt="Steve Park" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Steve Park</span>
+    <span class="cast-card-character">Mike Yanagita</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3909.jpg" alt="Gary Houston" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gary Houston</span>
+    <span class="cast-card-character">Irate Customer</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3912.jpg" alt="Sally Wingert" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sally Wingert</span>
+    <span class="cast-card-character">Irate Customer's Wife</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

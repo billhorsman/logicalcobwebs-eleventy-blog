@@ -48,10 +48,99 @@ description: "In a post-apocalyptic world, the residents of an apartment above t
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/2413.jpg" alt="Dominique Pinon" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Dominique Pinon</span>
+    <span class="cast-card-character">Louison</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/13686.jpg" alt="Marie-Laure Dougnac" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Marie-Laure Dougnac</span>
+    <span class="cast-card-character">Julie Clapet</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/13687.jpg" alt="Jean-Claude Dreyfus" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean-Claude Dreyfus</span>
+    <span class="cast-card-character">Clapet</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/13688.jpg" alt="Karin Viard" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Karin Viard</span>
+    <span class="cast-card-character">Mademoiselle Plusse</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/13689.jpg" alt="Ticky Holgado" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ticky Holgado</span>
+    <span class="cast-card-character">Marcel Tapioca</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Pascal Benezech</span>
+    <span class="cast-card-character">Tried to Escape</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Edith Ker</span>
+    <span class="cast-card-character">Grandmother</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2407.jpg" alt="Rufus" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Rufus</span>
+    <span class="cast-card-character">Robert Kube</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/13692.jpg" alt="Jacques Mathou" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jacques Mathou</span>
+    <span class="cast-card-character">Roger Kube</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/13693.jpg" alt="Chick Ortega" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Chick Ortega</span>
+    <span class="cast-card-character">Postman</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/13694.jpg" alt="Jean-François Perrier" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean-François Perrier</span>
+    <span class="cast-card-character">Georges Interligator</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/13695.jpg" alt="Silvie Laguna" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Silvie Laguna</span>
+    <span class="cast-card-character">Aurore Interligator</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

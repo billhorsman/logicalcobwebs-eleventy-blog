@@ -6,8 +6,20 @@ class Person
     @data = data
   end
 
+  def id
+    @data["id"]
+  end
+
   def name
     @data["name"]
+  end
+
+  def character
+    @data["character"]
+  end
+
+  def profile_path
+    @data["profile_path"]
   end
 
   def director?
@@ -44,6 +56,10 @@ class Film
     @data.dig("credits", "cast").map { |credit| Person.new(credit) }
   end
 
+  def top_cast
+    cast.first(12)
+  end
+
   def crew
     @data.dig("credits", "crew").map { |credit| Person.new(credit) }
   end
@@ -68,12 +84,12 @@ end
 
 top_films = JSON.parse(File.read("../_data/top_films.json")).map { Film.new(_1) }
 
-top_cast = top_films.map { |film| 
+top_cast = top_films.map { |film|
   film.cast.slice(0, 3).map(&:name)
-}.flatten.tally.sort_by { |cast_name, count| 
-  [-count, cast_name.downcase] 
-}.map { |cast_name, count| 
-  { name: cast_name, count: } 
+}.flatten.tally.sort_by { |cast_name, count|
+  [-count, cast_name.downcase]
+}.map { |cast_name, count|
+  { name: cast_name, count: }
 }
 (1..5).each do |i|
   if top_cast.length < 10
@@ -84,17 +100,16 @@ top_cast = top_films.map { |film|
 end
 IO.write("../_data/top_cast.json", JSON.pretty_generate(top_cast))
 
-top_directors = top_films.map { |film| 
+top_directors = top_films.map { |film|
   film.directors.map(&:name)
-}.flatten.tally.select { |director, count| 
-  count > 1 
-}.sort_by { |director, count| 
-  [-count, director.downcase] 
-}.map { |director, count| 
-  { name: director, count: count } 
+}.flatten.tally.select { |director, count|
+  count > 1
+}.sort_by { |director, count|
+  [-count, director.downcase]
+}.map { |director, count|
+  { name: director, count: count }
 }
 IO.write("../_data/top_directors.json", JSON.pretty_generate(top_directors))
-
 
 credit_lookup = {}
 top_films.each do |film|
@@ -131,20 +146,45 @@ top_films.each_with_index do |film, index|
   end
   reverse_lookup.each do |names, films|
     links = films.map { |film| "<a href=\"../#{film.slug}\">#{film.title}</a>" }
-    related << "#{to_sentence(links)} because of #{to_sentence(names)}"  
+    related << "#{to_sentence(links)} because of #{to_sentence(names)}"
   end
 
-  related_section = if related.any?
-    <<~MD
-      <section class="related-films">
-        <h2>Related films</h2>
-        <ul>
-          #{related.map { |x| "<li>#{x}</li>" }.join("\n")}
-        </ul>
-      </section>
-    MD
+  cast_cards = film.top_cast.map do |person|
+    image_tag = if person.profile_path
+        "<img src=\"../films/profiles/#{person.id}.jpg\" alt=\"#{person.name}\" loading=\"lazy\">"
+      else
+        "<div class=\"cast-card-no-image\"><i class=\"fa-solid fa-user\"></i></div>"
+      end
+    <<~CARD.strip
+      <div class="cast-card">
+        #{image_tag}
+        <div class="cast-card-info">
+          <span class="cast-card-name">#{person.name}</span>
+          <span class="cast-card-character">#{person.character}</span>
+        </div>
+      </div>
+    CARD
   end
-  
+
+  cast_grid_section = <<~MD
+    <section class="cast-grid">
+      <div class="cast-grid-cards">
+        #{cast_cards.join("\n    ")}
+      </div>
+    </section>
+  MD
+
+  related_section = if related.any?
+      <<~MD
+        <section class="related-films">
+          <h2>Related films</h2>
+          <ul>
+            #{related.map { |x| "<li>#{x}</li>" }.join("\n")}
+          </ul>
+        </section>
+      MD
+    end
+
   puts "Writing #{film.slug}.md"
   path = "../content/bill/films/#{film.slug}.md"
   File.write(path, <<~MD)
@@ -190,7 +230,7 @@ top_films.each_with_index do |film, index|
 
       <p>
         {%- if film.language -%}Language: {{ film.language }}.{% endif %}
-        #{ "Also known as #{film.original_title}." if film.original_title }
+        #{"Also known as #{film.original_title}." if film.original_title}
       </p>
 
       <p class="director">
@@ -198,11 +238,12 @@ top_films.each_with_index do |film, index|
       </p>
 
       {%- if films.reviews[slug] -%}
-        <blockquote> 
+        <blockquote>
           {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-        </blockquote> 
+        </blockquote>
       {%- endif -%}
 
+      #{cast_grid_section}
       <section class="film-detail">
         <div>
           <details>

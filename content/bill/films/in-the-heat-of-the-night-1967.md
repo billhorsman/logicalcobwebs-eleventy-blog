@@ -48,10 +48,99 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/16897.jpg" alt="Sidney Poitier" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sidney Poitier</span>
+    <span class="cast-card-character">Virgil Tibbs</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/522.jpg" alt="Rod Steiger" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Rod Steiger</span>
+    <span class="cast-card-character">Police Chief Bill Gillespie</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/8255.jpg" alt="Warren Oates" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Warren Oates</span>
+    <span class="cast-card-character">Deputy Sam Wood</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/89527.jpg" alt="Peter Whitney" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Peter Whitney</span>
+    <span class="cast-card-character">Deputy Courtney</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/30123.jpg" alt="Lee Grant" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lee Grant</span>
+    <span class="cast-card-character">Mrs. Leslie Colbert</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3715.jpg" alt="Anthony James" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Anthony James</span>
+    <span class="cast-card-character">Ralph</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/15992.jpg" alt="William Schallert" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">William Schallert</span>
+    <span class="cast-card-character">Mayor Schubert</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/6914.jpg" alt="Scott Wilson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Scott Wilson</span>
+    <span class="cast-card-character">Harvey Oberst</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3640.jpg" alt="Larry Gates" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Larry Gates</span>
+    <span class="cast-card-character">Eric Endicott</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/105049.jpg" alt="James Patterson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">James Patterson</span>
+    <span class="cast-card-character">Mr. Purdy</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/196406.jpg" alt="Quentin Dean" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Quentin Dean</span>
+    <span class="cast-card-character">Delores Purdy</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kermit Murdock</span>
+    <span class="cast-card-character">Henderson</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

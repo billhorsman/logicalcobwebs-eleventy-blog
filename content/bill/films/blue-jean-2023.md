@@ -48,10 +48,99 @@ description: "Jean, a PE teacher, is forced to live a double life. When a new st
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/2648396.jpg" alt="Rosy McEwen" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Rosy McEwen</span>
+    <span class="cast-card-character">Jean Newman</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/570323.jpg" alt="Kerrie Hayes" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kerrie Hayes</span>
+    <span class="cast-card-character">Vivian Highton</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3536817.jpg" alt="Lucy Halliday" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lucy Halliday</span>
+    <span class="cast-card-character">Lois Jackson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2664861.jpg" alt="Lydia Page" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lydia Page</span>
+    <span class="cast-card-character">Siobhan Murphy</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3163376.jpg" alt="Becky Lindsay" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Becky Lindsay</span>
+    <span class="cast-card-character">Jill</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3924040.jpg" alt="Maya Torres" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Maya Torres</span>
+    <span class="cast-card-character">Mindy Singh</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3924038.jpg" alt="Ellen Gowland" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ellen Gowland</span>
+    <span class="cast-card-character">Carol Ridley</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2335665.jpg" alt="Amy Booth-Steel" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Amy Booth-Steel</span>
+    <span class="cast-card-character">Debbie</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3063466.jpg" alt="Stacy Abalogun" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Stacy Abalogun</span>
+    <span class="cast-card-character">Ace</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3640536.jpg" alt="Izzy Neish" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Izzy Neish</span>
+    <span class="cast-card-character">Abi</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/562183.jpg" alt="Kate Soulsby" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kate Soulsby</span>
+    <span class="cast-card-character">Joni</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2969577.jpg" alt="Lainey Shaw" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lainey Shaw</span>
+    <span class="cast-card-character">Paula</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

@@ -48,10 +48,64 @@ description: "Various individuals think they’re coming together for a party in
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/1276.jpg" alt="Patricia Clarkson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Patricia Clarkson</span>
+    <span class="cast-card-character">April</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1956.jpg" alt="Cherry Jones" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Cherry Jones</span>
+    <span class="cast-card-character">Martha</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5470.jpg" alt="Kristin Scott Thomas" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kristin Scott Thomas</span>
+    <span class="cast-card-character">Janet</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2310.jpg" alt="Bruno Ganz" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Bruno Ganz</span>
+    <span class="cast-card-character">Godfried</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/9191.jpg" alt="Timothy Spall" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Timothy Spall</span>
+    <span class="cast-card-character">Bill</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1246.jpg" alt="Emily Mortimer" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Emily Mortimer</span>
+    <span class="cast-card-character">Jinny</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2037.jpg" alt="Cillian Murphy" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Cillian Murphy</span>
+    <span class="cast-card-character">Tom</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

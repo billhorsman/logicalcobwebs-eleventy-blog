@@ -48,10 +48,99 @@ description: "As the railroad builders advance unstoppably through the Arizona d
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/4959.jpg" alt="Claudia Cardinale" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Claudia Cardinale</span>
+    <span class="cast-card-character">Jill</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4958.jpg" alt="Henry Fonda" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Henry Fonda</span>
+    <span class="cast-card-character">Frank</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4765.jpg" alt="Jason Robards" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jason Robards</span>
+    <span class="cast-card-character">'Cheyenne'</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4960.jpg" alt="Charles Bronson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Charles Bronson</span>
+    <span class="cast-card-character">'Harmonica'</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4961.jpg" alt="Gabriele Ferzetti" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gabriele Ferzetti</span>
+    <span class="cast-card-character">Morton</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4962.jpg" alt="Paolo Stoppa" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Paolo Stoppa</span>
+    <span class="cast-card-character">Sam</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4963.jpg" alt="Woody Strode" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Woody Strode</span>
+    <span class="cast-card-character">Frank's Gunman</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4965.jpg" alt="Jack Elam" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jack Elam</span>
+    <span class="cast-card-character">Frank's Gunman</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4966.jpg" alt="Keenan Wynn" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Keenan Wynn</span>
+    <span class="cast-card-character">Sheriff</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4968.jpg" alt="Frank Wolff" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Frank Wolff</span>
+    <span class="cast-card-character">Brett McBain</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4969.jpg" alt="Lionel Stander" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lionel Stander</span>
+    <span class="cast-card-character">Innkeeper</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/72888.jpg" alt="Frank Braña" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Frank Braña</span>
+    <span class="cast-card-character">Frank's Gunman (uncredited)</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

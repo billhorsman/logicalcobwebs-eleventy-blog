@@ -1,108 +1,171 @@
 article.film {
-  margin: 3rem auto 0;
+	margin: 3rem auto 0;
 
-  & .backdrop-and-poster {    
-    margin-bottom: 4rem;
-    position: relative;
-  }
+	& .backdrop-and-poster {
+		margin-bottom: 4rem;
+		position: relative;
+	}
 
-  & img.poster {
-    margin: 0 auto;
-    max-width: 100px;
-    filter: grayscale(100%) ;
-    position: absolute;
-      bottom: -2rem;
-      left: -1rem;
-    transform: rotate(-10deg);
-  }
+	& img.poster {
+		margin: 0 auto;
+		max-width: 100px;
+		filter: grayscale(100%);
+		position: absolute;
+		bottom: -2rem;
+		left: -1rem;
+		transform: rotate(-10deg);
+	}
 
-  &.slug-24-hour-party-people-2002,
-  &.slug-black-hawk-down-2001,
-  &.slug-cest-la-vie-2017,
-  &.slug-its-a-wonderful-life-1946,
-  &.slug-local-hero-1983,
-  &.slug-parasite-2019,
-  &.slug-the-big-lebowski-1998,
-  &.slug-the-french-dispatch-2021,
-  &.slug-the-party-2017 {
-    img.poster {
-      left: auto;
-      right: -1rem;
-      transform: rotate(10deg);
-    }
-  }
+	&.slug-24-hour-party-people-2002,
+	&.slug-black-hawk-down-2001,
+	&.slug-cest-la-vie-2017,
+	&.slug-its-a-wonderful-life-1946,
+	&.slug-local-hero-1983,
+	&.slug-parasite-2019,
+	&.slug-the-big-lebowski-1998,
+	&.slug-the-french-dispatch-2021,
+	&.slug-the-party-2017 {
+		img.poster {
+			left: auto;
+			right: -1rem;
+			transform: rotate(10deg);
+		}
+	}
 
-  &.slug-fantastic-mr-fox-2009,
-  &.slug-the-handmaiden-2016 {
-    img.poster {
-      bottom: auto;
-      top: -2rem;
-      transform: rotate(10deg);
-    }
-  }
+	&.slug-fantastic-mr-fox-2009,
+	&.slug-the-handmaiden-2016 {
+		img.poster {
+			bottom: auto;
+			top: -2rem;
+			transform: rotate(10deg);
+		}
+	}
 
-  & blockquote + blockquote {
-    margin-top: 3rem;
-  }
+	& blockquote + blockquote {
+		margin-top: 3rem;
+	}
 
-  & .director {
-    font-size: 1.25rem;
-  }
+	& .director {
+		font-size: 1.25rem;
+	}
 
-  & h2 {
-    font-size: 1.25rem;
-  }
+	& h2 {
+		font-size: 1.25rem;
+	}
 
-  & ul {
-    list-style-type: "";
-    padding: 0 0 0 1rem;
+	& ul {
+		list-style-type: "";
+		padding: 0 0 0 1rem;
 
-    & li {
-      padding: 0.25rem 0;
-    }
-  }
+		& li {
+			padding: 0.25rem 0;
+		}
+	}
 }
 
 section.ticket-stub {
-  margin: 6rem 0;
-  text-align: center;
-  transform: rotate(-3deg);
-  
-  & a {
-    display: block;
-    margin: 0 auto;
-    max-width: 300px;
-    position: relative;
-  }
+	margin: 6rem 0;
+	text-align: center;
+	transform: rotate(-3deg);
 
-  & span {
-    color: red;
-    display: block;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 2rem;
-    font-weight: bold;
-    transform: rotate(-90deg);
-    position: absolute;
-    bottom: 0;
-    left: 44px;
-    top: 0;
-    z-index: 1;
-  }
+	& a {
+		display: block;
+		margin: 0 auto;
+		max-width: 300px;
+		position: relative;
+	}
 
-  & img {
-    border-radius: 4px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
+	& span {
+		color: red;
+		display: block;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 2rem;
+		font-weight: bold;
+		transform: rotate(-90deg);
+		position: absolute;
+		bottom: 0;
+		left: 44px;
+		top: 0;
+		z-index: 1;
+	}
+
+	& img {
+		border-radius: 4px;
+		box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	}
+}
+
+section.cast-grid {
+	margin: 2rem 0;
+
+	& h2 {
+		margin-bottom: 1rem;
+	}
+
+	& .cast-grid-cards {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 1rem;
+
+		@media (min-width: 480px) {
+			grid-template-columns: repeat(3, 1fr);
+		}
+
+		@media (min-width: 768px) {
+			grid-template-columns: repeat(4, 1fr);
+		}
+	}
+
+	& .cast-card {
+		text-align: center;
+		overflow: hidden;
+
+		& img {
+			width: 100%;
+			aspect-ratio: 2 / 3;
+			object-fit: cover;
+			border-radius: 4px;
+		}
+
+		& .cast-card-no-image {
+			width: 100%;
+			aspect-ratio: 2 / 3;
+			border-radius: 4px;
+			background: light-dark(oklch(90% 0 0), oklch(25% 0 0));
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 2rem;
+			color: light-dark(oklch(70% 0 0), oklch(45% 0 0));
+		}
+
+		& .cast-card-info {
+			display: flex;
+			flex-direction: column;
+			line-height: 1rem;
+		}
+
+		& .cast-card-name {
+			font-weight: bold;
+			font-size: 0.875rem;
+		}
+
+		& .cast-card-character {
+			font-size: 0.75rem;
+			font-style: italic;
+			color: light-dark(oklch(40% 0 0), oklch(65% 0 0));
+		}
+	}
 }
 
 section.related-films {
-  margin-top: 2rem;
+	margin-top: 2rem;
 
-  & h2 {
-    margin-bottom: 0;
-  }
+	& h2 {
+		margin-bottom: 0;
+	}
 
-  & ul {
-    margin-top: 0;
-  }
+	& ul {
+		margin-top: 0;
+	}
 }

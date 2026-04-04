@@ -48,10 +48,99 @@ description: "Léon, the top hit man in New York, has earned a rep as an effecti
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/1003.jpg" alt="Jean Reno" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean Reno</span>
+    <span class="cast-card-character">Léon Montana</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/524.jpg" alt="Natalie Portman" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Natalie Portman</span>
+    <span class="cast-card-character">Mathilda Lando</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/64.jpg" alt="Gary Oldman" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gary Oldman</span>
+    <span class="cast-card-character">Norman Stansfield</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1004.jpg" alt="Danny Aiello" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Danny Aiello</span>
+    <span class="cast-card-character">Tony</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1005.jpg" alt="Peter Appel" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Peter Appel</span>
+    <span class="cast-card-character">Malky</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1010.jpg" alt="Michael Badalucco" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Michael Badalucco</span>
+    <span class="cast-card-character">Mathilda's Father</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/13420.jpg" alt="Ellen Greene" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ellen Greene</span>
+    <span class="cast-card-character">Mathilda's Mother</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/122230.jpg" alt="Elizabeth Regen" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Elizabeth Regen</span>
+    <span class="cast-card-character">Mathilda's Sister</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/977543.jpg" alt="Carl J. Matusovich" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Carl J. Matusovich</span>
+    <span class="cast-card-character">Mathilda's Brother</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1171233.jpg" alt="Eric Challier" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Eric Challier</span>
+    <span class="cast-card-character">Bodyguard Chief</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1006.jpg" alt="Willi One Blood" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Willi One Blood</span>
+    <span class="cast-card-character">1st Stansfield Man</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1007.jpg" alt="Don Creech" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Don Creech</span>
+    <span class="cast-card-character">2nd Stansfield man</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

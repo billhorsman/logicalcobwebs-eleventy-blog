@@ -48,10 +48,99 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/3810.jpg" alt="Javier Bardem" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Javier Bardem</span>
+    <span class="cast-card-character">Anton Chigurh</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2176.jpg" alt="Tommy Lee Jones" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tommy Lee Jones</span>
+    <span class="cast-card-character">Ed Tom Bell</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/16851.jpg" alt="Josh Brolin" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Josh Brolin</span>
+    <span class="cast-card-character">Llewelyn Moss</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/57755.jpg" alt="Woody Harrelson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Woody Harrelson</span>
+    <span class="cast-card-character">Carson Wells</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/9015.jpg" alt="Kelly Macdonald" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kelly Macdonald</span>
+    <span class="cast-card-character">Carla Jean Moss</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/39520.jpg" alt="Garret Dillahunt" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Garret Dillahunt</span>
+    <span class="cast-card-character">Wendell</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/41249.jpg" alt="Tess Harper" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tess Harper</span>
+    <span class="cast-card-character">Loretta Bell</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/12852.jpg" alt="Barry Corbin" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Barry Corbin</span>
+    <span class="cast-card-character">Ellis</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/17401.jpg" alt="Stephen Root" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Stephen Root</span>
+    <span class="cast-card-character">Man Who Hires Wells</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/51732.jpg" alt="Rodger Boyce" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Rodger Boyce</span>
+    <span class="cast-card-character">El Paso Sheriff</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5151.jpg" alt="Beth Grant" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Beth Grant</span>
+    <span class="cast-card-character">Carla Jean's Mother</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/51733.jpg" alt="Ana Reeder" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ana Reeder</span>
+    <span class="cast-card-character">Poolside Woman</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

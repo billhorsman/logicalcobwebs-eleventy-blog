@@ -48,10 +48,99 @@ description: "When Patrizia Reggiani, an outsider from humble beginnings, marrie
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/237405.jpg" alt="Lady Gaga" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lady Gaga</span>
+    <span class="cast-card-character">Patrizia Reggiani</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1023139.jpg" alt="Adam Driver" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Adam Driver</span>
+    <span class="cast-card-character">Maurizio Gucci</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1158.jpg" alt="Al Pacino" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Al Pacino</span>
+    <span class="cast-card-character">Aldo Gucci</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/16940.jpg" alt="Jeremy Irons" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jeremy Irons</span>
+    <span class="cast-card-character">Rodolfo Gucci</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7499.jpg" alt="Jared Leto" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jared Leto</span>
+    <span class="cast-card-character">Paolo Gucci</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/54738.jpg" alt="Jack Huston" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jack Huston</span>
+    <span class="cast-card-character">Domenico De Sole</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3136.jpg" alt="Salma Hayek Pinault" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Salma Hayek Pinault</span>
+    <span class="cast-card-character">Pina Auriemma</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/124682.jpg" alt="Alexia Murray" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Alexia Murray</span>
+    <span class="cast-card-character">Silvana Reggiani</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/26669.jpg" alt="Vincent Riotta" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Vincent Riotta</span>
+    <span class="cast-card-character">Fernando Reggiani</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/35103.jpg" alt="Gaetano Bruno" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gaetano Bruno</span>
+    <span class="cast-card-character">Franco</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1348474.jpg" alt="Camille Cottin" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Camille Cottin</span>
+    <span class="cast-card-character">Paola Franchi</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1264979.jpg" alt="Youssef Kerkour" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Youssef Kerkour</span>
+    <span class="cast-card-character">Nemir Kirdar</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

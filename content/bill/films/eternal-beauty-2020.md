@@ -48,10 +48,99 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/39658.jpg" alt="Sally Hawkins" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sally Hawkins</span>
+    <span class="cast-card-character">Jane</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/11207.jpg" alt="David Thewlis" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">David Thewlis</span>
+    <span class="cast-card-character">Mike</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/182327.jpg" alt="Alice Lowe" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Alice Lowe</span>
+    <span class="cast-card-character">Alice</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/26076.jpg" alt="Billie Piper" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Billie Piper</span>
+    <span class="cast-card-character">Nicola</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1249.jpg" alt="Penelope Wilton" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Penelope Wilton</span>
+    <span class="cast-card-character">Vivian</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/47643.jpg" alt="Robert Pugh" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Robert Pugh</span>
+    <span class="cast-card-character">Dennis</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1954399.jpg" alt="Banita Sandhu" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Banita Sandhu</span>
+    <span class="cast-card-character">Alex</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/134466.jpg" alt="Paul Hilton" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Paul Hilton</span>
+    <span class="cast-card-character">Tony</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1321628.jpg" alt="Morfydd Clark" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Morfydd Clark</span>
+    <span class="cast-card-character">Young Jane</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2758853.jpg" alt="Natalie O'Neill" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Natalie O'Neill</span>
+    <span class="cast-card-character">Young Nicola</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Elysia Welch</span>
+    <span class="cast-card-character">Young Alice</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Boyd Clack</span>
+    <span class="cast-card-character">Doctor</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

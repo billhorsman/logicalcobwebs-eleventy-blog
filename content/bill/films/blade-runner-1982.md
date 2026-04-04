@@ -48,10 +48,99 @@ description: "In the smog-choked dystopian Los Angeles of 2019, blade runner Ric
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/3.jpg" alt="Harrison Ford" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Harrison Ford</span>
+    <span class="cast-card-character">Deckard</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/585.jpg" alt="Rutger Hauer" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Rutger Hauer</span>
+    <span class="cast-card-character">Batty</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/586.jpg" alt="Sean Young" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sean Young</span>
+    <span class="cast-card-character">Rachael</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/587.jpg" alt="Edward James Olmos" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Edward James Olmos</span>
+    <span class="cast-card-character">Gaff</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/588.jpg" alt="M. Emmet Walsh" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">M. Emmet Walsh</span>
+    <span class="cast-card-character">Bryant</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/589.jpg" alt="Daryl Hannah" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Daryl Hannah</span>
+    <span class="cast-card-character">Pris</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/590.jpg" alt="William Sanderson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">William Sanderson</span>
+    <span class="cast-card-character">Sebastian</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/591.jpg" alt="Brion James" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Brion James</span>
+    <span class="cast-card-character">Leon</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/592.jpg" alt="Joe Turkel" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Joe Turkel</span>
+    <span class="cast-card-character">Tyrell</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/593.jpg" alt="Joanna Cassidy" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Joanna Cassidy</span>
+    <span class="cast-card-character">Zhora</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/20904.jpg" alt="James Hong" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">James Hong</span>
+    <span class="cast-card-character">Chew</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/58495.jpg" alt="Morgan Paull" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Morgan Paull</span>
+    <span class="cast-card-character">Holden</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

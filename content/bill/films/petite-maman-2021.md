@@ -48,10 +48,71 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/2973328.jpg" alt="Joséphine Sanz" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Joséphine Sanz</span>
+    <span class="cast-card-character">Nelly</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2973329.jpg" alt="Gabrielle Sanz" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gabrielle Sanz</span>
+    <span class="cast-card-character">Marion</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/144763.jpg" alt="Nina Meurisse" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Nina Meurisse</span>
+    <span class="cast-card-character">La mère</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1639988.jpg" alt="Stéphane Varupenne" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Stéphane Varupenne</span>
+    <span class="cast-card-character">Le père</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/113605.jpg" alt="Margot Abascal" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Margot Abascal</span>
+    <span class="cast-card-character">La grand-mère</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Florès Cardo</span>
+    <span class="cast-card-character">Dame maison de retraite</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Josée Schuller</span>
+    <span class="cast-card-character">Dame maison de retraite</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/583565.jpg" alt="Guylène Péan" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Guylène Péan</span>
+    <span class="cast-card-character">Dame maison de retraite</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

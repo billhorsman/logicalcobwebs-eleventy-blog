@@ -48,10 +48,57 @@ description: "One night in his near-empty tower block in contemporary London, Ad
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/125660.jpg" alt="Andrew Scott" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Andrew Scott</span>
+    <span class="cast-card-character">Adam</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2326151.jpg" alt="Paul Mescal" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Paul Mescal</span>
+    <span class="cast-card-character">Harry</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Carter John Grout</span>
+    <span class="cast-card-character">Young Adam</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/478.jpg" alt="Jamie Bell" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jamie Bell</span>
+    <span class="cast-card-character">Dad</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/120932.jpg" alt="Claire Foy" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Claire Foy</span>
+    <span class="cast-card-character">Mum</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3893524.jpg" alt="Ami Tredrea" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ami Tredrea</span>
+    <span class="cast-card-character">Waitress</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

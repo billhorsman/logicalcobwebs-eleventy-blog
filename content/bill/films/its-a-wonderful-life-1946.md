@@ -48,10 +48,99 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/854.jpg" alt="James Stewart" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">James Stewart</span>
+    <span class="cast-card-character">George Bailey</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/17752.jpg" alt="Donna Reed" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Donna Reed</span>
+    <span class="cast-card-character">Mary Hatch</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/17753.jpg" alt="Lionel Barrymore" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lionel Barrymore</span>
+    <span class="cast-card-character">Mr. Potter</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3383.jpg" alt="Thomas Mitchell" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Thomas Mitchell</span>
+    <span class="cast-card-character">Uncle Billy</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7666.jpg" alt="Henry Travers" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Henry Travers</span>
+    <span class="cast-card-character">Clarence</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/17755.jpg" alt="Beulah Bondi" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Beulah Bondi</span>
+    <span class="cast-card-character">Mrs. Bailey</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/17759.jpg" alt="Frank Faylen" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Frank Faylen</span>
+    <span class="cast-card-character">Ernie</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4303.jpg" alt="Ward Bond" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ward Bond</span>
+    <span class="cast-card-character">Bert</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/77081.jpg" alt="Gloria Grahame" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gloria Grahame</span>
+    <span class="cast-card-character">Violet</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/33278.jpg" alt="H.B. Warner" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">H.B. Warner</span>
+    <span class="cast-card-character">Mr. Gower</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/78902.jpg" alt="Frank Albertson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Frank Albertson</span>
+    <span class="cast-card-character">Sam Wainwright</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Todd Karns</span>
+    <span class="cast-card-character">Harry Bailey</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

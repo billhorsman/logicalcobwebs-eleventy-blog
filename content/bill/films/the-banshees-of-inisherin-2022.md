@@ -48,10 +48,99 @@ description: "Two lifelong friends find themselves at an impasse when one abrupt
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/72466.jpg" alt="Colin Farrell" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Colin Farrell</span>
+    <span class="cast-card-character">Pádraic Súilleabháin</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2039.jpg" alt="Brendan Gleeson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Brendan Gleeson</span>
+    <span class="cast-card-character">Colm Doherty</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/62105.jpg" alt="Kerry Condon" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kerry Condon</span>
+    <span class="cast-card-character">Siobhán Súilleabháin</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1290466.jpg" alt="Barry Keoghan" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Barry Keoghan</span>
+    <span class="cast-card-character">Dominic Kearney</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/93209.jpg" alt="Gary Lydon" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gary Lydon</span>
+    <span class="cast-card-character">Peadar Kearney</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/83278.jpg" alt="Pat Shortt" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Pat Shortt</span>
+    <span class="cast-card-character">Jonjo Devine</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1597386.jpg" alt="Sheila Flitton" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sheila Flitton</span>
+    <span class="cast-card-character">Mrs. McCormick</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1907071.jpg" alt="Bríd Ní Neachtain" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Bríd Ní Neachtain</span>
+    <span class="cast-card-character">Mrs. O'Riordan</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/37169.jpg" alt="Jon Kenny" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jon Kenny</span>
+    <span class="cast-card-character">Gerry</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/210061.jpg" alt="Aaron Monaghan" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Aaron Monaghan</span>
+    <span class="cast-card-character">Declan</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1122014.jpg" alt="David Pearse" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">David Pearse</span>
+    <span class="cast-card-character">Priest</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">John Carty</span>
+    <span class="cast-card-character">Older Musician 1</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

@@ -48,10 +48,99 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/5676.jpg" alt="Marcello Mastroianni" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Marcello Mastroianni</span>
+    <span class="cast-card-character">Marcello Rubini</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5961.jpg" alt="Anita Ekberg" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Anita Ekberg</span>
+    <span class="cast-card-character">Sylvia</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5682.jpg" alt="Anouk Aimée" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Anouk Aimée</span>
+    <span class="cast-card-character">Maddalena</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5962.jpg" alt="Yvonne Furneaux" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Yvonne Furneaux</span>
+    <span class="cast-card-character">Emma</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5963.jpg" alt="Magali Noël" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Magali Noël</span>
+    <span class="cast-card-character">Fanny</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5964.jpg" alt="Alain Cuny" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Alain Cuny</span>
+    <span class="cast-card-character">Steiner</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5965.jpg" alt="Annibale Ninchi" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Annibale Ninchi</span>
+    <span class="cast-card-character">Marcello's father</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5966.jpg" alt="Walter Santesso" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Walter Santesso</span>
+    <span class="cast-card-character">Paparazzo</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5967.jpg" alt="Valeria Ciangottini" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Valeria Ciangottini</span>
+    <span class="cast-card-character">Paola</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5968.jpg" alt="Riccardo Garrone" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Riccardo Garrone</span>
+    <span class="cast-card-character">Riccardo</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5969.jpg" alt="Ida Galli" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ida Galli</span>
+    <span class="cast-card-character">Debutante of the year</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1736893.jpg" alt="Audrey McDonald" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Audrey McDonald</span>
+    <span class="cast-card-character">Jane</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

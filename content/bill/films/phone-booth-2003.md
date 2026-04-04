@@ -48,10 +48,99 @@ description: "A slick New York publicist who picks up a ringing receiver in a ph
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/72466.jpg" alt="Colin Farrell" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Colin Farrell</span>
+    <span class="cast-card-character">Stu Shepard</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2628.jpg" alt="Kiefer Sutherland" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kiefer Sutherland</span>
+    <span class="cast-card-character">The Caller</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2178.jpg" alt="Forest Whitaker" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Forest Whitaker</span>
+    <span class="cast-card-character">Captain Ramey</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/8329.jpg" alt="Radha Mitchell" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Radha Mitchell</span>
+    <span class="cast-card-character">Kelly Shepard</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3897.jpg" alt="Katie Holmes" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Katie Holmes</span>
+    <span class="cast-card-character">Pamela McFadden</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/45245.jpg" alt="Paula Jai Parker" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Paula Jai Parker</span>
+    <span class="cast-card-character">Felicia</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/174223.jpg" alt="Arian Ash" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Arian Ash</span>
+    <span class="cast-card-character">Corky</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/68430.jpg" alt="Tia Texada" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tia Texada</span>
+    <span class="cast-card-character">Asia</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/42557.jpg" alt="John Enos III" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">John Enos III</span>
+    <span class="cast-card-character">Leon</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/55755.jpg" alt="Richard T. Jones" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Richard T. Jones</span>
+    <span class="cast-card-character">Sergeant Cole</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/120255.jpg" alt="Keith Nobbs" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Keith Nobbs</span>
+    <span class="cast-card-character">Adam</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/149526.jpg" alt="Dell Yount" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Dell Yount</span>
+    <span class="cast-card-character">Pizza Guy</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

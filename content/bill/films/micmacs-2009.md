@@ -48,10 +48,99 @@ description: "While standing in the doorway of the video shop where he works, Ba
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/37627.jpg" alt="Dany Boon" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Dany Boon</span>
+    <span class="cast-card-character">Bazil</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2413.jpg" alt="Dominique Pinon" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Dominique Pinon</span>
+    <span class="cast-card-character">Fracasse</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/18177.jpg" alt="André Dussollier" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">André Dussollier</span>
+    <span class="cast-card-character">Nicolas Thibault De Fenouillet</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/20795.jpg" alt="Jean-Pierre Marielle" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean-Pierre Marielle</span>
+    <span class="cast-card-character">Placard</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/54292.jpg" alt="Julie Ferrier" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Julie Ferrier</span>
+    <span class="cast-card-character">Rubber Kid</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2415.jpg" alt="Yolande Moreau" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Yolande Moreau</span>
+    <span class="cast-card-character">Tambouille</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/99303.jpg" alt="Michel Crémadès" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Michel Crémadès</span>
+    <span class="cast-card-character">Petit Pierre</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/78421.jpg" alt="Nicolas Marié" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Nicolas Marié</span>
+    <span class="cast-card-character">François Marconi</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/78423.jpg" alt="Omar Sy" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Omar Sy</span>
+    <span class="cast-card-character">Remington</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/99304.jpg" alt="Marie-Julie Baup" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Marie-Julie Baup</span>
+    <span class="cast-card-character">Calculette</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/226024.jpg" alt="Philippe Girard" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Philippe Girard</span>
+    <span class="cast-card-character">Gravier</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1805664.jpg" alt="Thérèse Roussel" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Thérèse Roussel</span>
+    <span class="cast-card-character">Old Lady in Bed</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

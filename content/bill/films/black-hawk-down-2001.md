@@ -48,10 +48,99 @@ description: "When U.S. Rangers and an elite Delta Force team attempt to kidnap 
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/2299.jpg" alt="Josh Hartnett" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Josh Hartnett</span>
+    <span class="cast-card-character">SSG Matthew Eversmann</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/8783.jpg" alt="Eric Bana" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Eric Bana</span>
+    <span class="cast-card-character">SFC Norm 'Hoot' Gibson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3061.jpg" alt="Ewan McGregor" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ewan McGregor</span>
+    <span class="cast-card-character">SPC John Grimes</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3197.jpg" alt="Tom Sizemore" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tom Sizemore</span>
+    <span class="cast-card-character">LTC Danny McKnight</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/886.jpg" alt="William Fichtner" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">William Fichtner</span>
+    <span class="cast-card-character">SFC Jeff Sanderson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/9880.jpg" alt="Sam Shepard" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sam Shepard</span>
+    <span class="cast-card-character">MG William F. Garrison</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/11355.jpg" alt="Jason Isaacs" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jason Isaacs</span>
+    <span class="cast-card-character">CPT Mike Steele</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1125.jpg" alt="Ewen Bremner" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ewen Bremner</span>
+    <span class="cast-card-character">SPC Shawn Nelson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/114.jpg" alt="Orlando Bloom" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Orlando Bloom</span>
+    <span class="cast-card-character">PFC Todd Blackburn</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2524.jpg" alt="Tom Hardy" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tom Hardy</span>
+    <span class="cast-card-character">SPC Lance Twombly</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/12790.jpg" alt="Charlie Hofheimer" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Charlie Hofheimer</span>
+    <span class="cast-card-character">CPL James 'Jamie' Smith</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/12791.jpg" alt="Hugh Dancy" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Hugh Dancy</span>
+    <span class="cast-card-character">SFC Kurt 'Doc' Schmid</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

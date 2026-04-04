@@ -48,10 +48,99 @@ description: "A wheelchair-bound photographer spies on his neighbors from his ap
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/854.jpg" alt="James Stewart" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">James Stewart</span>
+    <span class="cast-card-character">L.B. 'Jeff' Jefferies</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4070.jpg" alt="Grace Kelly" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Grace Kelly</span>
+    <span class="cast-card-character">Lisa Fremont</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7683.jpg" alt="Wendell Corey" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Wendell Corey</span>
+    <span class="cast-card-character">Det. Lt. Thomas J. Doyle</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7684.jpg" alt="Thelma Ritter" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Thelma Ritter</span>
+    <span class="cast-card-character">Stella</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7685.jpg" alt="Raymond Burr" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Raymond Burr</span>
+    <span class="cast-card-character">Lars Thorwald</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7686.jpg" alt="Judith Evelyn" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Judith Evelyn</span>
+    <span class="cast-card-character">Miss Lonelyhearts</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/49906.jpg" alt="Ross Bagdasarian" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ross Bagdasarian</span>
+    <span class="cast-card-character">Songwriter</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/161738.jpg" alt="Georgine Darcy" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Georgine Darcy</span>
+    <span class="cast-card-character">Miss Torso</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/121038.jpg" alt="Sara Berner" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sara Berner</span>
+    <span class="cast-card-character">Woman on Fire Escape</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/93622.jpg" alt="Frank Cady" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Frank Cady</span>
+    <span class="cast-card-character">Man on Fire Escape</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/85846.jpg" alt="Jesslyn Fax" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jesslyn Fax</span>
+    <span class="cast-card-character">Miss Hearing Aid</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Rand Harper</span>
+    <span class="cast-card-character">Newlywed</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

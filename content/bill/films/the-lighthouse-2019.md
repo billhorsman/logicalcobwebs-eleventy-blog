@@ -48,10 +48,78 @@ description: "Two lighthouse keepers try to maintain their sanity while living o
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/11288.jpg" alt="Robert Pattinson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Robert Pattinson</span>
+    <span class="cast-card-character">Thomas Howard</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5293.jpg" alt="Willem Dafoe" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Willem Dafoe</span>
+    <span class="cast-card-character">Thomas Wake</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2309944.jpg" alt="Valeriia Karaman" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Valeriia Karaman</span>
+    <span class="cast-card-character">Mermaid</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2507696.jpg" alt="Logan Hawkes" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Logan Hawkes</span>
+    <span class="cast-card-character">Ephraim Winslow</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2507697.jpg" alt="Kyla Nicolle" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kyla Nicolle</span>
+    <span class="cast-card-character">Woman on the Rocks</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Shaun Clarke</span>
+    <span class="cast-card-character">Departing Wickie</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Pierre Richard</span>
+    <span class="cast-card-character">Departing Assistant Wickie</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Preston Hudson</span>
+    <span class="cast-card-character">Tender Mate</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jeff Cruts</span>
+    <span class="cast-card-character">Tender Mate</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

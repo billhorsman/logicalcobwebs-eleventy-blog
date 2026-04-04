@@ -48,10 +48,99 @@ description: "A woman in her sixties embarks on a journey through the western Un
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/3910.jpg" alt="Frances McDormand" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Frances McDormand</span>
+    <span class="cast-card-character">Fern</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/11064.jpg" alt="David Strathairn" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">David Strathairn</span>
+    <span class="cast-card-character">Dave</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2241214.jpg" alt="Linda May" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Linda May</span>
+    <span class="cast-card-character">Linda</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2776341.jpg" alt="Swankie" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Swankie</span>
+    <span class="cast-card-character">Swankie</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gay DeForest</span>
+    <span class="cast-card-character">Gay</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Patricia Grier</span>
+    <span class="cast-card-character">Patty</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Angela Reyes</span>
+    <span class="cast-card-character">Angela</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Carl R. Hughes</span>
+    <span class="cast-card-character">Carl</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Douglas G. Soul</span>
+    <span class="cast-card-character">Doug</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ryan Aquino</span>
+    <span class="cast-card-character">Ryan</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Teresa Buchanan</span>
+    <span class="cast-card-character">Teresa</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Karie Lynn McDermott Wilder</span>
+    <span class="cast-card-character">Karie</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

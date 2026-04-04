@@ -48,10 +48,99 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/5469.jpg" alt="Ralph Fiennes" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ralph Fiennes</span>
+    <span class="cast-card-character">M. Gustave</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1164.jpg" alt="F. Murray Abraham" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">F. Murray Abraham</span>
+    <span class="cast-card-character">Mr. Moustafa</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/8789.jpg" alt="Mathieu Amalric" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Mathieu Amalric</span>
+    <span class="cast-card-character">Serge X.</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3490.jpg" alt="Adrien Brody" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Adrien Brody</span>
+    <span class="cast-card-character">Dmitri</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5293.jpg" alt="Willem Dafoe" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Willem Dafoe</span>
+    <span class="cast-card-character">Jopling</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4785.jpg" alt="Jeff Goldblum" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jeff Goldblum</span>
+    <span class="cast-card-character">Deputy Kovacs</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1037.jpg" alt="Harvey Keitel" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Harvey Keitel</span>
+    <span class="cast-card-character">Ludwig</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/9642.jpg" alt="Jude Law" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jude Law</span>
+    <span class="cast-card-character">Young Author</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1532.jpg" alt="Bill Murray" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Bill Murray</span>
+    <span class="cast-card-character">M. Ivan</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/819.jpg" alt="Edward Norton" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Edward Norton</span>
+    <span class="cast-card-character">Henckels</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/36592.jpg" alt="Saoirse Ronan" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Saoirse Ronan</span>
+    <span class="cast-card-character">Agatha</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/17881.jpg" alt="Jason Schwartzman" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jason Schwartzman</span>
+    <span class="cast-card-character">M. Jean</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

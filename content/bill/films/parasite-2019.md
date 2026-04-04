@@ -48,10 +48,99 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/20738.jpg" alt="Song Kang-ho" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Song Kang-ho</span>
+    <span class="cast-card-character">Kim Ki-taek</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/115290.jpg" alt="Lee Sun-kyun" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lee Sun-kyun</span>
+    <span class="cast-card-character">Park Dong-ik</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/556435.jpg" alt="Cho Yeo-jeong" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Cho Yeo-jeong</span>
+    <span class="cast-card-character">Yeon-kyo</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1255881.jpg" alt="Choi Woo-shik" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Choi Woo-shik</span>
+    <span class="cast-card-character">Ki-woo</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1442583.jpg" alt="Park So-dam" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Park So-dam</span>
+    <span class="cast-card-character">Ki-jung</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1572354.jpg" alt="Lee Jung-eun" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lee Jung-eun</span>
+    <span class="cast-card-character">Moon-gwang</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2158882.jpg" alt="Jang Hye-jin" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jang Hye-jin</span>
+    <span class="cast-card-character">Chung-sook</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1694435.jpg" alt="Park Myung-hoon" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Park Myung-hoon</span>
+    <span class="cast-card-character">Geun-se</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1418762.jpg" alt="Jung Ji-so" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jung Ji-so</span>
+    <span class="cast-card-character">Da-hye</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2306987.jpg" alt="Jung Hyeon-jun" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jung Hyeon-jun</span>
+    <span class="cast-card-character">Da-song</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1709230.jpg" alt="Park Keun-rok" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Park Keun-rok</span>
+    <span class="cast-card-character">Driver Yoon</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2326809.jpg" alt="Jung Yi-seo" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jung Yi-seo</span>
+    <span class="cast-card-character">Pizza Manager</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

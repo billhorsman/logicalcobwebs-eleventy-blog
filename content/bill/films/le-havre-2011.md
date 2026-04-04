@@ -48,10 +48,99 @@ description: "In the French harbor city of Le Havre, fate throws young African r
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/20853.jpg" alt="André Wilms" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">André Wilms</span>
+    <span class="cast-card-character">Marcel Marx</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5999.jpg" alt="Kati Outinen" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kati Outinen</span>
+    <span class="cast-card-character">Arletty</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/28463.jpg" alt="Jean-Pierre Darroussin" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean-Pierre Darroussin</span>
+    <span class="cast-card-character">Monet</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/569369.jpg" alt="Blondin Miguel" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Blondin Miguel</span>
+    <span class="cast-card-character">Idrissa</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/53507.jpg" alt="Elina Salo" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Elina Salo</span>
+    <span class="cast-card-character">Claire</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/49756.jpg" alt="Evelyne Didi" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Evelyne Didi</span>
+    <span class="cast-card-character">Yvette</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Quoc Dung Nguyen</span>
+    <span class="cast-card-character">Chang</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">François Monnié</span>
+    <span class="cast-card-character">Greengrocer</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Roberto Piazza</span>
+    <span class="cast-card-character">Little Bob</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/548816.jpg" alt="Pierre Étaix" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Pierre Étaix</span>
+    <span class="cast-card-character">Dr. Becker</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1653.jpg" alt="Jean-Pierre Léaud" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean-Pierre Léaud</span>
+    <span class="cast-card-character">The Whistleblower</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Vincent Lebodo</span>
+    <span class="cast-card-character">Francis</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

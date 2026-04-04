@@ -48,10 +48,99 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/5605.jpg" alt="Richard Farnsworth" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Richard Farnsworth</span>
+    <span class="cast-card-character">Alvin</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5606.jpg" alt="Sissy Spacek" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sissy Spacek</span>
+    <span class="cast-card-character">Rose</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5607.jpg" alt="Jane Galloway Heitz" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jane Galloway Heitz</span>
+    <span class="cast-card-character">Dorothy</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Joseph A. Carpenter</span>
+    <span class="cast-card-character">Bud</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Donald Wiegert</span>
+    <span class="cast-card-character">Sig</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5610.jpg" alt="Tracey Maloney" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tracey Maloney</span>
+    <span class="cast-card-character">Nurse</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5611.jpg" alt="Dan Flannery" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Dan Flannery</span>
+    <span class="cast-card-character">Doctor Gibbons</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jennifer Edwards</span>
+    <span class="cast-card-character">Brenda</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ed Grennan</span>
+    <span class="cast-card-character">Pete</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5613.jpg" alt="Jack Walsh" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jack Walsh</span>
+    <span class="cast-card-character">Apple</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gil Pearson</span>
+    <span class="cast-card-character">Bus Driver</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Barbara June Patterson</span>
+    <span class="cast-card-character">Woman on Bus</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

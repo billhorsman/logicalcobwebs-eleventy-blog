@@ -48,10 +48,99 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/28281.jpg" alt="Jean-Pierre Bacri" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean-Pierre Bacri</span>
+    <span class="cast-card-character">Max</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/54291.jpg" alt="Gilles Lellouche" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gilles Lellouche</span>
+    <span class="cast-card-character">James</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/16922.jpg" alt="Jean-Paul Rouve" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean-Paul Rouve</span>
+    <span class="cast-card-character">Guy</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/992623.jpg" alt="Vincent Macaigne" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Vincent Macaigne</span>
+    <span class="cast-card-character">Julien</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/544681.jpg" alt="Alban Ivanov" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Alban Ivanov</span>
+    <span class="cast-card-character">Samy</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/149989.jpg" alt="Eye Haïdara" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Eye Haïdara</span>
+    <span class="cast-card-character">Adèle</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/142689.jpg" alt="Suzanne Clément" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Suzanne Clément</span>
+    <span class="cast-card-character">Josiane</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1141.jpg" alt="Hélène Vincent" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Hélène Vincent</span>
+    <span class="cast-card-character">Pierre's Mother</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1159954.jpg" alt="Benjamin Lavernhe" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Benjamin Lavernhe</span>
+    <span class="cast-card-character">Pierre</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/72946.jpg" alt="Judith Chemla" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Judith Chemla</span>
+    <span class="cast-card-character">Héléna</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/544682.jpg" alt="William Lebghil" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">William Lebghil</span>
+    <span class="cast-card-character">Seb</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1132641.jpg" alt="Kévin Azaïs" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kévin Azaïs</span>
+    <span class="cast-card-character">Patrice</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

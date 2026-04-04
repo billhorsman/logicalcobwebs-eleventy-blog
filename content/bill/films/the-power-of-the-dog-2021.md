@@ -48,10 +48,99 @@ description: "A domineering but charismatic rancher wages a war of intimidation 
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/71580.jpg" alt="Benedict Cumberbatch" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Benedict Cumberbatch</span>
+    <span class="cast-card-character">Phil Burbank</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/113505.jpg" alt="Kodi Smit-McPhee" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kodi Smit-McPhee</span>
+    <span class="cast-card-character">Peter Gordon</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/205.jpg" alt="Kirsten Dunst" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kirsten Dunst</span>
+    <span class="cast-card-character">Rose Gordon</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/88124.jpg" alt="Jesse Plemons" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jesse Plemons</span>
+    <span class="cast-card-character">George Burbank</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1356758.jpg" alt="Thomasin McKenzie" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Thomasin McKenzie</span>
+    <span class="cast-card-character">Lola</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/10760.jpg" alt="Geneviève Lemon" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Geneviève Lemon</span>
+    <span class="cast-card-character">Mrs. Lewis</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/30613.jpg" alt="Keith Carradine" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Keith Carradine</span>
+    <span class="cast-card-character">The Governor</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4432.jpg" alt="Frances Conroy" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Frances Conroy</span>
+    <span class="cast-card-character">Old Lady</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/57904.jpg" alt="Kenneth Radley" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kenneth Radley</span>
+    <span class="cast-card-character">Barkeep</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/962109.jpg" alt="Sean Keenan" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sean Keenan</span>
+    <span class="cast-card-character">Sven</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1399811.jpg" alt="George Mason" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">George Mason</span>
+    <span class="cast-card-character">Cricket</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ramontay McConnell</span>
+    <span class="cast-card-character">Theo</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

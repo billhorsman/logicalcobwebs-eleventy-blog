@@ -48,10 +48,99 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/10297.jpg" alt="Matthew McConaughey" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Matthew McConaughey</span>
+    <span class="cast-card-character">Ron Woodroof</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/9278.jpg" alt="Jennifer Garner" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jennifer Garner</span>
+    <span class="cast-card-character">Eve</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7499.jpg" alt="Jared Leto" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jared Leto</span>
+    <span class="cast-card-character">Rayon</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/81681.jpg" alt="Denis O'Hare" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Denis O'Hare</span>
+    <span class="cast-card-character">Dr. Sevard</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/18324.jpg" alt="Steve Zahn" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Steve Zahn</span>
+    <span class="cast-card-character">Tucker</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/21710.jpg" alt="Michael O'Neill" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Michael O'Neill</span>
+    <span class="cast-card-character">Richard Barkley</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/424.jpg" alt="Dallas Roberts" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Dallas Roberts</span>
+    <span class="cast-card-character">David Wayne</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2171.jpg" alt="Griffin Dunne" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Griffin Dunne</span>
+    <span class="cast-card-character">Dr. Vass</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/114000.jpg" alt="Kevin Rankin" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kevin Rankin</span>
+    <span class="cast-card-character">T.J.</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/230995.jpg" alt="Donna DuPlantier" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Donna DuPlantier</span>
+    <span class="cast-card-character">Nurse Frazin</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/29933.jpg" alt="Deneen Tyler" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Deneen Tyler</span>
+    <span class="cast-card-character">Denise</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/129868.jpg" alt="J.D. Evermore" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">J.D. Evermore</span>
+    <span class="cast-card-character">Clint</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

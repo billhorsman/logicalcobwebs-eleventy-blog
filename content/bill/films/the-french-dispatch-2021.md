@@ -48,10 +48,99 @@ description: "The staff of an American magazine based in France puts out its las
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/1121.jpg" alt="Benicio del Toro" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Benicio del Toro</span>
+    <span class="cast-card-character">Moses Rosenthaler</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3490.jpg" alt="Adrien Brody" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Adrien Brody</span>
+    <span class="cast-card-character">Julian Cadazio</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3063.jpg" alt="Tilda Swinton" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tilda Swinton</span>
+    <span class="cast-card-character">J.K.L. Berensen</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/121529.jpg" alt="Léa Seydoux" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Léa Seydoux</span>
+    <span class="cast-card-character">Simone</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3910.jpg" alt="Frances McDormand" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Frances McDormand</span>
+    <span class="cast-card-character">Lucinda Krementz</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1190668.jpg" alt="Timothée Chalamet" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Timothée Chalamet</span>
+    <span class="cast-card-character">Zeffirelli</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1886168.jpg" alt="Lyna Khoudri" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lyna Khoudri</span>
+    <span class="cast-card-character">Juliette</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2954.jpg" alt="Jeffrey Wright" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jeffrey Wright</span>
+    <span class="cast-card-character">Roebuck Wright</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/8789.jpg" alt="Mathieu Amalric" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Mathieu Amalric</span>
+    <span class="cast-card-character">The Commissaire</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4025.jpg" alt="Steve Park" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Steve Park</span>
+    <span class="cast-card-character">Nescaffier</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1532.jpg" alt="Bill Murray" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Bill Murray</span>
+    <span class="cast-card-character">Arthur Howitzer, Jr.</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/887.jpg" alt="Owen Wilson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Owen Wilson</span>
+    <span class="cast-card-character">Herbsaint Sazerac</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

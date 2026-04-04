@@ -48,10 +48,99 @@ description: "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/378.jpg" alt="Jonathan Pryce" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jonathan Pryce</span>
+    <span class="cast-card-character">Sam Lowry</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/380.jpg" alt="Robert De Niro" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Robert De Niro</span>
+    <span class="cast-card-character">Harry Tuttle</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/381.jpg" alt="Katherine Helmond" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Katherine Helmond</span>
+    <span class="cast-card-character">Mrs. Ida Lowry</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/65.jpg" alt="Ian Holm" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ian Holm</span>
+    <span class="cast-card-character">Mr. Kurtzmann</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/382.jpg" alt="Bob Hoskins" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Bob Hoskins</span>
+    <span class="cast-card-character">Spoor</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/383.jpg" alt="Michael Palin" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Michael Palin</span>
+    <span class="cast-card-character">Jack Lint</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/385.jpg" alt="Ian Richardson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ian Richardson</span>
+    <span class="cast-card-character">Mr. Warrenn</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/386.jpg" alt="Peter Vaughan" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Peter Vaughan</span>
+    <span class="cast-card-character">Mr. Helpmann</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/387.jpg" alt="Kim Greist" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kim Greist</span>
+    <span class="cast-card-character">Jill Layton</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/388.jpg" alt="Jim Broadbent" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jim Broadbent</span>
+    <span class="cast-card-character">Dr. Jaffe</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/97167.jpg" alt="Barbara Hicks" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Barbara Hicks</span>
+    <span class="cast-card-character">Mrs. Alma Terrain</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/374.jpg" alt="Charles McKeown" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Charles McKeown</span>
+    <span class="cast-card-character">Lime</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

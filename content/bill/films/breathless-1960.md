@@ -48,10 +48,99 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/3829.jpg" alt="Jean-Paul Belmondo" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean-Paul Belmondo</span>
+    <span class="cast-card-character">Michel Poiccard / László Kovács</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3830.jpg" alt="Jean Seberg" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean Seberg</span>
+    <span class="cast-card-character">Patricia Franchini</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3573.jpg" alt="Daniel Boulanger" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Daniel Boulanger</span>
+    <span class="cast-card-character">Police Inspector Vital</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3832.jpg" alt="Henri-Jacques Huet" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Henri-Jacques Huet</span>
+    <span class="cast-card-character">Antonio Berrutti</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3836.jpg" alt="Roger Hanin" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Roger Hanin</span>
+    <span class="cast-card-character">Carl Zubart</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3833.jpg" alt="Van Doude" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Van Doude</span>
+    <span class="cast-card-character">American Journalist, Patricia's Friend</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3834.jpg" alt="Claude Mansard" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Claude Mansard</span>
+    <span class="cast-card-character">Claudius Mansard</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/331806.jpg" alt="Liliane Dreyfus" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Liliane Dreyfus</span>
+    <span class="cast-card-character">Liliane / Minouche</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Michel Fabre</span>
+    <span class="cast-card-character">Police Inspector #2</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3831.jpg" alt="Jean-Pierre Melville" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean-Pierre Melville</span>
+    <span class="cast-card-character">Parvulesco the Writer</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3776.jpg" alt="Jean-Luc Godard" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean-Luc Godard</span>
+    <span class="cast-card-character">The Snitch</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3835.jpg" alt="Richard Balducci" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Richard Balducci</span>
+    <span class="cast-card-character">Tolmatchoff</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

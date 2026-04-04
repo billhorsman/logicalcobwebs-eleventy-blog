@@ -48,10 +48,78 @@ description: "Eccentric lottery winner Charles lives alone on a remote island bu
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/134229.jpg" alt="Tom Basden" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tom Basden</span>
+    <span class="cast-card-character">Herb McGwyer</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1016119.jpg" alt="Tim Key" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tim Key</span>
+    <span class="cast-card-character">Charles Heath</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/36662.jpg" alt="Carey Mulligan" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Carey Mulligan</span>
+    <span class="cast-card-character">Nell Mortimer</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1648728.jpg" alt="Sian Clifford" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sian Clifford</span>
+    <span class="cast-card-character">Amanda</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/550396.jpg" alt="Akemnji Ndifornyen" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Akemnji Ndifornyen</span>
+    <span class="cast-card-character">Michael</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Steve Marsh</span>
+    <span class="cast-card-character">Peter</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Luka Downie</span>
+    <span class="cast-card-character">Marcus</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kerrie Thomason</span>
+    <span class="cast-card-character">Marie</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Arron Long</span>
+    <span class="cast-card-character">Tour guide (uncredited)</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

@@ -48,10 +48,99 @@ description: "At the height of the Vietnam war, Captain Benjamin Willard is sent
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/8349.jpg" alt="Martin Sheen" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Martin Sheen</span>
+    <span class="cast-card-character">Captain Benjamin Willard</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3084.jpg" alt="Marlon Brando" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Marlon Brando</span>
+    <span class="cast-card-character">Colonel Walter Kurtz</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/8354.jpg" alt="Albert Hall" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Albert Hall</span>
+    <span class="cast-card-character">Chief Phillips</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/8351.jpg" alt="Frederic Forrest" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Frederic Forrest</span>
+    <span class="cast-card-character">Jay 'Chef' Hicks</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2975.jpg" alt="Laurence Fishburne" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Laurence Fishburne</span>
+    <span class="cast-card-character">Tyrone 'Clean' Miller</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/8350.jpg" alt="Sam Bottoms" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sam Bottoms</span>
+    <span class="cast-card-character">Lance B. Johnson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3087.jpg" alt="Robert Duvall" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Robert Duvall</span>
+    <span class="cast-card-character">Lieutenant Colonel Bill Kilgore</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2778.jpg" alt="Dennis Hopper" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Dennis Hopper</span>
+    <span class="cast-card-character">Photojournalist</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3173.jpg" alt="G. D. Spradlin" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">G. D. Spradlin</span>
+    <span class="cast-card-character">General Corman</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3.jpg" alt="Harrison Ford" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Harrison Ford</span>
+    <span class="cast-card-character">Colonel Lucas</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/8346.jpg" alt="Jerry Ziesmer" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jerry Ziesmer</span>
+    <span class="cast-card-character">Jerry, Civilian</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/349.jpg" alt="Scott Glenn" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Scott Glenn</span>
+    <span class="cast-card-character">Lieutenant Richard M. Colby</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

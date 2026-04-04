@@ -48,10 +48,99 @@ description: "An offbeat observation of refugees waiting to be granted asylum on
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/1739403.jpg" alt="Amir El-Masry" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Amir El-Masry</span>
+    <span class="cast-card-character">Omar</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2151678.jpg" alt="Vikash Bhai" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Vikash Bhai</span>
+    <span class="cast-card-character">Farhad</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2151679.jpg" alt="Ola Orebiyi" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ola Orebiyi</span>
+    <span class="cast-card-character">Wasef</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kwabena Ansah</span>
+    <span class="cast-card-character">Abedi</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/32683.jpg" alt="Sidse Babett Knudsen" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sidse Babett Knudsen</span>
+    <span class="cast-card-character">Helga</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/25087.jpg" alt="Qais Nashif" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Qais Nashif</span>
+    <span class="cast-card-character"></span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/997569.jpg" alt="Kenneth Collard" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kenneth Collard</span>
+    <span class="cast-card-character">Boris</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1216533.jpg" alt="Sanjeev Kohli" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sanjeev Kohli</span>
+    <span class="cast-card-character">Vikram</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2180052.jpg" alt="Cameron Fulton" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Cameron Fulton</span>
+    <span class="cast-card-character">Plug</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2240655.jpg" alt="Lewis Gribben" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lewis Gribben</span>
+    <span class="cast-card-character">Stevie</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1636378.jpg" alt="Grace Chilton" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Grace Chilton</span>
+    <span class="cast-card-character">Margaret</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/16909.jpg" alt="Raymond Mearns" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Raymond Mearns</span>
+    <span class="cast-card-character">Mike</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

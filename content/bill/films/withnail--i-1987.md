@@ -48,10 +48,99 @@ description: "Two out-of-work actors -- the anxious, luckless Marwood and his ac
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/20766.jpg" alt="Richard E. Grant" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Richard E. Grant</span>
+    <span class="cast-card-character">Withnail</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/47654.jpg" alt="Paul McGann" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Paul McGann</span>
+    <span class="cast-card-character">...& I</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/10983.jpg" alt="Richard Griffiths" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Richard Griffiths</span>
+    <span class="cast-card-character">Monty</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/53916.jpg" alt="Ralph Brown" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ralph Brown</span>
+    <span class="cast-card-character">Danny</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1821.jpg" alt="Michael Elphick" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Michael Elphick</span>
+    <span class="cast-card-character">Jake</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/144863.jpg" alt="Daragh O'Malley" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Daragh O'Malley</span>
+    <span class="cast-card-character">Irishman</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Michael Wardle</span>
+    <span class="cast-card-character">Isaac Parkin</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1368909.jpg" alt="Una Brandon-Jones" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Una Brandon-Jones</span>
+    <span class="cast-card-character">Mrs. Parkin</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Noel Johnson</span>
+    <span class="cast-card-character">General</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Irene Sutcliffe</span>
+    <span class="cast-card-character">Waitress</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1221507.jpg" alt="Llewellyn Rees" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Llewellyn Rees</span>
+    <span class="cast-card-character">Tea Shop Proprietor</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Robert Oates</span>
+    <span class="cast-card-character">Policeman 1</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

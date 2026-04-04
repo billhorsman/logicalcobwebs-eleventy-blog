@@ -48,10 +48,99 @@ description: "County Durham, England, 1984. The miners' strike has started and t
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/478.jpg" alt="Jamie Bell" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jamie Bell</span>
+    <span class="cast-card-character">Billy Elliot</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/480.jpg" alt="Gary Lewis" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gary Lewis</span>
+    <span class="cast-card-character">Jackie Elliot</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/477.jpg" alt="Julie Walters" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Julie Walters</span>
+    <span class="cast-card-character">Mrs Wilkinson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/481.jpg" alt="Jean Heywood" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jean Heywood</span>
+    <span class="cast-card-character">Grandma</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/479.jpg" alt="Jamie Draven" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jamie Draven</span>
+    <span class="cast-card-character">Tony Elliot</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/482.jpg" alt="Stuart Wells" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Stuart Wells</span>
+    <span class="cast-card-character">Michael Caffrey</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1241113.jpg" alt="Mike Elliot" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Mike Elliot</span>
+    <span class="cast-card-character">George Watson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3182293.jpg" alt="Billy Fane" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Billy Fane</span>
+    <span class="cast-card-character">Mr Braithwaite</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Nicola Blackwell</span>
+    <span class="cast-card-character">Debbie Wilkinson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Carol McGuigan</span>
+    <span class="cast-card-character">Librarian</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/107381.jpg" alt="Joe Renton" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Joe Renton</span>
+    <span class="cast-card-character">Gary Poulson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Colin MacLachlan</span>
+    <span class="cast-card-character">Mr Tom Wilkinson</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

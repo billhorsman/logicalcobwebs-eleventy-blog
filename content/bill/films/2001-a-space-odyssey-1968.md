@@ -48,10 +48,99 @@ description: "Humanity finds a mysterious object buried beneath the lunar surfac
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/245.jpg" alt="Keir Dullea" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Keir Dullea</span>
+    <span class="cast-card-character">Dr. David Bowman</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/246.jpg" alt="Gary Lockwood" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gary Lockwood</span>
+    <span class="cast-card-character">Dr. Frank Poole</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/247.jpg" alt="William Sylvester" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">William Sylvester</span>
+    <span class="cast-card-character">Dr. Heywood Floyd</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/253.jpg" alt="Douglas Rain" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Douglas Rain</span>
+    <span class="cast-card-character">HAL 9000 (voice)</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/248.jpg" alt="Daniel Richter" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Daniel Richter</span>
+    <span class="cast-card-character">Moonwatcher</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/249.jpg" alt="Leonard Rossiter" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Leonard Rossiter</span>
+    <span class="cast-card-character">Dr. Andrei Smyslov</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/250.jpg" alt="Margaret Tyzack" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Margaret Tyzack</span>
+    <span class="cast-card-character">Elena</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/251.jpg" alt="Robert Beatty" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Robert Beatty</span>
+    <span class="cast-card-character">Dr. Ralph Halvorsen</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/252.jpg" alt="Sean Sullivan" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sean Sullivan</span>
+    <span class="cast-card-character">Dr. Roy Michaels</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Frank W. Miller</span>
+    <span class="cast-card-character">Mission Controller (voice)</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Bill Weston</span>
+    <span class="cast-card-character">Astronaut</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/108277.jpg" alt="Ed Bishop" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ed Bishop</span>
+    <span class="cast-card-character">Aries-1B Lunar Shuttle Captain</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

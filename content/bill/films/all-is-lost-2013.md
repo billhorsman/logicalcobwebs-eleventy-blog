@@ -48,10 +48,22 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/4135.jpg" alt="Robert Redford" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Robert Redford</span>
+    <span class="cast-card-character">Our Man</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

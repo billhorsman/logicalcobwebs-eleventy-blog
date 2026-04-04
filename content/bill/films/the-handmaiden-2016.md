@@ -48,10 +48,99 @@ description: "1930s Korea, in the period of Japanese occupation, a new girl, Soo
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/123664.jpg" alt="Kim Min-hee" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kim Min-hee</span>
+    <span class="cast-card-character">Lady Hideko</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1537768.jpg" alt="Kim Tae-ri" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kim Tae-ri</span>
+    <span class="cast-card-character">Sook-hee</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/75913.jpg" alt="Ha Jung-woo" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Ha Jung-woo</span>
+    <span class="cast-card-character">Count Fujiwara</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/138336.jpg" alt="Cho Jin-woong" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Cho Jin-woong</span>
+    <span class="cast-card-character">Uncle Kouzuki</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/93252.jpg" alt="Kim Hae-sook" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kim Hae-sook</span>
+    <span class="cast-card-character">Ms. Sasaki</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/83122.jpg" alt="Moon So-ri" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Moon So-ri</span>
+    <span class="cast-card-character">Hideko's Aunt</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/557743.jpg" alt="Lee Yong-nyeo" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lee Yong-nyeo</span>
+    <span class="cast-card-character">Bok-soon</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3553480.jpg" alt="Kwak Eun-jin" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Kwak Eun-jin</span>
+    <span class="cast-card-character">Kkeut-dan</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1418580.jpg" alt="Lee Dong-hwi" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Lee Dong-hwi</span>
+    <span class="cast-card-character">Goo-gai</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1993723.jpg" alt="Jo Eun-hyung" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jo Eun-hyung</span>
+    <span class="cast-card-character">Young Hideko</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1379307.jpg" alt="Rina Takagi" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Rina Takagi</span>
+    <span class="cast-card-character">Hideko's Mother</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2124000.jpg" alt="Han Ha-na" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Han Ha-na</span>
+    <span class="cast-card-character">Junko</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

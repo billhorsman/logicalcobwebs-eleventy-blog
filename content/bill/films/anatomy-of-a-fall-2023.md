@@ -48,10 +48,99 @@ description: "A woman is suspected of her husband's murder, and their blind son 
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/7152.jpg" alt="Sandra Hüller" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sandra Hüller</span>
+    <span class="cast-card-character">Sandra Voyter</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/145120.jpg" alt="Swann Arlaud" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Swann Arlaud</span>
+    <span class="cast-card-character">Maître Vincent Renzi</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3302971.jpg" alt="Milo Machado-Graner" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Milo Machado-Graner</span>
+    <span class="cast-card-character">Daniel</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1795152.jpg" alt="Antoine Reinartz" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Antoine Reinartz</span>
+    <span class="cast-card-character">Advocate General</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1312061.jpg" alt="Samuel Theis" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Samuel Theis</span>
+    <span class="cast-card-character">Samuel Maleski</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1029285.jpg" alt="Jehnny Beth" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jehnny Beth</span>
+    <span class="cast-card-character">Marge Berger</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1613123.jpg" alt="Saadia Bentaïeb" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Saadia Bentaïeb</span>
+    <span class="cast-card-character">Maître Nour Boudaoud</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1033745.jpg" alt="Camille Rutherford" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Camille Rutherford</span>
+    <span class="cast-card-character">Zoé Solidor</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2670733.jpg" alt="Anne Rotger" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Anne Rotger</span>
+    <span class="cast-card-character">President of the Court</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/233491.jpg" alt="Sophie Fillières" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Sophie Fillières</span>
+    <span class="cast-card-character">Monica</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Julien Comte</span>
+    <span class="cast-card-character">Forensic Pathologist</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3040614.jpg" alt="Pierre-François Garel" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Pierre-François Garel</span>
+    <span class="cast-card-character">Judge Janvier</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

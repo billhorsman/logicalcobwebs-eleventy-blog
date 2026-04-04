@@ -48,10 +48,99 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/5402.jpg" alt="Giulietta Masina" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Giulietta Masina</span>
+    <span class="cast-card-character">Gelsomina</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5401.jpg" alt="Anthony Quinn" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Anthony Quinn</span>
+    <span class="cast-card-character">Zampanò</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5403.jpg" alt="Richard Basehart" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Richard Basehart</span>
+    <span class="cast-card-character">Il 'Matto'</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5404.jpg" alt="Aldo Silvani" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Aldo Silvani</span>
+    <span class="cast-card-character">Il Signor Giraffa</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5405.jpg" alt="Marcella Rovere" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Marcella Rovere</span>
+    <span class="cast-card-character">La Vedova</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Livia Venturini</span>
+    <span class="cast-card-character">La Suorina</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/240913.jpg" alt="Pietro Ceccarelli" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Pietro Ceccarelli</span>
+    <span class="cast-card-character">Innkeeper (uncredited)</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Giovanna Galli</span>
+    <span class="cast-card-character">Prostitute at the Inn (uncredited)</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Gustavo Giorgi</span>
+    <span class="cast-card-character">(uncredited)</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Yami Kamadeva</span>
+    <span class="cast-card-character">Prostitute (uncredited)</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/5409.jpg" alt="Mario Passante" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Mario Passante</span>
+    <span class="cast-card-character">Waiter (uncredited)</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+  <div class="cast-card-info">
+    <span class="cast-card-name">Anna Primula</span>
+    <span class="cast-card-character">Gelsomina's Mother (uncredited)</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

@@ -48,10 +48,99 @@ description: "A ticking-time-bomb insomniac and a slippery soap salesman channel
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/819.jpg" alt="Edward Norton" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Edward Norton</span>
+    <span class="cast-card-character">Narrator</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/287.jpg" alt="Brad Pitt" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Brad Pitt</span>
+    <span class="cast-card-character">Tyler Durden</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1283.jpg" alt="Helena Bonham Carter" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Helena Bonham Carter</span>
+    <span class="cast-card-character">Marla Singer</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7470.jpg" alt="Meat Loaf" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Meat Loaf</span>
+    <span class="cast-card-character">Robert Paulson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7499.jpg" alt="Jared Leto" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jared Leto</span>
+    <span class="cast-card-character">Angel Face</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7471.jpg" alt="Zach Grenier" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Zach Grenier</span>
+    <span class="cast-card-character">Richard Chesler (Regional Manager)</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7497.jpg" alt="Holt McCallany" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Holt McCallany</span>
+    <span class="cast-card-character">The Mechanic</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7498.jpg" alt="Eion Bailey" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Eion Bailey</span>
+    <span class="cast-card-character">Ricky</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7472.jpg" alt="Richmond Arquette" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Richmond Arquette</span>
+    <span class="cast-card-character">Intern at Hospital</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/7219.jpg" alt="David Andrews" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">David Andrews</span>
+    <span class="cast-card-character">Thomas at Remaining Men Together</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1129738.jpg" alt="George Maguire" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">George Maguire</span>
+    <span class="cast-card-character">Group Leader at Remaining Men Together</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1317693.jpg" alt="Eugenie Bondurant" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Eugenie Bondurant</span>
+    <span class="cast-card-character">Weeping Woman - Onward and Upward</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>

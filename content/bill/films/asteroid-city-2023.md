@@ -48,10 +48,99 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
   </p>
 
   {%- if films.reviews[slug] -%}
-    <blockquote> 
+    <blockquote>
       {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote> 
+    </blockquote>
   {%- endif -%}
+
+  <section class="cast-grid">
+  <div class="cast-grid-cards">
+    <div class="cast-card">
+  <img src="../films/profiles/17881.jpg" alt="Jason Schwartzman" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jason Schwartzman</span>
+    <span class="cast-card-character">Augie Steenbeck</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/1245.jpg" alt="Scarlett Johansson" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Scarlett Johansson</span>
+    <span class="cast-card-character">Midge Campbell</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/31.jpg" alt="Tom Hanks" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tom Hanks</span>
+    <span class="cast-card-character">Stanley Zak</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/2954.jpg" alt="Jeffrey Wright" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Jeffrey Wright</span>
+    <span class="cast-card-character">General Gibson</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3063.jpg" alt="Tilda Swinton" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Tilda Swinton</span>
+    <span class="cast-card-character">Dr. Hickenlooper</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/17419.jpg" alt="Bryan Cranston" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Bryan Cranston</span>
+    <span class="cast-card-character">The Host</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/819.jpg" alt="Edward Norton" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Edward Norton</span>
+    <span class="cast-card-character">Conrad Earp</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/3490.jpg" alt="Adrien Brody" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Adrien Brody</span>
+    <span class="cast-card-character">Schubert Green</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/23626.jpg" alt="Liev Schreiber" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Liev Schreiber</span>
+    <span class="cast-card-character">J.J. Kellogg</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/15250.jpg" alt="Hope Davis" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Hope Davis</span>
+    <span class="cast-card-character">Sandy Borden</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/4025.jpg" alt="Steve Park" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Steve Park</span>
+    <span class="cast-card-character">Roger Cho</span>
+  </div>
+</div>
+    <div class="cast-card">
+  <img src="../films/profiles/36669.jpg" alt="Rupert Friend" loading="lazy">
+  <div class="cast-card-info">
+    <span class="cast-card-name">Rupert Friend</span>
+    <span class="cast-card-character">Montana</span>
+  </div>
+</div>
+  </div>
+</section>
 
   <section class="film-detail">
     <div>
