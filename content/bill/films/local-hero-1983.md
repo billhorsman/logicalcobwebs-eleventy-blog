@@ -13,7 +13,7 @@ description: "An American oil company sends a man to Scotland to buy up an entir
     <a href="../blade-runner-1982"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">22 / 100</a>
+    <a class="simple" href="../">21 / 100</a>
   </div>
   <div class="next">
     <a href="../paris-texas-1984">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

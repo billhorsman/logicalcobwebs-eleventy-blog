@@ -13,7 +13,7 @@ description: "A committed film director struggles to complete his movie while co
     <a href="../the-sting-1973"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">13 / 100</a>
+    <a class="simple" href="../">12 / 100</a>
   </div>
   <div class="next">
     <a href="../dog-day-afternoon-1975">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

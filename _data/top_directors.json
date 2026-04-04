@@ -20,10 +20,6 @@
     "count": 3
   },
   {
-    "name": "Alfred Hitchcock",
-    "count": 2
-  },
-  {
     "name": "Danny Boyle",
     "count": 2
   },
@@ -49,6 +45,10 @@
   },
   {
     "name": "Sam Mendes",
+    "count": 2
+  },
+  {
+    "name": "Wim Wenders",
     "count": 2
   }
 ]

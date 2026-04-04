@@ -13,7 +13,7 @@ description: "Senator Walter Chalmers is aiming to take down mob boss Pete Ross 
     <a href="../2001-a-space-odyssey-1968"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">10 / 100</a>
+    <a class="simple" href="../">9 / 100</a>
   </div>
   <div class="next">
     <a href="../once-upon-a-time-in-the-west-1968">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -87,8 +87,7 @@ description: "Senator Walter Chalmers is aiming to take down mob boss Pete Ross 
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../north-by-northwest-1959">North by Northwest</a> because of Paul Genge</li>
-<li><a href="../day-for-night-1973">Day for Night</a> because of Jacqueline Bisset</li>
+    <li><a href="../day-for-night-1973">Day for Night</a> because of Jacqueline Bisset</li>
 <li><a href="../apocalypse-now-1979">Apocalypse Now</a> because of Robert Duvall</li>
   </ul>
 </section>

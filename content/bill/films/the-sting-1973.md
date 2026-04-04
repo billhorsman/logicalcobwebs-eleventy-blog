@@ -13,7 +13,7 @@ description: "A novice con man teams up with an acknowledged master to avenge th
     <a href="../once-upon-a-time-in-the-west-1968"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">12 / 100</a>
+    <a class="simple" href="../">11 / 100</a>
   </div>
   <div class="next">
     <a href="../day-for-night-1973">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -87,8 +87,7 @@ description: "A novice con man teams up with an acknowledged master to avenge th
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../north-by-northwest-1959">North by Northwest</a> because of Alexander Lockwood and Arthur Tovey</li>
-<li><a href="../in-the-heat-of-the-night-1967">In the Heat of the Night</a> because of Larry D. Mann</li>
+    <li><a href="../in-the-heat-of-the-night-1967">In the Heat of the Night</a> because of Larry D. Mann</li>
 <li><a href="../three-days-of-the-condor-1975">Three Days of the Condor</a> and <a href="../all-is-lost-2013">All Is Lost</a> because of Robert Redford</li>
 <li><a href="../dog-day-afternoon-1975">Dog Day Afternoon</a> because of Charles Durning</li>
   </ul>

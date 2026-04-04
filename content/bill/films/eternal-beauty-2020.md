@@ -13,7 +13,7 @@ description: "When Jane is rejected by life, she spirals into a chaotic, schizop
     <a href="../1917-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">74 / 100</a>
+    <a class="simple" href="../">73 / 100</a>
   </div>
   <div class="next">
     <a href="../limbo-2020">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

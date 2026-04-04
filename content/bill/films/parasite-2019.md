@@ -13,7 +13,7 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
     <a href="../little-women-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">69 / 100</a>
+    <a class="simple" href="../">68 / 100</a>
   </div>
   <div class="next">
     <a href="../portrait-of-a-lady-on-fire-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -87,7 +87,7 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../rear-window-1954">Rear Window</a> and <a href="../north-by-northwest-1959">North by Northwest</a> because of Alfred Hitchcock</li>
+    <li><a href="../rear-window-1954">Rear Window</a> because of Alfred Hitchcock</li>
 <li><a href="../the-handmaiden-2016">The Handmaiden</a> because of Lee Ji-hye and Ahn Seong-bong</li>
   </ul>
 </section>

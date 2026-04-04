@@ -13,7 +13,7 @@ description: "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for thei
     <a href="../no-country-for-old-men-2007"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">49 / 100</a>
+    <a class="simple" href="../">48 / 100</a>
   </div>
   <div class="next">
     <a href="../fantastic-mr-fox-2009">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

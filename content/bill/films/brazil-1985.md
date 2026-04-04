@@ -13,7 +13,7 @@ description: "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-
     <a href="../paris-texas-1984"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">24 / 100</a>
+    <a class="simple" href="../">23 / 100</a>
   </div>
   <div class="next">
     <a href="../withnail--i-1987">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

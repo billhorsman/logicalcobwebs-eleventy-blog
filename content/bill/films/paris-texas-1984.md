@@ -13,7 +13,7 @@ description: "A man wanders out of the desert not knowing who he is. His brother
     <a href="../local-hero-1983"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">23 / 100</a>
+    <a class="simple" href="../">22 / 100</a>
   </div>
   <div class="next">
     <a href="../brazil-1985">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -89,6 +89,7 @@ description: "A man wanders out of the desert not knowing who he is. His brother
   <ul>
     <li><a href="../apocalypse-now-1979">Apocalypse Now</a> because of Aurore Clément</li>
 <li><a href="../the-straight-story-1999">The Straight Story</a> and <a href="../lucky-2017">Lucky</a> because of Harry Dean Stanton</li>
+<li><a href="../perfect-days-2023">Perfect Days</a> because of Wim Wenders</li>
   </ul>
 </section>
 

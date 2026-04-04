@@ -88,7 +88,6 @@ description: "A holiday favourite for generations...  George Bailey has spent hi
   <h2>Related films</h2>
   <ul>
     <li><a href="../rear-window-1954">Rear Window</a> because of James Stewart</li>
-<li><a href="../north-by-northwest-1959">North by Northwest</a> because of Finn Zirzow</li>
   </ul>
 </section>
 

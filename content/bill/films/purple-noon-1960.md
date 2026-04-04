@@ -13,7 +13,7 @@ description: "Tom Ripley is a talented mimic, moocher, forger and all-around cri
     <a href="../la-dolce-vita-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">7 / 100</a>
+    <a class="simple" href="../">6 / 100</a>
   </div>
   <div class="next">
     <a href="../in-the-heat-of-the-night-1967">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>

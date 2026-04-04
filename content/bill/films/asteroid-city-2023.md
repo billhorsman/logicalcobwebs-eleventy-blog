@@ -10,7 +10,7 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
 
 <nav class="films">
   <div class="prev">
-    <a href="../all-of-us-strangers-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../perfect-days-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">96 / 100</a>
@@ -21,7 +21,7 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      All of Us Strangers
+      Perfect Days
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

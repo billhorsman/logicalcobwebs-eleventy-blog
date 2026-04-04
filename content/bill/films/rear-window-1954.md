@@ -16,7 +16,7 @@ description: "A wheelchair-bound photographer spies on his neighbors from his ap
     <a class="simple" href="../">3 / 100</a>
   </div>
   <div class="next">
-    <a href="../north-by-northwest-1959">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../breathless-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "A wheelchair-bound photographer spies on his neighbors from his ap
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      North by Northwest
+      Breathless
     </span>
   </div>
 </nav>
@@ -88,7 +88,6 @@ description: "A wheelchair-bound photographer spies on his neighbors from his ap
   <h2>Related films</h2>
   <ul>
     <li><a href="../its-a-wonderful-life-1946">It's a Wonderful Life</a> because of James Stewart</li>
-<li><a href="../north-by-northwest-1959">North by Northwest</a> because of Jesslyn Fax, Bess Flowers, Len Hendry and Alfred Hitchcock</li>
 <li><a href="../parasite-2019">Parasite</a> because of Alfred Hitchcock</li>
   </ul>
 </section>
