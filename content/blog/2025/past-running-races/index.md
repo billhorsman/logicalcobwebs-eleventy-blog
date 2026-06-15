@@ -107,9 +107,15 @@ I think it's fair to say my time would have been more like 5:05 in normal circum
 
 ### #9 Strathearn 2026
 
-14 June 2026 &hellip; <time date="2026-06-14" days-to-go></time>
+14 June 2026 [5:07:31](https://www.webscorer.com/racealldetails?pid=1&raceid=435960) (aged 59)
 
-I was looking around for another marathon because I left it too late to enter Edinburgh. [Strathearn](https://www.strathearnharriers.org.uk/our-races/strathearn-marathon) looks really nice. Much, much smaller. There's a bit of a hill for the first 5k which is interesting. All in all, 460 metres of ascent.
+I was looking around for another marathon because I left it too late to enter Edinburgh. [Strathearn](https://www.strathearnharriers.org.uk/our-races/strathearn-marathon) was a great choice. Much, much smaller (at 150 people is 1/100th of the size). More hilly with 460 metres of ascent.
+
+I ran with my pal Andy Warden. It was his first marathon so I was there to "pace" him round. I didn't have an delusions about being faster than him, it was more about keeping the pace nice and easy for the first 30km.
+
+It was all very pleasant for the first 4.5 hours but then I started to get too hot and fueling became harder. The last 7km or so were punishing. Relative to me, Andy was cruising to the finish — we kept together even though he could have easily finised a few minutes ahead of me.
+
+I think I have to come back and do this again next year.
 
 ### #10 Dramathon 2026
 
