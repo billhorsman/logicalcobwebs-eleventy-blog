@@ -16,16 +16,17 @@ I look to [Strava](https://www.strava.com/athletes/5349071) as the primary sourc
 
 ## Marathons
 
-I've run two different marathons:
+I've run three different marathons:
 
 - [The Dramathon](https://www.thedramathon.com/) along the river Spey five times
 - [Edinburgh](https://www.edinburghmarathon.com/) three times
+- [Strathearn](https://www.strathearnharriers.org.uk/our-races/strathearn-marathon) once
 
 They are very different races. The Dramathon is mostly on trails and has a few hills, including a big one at halfway and a long, steady climb to the finish. The scenery is beautiful. I think there are about 500 marathon runners so you're never far from someone but it's not crowded. You run past numerous distilleries and are handed about 8 minutures of whisky when you cross the finish line. There are very few spectators.
 
 Edinburgh is all paved, closed roads and over 10,000 marathon runners. Crowded to start with but it soon stretches out. There's a lot of spectator support which is motivating. Starting off in the centre of Edinburgh, through the suburbs and then down and along the coast.
 
-I'm planning a new marathon in 2026 though&hellip;.
+Strathearn is less than 200 runners so much smaller than Edinburgh and even smaller than the Dramathon. It's hilly though, with 460m of ascent. It's run on public, non-closed roads but the traffic is light. Very friendly.
 
 ### ~~Dramathon 2017~~
 
@@ -113,7 +114,7 @@ I was looking around for another marathon because I left it too late to enter Ed
 
 I ran with my pal Andy Warden. It was his first marathon so I was there to "pace" him round. I didn't have an delusions about being faster than him, it was more about keeping the pace nice and easy for the first 30km.
 
-It was all very pleasant for the first 4.5 hours but then I started to get too hot and fueling became harder. The last 7km or so were punishing. Relative to me, Andy was cruising to the finish — we kept together even though he could have easily finised a few minutes ahead of me.
+It was all very pleasant for the first 4.5 hours but then I started to get too hot and fueling became harder. The last 7km or so were punishing. Relative to me, Andy was cruising to the finish — we kept together even though he could have easily finished a few minutes ahead of me.
 
 I think I have to come back and do this again next year.
 
