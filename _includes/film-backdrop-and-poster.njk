@@ -1,6 +1,7 @@
 <article class="film slug-#{film["filmSlug"]}">
   <div class="backdrop-and-poster">
-    <img class="poster" src="/bill/films/posters/{{ filmSlug }}.jpg" alt="">
-    <img class="backdrop" src="/bill/films/backdrops/{{ filmSlug }}.jpg" alt="">
+    {#- eager: WebKit paints lazy-loaded images with a CSS filter as blank -#}
+    <img class="poster" loading="eager" src="/bill/films/posters/{{ filmSlug }}.jpg" alt="">
+    <img class="backdrop" loading="eager" src="/bill/films/backdrops/{{ filmSlug }}.jpg" alt="">
   </div>
 </article>
