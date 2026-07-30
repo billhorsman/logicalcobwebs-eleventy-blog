@@ -23,8 +23,10 @@ Founded in 1994, Logical Cobwebs was a consultancy service for [Bill Horsman](/b
 
 <p>
   This simple website was built using
-  <a href="https://www.11ty.dev/">Eleventy 3.1</a> and deployed on
-  <a href="https://docs.netlify.com">Netlify</a>. The font is based on
+  <a href="https://www.11ty.dev/">Eleventy 4.0.0-alpha.10</a> and deploys to
+  <a href="https://docs.netlify.com/">Netlify</a> every time a change is pushed to
+  <a href="https://github.com/">GitHub</a>. 
+  The font is based on
   <a href="https://modernfontstacks.com">Modern Font Stacks</a>.
 </p>
 
