@@ -12,10 +12,10 @@ and export it:
 export TMDB_API_TOKEN="eyJ..."
 ```
 
-Run from anywhere in the repo:
+Run from the repo root:
 
 ```sh
-go run ./fetch/filmtool <command>
+go run -C fetch/filmtool . <command>
 ```
 
 ## Adding a film for a blog review (not in the top 100)
@@ -23,13 +23,13 @@ go run ./fetch/filmtool <command>
 Either search by title and pick from the matches:
 
 ```sh
-go run ./fetch/filmtool search the last viking
+go run -C fetch/filmtool . search the last viking
 ```
 
 or paste a TMDB id or URL directly:
 
 ```sh
-go run ./fetch/filmtool add https://www.themoviedb.org/movie/1295400-den-sidste-viking
+go run -C fetch/filmtool . add https://www.themoviedb.org/movie/1295400-den-sidste-viking
 ```
 
 Both fetch the film's details and credits into `_data/films/<slug>.json`,
@@ -40,9 +40,9 @@ post scaffold to paste into `content/blog/<year>/<name>/index.md`. The top
 ## Maintaining the top 100
 
 ```sh
-go run ./fetch/filmtool sync       # pull films from the TMDB list (add -force to refetch)
-go run ./fetch/filmtool sort       # order _data/top_films.json by year then title
-go run ./fetch/filmtool generate   # regenerate content/bill/films/*.md and top cast/director data
+go run -C fetch/filmtool . sync       # pull films from the TMDB list (add -force to refetch)
+go run -C fetch/filmtool . sort       # order _data/top_films.json by year then title
+go run -C fetch/filmtool . generate   # regenerate content/bill/films/*.md and top cast/director data
 ```
 
 `generate` reproduces the Ruby output byte-for-byte, so running it after a
