@@ -11,7 +11,7 @@ list_id = 8291691
 list = []
 
 def get_api_response(endpoint:, page: nil, language: "en-US", append_to_response: [])
-  api_key = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3ODk1NmI5NjEzMGU5NmVhZTYwNDNjMDZiYjBjMTliNiIsIm5iZiI6MTcwODUwODMwMS4yNDg5OTk4LCJzdWIiOiI2NWQ1YzQ4ZGYyOWQ2NjAxN2RlOTRmMzgiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.TU6KG5MWHtgbsGRNDG786tlP22TY3y86-Q02sDUUkEs"
+  api_key = ENV.fetch("TMDB_API_TOKEN")
 
   url = URI("https://api.themoviedb.org/3/#{endpoint}?language=#{language}#{"&append_to_response=#{append_to_response.join(",")}" if append_to_response.any?}#{"&page=#{page}" if page}")
 
