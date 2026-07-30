@@ -146,6 +146,7 @@ tags: films
 
 Your review here.
 
+{%% include "cast-grid.njk" %%}
 {%% include "film-detail.njk" %%}
 `, time.Now().Format("2006"), trimYearSuffix(slug, year), title, slug, title, slug, today)
 }
