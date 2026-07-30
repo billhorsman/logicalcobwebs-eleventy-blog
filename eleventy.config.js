@@ -34,6 +34,9 @@ export default async function(eleventyConfig) {
 		.addPassthroughCopy("content/bill/films/backdrops/*.jpg", {
 			mode: "html-relative"
 		})
+		.addPassthroughCopy("content/bill/films/profiles/*.jpg", {
+			mode: "html-relative"
+		})
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
 
 	// Run Eleventy when these files change:
