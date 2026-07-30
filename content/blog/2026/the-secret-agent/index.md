@@ -35,5 +35,6 @@ _Dona Sebastiana's "refugees"_
   </a>
 </section>
 
+{% include "cast-grid.njk" %}
 {% include "film-detail.njk" %}
 {% include "top_films_link.njk" %}

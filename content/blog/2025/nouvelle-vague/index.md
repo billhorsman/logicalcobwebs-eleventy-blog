@@ -33,5 +33,6 @@ There's a good [behind the scenes writeup](https://www.netflix.com/tudum/article
   </a>
 </section>
 
+{% include "cast-grid.njk" %}
 {% include "film-detail.njk" %}
 {% include "top_films_link.njk" %}

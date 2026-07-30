@@ -20,5 +20,6 @@ Qualley's title character, Honey, oozes style and cool. The plot sort of drifts 
 
 Seen at the [DCA](https://www.dca.org.uk/) on 25 September 2025. Go and see it if you can. It's glorious on the big screen.
 
+{% include "cast-grid.njk" %}
 {% include "film-detail.njk" %}
 {% include "top_films_link.njk" %}

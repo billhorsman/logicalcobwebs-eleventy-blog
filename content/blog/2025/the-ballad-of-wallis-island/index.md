@@ -28,5 +28,6 @@ Trying to dry Herb's phone throughout the film was a long running gag. Rice pudd
   </a>
 </section>
 
+{% include "cast-grid.njk" %}
 {% include "film-detail.njk" %}
 {% include "top_films_link.njk" %}

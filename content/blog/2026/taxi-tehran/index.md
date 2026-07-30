@@ -16,5 +16,6 @@ Another cracking film on [Mubi](https://mubi.com/). Not sure if it's called "Tax
 
 I seem to give all my films 5 stars but I think it's because I'm only moved to blog about them if they are brilliant. Into my [top 100](/bill/films/taxi-2015/) at the expense of Peter Sellers' Being There (sorry). Please watch.
 
+{% include "cast-grid.njk" %}
 {% include "film-detail.njk" %}
 {% include "top_films_link.njk" %}

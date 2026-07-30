@@ -1,0 +1,18 @@
+{% set film = films[filmSlug] %}
+<section class="cast-grid">
+  <div class="cast-grid-cards">
+    {%- for person in film.credits.cast.slice(0, 12) %}
+      <div class="cast-card">
+        {%- if person.profile_path %}
+        <img src="/bill/films/profiles/{{ person.id }}.jpg" alt="{{ person.name }}" loading="lazy">
+        {%- else %}
+        <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+        {%- endif %}
+        <div class="cast-card-info">
+          <span class="cast-card-name">{{ person.name }}</span>
+          <span class="cast-card-character">{{ person.character }}</span>
+        </div>
+      </div>
+    {%- endfor %}
+  </div>
+</section>
