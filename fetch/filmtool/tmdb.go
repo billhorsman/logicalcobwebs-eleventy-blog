@@ -8,6 +8,8 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"path/filepath"
+	"strings"
 )
 
 const (
@@ -15,12 +17,33 @@ const (
 	imageBase = "https://image.tmdb.org/t/p/w500"
 )
 
+// apiToken returns the TMDB read access token from the TMDB_API_TOKEN
+// environment variable, or from a TMDB_API_TOKEN=... line in .env at the
+// repo root.
 func apiToken() (string, error) {
-	token := os.Getenv("TMDB_API_TOKEN")
-	if token == "" {
-		return "", fmt.Errorf("TMDB_API_TOKEN is not set; create a read access token at https://www.themoviedb.org/settings/api")
+	if token := os.Getenv("TMDB_API_TOKEN"); token != "" {
+		return token, nil
 	}
-	return token, nil
+	if root, err := findRoot(); err == nil {
+		if token := tokenFromEnvFile(filepath.Join(root, ".env")); token != "" {
+			return token, nil
+		}
+	}
+	return "", fmt.Errorf("TMDB_API_TOKEN is not set (in the environment or .env); create a read access token at https://www.themoviedb.org/settings/api")
+}
+
+func tokenFromEnvFile(path string) string {
+	content, err := os.ReadFile(path)
+	if err != nil {
+		return ""
+	}
+	for _, line := range strings.Split(string(content), "\n") {
+		line = strings.TrimSpace(line)
+		if value, found := strings.CutPrefix(line, "TMDB_API_TOKEN="); found {
+			return strings.Trim(value, `"'`)
+		}
+	}
+	return ""
 }
 
 // apiGet fetches a TMDB API endpoint (e.g. "movie/603") and returns the

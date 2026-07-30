@@ -6,10 +6,10 @@ maintain the film data behind logicalcobwebs.com.
 ## Setup
 
 Create a TMDB read access token at https://www.themoviedb.org/settings/api
-and export it:
+and put it in `.env` at the repo root (gitignored), or export it:
 
-```sh
-export TMDB_API_TOKEN="eyJ..."
+```
+TMDB_API_TOKEN=eyJ...
 ```
 
 Build the binary (it's gitignored, so rebuild after pulling changes):

@@ -23,11 +23,12 @@ Requires Node 22+ (see `.nvmrc`) and Go (for the film tooling below).
 go -C fetch/filmtool build -o ../../bin/filmtool .
 ```
 
-It needs a TMDB read access token
-(https://www.themoviedb.org/settings/api) in the environment:
+It needs a TMDB read access token (https://www.themoviedb.org/settings/api),
+read from $TMDB_API_TOKEN or from a line in `.env` at the repo root
+(gitignored):
 
-```sh
-export TMDB_API_TOKEN="eyJ..."
+```
+TMDB_API_TOKEN=eyJ...
 ```
 
 See [fetch/filmtool/README.md](fetch/filmtool/README.md) for full details.

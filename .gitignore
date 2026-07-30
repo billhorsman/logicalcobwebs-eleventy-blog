@@ -4,3 +4,4 @@ node_modules/
 /fetch/tmp
 .DS_Store
 /bin/
+.env
