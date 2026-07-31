@@ -23,6 +23,7 @@ Commands:
   sort                sort _data/top_albums.json by first release date
   cover <slug> <release>  replace an album's cover with a specific release's front image
   covers              retry missing covers (Cover Art Archive, then Discogs)
+  links               backfill album.link listen links from MusicBrainz
 `)
 }
 
@@ -50,6 +51,8 @@ func main() {
 		err = cmdCover(root, args)
 	case "covers":
 		err = cmdCovers(root)
+	case "links":
+		err = cmdLinks(root)
 	case "help", "-h", "--help":
 		usage()
 		return

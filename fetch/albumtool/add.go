@@ -67,6 +67,9 @@ func addAlbum(root, mbid string, force bool) error {
 	data["year"] = year
 	data["artist"] = artistName(credits)
 	data["top-genres"] = topGenres(data, 5)
+	if link, err := albumLink(mbid); err == nil && link != "" {
+		data["album-link"] = link
+	}
 
 	path := albumDataPath(root, slug)
 	if _, err := os.Stat(path); os.IsNotExist(err) || force {
