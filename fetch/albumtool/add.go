@@ -7,17 +7,33 @@ import (
 	"os"
 	"regexp"
 	"sort"
+	"strings"
 )
 
 var mbidPattern = regexp.MustCompile(`[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}`)
 
-// parseMBID accepts a bare MusicBrainz id or a release-group URL
-// ("https://musicbrainz.org/release-group/19ca48c1-...").
+// parseMBID accepts a bare MusicBrainz id, a release-group URL
+// ("https://musicbrainz.org/release-group/19ca48c1-..."), or a release
+// URL — a specific pressing — which is resolved to its release group.
 func parseMBID(arg string) (string, error) {
-	if m := mbidPattern.FindString(arg); m != "" {
-		return m, nil
+	mbid := mbidPattern.FindString(arg)
+	if mbid == "" {
+		return "", fmt.Errorf("%q is not a MusicBrainz release-group id or URL", arg)
 	}
-	return "", fmt.Errorf("%q is not a MusicBrainz release-group id or URL", arg)
+	if strings.Contains(arg, "/release/") {
+		release, err := mbGet("release/"+mbid, url.Values{"inc": {"release-groups"}})
+		if err != nil {
+			return "", err
+		}
+		group, _ := release["release-group"].(map[string]any)
+		groupID := getString(group, "id")
+		if groupID == "" {
+			return "", fmt.Errorf("release %s has no release group", mbid)
+		}
+		fmt.Printf("Resolved release to release group %s (%s)\n", groupID, getString(group, "title"))
+		return groupID, nil
+	}
+	return mbid, nil
 }
 
 func cmdAdd(root string, args []string) error {
