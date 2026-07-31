@@ -63,7 +63,8 @@ Like films, the lists are curated by hand:
 
 - `_data/top_albums.json` — the top 100, kept in release-date order by
   `./bin/albumtool sort`
-- `_data/top_5_albums.json` — the top 5, unranked (they are all equal)
+- `_data/top_5_albums.json` — the top 5, unranked and equal; `sort` keeps
+  it in release-date order too
 
 Album pages and the /bill/albums index render from these lists via
 Eleventy pagination — there is no generate step.

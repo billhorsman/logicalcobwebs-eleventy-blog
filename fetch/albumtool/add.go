@@ -100,7 +100,7 @@ func addAlbum(root, mbid string, force bool) error {
 // release date) while the list is still filling up. Once it holds 100,
 // curation takes over: swaps are made by hand.
 func addToTop100(root, slug string) error {
-	slugs, err := readTopAlbums(root)
+	slugs, err := readSlugList(topAlbumsPath(root))
 	if err != nil {
 		return err
 	}
@@ -114,10 +114,10 @@ func addToTop100(root, slug string) error {
 		fmt.Printf("The top 100 is full — swap %q in by hand (and re-run sort) if it deserves a place.\n", slug)
 		return nil
 	}
-	if err := writeTopAlbums(root, append(slugs, slug)); err != nil {
+	if err := writeSlugList(topAlbumsPath(root), append(slugs, slug)); err != nil {
 		return err
 	}
-	if err := sortTopAlbums(root); err != nil {
+	if _, err := sortAlbumList(root, topAlbumsPath(root)); err != nil {
 		return err
 	}
 	fmt.Printf("Added to the top 100 (%d/100).\n", len(slugs)+1)

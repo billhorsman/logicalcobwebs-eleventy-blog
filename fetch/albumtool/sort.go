@@ -13,8 +13,12 @@ func topAlbumsPath(root string) string {
 	return filepath.Join(root, "_data", "top_albums.json")
 }
 
-func readTopAlbums(root string) ([]string, error) {
-	raw, err := os.ReadFile(topAlbumsPath(root))
+func top5AlbumsPath(root string) string {
+	return filepath.Join(root, "_data", "top_5_albums.json")
+}
+
+func readSlugList(path string) ([]string, error) {
+	raw, err := os.ReadFile(path)
 	if err != nil {
 		return nil, err
 	}
@@ -25,9 +29,9 @@ func readTopAlbums(root string) ([]string, error) {
 	return slugs, nil
 }
 
-// writeTopAlbums matches top_films.json's style: tab-indented with a
+// writeSlugList matches top_films.json's style: tab-indented with a
 // trailing newline.
-func writeTopAlbums(root string, slugs []string) error {
+func writeSlugList(path string, slugs []string) error {
 	var buf bytes.Buffer
 	enc := json.NewEncoder(&buf)
 	enc.SetEscapeHTML(false)
@@ -35,27 +39,26 @@ func writeTopAlbums(root string, slugs []string) error {
 	if err := enc.Encode(slugs); err != nil {
 		return err
 	}
-	return os.WriteFile(topAlbumsPath(root), buf.Bytes(), 0o644)
+	return os.WriteFile(path, buf.Bytes(), 0o644)
 }
 
 func cmdSort(root string) error {
-	if err := sortTopAlbums(root); err != nil {
-		return err
+	for _, path := range []string{topAlbumsPath(root), top5AlbumsPath(root)} {
+		n, err := sortAlbumList(root, path)
+		if err != nil {
+			return err
+		}
+		fmt.Printf("Sorted %d albums in %s\n", n, filepath.Base(path))
 	}
-	slugs, err := readTopAlbums(root)
-	if err != nil {
-		return err
-	}
-	fmt.Printf("Sorted %d albums\n", len(slugs))
 	return nil
 }
 
-// sortTopAlbums orders _data/top_albums.json by first release date
-// (title breaks ties), matching how the film top 100 is sorted.
-func sortTopAlbums(root string) error {
-	slugs, err := readTopAlbums(root)
+// sortAlbumList orders a slug-list file by first release date (title
+// breaks ties), matching how the film top 100 is sorted.
+func sortAlbumList(root, path string) (int, error) {
+	slugs, err := readSlugList(path)
 	if err != nil {
-		return err
+		return 0, err
 	}
 
 	type album struct {
@@ -65,11 +68,11 @@ func sortTopAlbums(root string) error {
 	for _, slug := range slugs {
 		data, err := os.ReadFile(albumDataPath(root, slug))
 		if err != nil {
-			return err
+			return 0, err
 		}
 		var m map[string]any
 		if err := json.Unmarshal(data, &m); err != nil {
-			return err
+			return 0, err
 		}
 		albums = append(albums, album{slug, getString(m, "first-release-date"), getString(m, "title")})
 	}
@@ -85,5 +88,5 @@ func sortTopAlbums(root string) error {
 	for i, a := range albums {
 		sorted[i] = a.slug
 	}
-	return writeTopAlbums(root, sorted)
+	return len(sorted), writeSlugList(path, sorted)
 }
