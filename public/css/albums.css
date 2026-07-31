@@ -220,22 +220,13 @@ article.album {
 	}
 }
 
-.album-listen {
+a.album-listen {
 	background: var(--color);
 	border-radius: 100vh;
 	color: var(--background-color);
 	display: inline-block;
 	padding: 0.25rem 0.75rem;
 	text-decoration: none;
-
-	& i {
-		color: var(--gold);
-		transition: transform 0.2s ease-in-out;
-	}
-
-	&:hover i {
-		transform: scale(1.15);
-	}
 }
 
 album-top-five-badge {
