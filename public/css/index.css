@@ -890,10 +890,11 @@ ul {
   }
 }
 
-.rating-stars {
+rating-stars {
   display: flex;
   font-size: 1.5rem;
   gap: 0.25rem;
+  margin-bottom: 1rem;
   & .yes {
     color: var(--gold);
   }

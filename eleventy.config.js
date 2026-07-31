@@ -246,7 +246,7 @@ export default async function(eleventyConfig) {
 					stars.push("<i class='fa-regular fa-star no'></i>");
 				}
 			}
-			return `<span class="rating-stars">${stars.join("")}<span class="sr-only">${rating}/5</span></span>`;
+			return `<rating-stars>${stars.join("")}<span class="sr-only">${rating}/5</span></rating-stars>`;
 		}
 	);
 
