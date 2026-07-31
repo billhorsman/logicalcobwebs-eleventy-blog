@@ -214,10 +214,6 @@ article.album {
 		margin-bottom: 1.5rem;
 	}
 
-	& .album-genres {
-		font-style: italic;
-		opacity: 0.75;
-	}
 }
 
 a.album-tracks {
@@ -251,6 +247,10 @@ ol.track-list {
 		font-variant-numeric: tabular-nums;
 		float: right;
 	}
+}
+
+.album-listen-wrap {
+	margin-top: 2rem;
 }
 
 .album-listen {

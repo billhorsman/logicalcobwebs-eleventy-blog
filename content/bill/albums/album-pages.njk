@@ -58,21 +58,6 @@ eleventyComputed:
     {%- if inTopFive %} · <album-top-five-badge>Top 5</album-top-five-badge>{% endif %}
   </p>
 
-  {%- if album["top-genres"].length %}
-  <p class="album-genres">
-    {{ album["top-genres"] | join(", ") }}
-  </p>
-  {%- endif %}
-
-  {%- if album["album-link"] %}
-  <p>
-    <a class="album-listen" href="{{ album["album-link"] }}">
-      <i class="fa-solid fa-headphones"></i>
-      Listen
-    </a>
-  </p>
-  {%- endif %}
-
   {%- if album.tracks.length %}
   <section class="album-tracks">
     {%- for disc in album.tracks %}
@@ -89,5 +74,14 @@ eleventyComputed:
     </ol>
     {%- endfor %}
   </section>
+  {%- endif %}
+
+  {%- if album["album-link"] %}
+  <p class="album-listen-wrap">
+    <a class="album-listen" href="{{ album["album-link"] }}">
+      <i class="fa-solid fa-headphones"></i>
+      Listen
+    </a>
+  </p>
   {%- endif %}
 </article>
