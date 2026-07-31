@@ -1,0 +1,1 @@
+Reminds me of driving my first car. I recorded it onto a blank C-90 cassette with The Cure on the other side. I had about six cassettes in total so this got a lot of play time. It still sounds good (the album, not the cassette — that's long gone).
