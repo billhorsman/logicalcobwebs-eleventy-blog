@@ -145,6 +145,12 @@ func getString(m map[string]any, key string) string {
 	return s
 }
 
+// artistOverrides corrects credited names MusicBrainz preserves
+// as-printed-at-release, e.g. an artist's dead name.
+var artistOverrides = map[string]string{
+	"Kate Tempest": "Kae Tempest",
+}
+
 // artistName joins a MusicBrainz artist-credit list into a display name,
 // e.g. "Simon & Garfunkel" or "David Bowie & Queen".
 func artistName(credits []any) string {
@@ -154,7 +160,11 @@ func artistName(credits []any) string {
 		if !ok {
 			continue
 		}
-		out.WriteString(getString(m, "name"))
+		name := getString(m, "name")
+		if override, ok := artistOverrides[name]; ok {
+			name = override
+		}
+		out.WriteString(name)
 		out.WriteString(getString(m, "joinphrase"))
 	}
 	return out.String()

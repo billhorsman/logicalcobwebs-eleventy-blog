@@ -1,0 +1,135 @@
+{
+  "artist": "The Fall",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "English post‐punk group founded by Mark E. Smith",
+        "genres": [
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "8301f73c-9166-4108-bfeb-4fd22dc19083",
+            "name": "alternative dance"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "6e105daf-c06d-431e-8e33-1b8da3e48f7e",
+            "name": "art punk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ba318056-9ddf-46cd-8b95-61fc993b962d",
+            "name": "krautrock"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          }
+        ],
+        "id": "d5da1841-9bc8-4813-9f89-11098090148e",
+        "name": "The Fall",
+        "sort-name": "Fall, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Fall"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1993-04-26",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+      "name": "experimental rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "32bea60c-e201-4241-8ed4-228636d34a97",
+      "name": "leftfield"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+      "name": "new wave"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+      "name": "post-punk"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "ef245bd8-7937-313b-a787-f290653e0957",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "the-infotainment-scan-1993",
+  "title": "The Infotainment Scan",
+  "top-genres": [
+    "indie rock",
+    "leftfield",
+    "new wave",
+    "rock",
+    "electronic"
+  ],
+  "year": "1993"
+}

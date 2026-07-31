@@ -1,0 +1,80 @@
+{
+  "artist": "Kae Tempest",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+            "name": "hip hop"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "aa92e307-b2bc-4802-8953-48b8c912fe9a",
+            "name": "political hip hop"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "c774791e-1b78-4794-a109-befb712ef44d",
+            "name": "spoken word"
+          }
+        ],
+        "id": "7a2533c3-790e-4828-9b30-ca5467c609c5",
+        "name": "Kae Tempest",
+        "sort-name": "Tempest, Kae",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Kate Tempest"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2016-10-07",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+      "name": "hip hop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "15570d3c-756e-429e-ad67-653cb29ae886",
+      "name": "poetry"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "c774791e-1b78-4794-a109-befb712ef44d",
+      "name": "spoken word"
+    }
+  ],
+  "id": "b89d90f9-25f6-42e3-ac8c-054edb8229b2",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "let-them-eat-chaos-2016",
+  "title": "Let Them Eat Chaos",
+  "top-genres": [
+    "hip hop",
+    "electronic",
+    "poetry",
+    "spoken word"
+  ],
+  "year": "2016"
+}

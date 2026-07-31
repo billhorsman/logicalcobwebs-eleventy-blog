@@ -1,0 +1,101 @@
+{
+  "artist": "PJ Harvey",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 13,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f0c26658-95b8-46b8-b167-fdc9a659465b",
+            "name": "chamber folk"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+            "name": "folk rock"
+          },
+          {
+            "count": 11,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "e795e03d-b5d5-4a5f-834d-162cfb308a2c",
+        "name": "PJ Harvey",
+        "sort-name": "Harvey, PJ",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "PJ Harvey"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1993-10-19",
+  "genres": [
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "850778ff-f726-33a5-9d67-2f36692887a5",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [
+    "81598169-0d6c-3bce-b4be-866fa658eda3"
+  ],
+  "secondary-types": [
+    "Demo"
+  ],
+  "slug": "4track-demos-1993",
+  "title": "4‐Track Demos",
+  "top-genres": [
+    "alternative rock",
+    "indie rock",
+    "rock"
+  ],
+  "year": "1993"
+}
