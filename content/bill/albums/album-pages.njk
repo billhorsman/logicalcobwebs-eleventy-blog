@@ -12,6 +12,8 @@ eleventyComputed:
 {%- set position = top_albums.indexOf(slug) + 1 %}
 {%- set inTopFive = top_5_albums.includes(slug) %}
 
+{%- set prevAlbum = albums[top_albums[position - 2]] if position > 1 %}
+{%- set nextAlbum = albums[top_albums[position]] if position < top_albums.length %}
 <nav class="albums-nav">
   <div class="prev">
     {%- if pagination.href.previous %}
@@ -29,6 +31,16 @@ eleventyComputed:
     {%- else %}
       <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
     {%- endif %}
+  </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous album:</span>
+      {{ prevAlbum.title if prevAlbum else "Start of list" }}
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next album:</span>
+      {{ nextAlbum.title if nextAlbum else "End of list" }}
+    </span>
   </div>
 </nav>
 
