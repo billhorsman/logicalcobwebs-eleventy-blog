@@ -5,7 +5,12 @@ description: Bill's review of The Secret Agent — ⭐⭐⭐⭐⭐
 filmSlug: the-secret-agent-2025
 date: 2026-03-13
 author: Bill Horsman
-tags: Film review
+tags: ["Film review", "DCA"]
+dca:
+  date: "2026-03-12 19:45"
+  cinema: Cinema Two
+  seat: B5
+  rating: "15"
 ---
 
 {% include "film-backdrop-and-poster.njk" %}
@@ -31,7 +36,7 @@ _Dona Sebastiana's "refugees"_
 <section class="ticket-stub">
   <a href="https://www.dca.org.uk/">
     <span>DCA</span>
-    <img src="ticket.png" alt="Ticket stub for seat B4 in the DCA's cinema two on 12 March 2026">
+    {% dcaTicket %}
   </a>
 </section>
 

@@ -6,6 +6,11 @@ filmSlug: the-ballad-of-wallis-island-2025
 date: 2025-06-15
 author: Bill Horsman
 tags: Film review
+dca:
+  date: "2025-06-14 18:30"
+  cinema: Cinema Two
+  seat: B4
+  rating: "12A"
 ---
 
 {% include "film-backdrop-and-poster.njk" %}
@@ -24,7 +29,7 @@ Trying to dry Herb's phone throughout the film was a long running gag. Rice pudd
 <section class="ticket-stub">
   <a href="https://www.dca.org.uk/">
     <span>DCA</span>
-    <img src="ticket.png" alt="Ticket stub for seat B4 in the DCA's cinema two on 14 June 2025">
+    {% dcaTicket %}
   </a>
 </section>
 

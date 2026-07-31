@@ -6,6 +6,11 @@ filmSlug: nouvelle-vague-2025
 date: 2025-12-10
 author: Bill Horsman
 tags: Film review
+dca:
+  date: "2025-12-10 20:00"
+  cinema: Cinema One
+  seat: D7
+  rating: "12A"
 ---
 
 {% include "film-backdrop-and-poster.njk" %}
@@ -29,7 +34,7 @@ There's a good [behind the scenes writeup](https://www.netflix.com/tudum/article
 <section class="ticket-stub">
   <a href="https://www.dca.org.uk/">
     <span>DCA</span>
-    <img src="ticket.png" alt="Ticket stub for seat B4 in the DCA's cinema two on 14 June 2025">
+    {% dcaTicket %}
   </a>
 </section>
 
