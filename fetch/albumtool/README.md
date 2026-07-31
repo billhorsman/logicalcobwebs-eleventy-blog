@@ -18,7 +18,7 @@ go -C fetch/albumtool build -o ../../bin/albumtool .
 ```
 
 Both write `_data/albums/<slug>.json` and download the front cover to
-`content/albums/covers/<slug>.jpg`. A search with a single match skips
+`content/bill/albums/covers/<slug>.jpg`. A search with a single match skips
 the picker. While the top 100 has fewer than 100 entries, added albums
 join it automatically (kept in release-date order); once it's full,
 swaps are made by hand.
@@ -32,6 +32,6 @@ Like films, the lists are curated by hand:
 - `_data/top_5_albums.json` — the top 5, in rank order (position 1 is
   the best album)
 
-Album pages and the /albums index render from these lists via Eleventy
+Album pages and the /bill/albums index render from these lists via Eleventy
 pagination — there is no generate step. The pages are noindexed and
 excluded from collections (sitemap, feeds) while the section is WIP.

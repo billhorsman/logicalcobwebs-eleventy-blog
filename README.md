@@ -83,5 +83,5 @@ To show a review quote on a film's top-100 page, add a JSON file to
 ## Albums (work in progress)
 
 `bin/albumtool` does the same for albums (MusicBrainz + Cover Art
-Archive) feeding the unlinked, noindexed `/albums` section. See
+Archive) feeding the unlinked, noindexed `/bill/albums` section. See
 [fetch/albumtool/README.md](fetch/albumtool/README.md).

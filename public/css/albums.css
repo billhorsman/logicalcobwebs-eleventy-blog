@@ -1,4 +1,33 @@
-/* /albums — work in progress, unlinked */
+/* /bill/albums — work in progress, unlinked */
+
+body.albums {
+	/* A subtle gold wash behind the whole section */
+	--background-color: oklch(93% 0.045 95);
+	--background-color-80: oklch(93% 0.045 95 / 0.8);
+
+	@supports (color: light-dark(black, white)) {
+		--background-color: light-dark(oklch(93% 0.045 95), oklch(24% 0.035 95));
+		--background-color-80: light-dark(oklch(93% 0.045 95 / 0.8), oklch(24% 0.035 95 / 0.8));
+	}
+
+	& main {
+		max-width: 64rem;
+	}
+}
+
+.albums-header {
+	border-bottom: 2px solid var(--gold);
+
+	& .albums-header-strapline {
+		display: block;
+		font-style: italic;
+		opacity: 0.7;
+
+		& i {
+			color: var(--gold);
+		}
+	}
+}
 
 .album-grid {
 	margin: 2rem 0;
@@ -12,6 +41,11 @@
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
 	gap: 1.5rem 1rem;
+
+	/* Five across once there's room */
+	@media (min-width: 56rem) {
+		grid-template-columns: repeat(5, 1fr);
+	}
 }
 
 .album-card {

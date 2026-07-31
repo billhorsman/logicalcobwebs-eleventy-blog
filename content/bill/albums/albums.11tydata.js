@@ -3,5 +3,5 @@ export default {
 	// tag pages) and out of search engines until it's ready.
 	eleventyExcludeFromCollections: true,
 	noindex: true,
-	layout: "layouts/base.njk",
+	layout: "layouts/albums.njk",
 };

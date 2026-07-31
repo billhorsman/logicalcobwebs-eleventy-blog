@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+    <link rel="canonical" href="{% canonicalUrlToUse canonicalUrl %}" />
+    <meta property="og:url" content="{% canonicalUrlToUse canonicalUrl %}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ title or metadata.title }}">
+    <meta property="og:description" content="{{ description or metadata.description }}">
+    {% if ogImage %}
+      <meta property="og:image" content="{% shareImageUri ogImage %}">
+    {% endif %}
+
+    {% if noindex %}<meta name="robots" content="noindex">
+    {% endif -%}
+    <meta name="color-scheme" content="light dark">
+
+    <link rel="icon" href="/img/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/img/favicon.png">
+
+    {%- css %}{% include "public/css/index.css" %}{% endcss %}
+    {%- css %}{% include "public/css/details.css" %}{% endcss %}
+    {%- css %}{% include "public/css/albums.css" %}{% endcss %}
+    {%- css %}{% include "public/css/theme.css" %}{% endcss %}
+    <link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
+
+    {%- js %}{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}{% endjs %}
+    {%- js %}{% include "public/js/theme.js" %}{% endjs %}
+    <script src="https://kit.fontawesome.com/7ad635dbf3.js" crossorigin="anonymous"></script>
+  </head>
+  <body class="albums">
+    <a href="#skip" class="visually-hidden">Skip to main content</a>
+
+    <header class="nav-header albums-header" id="nav-header">
+      <nav aria-label="Top level navigation">
+        <a href="/">Home</a>
+        <a href="/bill">Bill</a>
+        <a href="/bill/albums" {% if page.url == "/bill/albums/" %}aria-current="page"{% endif %}>Albums</a>
+      </nav>
+      <span class="albums-header-strapline"><i class="fa-solid fa-record-vinyl"></i> The albums that stuck</span>
+    </header>
+
+    <main id="skip">
+      <heading-anchors>
+        {{ content | safe }}
+      </heading-anchors>
+    </main>
+
+    <footer>
+      <span>Logical Cobwebs</span>
+      {% include "theme-switcher.njk" %}
+    </footer>
+
+    <!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->
+    <script type="module" src="{% getBundleFileUrl "js" %}"></script>
+    <!-- 100% privacy-first analytics -->
+    <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+  </body>
+</html>

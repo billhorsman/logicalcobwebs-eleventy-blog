@@ -3,11 +3,10 @@ pagination:
   data: top_albums
   size: 1
   alias: slug
-permalink: "/albums/{{ slug }}/"
+permalink: "/bill/albums/{{ slug }}/"
 eleventyComputed:
   title: "{{ albums[slug].title }}"
 ---
-{%- css %}{% include "public/css/albums.css" %}{% endcss %}
 {%- set album = albums[slug] %}
 {%- set position = top_albums.indexOf(slug) + 1 %}
 {%- set topFiveRank = top_5_albums.indexOf(slug) + 1 %}
@@ -21,7 +20,7 @@ eleventyComputed:
     {%- endif %}
   </div>
   <div>
-    <a class="simple" href="/albums/">{{ position }} / {{ top_albums.length }}</a>
+    <a class="simple" href="/bill/albums/">{{ position }} / {{ top_albums.length }}</a>
   </div>
   <div class="next">
     {%- if pagination.href.next %}
@@ -33,7 +32,7 @@ eleventyComputed:
 </nav>
 
 <article class="album">
-  <img class="album-cover" src="/albums/covers/{{ slug }}.jpg" alt="Cover of {{ album.title }} by {{ album.artist }}">
+  <img class="album-cover" src="/bill/albums/covers/{{ slug }}.jpg" alt="Cover of {{ album.title }} by {{ album.artist }}">
 
   <h1>{{ album.title }}</h1>
 

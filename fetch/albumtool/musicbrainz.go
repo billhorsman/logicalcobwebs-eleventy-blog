@@ -46,7 +46,7 @@ func albumDataPath(root, slug string) string {
 }
 
 func coverPath(root, slug string) string {
-	return filepath.Join(root, "content", "albums", "covers", slug+".jpg")
+	return filepath.Join(root, "content", "bill", "albums", "covers", slug+".jpg")
 }
 
 func mbGet(endpoint string, params url.Values) (map[string]any, error) {

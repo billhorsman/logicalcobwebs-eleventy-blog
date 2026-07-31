@@ -3,7 +3,7 @@
 // needed) and cover art from coverartarchive.org.
 //
 //   - _data/albums/<slug>.json     release-group details
-//   - content/albums/covers/*.jpg  front covers
+//   - content/bill/albums/covers/*.jpg  front covers
 //
 // _data/top_albums.json (the top 100) and _data/top_5_albums.json are
 // curated by hand; `sort` keeps the top 100 in release-date order.
