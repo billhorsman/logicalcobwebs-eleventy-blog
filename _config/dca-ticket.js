@@ -14,8 +14,9 @@ import QRCode from "qrcode-svg";
 
 const SITE_URL = "https://logicalcobwebs.com";
 
+// Matches the aspect ratio of the original scanned tickets (~2.48:1)
 const WIDTH = 350;
-const HEIGHT = 150;
+const HEIGHT = 141;
 
 // FNV-1a, to seed the barcode from the page URL
 function hash(str) {
@@ -114,24 +115,33 @@ export default function (eleventyConfig) {
 		const cinema = dca.cinema || "Cinema One";
 		const when = ticketDate(dca.date);
 		const canonicalUrl = `${SITE_URL}${this.page.url}`;
-		const rand = mulberry32(hash(this.page.url));
+
+		// The film's TMDB id doubles as the ticket's reference number and
+		// the barcode seed; without a filmSlug, fall back to the URL.
+		const film = this.ctx.filmSlug && this.ctx.films?.[this.ctx.filmSlug];
+		const reference = film?.id ? String(film.id) : "";
+		const rand = mulberry32(hash(reference || this.page.url));
 
 		const label = `Ticket stub for seat ${seat} in the DCA's ${cinema.toLowerCase()} on ${when.long}`;
 
 		const rating = dca.rating
-			? `<text x="60" y="72" font-size="13">${escapeXML(dca.rating)}</text>`
+			? `<text x="60" y="64" font-size="10.5">${escapeXML(dca.rating)}</text>`
+			: "";
+		const referenceText = reference
+			? `<text transform="translate(243 118) rotate(-90)" font-size="7.5" letter-spacing="1">${escapeXML(reference)}</text>`
 			: "";
 
 		return `<svg viewBox="0 0 ${WIDTH} ${HEIGHT}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${escapeXML(label)}">
   <rect width="${WIDTH}" height="${HEIGHT}" rx="5" fill="white"/>
   <g fill="black" font-family="Arial, Helvetica, sans-serif">
-    <text x="60" y="34" font-size="16" font-weight="bold">${escapeXML(title)}</text>
-    <text x="60" y="54" font-size="14">${when.day} ${when.time}</text>
+    <text x="60" y="30" font-size="13.5" font-weight="bold">${escapeXML(title)}</text>
+    <text x="60" y="48" font-size="12">${when.day} ${when.time}</text>
     ${rating}
-    <text x="60" y="100" font-size="13">${escapeXML(cinema)}&#160;&#160;&#160;Seat:&#160;&#160;${escapeXML(seat)}</text>
-    <text x="60" y="118" font-size="13">Standard - ${escapeXML(price)}</text>
-    ${barcode(rand, 60, 128, 140, 16)}
-    ${qrCode(canonicalUrl, 245, 30, 90)}
+    <text x="60" y="90" font-size="11">${escapeXML(cinema)}&#160;&#160;&#160;Seat:&#160;&#160;${escapeXML(seat)}</text>
+    <text x="60" y="106" font-size="11">Standard - ${escapeXML(price)}</text>
+    ${barcode(rand, 60, 116, 130, 15)}
+    ${referenceText}
+    ${qrCode(canonicalUrl, 252, 26, 84)}
   </g>
 </svg>`;
 	});
