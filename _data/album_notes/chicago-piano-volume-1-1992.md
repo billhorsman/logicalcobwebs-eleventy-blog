@@ -1,0 +1,1 @@
+This is from about 1920, despite being released in 1992. There's a photo of Jimmy Yancy, hunched up at his piano, in a suit so stiff and large it looks like he is being supported by it. I imagine he played without much physical movement but said a lot.

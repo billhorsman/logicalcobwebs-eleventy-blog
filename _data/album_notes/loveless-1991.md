@@ -1,0 +1,1 @@
+In the same place in my head as [Candy Apple Grey](/bill/albums/candy-apple-grey-1986/), but mainly because I also had this album on minidisc, in a time when you could only carry a handful of albums on your travels. A guitar sound that is instantly recognisable.

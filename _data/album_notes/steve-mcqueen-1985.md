@@ -1,0 +1,1 @@
+Another John Peel introduction, via the Faron Young track. Perfect lyrcis. My favourite is _Horsin' Around_ followed by _When Loves Break Down_. I listened to this at the first place I lived after I moved out of home, at 18: Box Road, in Bath.
