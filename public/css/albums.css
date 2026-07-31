@@ -18,10 +18,6 @@ body.albums main {
 	max-width: 64rem;
 }
 
-.albums-header {
-	border-bottom: 2px solid var(--gold);
-}
-
 .album-grid {
 	margin: 2rem 0;
 
