@@ -1,0 +1,14 @@
+{#- Renders a grid of album covers.
+    Set `gridSlugs` (array of album slugs) before including;
+    set `showRank` for numbered badges (top 5). -#}
+<div class="album-grid-cards">
+{%- for slug in gridSlugs %}
+{%- set album = albums[slug] %}
+<a href="/bill/albums/{{ slug }}/" class="album-card">
+<img src="/bill/albums/covers/{{ slug }}.jpg" alt="Cover of {{ album.title }} by {{ album.artist }}" loading="lazy">
+{%- if showRank %}<span class="album-card-rank">{{ loop.index }}</span>{% endif %}
+<span class="album-card-title">{{ album.title }}</span>
+<span class="album-card-artist">{{ album.artist }} · {{ album.year }}</span>
+</a>
+{%- endfor %}
+</div>
