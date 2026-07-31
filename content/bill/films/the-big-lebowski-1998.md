@@ -16,7 +16,7 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
     <a class="simple" href="../">31 / 100</a>
   </div>
   <div class="next">
-    <a href="../fight-club-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../ghost-dog-the-way-of-the-samurai-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants 
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Fight Club
+      Ghost Dog: The Way of the Samurai
     </span>
   </div>
 </nav>

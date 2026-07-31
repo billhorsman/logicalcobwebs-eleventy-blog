@@ -13,10 +13,10 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
     <a href="../house-of-gucci-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">80 / 100</a>
+    <a class="simple" href="../">85 / 100</a>
   </div>
   <div class="next">
-    <a href="../nomadland-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../the-tragedy-of-macbeth-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "The story of Gary Valentine and Alana Kane growing up, running aro
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Nomadland
+      The Tragedy of Macbeth
     </span>
   </div>
 </nav>

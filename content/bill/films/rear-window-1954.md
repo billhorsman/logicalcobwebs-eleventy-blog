@@ -10,22 +10,22 @@ description: "A wheelchair-bound photographer spies on his neighbors from his ap
 
 <nav class="films">
   <div class="prev">
-    <a href="../la-strada-1954"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../its-a-wonderful-life-1946"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">3 / 100</a>
+    <a class="simple" href="../">2 / 100</a>
   </div>
   <div class="next">
-    <a href="../breathless-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../la-strada-1954">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      La Strada
+      It's a Wonderful Life
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Breathless
+      La Strada
     </span>
   </div>
 </nav>

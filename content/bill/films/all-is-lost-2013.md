@@ -10,7 +10,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
 
 <nav class="films">
   <div class="prev">
-    <a href="../kill-bill-the-whole-bloody-affair-2011"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../le-havre-2011"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">53 / 100</a>
@@ -21,7 +21,7 @@ description: "During a solo voyage in the Indian Ocean, a veteran mariner awakes
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Kill Bill: The Whole Bloody Affair
+      Le Havre
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

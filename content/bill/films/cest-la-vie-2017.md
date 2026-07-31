@@ -10,22 +10,22 @@ description: "Max is a battle-weary veteran of the wedding-planning racket. His 
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-handmaiden-2016"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../lucky-2017"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">60 / 100</a>
+    <a class="simple" href="../">63 / 100</a>
   </div>
   <div class="next">
-    <a href="../lady-bird-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../woman-at-war-2018">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Handmaiden
+      Lucky
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Lady Bird
+      Woman at War
     </span>
   </div>
 </nav>

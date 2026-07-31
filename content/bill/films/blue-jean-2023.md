@@ -10,22 +10,22 @@ description: "Jean, a PE teacher, is forced to live a double life. When a new st
 
 <nav class="films">
   <div class="prev">
-    <a href="../asteroid-city-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../empire-of-light-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">97 / 100</a>
+    <a class="simple" href="../">93 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-ballad-of-wallis-island-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../asteroid-city-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Asteroid City
+      Empire of Light
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Ballad of Wallis Island
+      Asteroid City
     </span>
   </div>
 </nav>

@@ -41,8 +41,8 @@ func cmdSort(root string) error {
 	}
 
 	sort.SliceStable(films, func(i, j int) bool {
-		if films[i].Year != films[j].Year {
-			return films[i].Year < films[j].Year
+		if films[i].ReleaseDate != films[j].ReleaseDate {
+			return films[i].ReleaseDate < films[j].ReleaseDate
 		}
 		return films[i].Title < films[j].Title
 	})

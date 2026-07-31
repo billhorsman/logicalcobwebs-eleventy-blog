@@ -10,10 +10,10 @@ description: "A socially awkward, environmentally-conscious teenager named AJ is
 
 <nav class="films">
   <div class="prev">
-    <a href="../petite-maman-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../dune-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">83 / 100</a>
+    <a class="simple" href="../">80 / 100</a>
   </div>
   <div class="next">
     <a href="../the-french-dispatch-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "A socially awkward, environmentally-conscious teenager named AJ is
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Petite Maman
+      Dune
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

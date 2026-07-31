@@ -10,22 +10,22 @@ description: "On one random day in the San Fernando Valley, a dying father, a yo
 
 <nav class="films">
   <div class="prev">
-    <a href="../ghost-dog-the-way-of-the-samurai-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-straight-story-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">34 / 100</a>
+    <a class="simple" href="../">35 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-straight-story-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../the-talented-mr-ripley-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Ghost Dog: The Way of the Samurai
+      The Straight Story
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Straight Story
+      The Talented Mr. Ripley
     </span>
   </div>
 </nav>

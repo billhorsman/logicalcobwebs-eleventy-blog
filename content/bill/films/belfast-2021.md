@@ -10,22 +10,22 @@ description: "Buddy is a young boy on the cusp of adolescence, whose life is fil
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-truffle-hunters-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-power-of-the-dog-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">76 / 100</a>
+    <a class="simple" href="../">83 / 100</a>
   </div>
   <div class="next">
-    <a href="../coda-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../house-of-gucci-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Truffle Hunters
+      The Power of the Dog
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      CODA
+      House of Gucci
     </span>
   </div>
 </nav>

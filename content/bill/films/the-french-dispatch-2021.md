@@ -13,7 +13,7 @@ description: "The staff of an American magazine based in France puts out its las
     <a href="../sweetheart-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">84 / 100</a>
+    <a class="simple" href="../">81 / 100</a>
   </div>
   <div class="next">
     <a href="../the-power-of-the-dog-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -189,8 +189,8 @@ description: "The staff of an American magazine based in France puts out its las
 <li><a href="../little-women-2019">Little Women</a> because of Saoirse Ronan and Timothée Chalamet</li>
 <li><a href="../one-fine-morning-2022">One Fine Morning</a> because of Léa Seydoux and Sharif Andoura</li>
 <li><a href="../uncut-gems-2019">Uncut Gems</a> because of Tilda Swinton</li>
-<li><a href="../cest-la-vie-2017">C'est la vie!</a> because of Benjamin Lavernhe</li>
 <li><a href="../dune-2021">Dune</a> because of Timothée Chalamet</li>
+<li><a href="../cest-la-vie-2017">C'est la vie!</a> because of Benjamin Lavernhe</li>
   </ul>
 </section>
 

@@ -10,22 +10,22 @@ description: "Various individuals think they’re coming together for a party in
 
 <nav class="films">
   <div class="prev">
-    <a href="../lucky-2017"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../maudie-2016"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">63 / 100</a>
+    <a class="simple" href="../">60 / 100</a>
   </div>
   <div class="next">
-    <a href="../roma-2018">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../lady-bird-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Lucky
+      Maudie
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Roma
+      Lady Bird
     </span>
   </div>
 </nav>

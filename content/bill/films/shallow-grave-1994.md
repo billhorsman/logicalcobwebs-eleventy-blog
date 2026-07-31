@@ -16,7 +16,7 @@ description: "When David, Juliet, and Alex find their new roommate dead with a l
     <a class="simple" href="../">27 / 100</a>
   </div>
   <div class="next">
-    <a href="../fargo-1996">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../trainspotting-1996">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "When David, Juliet, and Alex find their new roommate dead with a l
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Fargo
+      Trainspotting
     </span>
   </div>
 </nav>

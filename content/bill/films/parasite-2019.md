@@ -10,22 +10,22 @@ description: "All unemployed, Ki-taek's family takes peculiar interest in the we
 
 <nav class="films">
   <div class="prev">
-    <a href="../little-women-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../roma-2018"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">68 / 100</a>
+    <a class="simple" href="../">67 / 100</a>
   </div>
   <div class="next">
-    <a href="../portrait-of-a-lady-on-fire-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../uncut-gems-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Little Women
+      Roma
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Portrait of a Lady on Fire
+      Uncut Gems
     </span>
   </div>
 </nav>

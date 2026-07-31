@@ -10,22 +10,22 @@ description: "The Grand Budapest Hotel tells of a legendary concierge at a famou
 
 <nav class="films">
   <div class="prev">
-    <a href="../mr-turner-2014"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../dallas-buyers-club-2013"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">56 / 100</a>
+    <a class="simple" href="../">55 / 100</a>
   </div>
   <div class="next">
-    <a href="../taxi-2015">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../mr-turner-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Mr. Turner
+      Dallas Buyers Club
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Taxi
+      Mr. Turner
     </span>
   </div>
 </nav>

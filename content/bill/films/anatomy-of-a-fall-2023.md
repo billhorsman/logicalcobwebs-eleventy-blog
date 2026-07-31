@@ -10,22 +10,22 @@ description: "A woman is suspected of her husband's murder, and their blind son 
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-fabelmans-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../asteroid-city-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">93 / 100</a>
+    <a class="simple" href="../">95 / 100</a>
   </div>
   <div class="next">
-    <a href="../all-of-us-strangers-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../perfect-days-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Fabelmans
+      Asteroid City
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      All of Us Strangers
+      Perfect Days
     </span>
   </div>
 </nav>

@@ -10,7 +10,7 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-straight-story-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../magnolia-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">36 / 100</a>
@@ -21,7 +21,7 @@ description: "Tom Ripley is a calculating young man who believes it's better to 
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Straight Story
+      Magnolia
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

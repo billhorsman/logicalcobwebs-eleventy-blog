@@ -10,22 +10,22 @@ description: "A charismatic New York City jeweler always on the lookout for the 
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-lighthouse-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../parasite-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">71 / 100</a>
+    <a class="simple" href="../">68 / 100</a>
   </div>
   <div class="next">
-    <a href="../1917-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../portrait-of-a-lady-on-fire-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Lighthouse
+      Parasite
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      1917
+      Portrait of a Lady on Fire
     </span>
   </div>
 </nav>

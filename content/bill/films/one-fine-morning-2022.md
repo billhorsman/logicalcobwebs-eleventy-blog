@@ -10,10 +10,10 @@ description: "With a father suffering from neurodegenerative disease, a young wo
 
 <nav class="films">
   <div class="prev">
-    <a href="../empire-of-light-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../eo-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">90 / 100</a>
+    <a class="simple" href="../">89 / 100</a>
   </div>
   <div class="next">
     <a href="../the-banshees-of-inisherin-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "With a father suffering from neurodegenerative disease, a young wo
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Empire of Light
+      EO
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

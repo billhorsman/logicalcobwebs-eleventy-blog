@@ -10,10 +10,10 @@ description: "A woman in her sixties embarks on a journey through the western Un
 
 <nav class="films">
   <div class="prev">
-    <a href="../licorice-pizza-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-truffle-hunters-2020"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">81 / 100</a>
+    <a class="simple" href="../">76 / 100</a>
   </div>
   <div class="next">
     <a href="../petite-maman-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "A woman in her sixties embarks on a journey through the western Un
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Licorice Pizza
+      The Truffle Hunters
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

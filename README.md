@@ -64,7 +64,7 @@ After changing the list there:
 
 ```sh
 ./bin/filmtool sync        # fetch data + images for new films on the list
-./bin/filmtool sort        # order _data/top_films.json by year then title
+./bin/filmtool sort        # order _data/top_films.json by release date
 ./bin/filmtool generate    # regenerate content/bill/films/*.md pages
 ```
 

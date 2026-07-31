@@ -16,7 +16,7 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
     <a class="simple" href="../">62 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-party-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../cest-la-vie-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Follows the journey of a 90-year-old atheist and the quirky charac
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Party
+      C'est la vie!
     </span>
   </div>
 </nav>

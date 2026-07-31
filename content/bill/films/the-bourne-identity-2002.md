@@ -10,22 +10,22 @@ description: "Wounded to the brink of death and suffering from amnesia, Jason Bo
 
 <nav class="films">
   <div class="prev">
-    <a href="../man-on-the-train-2002"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../24-hour-party-people-2002"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">42 / 100</a>
+    <a class="simple" href="../">41 / 100</a>
   </div>
   <div class="next">
-    <a href="../phone-booth-2003">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../man-on-the-train-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Man on the Train
+      24 Hour Party People
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Phone Booth
+      Man on the Train
     </span>
   </div>
 </nav>

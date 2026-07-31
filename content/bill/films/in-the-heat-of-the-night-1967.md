@@ -10,7 +10,7 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
 
 <nav class="films">
   <div class="prev">
-    <a href="../purple-noon-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../breathless-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">7 / 100</a>
@@ -21,7 +21,7 @@ description: "African-American Philadelphia police detective Virgil Tibbs is arr
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Purple Noon
+      Breathless
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

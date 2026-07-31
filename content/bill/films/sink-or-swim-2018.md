@@ -10,22 +10,22 @@ description: "40-year-old Bertrand has been suffering from depression for the la
 
 <nav class="films">
   <div class="prev">
-    <a href="../roma-2018"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../woman-at-war-2018"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">65 / 100</a>
   </div>
   <div class="next">
-    <a href="../woman-at-war-2018">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../roma-2018">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Roma
+      Woman at War
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Woman at War
+      Roma
     </span>
   </div>
 </nav>

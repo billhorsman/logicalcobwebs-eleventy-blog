@@ -13,10 +13,10 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
     <a href="../the-banshees-of-inisherin-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">92 / 100</a>
+    <a class="simple" href="../">91 / 100</a>
   </div>
   <div class="next">
-    <a href="../anatomy-of-a-fall-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../empire-of-light-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Growing up in post-World War II era Arizona, young Sammy Fabelman 
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Anatomy of a Fall
+      Empire of Light
     </span>
   </div>
 </nav>

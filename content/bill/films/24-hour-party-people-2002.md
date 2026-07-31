@@ -16,7 +16,7 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
     <a class="simple" href="../">40 / 100</a>
   </div>
   <div class="next">
-    <a href="../man-on-the-train-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../the-bourne-identity-2002">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Manchester, 1976. Tony Wilson is an ambitious but frustrated local
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Man on the Train
+      The Bourne Identity
     </span>
   </div>
 </nav>

@@ -10,10 +10,10 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
 
 <nav class="films">
   <div class="prev">
-    <a href="../breathless-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../la-strada-1954"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">5 / 100</a>
+    <a class="simple" href="../">4 / 100</a>
   </div>
   <div class="next">
     <a href="../purple-noon-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "Episodic journey of journalist Marcello who struggles to find his 
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Breathless
+      La Strada
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

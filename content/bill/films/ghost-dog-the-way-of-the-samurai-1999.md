@@ -10,22 +10,22 @@ description: "An African-American Mafia hit man who models himself after the sam
 
 <nav class="films">
   <div class="prev">
-    <a href="../fight-club-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-big-lebowski-1998"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">33 / 100</a>
+    <a class="simple" href="../">32 / 100</a>
   </div>
   <div class="next">
-    <a href="../magnolia-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../fight-club-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Fight Club
+      The Big Lebowski
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Magnolia
+      Fight Club
     </span>
   </div>
 </nav>

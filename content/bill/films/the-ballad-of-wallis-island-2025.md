@@ -10,22 +10,22 @@ description: "Eccentric lottery winner Charles lives alone on a remote island bu
 
 <nav class="films">
   <div class="prev">
-    <a href="../blue-jean-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../all-of-us-strangers-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">98 / 100</a>
   </div>
   <div class="next">
-    <a href="../nouvelle-vague-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../the-secret-agent-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Blue Jean
+      All of Us Strangers
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Nouvelle Vague
+      The Secret Agent
     </span>
   </div>
 </nav>

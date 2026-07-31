@@ -10,10 +10,10 @@ description: "When Patrizia Reggiani, an outsider from humble beginnings, marrie
 
 <nav class="films">
   <div class="prev">
-    <a href="../dune-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../belfast-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">79 / 100</a>
+    <a class="simple" href="../">84 / 100</a>
   </div>
   <div class="next">
     <a href="../licorice-pizza-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
@@ -21,7 +21,7 @@ description: "When Patrizia Reggiani, an outsider from humble beginnings, marrie
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Dune
+      Belfast
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

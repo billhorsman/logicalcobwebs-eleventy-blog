@@ -10,22 +10,22 @@ description: "Eccentric British painter J.M.W. Turner  lives his last 25 years w
 
 <nav class="films">
   <div class="prev">
-    <a href="../dallas-buyers-club-2013"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-grand-budapest-hotel-2014"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">55 / 100</a>
+    <a class="simple" href="../">56 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-grand-budapest-hotel-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../taxi-2015">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Dallas Buyers Club
+      The Grand Budapest Hotel
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Grand Budapest Hotel
+      Taxi
     </span>
   </div>
 </nav>

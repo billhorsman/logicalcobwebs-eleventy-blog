@@ -16,7 +16,7 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
     <a class="simple" href="../">54 / 100</a>
   </div>
   <div class="next">
-    <a href="../mr-turner-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../the-grand-budapest-hotel-2014">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Loosely based on the true-life tale of Ron Woodroof, a drug-taking
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Mr. Turner
+      The Grand Budapest Hotel
     </span>
   </div>
 </nav>

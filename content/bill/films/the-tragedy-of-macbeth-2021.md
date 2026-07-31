@@ -10,7 +10,7 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-power-of-the-dog-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../licorice-pizza-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">86 / 100</a>
@@ -21,7 +21,7 @@ description: "Macbeth, the Thane of Glamis, receives a prophecy from a trio of w
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Power of the Dog
+      Licorice Pizza
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

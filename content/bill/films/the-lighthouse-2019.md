@@ -16,7 +16,7 @@ description: "Two lighthouse keepers try to maintain their sanity while living o
     <a class="simple" href="../">70 / 100</a>
   </div>
   <div class="next">
-    <a href="../uncut-gems-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../1917-2019">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "Two lighthouse keepers try to maintain their sanity while living o
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Uncut Gems
+      1917
     </span>
   </div>
 </nav>

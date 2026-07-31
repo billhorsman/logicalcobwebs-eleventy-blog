@@ -10,22 +10,22 @@ description: "One night in his near-empty tower block in contemporary London, Ad
 
 <nav class="films">
   <div class="prev">
-    <a href="../anatomy-of-a-fall-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../perfect-days-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">94 / 100</a>
+    <a class="simple" href="../">97 / 100</a>
   </div>
   <div class="next">
-    <a href="../perfect-days-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../the-ballad-of-wallis-island-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Anatomy of a Fall
+      Perfect Days
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Perfect Days
+      The Ballad of Wallis Island
     </span>
   </div>
 </nav>

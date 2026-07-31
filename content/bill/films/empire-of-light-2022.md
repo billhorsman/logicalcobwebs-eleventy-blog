@@ -10,22 +10,22 @@ description: "The duty manager of a seaside cinema, who is struggling with her m
 
 <nav class="films">
   <div class="prev">
-    <a href="../eo-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-fabelmans-2022"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">89 / 100</a>
+    <a class="simple" href="../">92 / 100</a>
   </div>
   <div class="next">
-    <a href="../one-fine-morning-2022">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../blue-jean-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      EO
+      The Fabelmans
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      One Fine Morning
+      Blue Jean
     </span>
   </div>
 </nav>

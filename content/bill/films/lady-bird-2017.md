@@ -10,7 +10,7 @@ description: "Lady Bird McPherson, a strong willed, deeply opinionated, artistic
 
 <nav class="films">
   <div class="prev">
-    <a href="../cest-la-vie-2017"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-party-2017"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">61 / 100</a>
@@ -21,7 +21,7 @@ description: "Lady Bird McPherson, a strong willed, deeply opinionated, artistic
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      C'est la vie!
+      The Party
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

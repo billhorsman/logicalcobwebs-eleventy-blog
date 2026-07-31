@@ -10,22 +10,22 @@ description: "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on
 
 <nav class="films">
   <div class="prev">
-    <a href="../nouvelle-vague-2025"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-ballad-of-wallis-island-2025"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">100 / 100</a>
+    <a class="simple" href="../">99 / 100</a>
   </div>
   <div class="next">
-    <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
+    <a href="../nouvelle-vague-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Nouvelle Vague
+      The Ballad of Wallis Island
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      End of list
+      Nouvelle Vague
     </span>
   </div>
 </nav>

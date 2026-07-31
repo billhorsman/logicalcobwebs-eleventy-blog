@@ -47,7 +47,7 @@ post scaffold to paste into `content/blog/<year>/<name>/index.md`. The top
 
 ```sh
 ./bin/filmtool sync       # pull films from the TMDB list (add -force to refetch)
-./bin/filmtool sort       # order _data/top_films.json by year then title
+./bin/filmtool sort       # order _data/top_films.json by release date
 ./bin/filmtool generate   # regenerate content/bill/films/*.md and top cast/director data
 ```
 

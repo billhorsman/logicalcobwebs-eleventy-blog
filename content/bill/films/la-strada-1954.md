@@ -10,22 +10,22 @@ description: "When Gelsomina, a naïve young woman, is purchased from her impove
 
 <nav class="films">
   <div class="prev">
-    <a href="../its-a-wonderful-life-1946"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../rear-window-1954"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">2 / 100</a>
+    <a class="simple" href="../">3 / 100</a>
   </div>
   <div class="next">
-    <a href="../rear-window-1954">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../la-dolce-vita-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      It's a Wonderful Life
+      Rear Window
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Rear Window
+      La Dolce Vita
     </span>
   </div>
 </nav>

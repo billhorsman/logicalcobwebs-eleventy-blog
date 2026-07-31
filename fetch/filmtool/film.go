@@ -21,6 +21,7 @@ type Film struct {
 	Title         string
 	OriginalTitle string // empty unless it differs from Title
 	Year          string
+	ReleaseDate   string // YYYY-MM-DD
 	Overview      string
 	Cast          []Person
 	Crew          []Person
@@ -73,10 +74,11 @@ func loadFilm(root, slug string) (*Film, error) {
 	}
 
 	film := &Film{
-		Slug:     slug,
-		Title:    getString(data, "title"),
-		Year:     getString(data, "year"),
-		Overview: getString(data, "overview"),
+		Slug:        slug,
+		Title:       getString(data, "title"),
+		Year:        getString(data, "year"),
+		ReleaseDate: getString(data, "release_date"),
+		Overview:    getString(data, "overview"),
 	}
 	if credits, ok := data["credits"].(map[string]any); ok {
 		film.Cast = parsePeople(credits["cast"])

@@ -10,22 +10,22 @@ description: "After writing for Cahiers du cinéma, a young Jean-Luc Godard deci
 
 <nav class="films">
   <div class="prev">
-    <a href="../the-ballad-of-wallis-island-2025"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-secret-agent-2025"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">99 / 100</a>
+    <a class="simple" href="../">100 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-secret-agent-2025">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      The Ballad of Wallis Island
+      The Secret Agent
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Secret Agent
+      End of list
     </span>
   </div>
 </nav>

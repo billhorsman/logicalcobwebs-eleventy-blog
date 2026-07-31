@@ -13,10 +13,10 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
     <a href="../nomadland-2021"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">82 / 100</a>
+    <a class="simple" href="../">77 / 100</a>
   </div>
   <div class="next">
-    <a href="../sweetheart-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../coda-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "After the death of her beloved grandmother, eight-year-old Nelly m
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Sweetheart
+      CODA
     </span>
   </div>
 </nav>

@@ -10,22 +10,22 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
 
 <nav class="films">
   <div class="prev">
-    <a href="../perfect-days-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../blue-jean-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">96 / 100</a>
+    <a class="simple" href="../">94 / 100</a>
   </div>
   <div class="next">
-    <a href="../blue-jean-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../anatomy-of-a-fall-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Perfect Days
+      Blue Jean
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Blue Jean
+      Anatomy of a Fall
     </span>
   </div>
 </nav>

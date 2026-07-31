@@ -10,22 +10,22 @@ description: "Hilarious but harrowing, the film charts the disintegration of the
 
 <nav class="films">
   <div class="prev">
-    <a href="../fargo-1996"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../shallow-grave-1994"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">29 / 100</a>
+    <a class="simple" href="../">28 / 100</a>
   </div>
   <div class="next">
-    <a href="../good-will-hunting-1997">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../fargo-1996">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Fargo
+      Shallow Grave
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Good Will Hunting
+      Fargo
     </span>
   </div>
 </nav>

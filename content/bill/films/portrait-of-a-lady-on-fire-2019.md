@@ -10,7 +10,7 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
 
 <nav class="films">
   <div class="prev">
-    <a href="../parasite-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../uncut-gems-2019"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">69 / 100</a>
@@ -21,7 +21,7 @@ description: "On an isolated island in Brittany at the end of the eighteenth cen
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Parasite
+      Uncut Gems
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

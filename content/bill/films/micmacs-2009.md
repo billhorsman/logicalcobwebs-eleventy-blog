@@ -16,7 +16,7 @@ description: "While standing in the doorway of the video shop where he works, Ba
     <a class="simple" href="../">49 / 100</a>
   </div>
   <div class="next">
-    <a href="../le-havre-2011">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../kill-bill-the-whole-bloody-affair-2011">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "While standing in the doorway of the video shop where he works, Ba
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Le Havre
+      Kill Bill: The Whole Bloody Affair
     </span>
   </div>
 </nav>

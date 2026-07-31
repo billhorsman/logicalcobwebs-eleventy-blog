@@ -10,22 +10,22 @@ description: "Hirayama is content with his life as a toilet cleaner in Tokyo. Ou
 
 <nav class="films">
   <div class="prev">
-    <a href="../all-of-us-strangers-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../anatomy-of-a-fall-2023"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">95 / 100</a>
+    <a class="simple" href="../">96 / 100</a>
   </div>
   <div class="next">
-    <a href="../asteroid-city-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../all-of-us-strangers-2023">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      All of Us Strangers
+      Anatomy of a Fall
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Asteroid City
+      All of Us Strangers
     </span>
   </div>
 </nav>

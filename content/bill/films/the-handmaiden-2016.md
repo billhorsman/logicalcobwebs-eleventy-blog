@@ -10,22 +10,22 @@ description: "1930s Korea, in the period of Japanese occupation, a new girl, Soo
 
 <nav class="films">
   <div class="prev">
-    <a href="../maudie-2016"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../taxi-2015"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">59 / 100</a>
+    <a class="simple" href="../">58 / 100</a>
   </div>
   <div class="next">
-    <a href="../cest-la-vie-2017">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../maudie-2016">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Maudie
+      Taxi
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      C'est la vie!
+      Maudie
     </span>
   </div>
 </nav>

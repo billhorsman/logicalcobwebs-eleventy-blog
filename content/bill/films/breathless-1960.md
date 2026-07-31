@@ -10,22 +10,22 @@ description: "A small-time thief steals a car and impulsively murders a motorcyc
 
 <nav class="films">
   <div class="prev">
-    <a href="../rear-window-1954"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../purple-noon-1960"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">4 / 100</a>
+    <a class="simple" href="../">6 / 100</a>
   </div>
   <div class="next">
-    <a href="../la-dolce-vita-1960">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../in-the-heat-of-the-night-1967">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Rear Window
+      Purple Noon
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      La Dolce Vita
+      In the Heat of the Night
     </span>
   </div>
 </nav>

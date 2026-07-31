@@ -16,7 +16,7 @@ description: "In the secret forests of Northern Italy, a dwindling group of joyf
     <a class="simple" href="../">75 / 100</a>
   </div>
   <div class="next">
-    <a href="../belfast-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../nomadland-2021">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
@@ -25,7 +25,7 @@ description: "In the secret forests of Northern Italy, a dwindling group of joyf
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Belfast
+      Nomadland
     </span>
   </div>
 </nav>

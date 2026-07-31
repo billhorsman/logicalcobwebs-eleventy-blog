@@ -10,7 +10,7 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
 
 <nav class="films">
   <div class="prev">
-    <a href="../day-for-night-1973"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../the-sting-1973"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
     <a class="simple" href="../">13 / 100</a>
@@ -21,7 +21,7 @@ description: "Based on the true story of would-be Brooklyn bank robbers John Woj
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Day for Night
+      The Sting
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>

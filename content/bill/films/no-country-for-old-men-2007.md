@@ -176,9 +176,9 @@ description: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of
   <section class="related-films">
   <h2>Related films</h2>
   <ul>
-    <li><a href="../fargo-1996">Fargo</a> and <a href="../the-big-lebowski-1998">The Big Lebowski</a> because of Joel Coen</li>
+    <li><a href="../trainspotting-1996">Trainspotting</a> because of Kelly Macdonald</li>
+<li><a href="../fargo-1996">Fargo</a> and <a href="../the-big-lebowski-1998">The Big Lebowski</a> because of Joel Coen</li>
 <li><a href="../the-tragedy-of-macbeth-2021">The Tragedy of Macbeth</a> because of Joel Coen and Stephen Root</li>
-<li><a href="../trainspotting-1996">Trainspotting</a> because of Kelly Macdonald</li>
 <li><a href="../dune-2021">Dune</a> because of Javier Bardem and Josh Brolin</li>
 <li><a href="../lucky-2017">Lucky</a> because of Beth Grant</li>
   </ul>

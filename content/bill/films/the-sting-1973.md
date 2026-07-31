@@ -10,22 +10,22 @@ description: "A novice con man teams up with an acknowledged master to avenge th
 
 <nav class="films">
   <div class="prev">
-    <a href="../once-upon-a-time-in-the-west-1968"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../day-for-night-1973"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">11 / 100</a>
+    <a class="simple" href="../">12 / 100</a>
   </div>
   <div class="next">
-    <a href="../day-for-night-1973">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../dog-day-afternoon-1975">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Once Upon a Time in the West
+      Day for Night
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      Day for Night
+      Dog Day Afternoon
     </span>
   </div>
 </nav>

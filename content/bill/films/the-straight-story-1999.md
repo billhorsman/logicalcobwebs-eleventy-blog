@@ -10,22 +10,22 @@ description: "A retired farmer and widower in his 70s, Alvin Straight learns one
 
 <nav class="films">
   <div class="prev">
-    <a href="../magnolia-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    <a href="../fight-club-1999"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
   </div>
   <div>
-    <a class="simple" href="../">35 / 100</a>
+    <a class="simple" href="../">34 / 100</a>
   </div>
   <div class="next">
-    <a href="../the-talented-mr-ripley-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    <a href="../magnolia-1999">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
   </div>
   <div class="hint">
     <span class="prev-hint">
       <span class="sr-only">Previous film:</span>
-      Magnolia
+      Fight Club
     </span>
     <span class="next-hint">
       <span class="sr-only">Next film:</span>
-      The Talented Mr. Ripley
+      Magnolia
     </span>
   </div>
 </nav>
