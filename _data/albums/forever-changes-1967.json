@@ -1,0 +1,123 @@
+{
+  "artist": "Love",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "folk-rock/psychedelic band",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+            "name": "folk rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "b7bb11c3-bb83-4047-af65-1e8aba89039f",
+            "name": "garage rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "048a85aa-0713-40af-915f-7e34937ee23c",
+            "name": "proto-punk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "507757f0-a63c-422b-93f1-f1d77462033f",
+            "name": "psychedelic folk"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "2aeb5340-c474-4677-b9a6-35ddac9b6a58",
+            "name": "psychedelic pop"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+            "name": "psychedelic rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47",
+        "name": "Love",
+        "sort-name": "Love",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Love"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1967-11-01",
+  "genres": [
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "150eb95a-7739-4fde-a5fe-b62ca576a928",
+      "name": "baroque pop"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "d698ece0-6fed-4262-b446-42c98b73b65a",
+      "name": "psychedelic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "507757f0-a63c-422b-93f1-f1d77462033f",
+      "name": "psychedelic folk"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "2aeb5340-c474-4677-b9a6-35ddac9b6a58",
+      "name": "psychedelic pop"
+    },
+    {
+      "count": 7,
+      "disambiguation": "",
+      "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+      "name": "psychedelic rock"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "c7035bc6-6101-326f-992c-401d451c1716",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "forever-changes-1967",
+  "title": "Forever Changes",
+  "top-genres": [
+    "psychedelic rock",
+    "baroque pop",
+    "folk rock",
+    "rock",
+    "psychedelic pop"
+  ],
+  "year": "1967"
+}

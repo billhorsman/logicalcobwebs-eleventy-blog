@@ -1,0 +1,66 @@
+{
+  "artist": "The Breeders",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "1208a8e7-e5bd-4891-9f81-9a9fdfceeb39",
+            "name": "noise pop"
+          }
+        ],
+        "id": "667e856e-f3a7-42e9-8244-95422ef31321",
+        "name": "The Breeders",
+        "sort-name": "Breeders, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Breeders"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1993-08-30",
+  "genres": [
+    {
+      "count": 7,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "7aaf0618-292c-3474-bfbc-d831baf710cf",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "last-splash-1993",
+  "title": "Last Splash",
+  "top-genres": [
+    "alternative rock",
+    "rock"
+  ],
+  "year": "1993"
+}

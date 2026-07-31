@@ -1,0 +1,92 @@
+{
+  "artist": "Hüsker Dü",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "055a6e4d-d929-42ac-ba7a-9d063b254ea5",
+            "name": "hardcore punk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "aec382b7-b635-470c-9051-2f84e0b5ea1e",
+            "name": "post-hardcore"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+            "name": "punk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "5c4c90a4-539f-4101-83cf-301bc6a94e06",
+        "name": "Hüsker Dü",
+        "sort-name": "Hüsker Dü",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Hüsker Dü"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1986-03-17",
+  "genres": [
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "055a6e4d-d929-42ac-ba7a-9d063b254ea5",
+      "name": "hardcore punk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "aec382b7-b635-470c-9051-2f84e0b5ea1e",
+      "name": "post-hardcore"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "618704fc-daac-44a2-92c9-89e3b1a2fc8c",
+      "name": "power pop"
+    }
+  ],
+  "id": "adae4d00-39a8-3bc5-9ed2-8cf16df58b1a",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "candy-apple-grey-1986",
+  "title": "Candy Apple Grey",
+  "top-genres": [
+    "alternative rock",
+    "hardcore punk",
+    "post-hardcore",
+    "power pop"
+  ],
+  "year": "1986"
+}

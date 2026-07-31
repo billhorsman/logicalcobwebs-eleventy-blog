@@ -1,0 +1,151 @@
+{
+  "artist": "Stereolab",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "name": "art pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e7a3c6a-4fbc-4b66-8201-9196032768ac",
+            "name": "avant-garde pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "5d86d992-3444-4528-a385-a0fdb34ff093",
+            "name": "cocktail nation"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "f390be72-360b-41bb-a310-6a2e638779d2",
+            "name": "indie pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "9e7ae1de-d5f2-46a5-b105-11c7367dc70d",
+            "name": "indietronica"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ba318056-9ddf-46cd-8b95-61fc993b962d",
+            "name": "krautrock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "1208a8e7-e5bd-4891-9f81-9a9fdfceeb39",
+            "name": "noise pop"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "0bfffa19-4e4a-4bf7-bf53-6ec44f0a2f8e",
+            "name": "post-rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "489ebed8-1299-4761-ba0b-29d381085f82",
+            "name": "progressive pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "18e297f0-8fd3-46ac-9953-1a9a91b69596",
+            "name": "space age pop"
+          }
+        ],
+        "id": "f1df0431-9250-4ec8-95d8-f19ce7cf7fb6",
+        "name": "Stereolab",
+        "sort-name": "Stereolab",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Stereolab"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1995-09-04",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "532dcf83-5641-446d-b007-51292b401650",
+      "name": "space rock"
+    }
+  ],
+  "id": "b9fa3e8a-963e-4fcc-8839-4c315aff064d",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [
+    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+  ],
+  "secondary-types": [
+    "Compilation"
+  ],
+  "slug": "refried-ectoplasm-switched-on-volume-2-1995",
+  "title": "Refried Ectoplasm (Switched On, Volume 2)",
+  "top-genres": [
+    "alternative rock",
+    "electronic",
+    "indie rock",
+    "rock",
+    "space rock"
+  ],
+  "year": "1995"
+}

@@ -1,0 +1,84 @@
+{
+  "artist": "Paul Weller",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "English singer‐songwriter and musician",
+        "genres": [
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "f1c9b874-7ef2-4e79-9419-c0bcb5f33a30",
+            "name": "britpop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "c4406045-e640-4cfe-8b88-4732cce314d4",
+        "name": "Paul Weller",
+        "sort-name": "Weller, Paul",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Paul Weller"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1995-04-28",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "00a470c7-3944-3231-8e78-fa11b697997c",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "stanley-road-1995",
+  "title": "Stanley Road",
+  "top-genres": [
+    "rock",
+    "indie rock"
+  ],
+  "year": "1995"
+}

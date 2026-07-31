@@ -1,0 +1,123 @@
+{
+  "artist": "Art of Noise",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "name": "art pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e7a3c6a-4fbc-4b66-8201-9196032768ac",
+            "name": "avant-garde pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "8302fd70-150f-4f74-b11c-10a7ff7586b9",
+            "name": "plunderphonics"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "1384a044-7eff-4fb3-b948-a74703cf4010",
+            "name": "sampledelia"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+            "name": "synth-pop"
+          }
+        ],
+        "id": "be899560-1570-402e-9f95-3182898a8b70",
+        "name": "Art of Noise",
+        "sort-name": "Art of Noise",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Art of Noise"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1984-06-19",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "b1c0c2ad-e5ae-4bb6-a1be-d66e195fd2d7",
+      "name": "avant-garde"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+      "name": "experimental"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+      "name": "experimental rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+      "name": "instrumental"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+      "name": "new wave"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "8d275a8d-154a-4bcb-8b5a-f56306ad4bcb",
+      "name": "progressive"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+      "name": "synth-pop"
+    }
+  ],
+  "id": "a989c2cb-1331-3006-8e01-23e1d7530b75",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "whos-afraid-of-the-art-of-noise-1984",
+  "title": "(Who’s Afraid of) The Art of Noise?",
+  "top-genres": [
+    "electronic",
+    "synth-pop",
+    "new wave",
+    "avant-garde",
+    "experimental"
+  ],
+  "year": "1984"
+}

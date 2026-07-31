@@ -1,0 +1,105 @@
+{
+  "artist": "Kraftwerk",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "DE",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
+            "name": "electro"
+          },
+          {
+            "count": 18,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 11,
+            "disambiguation": "",
+            "id": "ba318056-9ddf-46cd-8b95-61fc993b962d",
+            "name": "krautrock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "2d069613-cd1b-4ce8-ad90-d0925e4ff9c9",
+            "name": "progressive electronic"
+          },
+          {
+            "count": 11,
+            "disambiguation": "",
+            "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+            "name": "synth-pop"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+            "name": "techno"
+          }
+        ],
+        "id": "5700dcd4-c139-4f31-aa3e-6382b9af9032",
+        "name": "Kraftwerk",
+        "sort-name": "Kraftwerk",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Kraftwerk"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1974-11",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
+      "name": "electro"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "3832a068-e169-40cb-9638-d0b04342f3a3",
+      "name": "experimental electronic"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "ba318056-9ddf-46cd-8b95-61fc993b962d",
+      "name": "krautrock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "2d069613-cd1b-4ce8-ad90-d0925e4ff9c9",
+      "name": "progressive electronic"
+    }
+  ],
+  "id": "f73729e8-4501-3088-aa20-44945296036e",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "autobahn-1974",
+  "title": "Autobahn",
+  "top-genres": [
+    "electronic",
+    "experimental electronic",
+    "krautrock",
+    "progressive electronic",
+    "electro"
+  ],
+  "year": "1974"
+}

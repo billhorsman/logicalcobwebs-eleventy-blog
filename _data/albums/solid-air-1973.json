@@ -1,0 +1,97 @@
+{
+  "artist": "John Martyn",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "British singer‐songwriter and guitarist",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "5ac64352-db68-4fc2-9f4a-c434349657d3",
+            "name": "british folk rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "c11e4253-a888-4a2a-adde-c274b748d0b3",
+            "name": "contemporary folk"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+            "name": "folk rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "34d08b64-7426-42e1-959e-48af44352fcd",
+            "name": "progressive folk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "e821a756-487f-4931-a02f-27cf11cec7bf",
+        "name": "John Martyn",
+        "sort-name": "Martyn, John",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "John Martyn"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1973",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "5ac64352-db68-4fc2-9f4a-c434349657d3",
+      "name": "british folk rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+      "name": "folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    }
+  ],
+  "id": "e1670336-f7b9-31b6-bd3c-77d8e8169cd9",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "solid-air-1973",
+  "title": "Solid Air",
+  "top-genres": [
+    "folk",
+    "british folk rock",
+    "folk rock"
+  ],
+  "year": "1973"
+}

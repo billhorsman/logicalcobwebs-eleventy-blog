@@ -1,0 +1,147 @@
+{
+  "artist": "My Bloody Valentine",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "IE",
+        "disambiguation": "Irish shoegaze band",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 10,
+            "disambiguation": "",
+            "id": "6242615b-5620-465b-b6fb-2e593e90cbad",
+            "name": "dream pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f390be72-360b-41bb-a310-6a2e638779d2",
+            "name": "indie pop"
+          },
+          {
+            "count": 8,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 8,
+            "disambiguation": "",
+            "id": "1208a8e7-e5bd-4891-9f81-9a9fdfceeb39",
+            "name": "noise pop"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "8e5474b7-f445-49a7-866d-0f8e34b0a519",
+            "name": "noise rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 18,
+            "disambiguation": "",
+            "id": "a4012b2e-5c27-4f81-8781-9ae5998d882c",
+            "name": "shoegaze"
+          }
+        ],
+        "id": "8ca01f46-53ac-4af2-8516-55a909c0905e",
+        "name": "My Bloody Valentine",
+        "sort-name": "My Bloody Valentine",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "My Bloody Valentine"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1991-11-04",
+  "genres": [
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "6242615b-5620-465b-b6fb-2e593e90cbad",
+      "name": "dream pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "cd99451c-f6d5-47c7-8d49-6c08b51e61aa",
+      "name": "neo-psychedelia"
+    },
+    {
+      "count": 10,
+      "disambiguation": "",
+      "id": "1208a8e7-e5bd-4891-9f81-9a9fdfceeb39",
+      "name": "noise pop"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "8e5474b7-f445-49a7-866d-0f8e34b0a519",
+      "name": "noise rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "d698ece0-6fed-4262-b446-42c98b73b65a",
+      "name": "psychedelic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+      "name": "psychedelic rock"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 19,
+      "disambiguation": "",
+      "id": "a4012b2e-5c27-4f81-8781-9ae5998d882c",
+      "name": "shoegaze"
+    }
+  ],
+  "id": "cb76227e-3ac0-3002-9a10-615a5b73cc59",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "loveless-1991",
+  "title": "Loveless",
+  "top-genres": [
+    "shoegaze",
+    "noise pop",
+    "dream pop",
+    "alternative rock",
+    "rock"
+  ],
+  "year": "1991"
+}

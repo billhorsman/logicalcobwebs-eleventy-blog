@@ -1,0 +1,66 @@
+{
+  "artist": "The Upsetters",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "JM",
+        "disambiguation": "Lee Perry's reggae house band",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "c72a5d45-75a8-4b35-9f48-67e49eb4b5e5",
+            "name": "dub"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "02b2f720-d06e-42ce-85c2-1ecd4191ffcb",
+            "name": "reggae"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "65877068-2116-4af6-89a2-838179a7e103",
+            "name": "ska"
+          }
+        ],
+        "id": "7bcf8b20-72a6-48b1-bad3-b28869090dda",
+        "name": "The Upsetters",
+        "sort-name": "Upsetters, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Upsetters"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1978",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "c72a5d45-75a8-4b35-9f48-67e49eb4b5e5",
+      "name": "dub"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "02b2f720-d06e-42ce-85c2-1ecd4191ffcb",
+      "name": "reggae"
+    }
+  ],
+  "id": "0ecf628a-7b79-32d5-8905-83c4e62a3d17",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "return-of-the-super-ape-1978",
+  "title": "Return of the Super Ape",
+  "top-genres": [
+    "dub",
+    "reggae"
+  ],
+  "year": "1978"
+}

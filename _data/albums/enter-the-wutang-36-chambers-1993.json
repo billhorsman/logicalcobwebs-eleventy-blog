@@ -1,0 +1,86 @@
+{
+  "artist": "Wu‐Tang Clan",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "d8048b43-9edb-4e1a-aa88-bb91fa847d4a",
+            "name": "boom bap"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+            "name": "east coast hip hop"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90",
+            "name": "hardcore hip hop"
+          },
+          {
+            "count": 10,
+            "disambiguation": "",
+            "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+            "name": "hip hop"
+          }
+        ],
+        "id": "0febdcf7-4e1f-4661-9493-b40427de2c13",
+        "name": "Wu‐Tang Clan",
+        "sort-name": "Wu‐Tang Clan",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Wu‐Tang Clan"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1993-11-09",
+  "genres": [
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "d8048b43-9edb-4e1a-aa88-bb91fa847d4a",
+      "name": "boom bap"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+      "name": "east coast hip hop"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90",
+      "name": "hardcore hip hop"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+      "name": "hip hop"
+    }
+  ],
+  "id": "610fb60f-900a-3c42-ac7d-f6b6aa8035f9",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "enter-the-wutang-36-chambers-1993",
+  "title": "Enter the Wu‐Tang (36 Chambers)",
+  "top-genres": [
+    "boom bap",
+    "hardcore hip hop",
+    "hip hop",
+    "east coast hip hop"
+  ],
+  "year": "1993"
+}

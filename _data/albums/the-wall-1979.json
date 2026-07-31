@@ -1,0 +1,237 @@
+{
+  "artist": "Pink Floyd",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "ef063b60-3206-466c-a7d8-7d317fcdf9fc",
+            "name": "acid rock"
+          },
+          {
+            "count": 22,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "58e325d5-54fd-4e98-b39a-3aa6bc319273",
+            "name": "blues rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "93244085-20e5-4f16-9067-1d19143b3810",
+            "name": "classic rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "8d275a8d-154a-4bcb-8b5a-f56306ad4bcb",
+            "name": "progressive"
+          },
+          {
+            "count": 57,
+            "disambiguation": "",
+            "id": "ae9b8279-3959-48d8-8a88-741a7f6d4a48",
+            "name": "progressive rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "d698ece0-6fed-4262-b446-42c98b73b65a",
+            "name": "psychedelic"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "2aeb5340-c474-4677-b9a6-35ddac9b6a58",
+            "name": "psychedelic pop"
+          },
+          {
+            "count": 45,
+            "disambiguation": "",
+            "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+            "name": "psychedelic rock"
+          },
+          {
+            "count": 30,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "baaf713d-1e4e-459e-a058-60d89ce1f9df",
+            "name": "rock opera"
+          },
+          {
+            "count": 16,
+            "disambiguation": "",
+            "id": "532dcf83-5641-446d-b007-51292b401650",
+            "name": "space rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f729e6f8-30dc-4b81-9ff4-f4e7de82225d",
+            "name": "symphonic rock"
+          }
+        ],
+        "id": "83d91898-7763-47d7-b03b-b92132375c47",
+        "name": "Pink Floyd",
+        "sort-name": "Pink Floyd",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Pink Floyd"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1979-11-30",
+  "genres": [
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "608b0471-7531-4854-a348-e698c69cb699",
+      "name": "ambient"
+    },
+    {
+      "count": 15,
+      "disambiguation": "",
+      "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+      "name": "art rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+      "name": "blues"
+    },
+    {
+      "count": 9,
+      "disambiguation": "",
+      "id": "93244085-20e5-4f16-9067-1d19143b3810",
+      "name": "classic rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "6ed4e4d1-9a97-4e2c-b8df-083754f154f4",
+      "name": "classical"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab",
+      "name": "hard rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+      "name": "house"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "97a4a75a-6e49-4519-9684-ae2ccb2fc0f9",
+      "name": "italo-disco"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+      "name": "jazz"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 22,
+      "disambiguation": "",
+      "id": "ae9b8279-3959-48d8-8a88-741a7f6d4a48",
+      "name": "progressive rock"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+      "name": "psychedelic rock"
+    },
+    {
+      "count": 20,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "baaf713d-1e4e-459e-a058-60d89ce1f9df",
+      "name": "rock opera"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "532dcf83-5641-446d-b007-51292b401650",
+      "name": "space rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "f729e6f8-30dc-4b81-9ff4-f4e7de82225d",
+      "name": "symphonic rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "2afc2320-384f-43a4-a71e-1b763c485045",
+      "name": "trance"
+    }
+  ],
+  "id": "f2026101-945b-3d05-9ef4-aa718fc3feef",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "the-wall-1979",
+  "title": "The Wall",
+  "top-genres": [
+    "progressive rock",
+    "rock",
+    "art rock",
+    "classic rock",
+    "hard rock"
+  ],
+  "year": "1979"
+}

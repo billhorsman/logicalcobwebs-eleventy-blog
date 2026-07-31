@@ -1,0 +1,111 @@
+{
+  "artist": "Pixies",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 19,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 10,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "1208a8e7-e5bd-4891-9f81-9a9fdfceeb39",
+            "name": "noise pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "bd7e1d40-43b1-4ba5-97b3-05b891466962",
+            "name": "punk rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "b76ee78d-ec97-49e9-8ea6-cfc46ecc3b23",
+            "name": "surf rock"
+          }
+        ],
+        "id": "b6b2bb8d-54a9-491f-9607-7b546023b433",
+        "name": "Pixies",
+        "sort-name": "Pixies",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Pixies"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1989-04-17",
+  "genres": [
+    {
+      "count": 9,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 8,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "aec382b7-b635-470c-9051-2f84e0b5ea1e",
+      "name": "post-hardcore"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f2e920a2-a2b4-4688-b9c4-913224e9f140",
+      "name": "slacker rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "b76ee78d-ec97-49e9-8ea6-cfc46ecc3b23",
+      "name": "surf rock"
+    }
+  ],
+  "id": "1aa41b19-5a72-341b-bd91-4cf61d1dab6b",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "doolittle-1989",
+  "title": "Doolittle",
+  "top-genres": [
+    "alternative rock",
+    "indie rock",
+    "rock",
+    "post-hardcore",
+    "slacker rock"
+  ],
+  "year": "1989"
+}

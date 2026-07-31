@@ -1,0 +1,72 @@
+{
+  "artist": "Bauhaus",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "UK gothic rock band",
+        "genres": [
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "d9f42dc1-3a92-4217-8ae5-e9672f595b8e",
+            "name": "gothic"
+          },
+          {
+            "count": 13,
+            "disambiguation": "",
+            "id": "d9858aef-25bf-478b-b135-b900aa1f0fd1",
+            "name": "gothic rock"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "0688add2-c282-4ee2-ba61-223ffdb3c201",
+        "name": "Bauhaus",
+        "sort-name": "Bauhaus",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Bauhaus"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1980-10",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "d9858aef-25bf-478b-b135-b900aa1f0fd1",
+      "name": "gothic rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "0fc9f4c7-ee00-39ec-a767-4574823c2064",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "in-the-flat-field-1980",
+  "title": "In the Flat Field",
+  "top-genres": [
+    "rock",
+    "gothic rock"
+  ],
+  "year": "1980"
+}

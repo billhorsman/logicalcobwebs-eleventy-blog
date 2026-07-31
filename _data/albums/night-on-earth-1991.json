@@ -1,0 +1,155 @@
+{
+  "artist": "Tom Waits",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "2c765e49-a12e-45eb-b628-f8b9cc0a0250",
+            "name": "americana"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "8d901306-d4a3-436c-a1c3-75550e5b6eaf",
+            "name": "avant-garde jazz"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "e60a0c34-fb01-4434-a835-a9167f136fe9",
+            "name": "beat poetry"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+            "name": "blues"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "58e325d5-54fd-4e98-b39a-3aa6bc319273",
+            "name": "blues rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "66e222b5-4a1f-4626-90c6-d0f7029d7dec",
+            "name": "dark cabaret"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "fd7b5582-e69c-40ad-90b1-d31db33be612",
+            "name": "dark jazz"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "name": "experimental"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+            "name": "folk rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ef7f6b36-cf15-408d-9eb4-fd7a46d0602b",
+            "name": "gothic country"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+            "name": "jazz"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "e671e0de-b37d-4a49-8bb3-7fec87f49975",
+            "name": "piano blues"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+        "name": "Tom Waits",
+        "sort-name": "Waits, Tom",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Tom Waits"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1991",
+  "genres": [
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "58e325d5-54fd-4e98-b39a-3aa6bc319273",
+      "name": "blues rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+      "name": "jazz"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "3c087369-e6ac-3fc3-aea6-197a17ce44ce",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [
+    "22a628ad-c082-3c4f-b1b6-d41665107b88"
+  ],
+  "secondary-types": [
+    "Soundtrack"
+  ],
+  "slug": "night-on-earth-1991",
+  "title": "Night on Earth",
+  "top-genres": [
+    "blues rock",
+    "jazz",
+    "rock"
+  ],
+  "year": "1991"
+}

@@ -1,0 +1,116 @@
+{
+  "artist": "Nick Drake",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "English singer‐songwriter",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "150eb95a-7739-4fde-a5fe-b62ca576a928",
+            "name": "baroque pop"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "5ac64352-db68-4fc2-9f4a-c434349657d3",
+            "name": "british folk rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "f0c26658-95b8-46b8-b167-fdc9a659465b",
+            "name": "chamber folk"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "c11e4253-a888-4a2a-adde-c274b748d0b3",
+            "name": "contemporary folk"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "abb2374f-30e5-4d3e-b417-2caf78ef1f6c",
+            "name": "folk pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "c88a8b97-ba4b-4d45-916f-4c4a779ccd89",
+            "name": "jazz pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f3fe6570-1e79-4ed5-8eb9-9ed64d631871",
+            "name": "orchestral"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "99ea432a-e3d8-42cb-9d5e-db316a6a8458",
+        "name": "Nick Drake",
+        "sort-name": "Drake, Nick",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Nick Drake"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1972-02-25",
+  "genres": [
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "c11e4253-a888-4a2a-adde-c274b748d0b3",
+      "name": "contemporary folk"
+    },
+    {
+      "count": 8,
+      "disambiguation": "",
+      "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+      "name": "folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "abb2374f-30e5-4d3e-b417-2caf78ef1f6c",
+      "name": "folk pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "455f264b-db00-4716-991d-fbd32dc24523",
+      "name": "singer-songwriter"
+    }
+  ],
+  "id": "740ec10a-e887-38a6-a04d-fe2069c9e2a7",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "pink-moon-1972",
+  "title": "Pink Moon",
+  "top-genres": [
+    "folk",
+    "contemporary folk",
+    "folk pop",
+    "singer-songwriter"
+  ],
+  "year": "1972"
+}

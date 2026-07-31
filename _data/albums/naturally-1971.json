@@ -1,0 +1,104 @@
+{
+  "artist": "J.J. Cale",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+            "name": "blues"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "58e325d5-54fd-4e98-b39a-3aa6bc319273",
+            "name": "blues rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "93244085-20e5-4f16-9067-1d19143b3810",
+            "name": "classic rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+            "name": "country rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "883d75d5-1365-46ee-8cbe-d3ae2facdd93",
+            "name": "roots rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+        "name": "J.J. Cale",
+        "sort-name": "Cale, J.J.",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "J.J. Cale"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1971-12",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+      "name": "blues"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "58e325d5-54fd-4e98-b39a-3aa6bc319273",
+      "name": "blues rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "a5e655a1-acd0-3d4d-982a-4ab5281db04c",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "naturally-1971",
+  "title": "Naturally",
+  "top-genres": [
+    "blues",
+    "blues rock",
+    "folk rock",
+    "rock"
+  ],
+  "year": "1971"
+}

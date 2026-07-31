@@ -1,0 +1,111 @@
+{
+  "artist": "Elvis Costello & The Attractions",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+            "name": "country"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+            "name": "new wave"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "64e0bd76-822f-4549-a6fe-9858561282d1",
+            "name": "pop soul"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "618704fc-daac-44a2-92c9-89e3b1a2fc8c",
+            "name": "power pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "0ffb6573-a98e-412e-aa01-0a580e9d8b06",
+        "name": "Elvis Costello & The Attractions",
+        "sort-name": "Costello, Elvis & The Attractions",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Elvis Costello & The Attractions"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1979-01-05",
+  "genres": [
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+      "name": "new wave"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+      "name": "post-punk"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+      "name": "rock and roll"
+    }
+  ],
+  "id": "8172d1b5-ffb8-3da7-a74a-a27eb4a0d3ff",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "armed-forces-1979",
+  "title": "Armed Forces",
+  "top-genres": [
+    "new wave",
+    "rock",
+    "alternative rock",
+    "pop rock",
+    "post-punk"
+  ],
+  "year": "1979"
+}

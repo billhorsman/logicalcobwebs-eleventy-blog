@@ -1,0 +1,327 @@
+{
+  "artist": "Björk",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "IS",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "8301f73c-9166-4108-bfeb-4fd22dc19083",
+            "name": "alternative dance"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "d3ebe947-7c03-43f5-b333-09379881b0f6",
+            "name": "alternative pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "608b0471-7531-4854-a348-e698c69cb699",
+            "name": "ambient"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "2cdcecfe-3e7c-4055-ab34-78eceabe4d9b",
+            "name": "ambient pop"
+          },
+          {
+            "count": 22,
+            "disambiguation": "",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "name": "art pop"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "b1c0c2ad-e5ae-4bb6-a1be-d66e195fd2d7",
+            "name": "avant-garde"
+          },
+          {
+            "count": 8,
+            "disambiguation": "",
+            "id": "0e7a3c6a-4fbc-4b66-8201-9196032768ac",
+            "name": "avant-garde pop"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "150eb95a-7739-4fde-a5fe-b62ca576a928",
+            "name": "baroque pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
+            "name": "breakbeat"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "bab69b07-8bb9-4415-b666-c37609cef80b",
+            "name": "club"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+            "name": "dance"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+            "name": "downtempo"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "3976e9ba-16d0-461d-b732-99408a0374ba",
+            "name": "edm"
+          },
+          {
+            "count": 27,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "name": "electronica"
+          },
+          {
+            "count": 31,
+            "disambiguation": "",
+            "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "name": "experimental"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "ec5a14c7-7793-46dc-b858-470183eb63f7",
+            "name": "folktronica"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "e254f865-58ea-4483-9b2f-1bc65febcd71",
+            "name": "future bass"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+            "name": "house"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+            "name": "idm"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "060beed7-e597-4c42-8e25-5bf8bd5dd3cb",
+            "name": "industrial"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+            "name": "jazz"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "7369bb8b-3399-4180-8cb2-4e37e0e7b0e7",
+            "name": "latin"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "32bea60c-e201-4241-8ed4-228636d34a97",
+            "name": "leftfield"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "name": "pop"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "489ebed8-1299-4761-ba0b-29d381085f82",
+            "name": "progressive pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "9a339aa8-a0e5-450c-95a7-b11517bb508f",
+            "name": "trap"
+          },
+          {
+            "count": 11,
+            "disambiguation": "",
+            "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+            "name": "trip hop"
+          }
+        ],
+        "id": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
+        "name": "Björk",
+        "sort-name": "Björk",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Björk"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1993-07-12",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "8301f73c-9166-4108-bfeb-4fd22dc19083",
+      "name": "alternative dance"
+    },
+    {
+      "count": 7,
+      "disambiguation": "",
+      "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+      "name": "art pop"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+      "name": "dance-pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+      "name": "deep house"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+      "name": "diva house"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+      "name": "downtempo"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
+      "name": "electro"
+    },
+    {
+      "count": 11,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+      "name": "experimental"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+      "name": "house"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+      "name": "idm"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "32bea60c-e201-4241-8ed4-228636d34a97",
+      "name": "leftfield"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+      "name": "synth-pop"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "57159d7c-faa8-4266-abe1-7504e312fc88",
+      "name": "tribal house"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+      "name": "trip hop"
+    }
+  ],
+  "id": "6891a28c-5865-36e2-9e5f-c9fac1d3595f",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "debut-1993",
+  "title": "Debut",
+  "top-genres": [
+    "electronic",
+    "art pop",
+    "house",
+    "dance-pop",
+    "experimental"
+  ],
+  "year": "1993"
+}
