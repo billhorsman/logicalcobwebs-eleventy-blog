@@ -1,0 +1,99 @@
+{
+  "artist": "Placebo",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "UK alternative rock band",
+        "genres": [
+          {
+            "count": 13,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "847e8284-8582-4b0e-9c26-b042a4f49e57",
+        "name": "Placebo",
+        "sort-name": "Placebo",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Placebo"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1998-10-12",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "d3ebe947-7c03-43f5-b333-09379881b0f6",
+      "name": "alternative pop"
+    },
+    {
+      "count": 10,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f1c9b874-7ef2-4e79-9419-c0bcb5f33a30",
+      "name": "britpop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "60e21d01-ce21-4127-86b7-aada79558dab",
+      "name": "pop punk"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "b568aff6-f2b2-3fe0-980f-417df6ccfad4",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "without-you-im-nothing-1998",
+  "title": "Without You I’m Nothing",
+  "top-genres": [
+    "alternative rock",
+    "rock",
+    "alternative pop",
+    "britpop",
+    "pop"
+  ],
+  "year": "1998"
+}

@@ -1,0 +1,75 @@
+{
+  "artist": "Beth Gibbons",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          }
+        ],
+        "id": "5adcb9d9-5ea2-428d-af46-ef626966e106",
+        "name": "Beth Gibbons",
+        "sort-name": "Gibbons, Beth",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Beth Gibbons"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2024-05-17",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+      "name": "art rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f0c26658-95b8-46b8-b167-fdc9a659465b",
+      "name": "chamber folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "34d08b64-7426-42e1-959e-48af44352fcd",
+      "name": "progressive folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "507757f0-a63c-422b-93f1-f1d77462033f",
+      "name": "psychedelic folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "455f264b-db00-4716-991d-fbd32dc24523",
+      "name": "singer-songwriter"
+    }
+  ],
+  "id": "eaa72e4a-0e22-471f-bc92-97fd5d93d7d3",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "lives-outgrown-2024",
+  "title": "Lives Outgrown",
+  "top-genres": [
+    "art rock",
+    "chamber folk",
+    "progressive folk",
+    "psychedelic folk",
+    "singer-songwriter"
+  ],
+  "year": "2024"
+}

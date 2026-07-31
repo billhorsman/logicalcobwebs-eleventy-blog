@@ -1,0 +1,141 @@
+{
+  "artist": "Boards of Canada",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "Scottish electronic duo",
+        "genres": [
+          {
+            "count": 18,
+            "disambiguation": "",
+            "id": "608b0471-7531-4854-a348-e698c69cb699",
+            "name": "ambient"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
+            "name": "ambient techno"
+          },
+          {
+            "count": 13,
+            "disambiguation": "",
+            "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+            "name": "downtempo"
+          },
+          {
+            "count": 22,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "ec5a14c7-7793-46dc-b858-470183eb63f7",
+            "name": "folktronica"
+          },
+          {
+            "count": 10,
+            "disambiguation": "",
+            "id": "05039e37-4520-4d1e-8173-92a7915a452b",
+            "name": "hauntology"
+          },
+          {
+            "count": 22,
+            "disambiguation": "",
+            "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+            "name": "idm"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+            "name": "trip hop"
+          }
+        ],
+        "id": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e",
+        "name": "Boards of Canada",
+        "sort-name": "Boards of Canada",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Boards of Canada"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2002-02-13",
+  "genres": [
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "608b0471-7531-4854-a348-e698c69cb699",
+      "name": "ambient"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "b1c0c2ad-e5ae-4bb6-a1be-d66e195fd2d7",
+      "name": "avant-garde"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+      "name": "downtempo"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "05039e37-4520-4d1e-8173-92a7915a452b",
+      "name": "hauntology"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+      "name": "idm"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+      "name": "instrumental"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "8d275a8d-154a-4bcb-8b5a-f56306ad4bcb",
+      "name": "progressive"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "d698ece0-6fed-4262-b446-42c98b73b65a",
+      "name": "psychedelic"
+    }
+  ],
+  "id": "8183834a-6c8a-39ef-a7bc-a82f79b929e9",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "geogaddi-2002",
+  "title": "Geogaddi",
+  "top-genres": [
+    "electronic",
+    "idm",
+    "ambient",
+    "downtempo",
+    "avant-garde"
+  ],
+  "year": "2002"
+}

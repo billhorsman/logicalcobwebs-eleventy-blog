@@ -1,0 +1,86 @@
+{
+  "artist": "The Wedding Present",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "17cee13b-8725-43d1-a52a-6786933c0166",
+            "name": "c86"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          }
+        ],
+        "id": "707622da-475f-48e1-905d-248718df6521",
+        "name": "The Wedding Present",
+        "sort-name": "Wedding Present, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Wedding Present"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2019-04-26",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "629103ac-e282-47ab-9793-59eee88eb548",
+      "name": "interview"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "018b7630-8941-4966-90e4-3774daea4e04",
+      "name": "non-music"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "e9005e9e-997b-4381-bdaa-3cae95ec12f3",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [
+    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+    "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+  ],
+  "secondary-types": [
+    "Compilation",
+    "Live"
+  ],
+  "slug": "the-complete-ukrainian-john-peel-sessions-2019",
+  "title": "The Complete Ukrainian John Peel Sessions",
+  "top-genres": [
+    "indie rock",
+    "interview",
+    "non-music",
+    "rock"
+  ],
+  "year": "2019"
+}

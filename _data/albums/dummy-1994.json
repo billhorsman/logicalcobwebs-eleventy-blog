@@ -1,0 +1,98 @@
+{
+  "artist": "Portishead",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+            "name": "downtempo"
+          },
+          {
+            "count": 8,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "name": "electronica"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ec5a14c7-7793-46dc-b858-470183eb63f7",
+            "name": "folktronica"
+          },
+          {
+            "count": 14,
+            "disambiguation": "",
+            "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+            "name": "trip hop"
+          }
+        ],
+        "id": "8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11",
+        "name": "Portishead",
+        "sort-name": "Portishead",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Portishead"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1994-08-22",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "7dc2b20f-3953-4874-b9bf-41b8ba06d20c",
+      "name": "acid jazz"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+      "name": "downtempo"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 20,
+      "disambiguation": "",
+      "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+      "name": "trip hop"
+    }
+  ],
+  "id": "48140466-cff6-3222-bd55-63c27e43190d",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "dummy-1994",
+  "title": "Dummy",
+  "top-genres": [
+    "trip hop",
+    "electronic",
+    "downtempo",
+    "acid jazz"
+  ],
+  "year": "1994"
+}

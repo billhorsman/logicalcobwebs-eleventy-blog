@@ -1,0 +1,81 @@
+{
+  "artist": "David Holmes",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "Northern Irish musician and score composer",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+            "name": "downtempo"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+            "name": "trip hop"
+          }
+        ],
+        "id": "a53f5eed-f9f1-4cf1-9994-4c9374904790",
+        "name": "David Holmes",
+        "sort-name": "Holmes, David",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "David Holmes"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1997-09-01",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
+      "name": "breakbeat"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+      "name": "downtempo"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+      "name": "techno"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+      "name": "trip hop"
+    }
+  ],
+  "id": "65ee6fe4-2f93-3ec4-afca-801bc8fe6a3f",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "lets-get-killed-1997",
+  "title": "Let’s Get Killed",
+  "top-genres": [
+    "downtempo",
+    "breakbeat",
+    "electronic",
+    "techno",
+    "trip hop"
+  ],
+  "year": "1997"
+}

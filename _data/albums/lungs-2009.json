@@ -1,0 +1,153 @@
+{
+  "artist": "Florence + the Machine",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "name": "art pop"
+          },
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "f390be72-360b-41bb-a310-6a2e638779d2",
+            "name": "indie pop"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "name": "pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "64e0bd76-822f-4549-a6fe-9858561282d1",
+            "name": "pop soul"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "5fee3020-513b-48c2-b1f7-4681b01db0c6",
+        "name": "Florence + the Machine",
+        "sort-name": "Florence and the Machine",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Florence + the Machine"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2009-06-13",
+  "genres": [
+    {
+      "count": 8,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+      "name": "art pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "150eb95a-7739-4fde-a5fe-b62ca576a928",
+      "name": "baroque pop"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "f0843e91-c025-4dd7-8aef-6fe3d35470d9",
+      "name": "chamber pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "f390be72-360b-41bb-a310-6a2e638779d2",
+      "name": "indie pop"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "64e0bd76-822f-4549-a6fe-9858561282d1",
+      "name": "pop soul"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "50fe703f-173e-496a-9155-b2a495d704e5",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "lungs-2009",
+  "title": "Lungs",
+  "top-genres": [
+    "alternative rock",
+    "indie pop",
+    "rock",
+    "art pop",
+    "chamber pop"
+  ],
+  "year": "2009"
+}

@@ -1,0 +1,117 @@
+{
+  "artist": "Ultravox",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "391a797d-50d7-46df-b380-39ccacd52a09",
+            "name": "new romantic"
+          },
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+            "name": "new wave"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "name": "pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+            "name": "synth-pop"
+          }
+        ],
+        "id": "7e786a4c-c743-4713-9340-a6f12d8515d4",
+        "name": "Ultravox",
+        "sort-name": "Ultravox",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Ultravox"
+    }
+  ],
+  "disambiguation": "album",
+  "first-release-date": "1980-07-11",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+      "name": "art pop"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "391a797d-50d7-46df-b380-39ccacd52a09",
+      "name": "new romantic"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+      "name": "new wave"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+      "name": "synth-pop"
+    }
+  ],
+  "id": "7793c026-9479-35b8-9f54-fc0bdd03e676",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "vienna-1980",
+  "title": "Vienna",
+  "top-genres": [
+    "new wave",
+    "new romantic",
+    "art pop",
+    "synth-pop",
+    "pop"
+  ],
+  "year": "1980"
+}

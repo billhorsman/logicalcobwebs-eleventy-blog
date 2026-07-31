@@ -1,0 +1,117 @@
+{
+  "artist": "Gil Scott‐Heron",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "fe4ba6a1-9873-4fd0-a12b-a70c81818514",
+            "name": "funk"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "d690e28c-828d-4011-ad0e-b157a222597e",
+            "name": "jazz poetry"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "f3c43ae8-839a-4523-b295-cfa4eba6c911",
+            "name": "jazz-funk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "1b5e7b16-336b-473e-a364-5120413a9827",
+            "name": "soul"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "e70f0aa3-9531-448c-8182-7ff34e3d74f8",
+            "name": "soul jazz"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "c774791e-1b78-4794-a109-befb712ef44d",
+            "name": "spoken word"
+          }
+        ],
+        "id": "b5b89643-c488-4f39-a302-25cab31084a5",
+        "name": "Gil Scott‐Heron",
+        "sort-name": "Scott‐Heron, Gil",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Gil Scott‐Heron"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1971",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+      "name": "jazz"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "f3c43ae8-839a-4523-b295-cfa4eba6c911",
+      "name": "jazz-funk"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "15570d3c-756e-429e-ad67-653cb29ae886",
+      "name": "poetry"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "597e93aa-2a1b-4a9b-961b-25993b5e1cf6",
+      "name": "progressive soul"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "1b5e7b16-336b-473e-a364-5120413a9827",
+      "name": "soul"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "e70f0aa3-9531-448c-8182-7ff34e3d74f8",
+      "name": "soul jazz"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "c774791e-1b78-4794-a109-befb712ef44d",
+      "name": "spoken word"
+    }
+  ],
+  "id": "950f8cdc-da7b-3cd1-8d98-1c73cf5432d9",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "pieces-of-a-man-1971",
+  "title": "Pieces of a Man",
+  "top-genres": [
+    "soul jazz",
+    "soul",
+    "spoken word",
+    "jazz",
+    "jazz-funk"
+  ],
+  "year": "1971"
+}

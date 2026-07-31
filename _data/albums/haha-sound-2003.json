@@ -1,0 +1,165 @@
+{
+  "artist": "Broadcast",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "UK electronic band",
+        "genres": [
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "2cdcecfe-3e7c-4055-ab34-78eceabe4d9b",
+            "name": "ambient pop"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "0e7a3c6a-4fbc-4b66-8201-9196032768ac",
+            "name": "avant-garde pop"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "6242615b-5620-465b-b6fb-2e593e90cbad",
+            "name": "dream pop"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "name": "electronica"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "05039e37-4520-4d1e-8173-92a7915a452b",
+            "name": "hauntology"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f390be72-360b-41bb-a310-6a2e638779d2",
+            "name": "indie pop"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "9e7ae1de-d5f2-46a5-b105-11c7367dc70d",
+            "name": "indietronica"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "faf91afb-d07f-46dc-bf38-45200c22201f",
+            "name": "moogsploitation"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "cd99451c-f6d5-47c7-8d49-6c08b51e61aa",
+            "name": "neo-psychedelia"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "2aeb5340-c474-4677-b9a6-35ddac9b6a58",
+            "name": "psychedelic pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "18e297f0-8fd3-46ac-9953-1a9a91b69596",
+            "name": "space age pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0be99ba1-2377-4e5a-a1ed-ca0f3c9c84fa",
+            "name": "tape music"
+          }
+        ],
+        "id": "aaae25bf-c794-45d7-bab7-cdc7c655bfa6",
+        "name": "Broadcast",
+        "sort-name": "Broadcast",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Broadcast"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2003-08-09",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e7a3c6a-4fbc-4b66-8201-9196032768ac",
+      "name": "avant-garde pop"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+      "name": "downtempo"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+      "name": "experimental"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "9e7ae1de-d5f2-46a5-b105-11c7367dc70d",
+      "name": "indietronica"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "cd99451c-f6d5-47c7-8d49-6c08b51e61aa",
+      "name": "neo-psychedelia"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "18e297f0-8fd3-46ac-9953-1a9a91b69596",
+      "name": "space age pop"
+    }
+  ],
+  "id": "38a3b1fa-90dc-3dae-9984-af0e0c616226",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "haha-sound-2003",
+  "title": "Haha Sound",
+  "top-genres": [
+    "electronic",
+    "downtempo",
+    "experimental",
+    "avant-garde pop",
+    "indietronica"
+  ],
+  "year": "2003"
+}

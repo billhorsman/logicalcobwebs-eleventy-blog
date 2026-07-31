@@ -1,0 +1,99 @@
+{
+  "artist": "The Jam",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "late 70s/early 80s UK punk/mod revival band",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "f5ce6b81-b277-4a23-ba23-2e1e2a7e51ac",
+            "name": "mod"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "d7bed65c-06c4-4d3e-9cdf-3612728f9059",
+            "name": "mod revival"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+            "name": "new wave"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "64e0bd76-822f-4549-a6fe-9858561282d1",
+            "name": "pop soul"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "618704fc-daac-44a2-92c9-89e3b1a2fc8c",
+            "name": "power pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+            "name": "punk"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "bd7e1d40-43b1-4ba5-97b3-05b891466962",
+            "name": "punk rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "23228f18-01d5-493e-94ce-cfcde82a8db2",
+        "name": "The Jam",
+        "sort-name": "Jam, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Jam"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1983-09",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "70b99f7b-343d-329a-9a2d-fc9711515f0a",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [
+    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+  ],
+  "secondary-types": [
+    "Compilation"
+  ],
+  "slug": "snap-1983",
+  "title": "Snap!",
+  "top-genres": [
+    "rock"
+  ],
+  "year": "1983"
+}

@@ -1,0 +1,90 @@
+{
+  "artist": "Lou Reed",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "54d89e62-5bfb-42bc-a321-9230e6fdcd75",
+            "name": "glam rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab",
+            "name": "hard rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "89c7c9b3-215e-482f-bce3-3219ffd0a222",
+            "name": "noise"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "9d1ebcfe-4c15-4d18-95d3-d919898638a1",
+        "name": "Lou Reed",
+        "sort-name": "Reed, Lou",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Lou Reed"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2000-04-03",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "93244085-20e5-4f16-9067-1d19143b3810",
+      "name": "classic rock"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "001c2db4-68d0-34ba-80e0-992628859eba",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "ecstasy-2000",
+  "title": "Ecstasy",
+  "top-genres": [
+    "rock",
+    "classic rock"
+  ],
+  "year": "2000"
+}

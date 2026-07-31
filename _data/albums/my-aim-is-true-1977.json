@@ -1,0 +1,129 @@
+{
+  "artist": "Elvis Costello",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+            "name": "new wave"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "name": "pop"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "618704fc-daac-44a2-92c9-89e3b1a2fc8c",
+            "name": "power pop"
+          },
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "86c3d53d-c9db-44a2-930c-d3145cbf7b7b",
+            "name": "pub rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "8a338e06-d182-46f2-bd16-30a09bc840ba",
+        "name": "Elvis Costello",
+        "sort-name": "Costello, Elvis",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Elvis Costello"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1977-07-22",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+      "name": "country"
+    },
+    {
+      "count": 9,
+      "disambiguation": "",
+      "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+      "name": "new wave"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "618704fc-daac-44a2-92c9-89e3b1a2fc8c",
+      "name": "power pop"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "86c3d53d-c9db-44a2-930c-d3145cbf7b7b",
+      "name": "pub rock"
+    },
+    {
+      "count": 10,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+      "name": "rockabilly"
+    }
+  ],
+  "id": "c7a4740f-2729-3895-8498-08c521886a95",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "my-aim-is-true-1977",
+  "title": "My Aim Is True",
+  "top-genres": [
+    "rock",
+    "new wave",
+    "pub rock",
+    "pop rock",
+    "country"
+  ],
+  "year": "1977"
+}

@@ -1,0 +1,105 @@
+{
+  "artist": "Yeah Yeah Yeahs",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "b7bb11c3-bb83-4047-af65-1e8aba89039f",
+            "name": "garage rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "584c04d2-4acc-491b-8a0a-e63133f4bfc4",
+        "name": "Yeah Yeah Yeahs",
+        "sort-name": "Yeah Yeah Yeahs",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Yeah Yeah Yeahs"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2003-04-28",
+  "genres": [
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "fd5bea65-15ef-44c4-83fb-ba15013b3596",
+      "name": "garage punk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "b7bb11c3-bb83-4047-af65-1e8aba89039f",
+      "name": "garage rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "8875a441-7b19-4729-9a02-89525ad84574",
+      "name": "garage rock revival"
+    },
+    {
+      "count": 12,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "e8e2d824-dd32-3b24-9c7c-24619fbe86a9",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "fever-to-tell-2003",
+  "title": "Fever to Tell",
+  "top-genres": [
+    "indie rock",
+    "rock",
+    "alternative rock",
+    "garage rock revival",
+    "garage punk"
+  ],
+  "year": "2003"
+}

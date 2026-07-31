@@ -1,0 +1,138 @@
+{
+  "artist": "King Creosote & Jon Hopkins",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          }
+        ],
+        "id": "142dd7b6-6466-4839-84f6-0edfaaff0d97",
+        "name": "King Creosote",
+        "sort-name": "King Creosote",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": " & ",
+      "name": "King Creosote"
+    },
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "608b0471-7531-4854-a348-e698c69cb699",
+            "name": "ambient"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "a190bb32-e0a7-4c56-b142-5cf9cfcfa713",
+            "name": "contemporary classical"
+          },
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "name": "electronica"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+            "name": "idm"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0",
+            "name": "tech house"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+            "name": "techno"
+          }
+        ],
+        "id": "0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd",
+        "name": "Jon Hopkins",
+        "sort-name": "Hopkins, Jon",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Jon Hopkins"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2011-03-28",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+      "name": "downtempo"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+      "name": "folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ec5a14c7-7793-46dc-b858-470183eb63f7",
+      "name": "folktronica"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "36917620-240a-4fed-abcb-7be611ac3834",
+      "name": "indie folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "345d451b-0144-48e4-8b8a-18a3a12f2d9b",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "diamond-mine-2011",
+  "title": "Diamond Mine",
+  "top-genres": [
+    "downtempo",
+    "electronic",
+    "folk",
+    "folktronica",
+    "indie folk"
+  ],
+  "year": "2011"
+}
