@@ -60,9 +60,9 @@ eleventyComputed:
   </p>
 
   {%- if album_notes[slug] %}
-  <blockquote class="album-note">
-    {{ album_notes[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-  </blockquote>
+  <section class="album-note">
+    {{ album_notes[slug] | markdown | safe }}
+  </section>
   {%- endif %}
 
   {%- if album.tracks.length %}

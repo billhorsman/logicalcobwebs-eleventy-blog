@@ -1,0 +1,1 @@
+I borrowed this first off my sister and it sounded so different to what I expected The Beatles to sound like. A few standout tracks are: Dear Prudence, While My Guitar Gently Weeps, Happiness is a Warm Gun, Blackbird, Rocky Racoon, Birthday, Helter Skelter ("I've got blisters on my fingers!"). Is that too many?

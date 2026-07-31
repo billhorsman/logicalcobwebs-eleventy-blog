@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs";
 import yaml from "js-yaml";
+import markdownIt from "markdown-it";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
@@ -112,8 +113,14 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addFilter("albumCoverExists", (slug) =>
 		existsSync(`content/bill/albums/covers/${slug}.jpg`));
 
-	// YAML data files, e.g. _data/album_notes.yaml
+	// YAML data files
 	eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
+
+	// Markdown data files, e.g. _data/album_notes/<slug>.md — loaded as
+	// raw markdown strings, rendered where used with the markdown filter
+	eleventyConfig.addDataExtension("md", (contents) => contents);
+	const markdownRenderer = markdownIt({ html: true });
+	eleventyConfig.addFilter("markdown", (content) => markdownRenderer.render(content || ""));
 	eleventyConfig.addPlugin(pluginDcaTicket);
 
 	eleventyConfig.addPlugin(IdAttributePlugin, {

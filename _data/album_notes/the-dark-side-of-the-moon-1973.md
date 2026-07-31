@@ -1,0 +1,1 @@
+I first listened to this on borrowed vinyl in the early 80s. Favourite track is probably The Great Gig in the Sky. Those vocals from Clare Torry! I'm also partial to Dub Side of the Moon by the Easy Star All Stars that I heard for the first time in a café — I gradually became aware that I wasn't listening to the original.

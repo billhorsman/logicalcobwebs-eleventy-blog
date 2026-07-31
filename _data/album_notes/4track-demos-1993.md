@@ -1,0 +1,1 @@
+Another John Peel introduction (Festive Fifty I think?). I love the lack of production and the rawness. The coughing on the start of Legs, and that opening, strained, extended "Oh, you're divine". Beautiful.

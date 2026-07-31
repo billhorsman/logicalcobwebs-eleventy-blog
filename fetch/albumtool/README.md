@@ -57,6 +57,11 @@ If a cover is wrong, ugly, or missing:
 The index crops covers to square in CSS, so a slightly-off scan only
 loses a sliver at the edges.
 
+## Notes
+
+Drop a markdown file at `_data/album_notes/<slug>.md` and it renders
+above the tracklist on that album's page. No file, no note.
+
 ## Tracklists
 
 Album pages list the tracks of the earliest official release. To use a

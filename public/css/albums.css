@@ -227,15 +227,9 @@ article.album {
 
 }
 
-blockquote.album-note {
-	font-size: 1.1rem;
-	font-style: italic;
+section.album-note {
 	margin: 1.5rem 0;
-
-	& em {
-		font-size: 0.9rem;
-		opacity: 0.75;
-	}
+	text-align: left;
 }
 
 section.album-tracks {

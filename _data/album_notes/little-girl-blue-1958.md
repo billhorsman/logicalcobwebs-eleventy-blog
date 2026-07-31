@@ -1,0 +1,1 @@
+I could listen to this again and again, especially with headphones on. Her voice is so distinctive but it's the piano that gets me. I could have chosen many albums from Nina Simone but this was the one I listened to first and my favourite.
