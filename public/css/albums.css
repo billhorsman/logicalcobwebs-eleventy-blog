@@ -48,6 +48,10 @@ body.albums main {
 
 	& img,
 	& .album-card-no-cover {
+		/* Sleeve scans are rarely exactly square; crop a sliver rather
+		   than letting card heights (and titles) drift */
+		aspect-ratio: 1;
+		object-fit: cover;
 		border-radius: 4px;
 		box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 		width: 100%;

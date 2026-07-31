@@ -28,6 +28,35 @@ the picker. While the top 100 has fewer than 100 entries, added albums
 join it automatically (kept in release-date order); once it's full,
 swaps are made by hand.
 
+## Better artwork
+
+If a cover is wrong, ugly, or missing:
+
+- **Pin a specific edition's art.** Find the release on musicbrainz.org
+  whose cover you want (the release page's Cover Art tab shows it) and:
+
+  ```sh
+  ./bin/albumtool cover <slug> https://musicbrainz.org/release/<mbid>
+  ```
+
+- **Re-run the automatic hunt.** Delete
+  `content/bill/albums/covers/<slug>.jpg`, then:
+
+  ```sh
+  ./bin/albumtool covers
+  ```
+
+  This retries every album with a missing cover: the Cover Art
+  Archive first (preferring square images), then Discogs (needs
+  `DISCOGS_TOKEN` in `.env`).
+
+- **Manual override.** Drop any square JPEG at
+  `content/bill/albums/covers/<slug>.jpg` — the tool never overwrites
+  an existing cover.
+
+The index crops covers to square in CSS, so a slightly-off scan only
+loses a sliver at the edges.
+
 ## Curating the top 100 (and top 5)
 
 Like films, the lists are curated by hand:
