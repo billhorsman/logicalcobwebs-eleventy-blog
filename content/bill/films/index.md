@@ -6,6 +6,8 @@ ogImage: content/bill/films/montage.jpg
 layout: layouts/films.njk
 ---
 
+<h1 class="visually-hidden">Films</h1>
+
 ## Favourite Films
 
 {% set firstFilm = films[top_films[0]] %}

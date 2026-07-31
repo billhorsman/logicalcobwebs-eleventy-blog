@@ -6,6 +6,8 @@ eleventyComputed:
   description: "Bill Horsman's top {{ top_albums.length }} albums, from {{ albums[top_albums[0]].year }} to {{ albums[top_albums[top_albums.length - 1]].year }}."
 ---
 
+<h1 class="visually-hidden">Albums</h1>
+
 ## Favourite Albums
 
 {% set firstAlbum = albums[top_albums[0]] %}

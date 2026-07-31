@@ -297,3 +297,13 @@ album-top-five-badge {
 	border-radius: 0.25rem;
 	padding: 0 0.25rem;
 }
+
+@media (prefers-reduced-motion: reduce) {
+	.album-card img,
+	.album-card album-card-no-cover,
+	.albums-nav i,
+	.album-listen i {
+		transition: none !important;
+		transform: none !important;
+	}
+}
