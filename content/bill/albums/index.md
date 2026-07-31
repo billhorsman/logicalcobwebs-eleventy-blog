@@ -27,6 +27,8 @@ If you only listen to {{ top_5_albums.length }} albums&hellip; well, that would 
 
 ### Top {{ top_albums.length }}
 
+In order of release date, rather than a ranking. 
+
 <section class="album-grid">
 {% set gridSlugs = top_albums %}
 {% include "album-grid.njk" %}
