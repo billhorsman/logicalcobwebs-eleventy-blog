@@ -6,7 +6,7 @@ ogImage: content/blog/2024/markdown-with-pandoc-and-netlify/step-2.png
 date: 2024-11-17
 author: Bill Horsman
 tags:
-  - coding
+  - Coding
 ---
 
 I wanted to share some markdown by publishing it as a webpage. There are a bunch of ways to do that (like the very good [HackMD](https://hackmd.io/)) but I wanted a bit more control over how it looked and fewer distracting things on the page.

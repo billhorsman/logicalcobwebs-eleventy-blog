@@ -6,9 +6,9 @@ ogImage: content/blog/2023/just-rails/rails.png
 date: 2023-12-15
 author: Bill Horsman
 tags:
-  - coding
-  - rails
-  - hotwire
+  - Coding
+  - Rails
+  - Hotwire
 ---
 
 We needed to build an app from scratch a couple of months ago which is always an opportunity to try out some new ideas. After a few years of building Vue apps (living inside Ruby on Rails) we decided to see what would happen if we stuck to Rails' recommendations &mdash; simplifying everything as much as possible.

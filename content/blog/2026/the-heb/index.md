@@ -4,10 +4,10 @@ description: Writing down my history of the Heb races over the years so I don't 
 date: 2026-01-10
 author: Bill Horsman
 tags:
-  - running
-  - biking
-  - kayaking
-  - adventure
+  - Running
+  - Biking
+  - Kayaking
+  - Adventure
 ---
 
 ## Before the Heb

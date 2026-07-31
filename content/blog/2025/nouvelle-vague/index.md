@@ -1,11 +1,11 @@
 ---
-title: Nouvelle Vague Review
+title: Nouvelle Vague
 ogImage: content/bill/films/backdrops/nouvelle-vague-2025.jpg
 description: Bill's review of Nouvelle Vague — ⭐⭐⭐⭐⭐
 filmSlug: nouvelle-vague-2025
 date: 2025-12-10
 author: Bill Horsman
-tags: films
+tags: Film review
 ---
 
 {% include "film-backdrop-and-poster.njk" %}

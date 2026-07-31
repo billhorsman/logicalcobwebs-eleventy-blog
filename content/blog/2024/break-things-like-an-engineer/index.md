@@ -6,7 +6,7 @@ ogImage: content/blog/2024/break-things-like-an-engineer/furnace.png
 date: 2024-11-15
 author: Bill Horsman
 tags:
-  - engineering
+  - Engineering
 ---
 
 <div class="post-credit">

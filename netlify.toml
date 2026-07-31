@@ -1,6 +1,10 @@
 [build]
 	publish = "_site"
 	command = "npm run build"
+[[redirects]]
+  from = "/tags/films/"
+  to = "/tags/film-review/"
+  status = 301
 [[plugins]]
   package = "netlify-plugin-cache"
   [plugins.inputs]

@@ -291,7 +291,6 @@ header {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  text-transform: capitalize;
   text-decoration: none;
   font-style: italic;
   padding: 0 0.25rem;

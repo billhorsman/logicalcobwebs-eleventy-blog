@@ -6,9 +6,9 @@ ogImage: content/blog/2023/blogging-with-eleventy/eleventy.png
 date: 2023-03-27
 author: Bill Horsman
 tags:
-  - coding
-  - eleventy
-  - docker
+  - Coding
+  - Eleventy
+  - Docker
 ---
 
 Having posted sporadically on Medium I thought I'd finally put my thoughts into my own space. I moved the [Logical Cobwebs](https://logicalcobwebs.com) website to Eleventy last week and while I'm on a roll&hellip;

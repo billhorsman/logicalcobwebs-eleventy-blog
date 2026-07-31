@@ -1,11 +1,11 @@
 ---
-title: Honey Don't Review
+title: Honey Don't
 ogImage: content/bill/films/backdrops/honey-dont-2025.jpg
 description: Bill's review of Honey Don't by Ethan Coen — ⭐⭐⭐⭐
 filmSlug: honey-dont-2025
 date: 2025-09-26
 author: Bill Horsman
-tags: films
+tags: Film review
 ---
 
 {% include "film-backdrop-and-poster.njk" %}

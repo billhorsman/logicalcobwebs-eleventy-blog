@@ -3,7 +3,7 @@ title: Kagi and Orion
 description: Switching to Kagi for search and the Orion browser
 date: 2025-09-07
 author: Bill Horsman
-tags: computing, privacy
+tags: Computing, privacy
 ---
 
 ## Search

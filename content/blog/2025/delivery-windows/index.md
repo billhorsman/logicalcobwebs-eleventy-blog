@@ -4,7 +4,7 @@ description: How they should work, what's not acceptable, general ranting
 date: 2025-05-03
 author: Bill Horsman
 tags:
-  - minifesto
+  - Minifesto
 ---
 
 <style>

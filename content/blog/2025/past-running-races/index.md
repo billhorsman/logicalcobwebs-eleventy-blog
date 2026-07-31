@@ -5,7 +5,7 @@ ogImage: content/blog/2025/past-running-races/shoes.png
 date: 2025-04-29
 author: Bill Horsman
 tags:
-  - running
+  - Running
 ---
 
 I look to [Strava](https://www.strava.com/athletes/5349071) as the primary source for all my running data but I only joined Strava on 23 June 2014 and my brain is almost forgetting (has forgotten?) stuff I did before that. This is an attempt to remember and a work-in-progress.

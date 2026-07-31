@@ -5,7 +5,7 @@ ogImage: content/blog/2025/edinburgh-marathon/cover.jpg
 date: 2025-03-31
 author: Bill Horsman
 tags:
-  - running
+  - Running
 ---
 
 I'm running the [Edinburgh Marathon](https://www.edinburghmarathon.com/) again on 25 May 2025. It's in aid of [Macmillan Cancer Support](https://www.macmillan.org.uk/) and I'd really appreciate your support. 

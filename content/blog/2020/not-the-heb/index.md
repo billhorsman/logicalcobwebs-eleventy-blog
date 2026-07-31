@@ -6,9 +6,9 @@ ogImage: content/blog/2020/not-the-heb/wednesday-1.webp
 date: 2020-10-18
 author: Bill Horsman
 tags:
-  - running
-  - biking
-  - hebrides
+  - Running
+  - Biking
+  - Hebrides
 ---
 
 The Heb — Race on the Edge was due to run on 12–13 September 2020 but was postponed to May 2021 due to Coronavirus. So we went there on holiday to spend some time doing some of the sections at a more leisurely pace instead.

@@ -6,8 +6,8 @@ ogImage: content/blog/2024/vanilla-marathon/og.png
 date: 2024-05-23
 author: Bill Horsman
 tags:
-  - coding
-  - marathon
+  - Coding
+  - Marathon
 ---
 
 ## How it started

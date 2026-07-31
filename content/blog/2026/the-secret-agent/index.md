@@ -1,11 +1,11 @@
 ---
-title: The Secret Agent Review
+title: The Secret Agent
 ogImage: content/bill/films/backdrops/the-secret-agent-2025.jpg
 description: Bill's review of The Secret Agent — ⭐⭐⭐⭐⭐
 filmSlug: the-secret-agent-2025
 date: 2026-03-13
 author: Bill Horsman
-tags: films
+tags: Film review
 ---
 
 {% include "film-backdrop-and-poster.njk" %}

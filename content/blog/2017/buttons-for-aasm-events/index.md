@@ -6,7 +6,7 @@ ogImage: content/blog/2017/buttons-for-aasm-events/buttons.png
 date: 2017-05-12
 author: Bill Horsman
 tags:
-  - coding
+  - Coding
   - Ruby on Rails
 ---
 

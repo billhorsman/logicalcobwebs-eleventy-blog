@@ -1,11 +1,11 @@
 ---
-title: "The Odyssey Review"
+title: "The Odyssey"
 ogImage: content/bill/films/backdrops/the-odyssey-2026.jpg
 description: "Bill's review of The Odyssey — ⭐⭐⭐⭐⭐"
 filmSlug: the-odyssey-2026
 date: 2026-07-29
 author: Bill Horsman
-tags: films
+tags: Film review
 ---
 
 {% include "film-backdrop-and-poster.njk" %}

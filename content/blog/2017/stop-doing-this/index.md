@@ -6,8 +6,8 @@ ogImage: content/blog/2017/stop-doing-this/stop-sign.jpg
 date: 2017-11-27
 author: Bill Horsman
 tags:
-  - coding
-  - testing
+  - Coding
+  - Testing
   - Ruby on Rails
 ---
 

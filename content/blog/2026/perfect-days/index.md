@@ -1,11 +1,11 @@
 ---
-title: Perfect Days Review
+title: Perfect Days
 ogImage: content/bill/films/backdrops/perfect-days-2023.jpg
 description: Bill's review of Perfect Days — ⭐⭐⭐⭐⭐
 filmSlug: perfect-days-2023
 date: 2026-03-22
 author: Bill Horsman
-tags: films
+tags: Film review
 ---
 
 {% include "film-backdrop-and-poster.njk" %}

@@ -1,11 +1,11 @@
 ---
-title: The Phoenician Scheme Review
+title: The Phoenician Scheme
 ogImage: content/bill/films/backdrops/the-phoenician-scheme-2025.jpg
 description: Bill's review of The Phoenician Scheme by Wes Anderson — ⭐⭐⭐⭐⭐ 
 filmSlug: the-phoenician-scheme-2025
 date: 2025-05-30
 author: Bill Horsman
-tags: films
+tags: Film review
 ---
 
 {% include "film-backdrop-and-poster.njk" %}

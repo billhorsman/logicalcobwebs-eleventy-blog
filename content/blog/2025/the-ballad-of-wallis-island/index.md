@@ -1,11 +1,11 @@
 ---
-title: The Ballad of Wallis Island Review
+title: The Ballad of Wallis Island
 ogImage: content/bill/films/backdrops/the-ballad-of-wallis-island-2025.jpg
 description: Bill's review of The Ballad of Wallis Islands with Tim Key, Carey Mulligan and Tom Basden — ⭐⭐⭐⭐⭐ 
 filmSlug: the-ballad-of-wallis-island-2025
 date: 2025-06-15
 author: Bill Horsman
-tags: films
+tags: Film review
 ---
 
 {% include "film-backdrop-and-poster.njk" %}

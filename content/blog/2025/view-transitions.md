@@ -3,7 +3,7 @@ title: View transitions
 description: Adding view transitions to the theme switcher
 date: 2025-07-30
 author: Bill Horsman
-tags: coding
+tags: Coding
 ---
 
 Using the advice from Kevin Powell: [Spice Up Your Site with Quick & Easy Theme Transitions](https://youtu.be/f_aqzyIDudI?si=hx7KiF4egbACavFW) I've added some nicer view transitions to the theme switcher (bottom right corner of this page).

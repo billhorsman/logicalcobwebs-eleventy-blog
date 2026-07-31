@@ -1,11 +1,11 @@
 ---
-title: "The Last Viking Review"
+title: "The Last Viking"
 ogImage: content/bill/films/backdrops/the-last-viking-2025.jpg
 description: "Bill's review of The Last Viking — ⭐⭐⭐⭐⭐"
 filmSlug: the-last-viking-2025
 date: 2026-07-18
 author: Bill Horsman
-tags: films
+tags: Film review
 ---
 
 {% include "film-backdrop-and-poster.njk" %}

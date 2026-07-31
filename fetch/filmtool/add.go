@@ -131,13 +131,13 @@ func printBlogScaffold(title, slug, year string) {
 Done. Blog post scaffold (e.g. content/blog/%s/%s/index.md):
 
 ---
-title: "%s Review"
+title: "%s"
 ogImage: content/bill/films/backdrops/%s.jpg
 description: "Bill's review of %s — ⭐⭐⭐⭐⭐"
 filmSlug: %s
 date: %s
 author: Bill Horsman
-tags: films
+tags: Film review
 ---
 
 {%% include "film-backdrop-and-poster.njk" %%}

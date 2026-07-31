@@ -4,7 +4,7 @@ description: A trip to the Mozilla Festival in Barcelona, via London and Paris i
 date: 2025-11-23
 author: Bill Horsman
 tags:
-  - travel
+  - Travel
 ---
 
 When [Team Tito](https://teamtito.com/) asked me to go out to the [Mozilla Festival](https://www.mozillafestival.org/en/) in Barcelona I immediately thought about trying to get there by train. This is partly because I believe you should catch a train instead of plane whenever possible and partly because I thought it would be an adventure.

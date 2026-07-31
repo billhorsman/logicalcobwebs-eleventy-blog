@@ -6,7 +6,7 @@ ogImage: content/blog/2024/color-scheme/og.png
 date: 2024-12-11
 author: Bill Horsman
 tags:
-  - coding
+  - Coding
 ---
 
 Following advice in the article [Native HTML light and dark color scheme switching](https://htmhell.dev/adventcalendar/2024/9/) from the wonderful HTMLHell website, I've added light and dark color controls to this site.
