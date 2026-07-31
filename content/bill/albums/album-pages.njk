@@ -48,14 +48,14 @@ eleventyComputed:
   {%- if slug | albumCoverExists %}
   <img class="album-cover" src="/bill/albums/covers/{{ slug }}.jpg" alt="Cover of {{ album.title }} by {{ album.artist }}">
   {%- else %}
-  <div class="album-cover album-card-no-cover"><i class="fa-solid fa-record-vinyl"></i></div>
+  <album-card-no-cover class="album-cover"><i class="fa-solid fa-record-vinyl"></i></album-card-no-cover>
   {%- endif %}
 
   <h1>{{ album.title }}</h1>
 
   <p class="album-artist">
     <strong>{{ album.artist }}</strong> · {{ album.year }}
-    {%- if inTopFive %} · <span class="album-top-five-badge">Top 5</span>{% endif %}
+    {%- if inTopFive %} · <album-top-five-badge>Top 5</album-top-five-badge>{% endif %}
   </p>
 
   {%- if album["top-genres"].length %}

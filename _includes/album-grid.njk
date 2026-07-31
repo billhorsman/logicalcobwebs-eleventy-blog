@@ -1,16 +1,16 @@
 {#- Renders a grid of album covers.
     Set `gridSlugs` (array of album slugs) before including. -#}
-<div class="album-grid-cards">
+<album-grid-cards>
 {%- for slug in gridSlugs %}
 {%- set album = albums[slug] %}
 <a href="/bill/albums/{{ slug }}/" class="album-card">
 {%- if slug | albumCoverExists %}
 <img src="/bill/albums/covers/{{ slug }}.jpg" alt="Cover of {{ album.title }} by {{ album.artist }}" loading="lazy">
 {%- else %}
-<div class="album-card-no-cover"><i class="fa-solid fa-record-vinyl"></i></div>
+<album-card-no-cover><i class="fa-solid fa-record-vinyl"></i></album-card-no-cover>
 {%- endif %}
-<span class="album-card-title">{{ album.title }}</span>
-<span class="album-card-artist">{{ album.artist }} · {{ album.year }}</span>
+<album-card-title>{{ album.title }}</album-card-title>
+<album-card-artist>{{ album.artist }} · {{ album.year }}</album-card-artist>
 </a>
 {%- endfor %}
-</div>
+</album-grid-cards>

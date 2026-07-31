@@ -26,7 +26,7 @@ body.albums main {
 	}
 }
 
-.album-grid-cards {
+album-grid-cards {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
 	gap: 1.5rem 1rem;
@@ -47,7 +47,7 @@ body.albums main {
 	text-decoration: none;
 
 	& img,
-	& .album-card-no-cover {
+	& album-card-no-cover {
 		/* Sleeve scans are rarely exactly square; crop a sliver rather
 		   than letting card heights (and titles) drift */
 		aspect-ratio: 1;
@@ -60,7 +60,7 @@ body.albums main {
 		transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 	}
 
-	& .album-card-title {
+	& album-card-title {
 		text-underline-offset: 5px;
 		text-decoration-color: var(--color-muted);
 		text-decoration-line: underline;
@@ -77,13 +77,13 @@ body.albums main {
 	&:hover {
 		outline: none;
 
-		& .album-card-title {
+		& album-card-title {
 			text-decoration-color: var(--color-highlight);
 			text-decoration-thickness: 2px;
 		}
 
 		& img,
-		& .album-card-no-cover {
+		& album-card-no-cover {
 			box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
 			transform: scale(1.05);
 			z-index: 2;
@@ -91,7 +91,7 @@ body.albums main {
 	}
 }
 
-.album-card-no-cover {
+album-card-no-cover {
 	align-items: center;
 	aspect-ratio: 1;
 	background: var(--subtle-link-background-color);
@@ -105,12 +105,14 @@ body.albums main {
 	width: 100%;
 }
 
-.album-card-title {
+album-card-title {
+	display: block;
 	font-weight: bold;
 	line-height: 1.3;
 }
 
-.album-card-artist {
+album-card-artist {
+	display: block;
 	font-size: 0.85rem;
 	line-height: 1.3;
 	opacity: 0.75;
@@ -235,7 +237,8 @@ article.album {
 	}
 }
 
-.album-top-five-badge {
+album-top-five-badge {
+	display: inline-block;
 	background: var(--badge-background-color);
 	border: 1px solid var(--border-color);
 	border-radius: 0.25rem;
