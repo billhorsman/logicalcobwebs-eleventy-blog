@@ -15,6 +15,16 @@ body.albums {
 	}
 }
 
+body.albums {
+	/* Keep main directly under the header (not vertically centred), so
+	   the prev/next nav sits in the same place on every album page */
+	justify-content: flex-start;
+
+	& footer {
+		margin-top: auto;
+	}
+}
+
 body.albums main {
 	max-width: 64rem;
 }
