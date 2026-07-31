@@ -20,16 +20,6 @@ body.albums main {
 
 .albums-header {
 	border-bottom: 2px solid var(--gold);
-
-	& .albums-header-strapline {
-		display: block;
-		font-style: italic;
-		opacity: 0.7;
-
-		& i {
-			color: var(--gold);
-		}
-	}
 }
 
 .album-grid {
