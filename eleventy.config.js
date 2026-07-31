@@ -87,8 +87,9 @@ export default async function(eleventyConfig) {
 		// File extensions to process in _site folder
 		extensions: "html",
 
-		// Output formats for each image.
-		formats: ["avif", "webp", "auto"],
+		// Output formats for each image. AVIF is skipped: encoding is 5-10x
+		// slower than WebP for a marginal size win at these image sizes.
+		formats: ["webp", "auto"],
 
 		// widths: ["auto"],
 
