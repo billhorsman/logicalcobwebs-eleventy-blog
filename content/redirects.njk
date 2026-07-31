@@ -5,6 +5,6 @@ eleventyExcludeFromCollections: true
 ---
 {%- for post in collections.posts %}
 {%- if post.data.dca and post.data.filmSlug %}
-/t/{{ films[post.data.filmSlug].id }} {{ post.url }} 301
+/{{ films[post.data.filmSlug].id }} {{ post.url }} 301
 {%- endif %}
 {%- endfor %}

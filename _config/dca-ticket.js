@@ -13,6 +13,7 @@ import QRCode from "qrcode-svg";
 // and the barcode is random, seeded by the URL so builds are stable.
 
 const SITE_URL = "https://logicalcobwebs.com";
+const SHORT_DOMAIN = "lgc.li"; // redirects to logicalcobwebs.com, path preserved
 
 // Matches the aspect ratio of the original scanned tickets (~2.48:1)
 const WIDTH = 350;
@@ -120,13 +121,13 @@ export default function (eleventyConfig) {
 		const reference = film?.id ? String(film.id) : "";
 		const rand = mulberry32(hash(reference || this.page.url));
 
-		// Short /t/<id> links (301-redirected to the post by _redirects,
-		// see content/redirects.njk) keep the QR code at version 2 —
-		// 25x25 modules, denser than the original tickets' version 3.
-		// The scheme is omitted to save a QR version; phones still open it.
+		// lgc.li/<id> (via the lgc.li domain redirect, then a 301 from
+		// _redirects — see content/redirects.njk) is 14 bytes: exactly
+		// what fits a version 1 QR code, 21x21 modules. The scheme is
+		// omitted to stay under the limit; phones still open it.
 		const qrContent = reference
-			? `${SITE_URL.replace("https://", "")}/t/${reference}`
-			: `${SITE_URL.replace("https://", "")}${this.page.url}`;
+			? `${SHORT_DOMAIN}/${reference}`
+			: `${SHORT_DOMAIN}${this.page.url}`;
 
 		const label = `Ticket stub for seat ${seat} in the DCA's ${cinema.toLowerCase()} on ${when.long}`;
 
