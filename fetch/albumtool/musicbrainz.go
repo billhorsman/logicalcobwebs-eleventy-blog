@@ -74,7 +74,11 @@ func mbGet(endpoint string, params url.Values) (map[string]any, error) {
 		return nil, fmt.Errorf("GET %s: %s: %s", endpoint, resp.Status, body)
 	}
 
-	dec := json.NewDecoder(bytes.NewReader(body))
+	return decodeJSON(bytes.NewReader(body))
+}
+
+func decodeJSON(r io.Reader) (map[string]any, error) {
+	dec := json.NewDecoder(r)
 	dec.UseNumber()
 	var data map[string]any
 	if err := dec.Decode(&data); err != nil {
@@ -84,11 +88,11 @@ func mbGet(endpoint string, params url.Values) (map[string]any, error) {
 }
 
 // downloadCover fetches the 500px front cover for a release group,
-// trying the release-group's own front image first and then the covers
-// of its individual releases. Album sleeves are square, so the first
-// square-ish image wins; a non-square image (a cassette edition, say)
-// is kept only as a last resort.
-func downloadCover(mbid, dest string) error {
+// trying the release-group's own front image, then the covers of its
+// individual releases, then a Discogs search. Album sleeves are square,
+// so the first square-ish image wins; a non-square image (a cassette
+// edition, say) is kept only as a last resort.
+func downloadCover(root, mbid, title, artist, dest string) error {
 	if _, err := os.Stat(dest); err == nil {
 		return nil
 	}
@@ -118,6 +122,14 @@ func downloadCover(mbid, dest string) error {
 			fallback = body
 		}
 	}
+
+	if body, err := discogsCover(root, title, artist); err == nil {
+		fmt.Println("Cover art from Discogs")
+		return writeCover(dest, body)
+	} else if discogsToken(root) == "" {
+		fmt.Println(err)
+	}
+
 	if fallback != nil {
 		fmt.Printf("Warning: only non-square cover art found for %s — pin a better edition with `albumtool cover`\n", mbid)
 		return writeCover(dest, fallback)

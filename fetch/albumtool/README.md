@@ -2,7 +2,11 @@
 
 The sibling of filmtool, for the (work in progress, unlinked) /albums
 section. Album data comes from [MusicBrainz](https://musicbrainz.org/)
-release groups and covers from the Cover Art Archive. No API key needed.
+release groups and covers from the Cover Art Archive, with Discogs as a
+cover fallback. MusicBrainz needs no key; for Discogs, put a personal
+access token (https://www.discogs.com/settings/developers) in `.env`
+as `DISCOGS_TOKEN=...`. Run `./bin/albumtool covers` to retry albums
+with missing covers.
 
 Build:
 

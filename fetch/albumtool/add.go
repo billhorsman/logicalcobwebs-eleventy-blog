@@ -85,7 +85,7 @@ func addAlbum(root, mbid string, force bool) error {
 		fmt.Printf("_data/albums/%s.json already exists (use -force to refetch)\n", slug)
 	}
 
-	if err := downloadCover(mbid, coverPath(root, slug)); err != nil {
+	if err := downloadCover(root, mbid, title, artistName(credits), coverPath(root, slug)); err != nil {
 		return err
 	}
 
