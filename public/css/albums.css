@@ -1,16 +1,17 @@
 /* /bill/albums — work in progress, unlinked */
 
-/* A subtle gold wash behind the whole section. Set on <html> (which
-   paints the page canvas, so the wash covers beyond the content) with a
-   body-level fallback for browsers without :has(). */
+/* A vibrant gold behind the whole section (#FFDF74: body text is
+   ~13:1 against it, links ~4.5:1 — AA). Set on <html> (which paints
+   the page canvas, so it covers beyond the content) with a body-level
+   fallback for browsers without :has(). */
 html:has(body.albums),
 body.albums {
-	--background-color: oklch(93% 0.045 95);
-	--background-color-80: oklch(93% 0.045 95 / 0.8);
+	--background-color: #FFDF74;
+	--background-color-80: rgb(255 223 116 / 0.8);
 
 	@supports (color: light-dark(black, white)) {
-		--background-color: light-dark(oklch(93% 0.045 95), oklch(24% 0.035 95));
-		--background-color-80: light-dark(oklch(93% 0.045 95 / 0.8), oklch(24% 0.035 95 / 0.8));
+		--background-color: light-dark(#FFDF74, oklch(24% 0.035 95));
+		--background-color-80: light-dark(rgb(255 223 116 / 0.8), oklch(24% 0.035 95 / 0.8));
 	}
 }
 
