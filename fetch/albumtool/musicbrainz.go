@@ -5,6 +5,9 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"image"
+	_ "image/jpeg"
+	_ "image/png"
 	"io"
 	"net/http"
 	"net/url"
@@ -80,56 +83,78 @@ func mbGet(endpoint string, params url.Values) (map[string]any, error) {
 	return data, nil
 }
 
-// downloadCover fetches the 500px front cover for a release group. The
-// release-group endpoint needs a designated front image (and can be
-// flaky), so on failure it falls back to trying the covers of the
-// group's individual releases.
+// downloadCover fetches the 500px front cover for a release group,
+// trying the release-group's own front image first and then the covers
+// of its individual releases. Album sleeves are square, so the first
+// square-ish image wins; a non-square image (a cassette edition, say)
+// is kept only as a last resort.
 func downloadCover(mbid, dest string) error {
 	if _, err := os.Stat(dest); err == nil {
 		return nil
 	}
-	if fetchImage(coverArtBase+mbid+"/front-500", dest) == nil {
-		return nil
-	}
 
+	urls := []string{coverArtBase + mbid + "/front-500"}
 	releasesData, err := mbGet("release", url.Values{"release-group": {mbid}, "limit": {"25"}})
 	if err != nil {
 		return err
 	}
 	releases, _ := releasesData["releases"].([]any)
 	for _, r := range releases {
-		m, ok := r.(map[string]any)
-		if !ok {
+		if m, ok := r.(map[string]any); ok {
+			urls = append(urls, "https://coverartarchive.org/release/"+getString(m, "id")+"/front-500")
+		}
+	}
+
+	var fallback []byte
+	for _, u := range urls {
+		body, err := fetchImage(u)
+		if err != nil {
 			continue
 		}
-		releaseID := getString(m, "id")
-		if fetchImage("https://coverartarchive.org/release/"+releaseID+"/front-500", dest) == nil {
-			fmt.Printf("Cover art from release %s\n", releaseID)
-			return nil
+		if isSquarish(body) {
+			return writeCover(dest, body)
 		}
+		if fallback == nil {
+			fallback = body
+		}
+	}
+	if fallback != nil {
+		fmt.Printf("Warning: only non-square cover art found for %s — pin a better edition with `albumtool cover`\n", mbid)
+		return writeCover(dest, fallback)
 	}
 	fmt.Printf("No cover art found for %s\n", mbid)
 	return nil
 }
 
-func fetchImage(imageURL, dest string) error {
+// isSquarish reports whether the image is close enough to square to be
+// an album sleeve rather than some other edition's packaging.
+func isSquarish(body []byte) bool {
+	cfg, _, err := image.DecodeConfig(bytes.NewReader(body))
+	if err != nil || cfg.Height == 0 {
+		return false
+	}
+	ratio := float64(cfg.Width) / float64(cfg.Height)
+	return ratio > 0.9 && ratio < 1.1
+}
+
+func fetchImage(imageURL string) ([]byte, error) {
 	req, err := http.NewRequest("GET", imageURL, nil)
 	if err != nil {
-		return err
+		return nil, err
 	}
 	req.Header.Set("User-Agent", userAgent)
 	resp, err := http.DefaultClient.Do(req)
 	if err != nil {
-		return err
+		return nil, err
 	}
 	defer resp.Body.Close()
 	if resp.StatusCode != http.StatusOK {
-		return fmt.Errorf("GET %s: %s", imageURL, resp.Status)
+		return nil, fmt.Errorf("GET %s: %s", imageURL, resp.Status)
 	}
-	body, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return err
-	}
+	return io.ReadAll(resp.Body)
+}
+
+func writeCover(dest string, body []byte) error {
 	if err := os.MkdirAll(filepath.Dir(dest), 0o755); err != nil {
 		return err
 	}

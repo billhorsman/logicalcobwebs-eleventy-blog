@@ -21,6 +21,7 @@ Commands:
   search <title>      search MusicBrainz by title, pick a match, then add it
   add <mbid-or-url>   fetch one release group by MusicBrainz id or URL
   sort                sort _data/top_albums.json by first release date
+  cover <slug> <release>  replace an album's cover with a specific release's front image
 `)
 }
 
@@ -44,6 +45,8 @@ func main() {
 		err = cmdAdd(root, args)
 	case "sort":
 		err = cmdSort(root)
+	case "cover":
+		err = cmdCover(root, args)
 	case "help", "-h", "--help":
 		usage()
 		return
