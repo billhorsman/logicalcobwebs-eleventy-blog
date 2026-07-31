@@ -1,5 +1,5 @@
 ---
-title: Honey Don't
+title: Honey Don't Review
 ogImage: content/bill/films/backdrops/honey-dont-2025.jpg
 description: Bill's review of Honey Don't by Ethan Coen — ⭐⭐⭐⭐
 filmSlug: honey-dont-2025
