@@ -1,0 +1,141 @@
+{
+  "artist": "David Bowie",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "English singer‐songwriter",
+        "genres": [
+          {
+            "count": 11,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "name": "art pop"
+          },
+          {
+            "count": 22,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "93244085-20e5-4f16-9067-1d19143b3810",
+            "name": "classic rock"
+          },
+          {
+            "count": 22,
+            "disambiguation": "",
+            "id": "54d89e62-5bfb-42bc-a321-9230e6fdcd75",
+            "name": "glam rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+            "name": "new wave"
+          },
+          {
+            "count": 10,
+            "disambiguation": "",
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "name": "pop"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 8,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie",
+        "sort-name": "Bowie, David",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "David Bowie"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1971-12-17",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+      "name": "art pop"
+    },
+    {
+      "count": 7,
+      "disambiguation": "",
+      "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+      "name": "art rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "150eb95a-7739-4fde-a5fe-b62ca576a928",
+      "name": "baroque pop"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "54d89e62-5bfb-42bc-a321-9230e6fdcd75",
+      "name": "glam rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "34cd43be-4711-4e77-a25c-c6d6a4bf3cb4",
+      "name": "piano rock"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock"
+    },
+    {
+      "count": 8,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "455f264b-db00-4716-991d-fbd32dc24523",
+      "name": "singer-songwriter"
+    }
+  ],
+  "id": "743b0b2e-a23a-3182-950e-232f8cb0dfb7",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "hunky-dory-1971",
+  "title": "Hunky Dory",
+  "top-genres": [
+    "rock",
+    "art rock",
+    "glam rock",
+    "pop rock",
+    "art pop"
+  ],
+  "year": "1971"
+}

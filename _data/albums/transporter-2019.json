@@ -1,0 +1,117 @@
+{
+  "artist": "Ouzo Bazooka",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "IL",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "d031678a-15f2-4722-ab3a-a3ae297e41e9",
+            "name": "garage psych"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "b7bb11c3-bb83-4047-af65-1e8aba89039f",
+            "name": "garage rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "8875a441-7b19-4729-9a02-89525ad84574",
+            "name": "garage rock revival"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+            "name": "instrumental"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "cd99451c-f6d5-47c7-8d49-6c08b51e61aa",
+            "name": "neo-psychedelia"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+            "name": "psychedelic rock"
+          }
+        ],
+        "id": "d2e25b2b-0be7-49de-b8a6-72b031d7039c",
+        "name": "Ouzo Bazooka",
+        "sort-name": "Ouzo Bazooka",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Ouzo Bazooka"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2019-01-11",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "93244085-20e5-4f16-9067-1d19143b3810",
+      "name": "classic rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "b7bb11c3-bb83-4047-af65-1e8aba89039f",
+      "name": "garage rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+      "name": "psychedelic rock"
+    }
+  ],
+  "id": "a1806607-9f89-4143-8202-fc0fe107ebed",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "transporter-2019",
+  "title": "Transporter",
+  "top-genres": [
+    "alternative rock",
+    "classic rock",
+    "garage rock",
+    "indie rock",
+    "psychedelic rock"
+  ],
+  "year": "2019"
+}

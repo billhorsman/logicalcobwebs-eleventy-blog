@@ -80,12 +80,40 @@ func mbGet(endpoint string, params url.Values) (map[string]any, error) {
 	return data, nil
 }
 
-// downloadCover fetches the 500px front cover for a release group.
+// downloadCover fetches the 500px front cover for a release group. The
+// release-group endpoint needs a designated front image (and can be
+// flaky), so on failure it falls back to trying the covers of the
+// group's individual releases.
 func downloadCover(mbid, dest string) error {
 	if _, err := os.Stat(dest); err == nil {
 		return nil
 	}
-	req, err := http.NewRequest("GET", coverArtBase+mbid+"/front-500", nil)
+	if fetchImage(coverArtBase+mbid+"/front-500", dest) == nil {
+		return nil
+	}
+
+	releasesData, err := mbGet("release", url.Values{"release-group": {mbid}, "limit": {"25"}})
+	if err != nil {
+		return err
+	}
+	releases, _ := releasesData["releases"].([]any)
+	for _, r := range releases {
+		m, ok := r.(map[string]any)
+		if !ok {
+			continue
+		}
+		releaseID := getString(m, "id")
+		if fetchImage("https://coverartarchive.org/release/"+releaseID+"/front-500", dest) == nil {
+			fmt.Printf("Cover art from release %s\n", releaseID)
+			return nil
+		}
+	}
+	fmt.Printf("No cover art found for %s\n", mbid)
+	return nil
+}
+
+func fetchImage(imageURL, dest string) error {
+	req, err := http.NewRequest("GET", imageURL, nil)
 	if err != nil {
 		return err
 	}
@@ -95,12 +123,8 @@ func downloadCover(mbid, dest string) error {
 		return err
 	}
 	defer resp.Body.Close()
-	if resp.StatusCode == http.StatusNotFound {
-		fmt.Printf("No cover art for %s\n", mbid)
-		return nil
-	}
 	if resp.StatusCode != http.StatusOK {
-		return fmt.Errorf("cover art for %s: %s", mbid, resp.Status)
+		return fmt.Errorf("GET %s: %s", imageURL, resp.Status)
 	}
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
