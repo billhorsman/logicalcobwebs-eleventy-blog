@@ -1,0 +1,78 @@
+{
+  "artist": "The Specials",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "ska band",
+        "genres": [
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "18797864-41b0-4602-8241-adbee761774c",
+            "name": "2 tone"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+            "name": "new wave"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "02b2f720-d06e-42ce-85c2-1ecd4191ffcb",
+            "name": "reggae"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "81638671-c67c-47cf-b21d-e92261068cf6",
+            "name": "rocksteady"
+          },
+          {
+            "count": 10,
+            "disambiguation": "",
+            "id": "65877068-2116-4af6-89a2-838179a7e103",
+            "name": "ska"
+          }
+        ],
+        "id": "07eb40a2-2914-439c-a01d-15a685b84ddf",
+        "name": "The Specials",
+        "sort-name": "Specials, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Specials"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2019-02-01",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "65877068-2116-4af6-89a2-838179a7e103",
+      "name": "ska"
+    }
+  ],
+  "id": "85f0b4c9-e891-4045-be7c-e13d1017ccc7",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "encore-2019",
+  "title": "Encore",
+  "top-genres": [
+    "ska",
+    "rock"
+  ],
+  "year": "2019"
+}

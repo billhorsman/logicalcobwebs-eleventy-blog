@@ -1,0 +1,135 @@
+{
+  "artist": "Johnny Cash",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "country music legend",
+        "genres": [
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "2c765e49-a12e-45eb-b628-f8b9cc0a0250",
+            "name": "americana"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+            "name": "blues"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "9cc9ea3b-e189-4def-9e47-86e9dc643eee",
+            "name": "classic country"
+          },
+          {
+            "count": 27,
+            "disambiguation": "",
+            "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+            "name": "country"
+          },
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "91748dd2-616c-4ba4-8178-90a08dfc3780",
+            "name": "country gospel"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "08289b42-7e41-4987-9263-c28bb4c59da0",
+            "name": "gospel"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "f30d5ce4-559c-45c2-897c-089599ac9a83",
+            "name": "outlaw country"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+            "name": "rock and roll"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+            "name": "rockabilly"
+          }
+        ],
+        "id": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
+        "name": "Johnny Cash",
+        "sort-name": "Cash, Johnny",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Johnny Cash"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2000-10-16",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "2c765e49-a12e-45eb-b628-f8b9cc0a0250",
+      "name": "americana"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "c11e4253-a888-4a2a-adde-c274b748d0b3",
+      "name": "contemporary folk"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+      "name": "country"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "1a46845c-ed4d-48c5-a93f-45bb85cf56d1",
+      "name": "country blues"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+      "name": "country rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "98dd2686-39cc-31e9-9637-fa4e612e038e",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "american-iii-solitary-man-2000",
+  "title": "American III: Solitary Man",
+  "top-genres": [
+    "country",
+    "country blues",
+    "americana",
+    "contemporary folk",
+    "country rock"
+  ],
+  "year": "2000"
+}

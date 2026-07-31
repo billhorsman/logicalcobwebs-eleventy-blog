@@ -1,0 +1,71 @@
+{
+  "artist": "Palace Music",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "Will Oldham",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "44d766e3-fc4a-4c19-9cdc-cd69966de1d8",
+        "name": "Palace",
+        "sort-name": "Palace",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Palace Music"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1997-03-31",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+      "name": "country rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "65e2f3ad-e0bd-4627-bd83-cba7c8b6d011",
+      "name": "lo-fi"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "a0ec6e24-396d-30a3-8ab8-b792a3a30fc6",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [
+    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+  ],
+  "secondary-types": [
+    "Compilation"
+  ],
+  "slug": "lost-blues-and-other-songs-1997",
+  "title": "Lost Blues and Other Songs",
+  "top-genres": [
+    "lo-fi",
+    "rock",
+    "country rock"
+  ],
+  "year": "1997"
+}

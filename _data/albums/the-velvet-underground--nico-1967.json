@@ -1,0 +1,222 @@
+{
+  "artist": "The Velvet Underground & Nico",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "Lou Reed’s seminal rock band",
+        "genres": [
+          {
+            "count": 11,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 12,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "b7bb11c3-bb83-4047-af65-1e8aba89039f",
+            "name": "garage rock"
+          },
+          {
+            "count": 8,
+            "disambiguation": "",
+            "id": "8e5474b7-f445-49a7-866d-0f8e34b0a519",
+            "name": "noise rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "048a85aa-0713-40af-915f-7e34937ee23c",
+            "name": "proto-punk"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+            "name": "psychedelic rock"
+          },
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "94b0fb9d-a066-4823-b2ec-af1d324bcfcf",
+        "name": "The Velvet Underground",
+        "sort-name": "Velvet Underground, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": " & ",
+      "name": "The Velvet Underground"
+    },
+    {
+      "artist": {
+        "country": "DE",
+        "disambiguation": "Christa Päffgen, German singer, fashion model, actress",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "44830131-da6a-40b5-b3de-e2d241cced5f",
+            "name": "avant-folk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "b1c0c2ad-e5ae-4bb6-a1be-d66e195fd2d7",
+            "name": "avant-garde"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "f0c26658-95b8-46b8-b167-fdc9a659465b",
+            "name": "chamber folk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "d9858aef-25bf-478b-b135-b900aa1f0fd1",
+            "name": "gothic rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "6077a563-2935-4c77-ae93-f6a97ddf9d08",
+            "name": "lied"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "4910de6b-f795-4695-a758-5dcfb664e423",
+            "name": "neo-medieval folk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "3fddb093-2e8d-4cbd-85c5-2b5e7b0e5c43",
+            "name": "neoclassical dark wave"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "5b3d7e5d-9c74-4e16-b6cc-18272619fc71",
+            "name": "neoromanticism"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "37c61bf2-5fb1-47ae-9605-80025d956958",
+        "name": "Nico",
+        "sort-name": "Nico",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Nico"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1967-03",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+      "name": "art pop"
+    },
+    {
+      "count": 16,
+      "disambiguation": "",
+      "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+      "name": "art rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+      "name": "experimental"
+    },
+    {
+      "count": 11,
+      "disambiguation": "",
+      "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+      "name": "experimental rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "d031678a-15f2-4722-ab3a-a3ae297e41e9",
+      "name": "garage psych"
+    },
+    {
+      "count": 7,
+      "disambiguation": "",
+      "id": "b7bb11c3-bb83-4047-af65-1e8aba89039f",
+      "name": "garage rock"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "8e5474b7-f445-49a7-866d-0f8e34b0a519",
+      "name": "noise rock"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "048a85aa-0713-40af-915f-7e34937ee23c",
+      "name": "proto-punk"
+    },
+    {
+      "count": 7,
+      "disambiguation": "",
+      "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+      "name": "psychedelic rock"
+    },
+    {
+      "count": 11,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "5cbd9d7b-597a-3c5e-bfd1-c2b364215560",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "the-velvet-underground--nico-1967",
+  "title": "The Velvet Underground & Nico",
+  "top-genres": [
+    "art rock",
+    "experimental rock",
+    "rock",
+    "garage rock",
+    "psychedelic rock"
+  ],
+  "year": "1967"
+}

@@ -1,0 +1,102 @@
+{
+  "artist": "Courtney Barnett",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "AU",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "36917620-240a-4fed-abcb-7be611ac3834",
+            "name": "indie folk"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "55111838-f001-494a-a1b5-9d818db85810",
+        "name": "Courtney Barnett",
+        "sort-name": "Barnett, Courtney",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Courtney Barnett"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2013-10-15",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "65e2f3ad-e0bd-4627-bd83-cba7c8b6d011",
+      "name": "lo-fi"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "82d1fb38-4b67-425e-9cf9-274d87df034a",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [
+    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+  ],
+  "secondary-types": [
+    "Compilation"
+  ],
+  "slug": "the-double-ep-a-sea-of-split-peas-2013",
+  "title": "The Double EP: A Sea of Split Peas",
+  "top-genres": [
+    "alternative rock",
+    "indie rock",
+    "lo-fi",
+    "rock"
+  ],
+  "year": "2013"
+}

@@ -1,0 +1,123 @@
+{
+  "artist": "Nick Cave and the Bad Seeds",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "AU",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 11,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "d9858aef-25bf-478b-b135-b900aa1f0fd1",
+            "name": "gothic rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 11,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "3f0727c4-b2e6-4c3c-b28c-f207dd2ec51a",
+            "name": "punk blues"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "172e1f1a-504d-4488-b053-6344ba63e6d0",
+        "name": "Nick Cave & the Bad Seeds",
+        "sort-name": "Cave, Nick & the Bad Seeds",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Nick Cave and the Bad Seeds"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1985-06-03",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+      "name": "blues"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "58e325d5-54fd-4e98-b39a-3aa6bc319273",
+      "name": "blues rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+      "name": "post-punk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+      "name": "punk"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "3f0727c4-b2e6-4c3c-b28c-f207dd2ec51a",
+      "name": "punk blues"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "02c328e1-ff01-33e2-9fb6-a520019c72a5",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "the-firstborn-is-dead-1985",
+  "title": "The Firstborn Is Dead",
+  "top-genres": [
+    "post-punk",
+    "rock",
+    "punk blues",
+    "blues",
+    "blues rock"
+  ],
+  "year": "1985"
+}
