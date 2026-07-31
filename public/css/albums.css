@@ -1,7 +1,10 @@
 /* /bill/albums — work in progress, unlinked */
 
+/* A subtle gold wash behind the whole section. Set on <html> (which
+   paints the page canvas, so the wash covers beyond the content) with a
+   body-level fallback for browsers without :has(). */
+html:has(body.albums),
 body.albums {
-	/* A subtle gold wash behind the whole section */
 	--background-color: oklch(93% 0.045 95);
 	--background-color-80: oklch(93% 0.045 95 / 0.8);
 
@@ -9,10 +12,10 @@ body.albums {
 		--background-color: light-dark(oklch(93% 0.045 95), oklch(24% 0.035 95));
 		--background-color-80: light-dark(oklch(93% 0.045 95 / 0.8), oklch(24% 0.035 95 / 0.8));
 	}
+}
 
-	& main {
-		max-width: 64rem;
-	}
+body.albums main {
+	max-width: 64rem;
 }
 
 .albums-header {
