@@ -5,8 +5,10 @@ import (
 	"fmt"
 	"net/url"
 	"os"
+	"path/filepath"
 	"regexp"
 	"strconv"
+	"strings"
 	"time"
 )
 
@@ -80,8 +82,7 @@ func addFilm(root string, id int, force bool) error {
 		return err
 	}
 
-	printBlogScaffold(title, slug, year)
-	return nil
+	return writeBlogScaffold(root, title, slug, year)
 }
 
 // englishLanguageName resolves the film's original language to its English
@@ -125,12 +126,24 @@ func downloadProfileImages(root string, film *Film) error {
 	return nil
 }
 
-func printBlogScaffold(title, slug, year string) {
-	today := time.Now().Format("2006-01-02")
-	fmt.Printf(`
-Done. Blog post scaffold for %s (e.g. content/blog/%s/%s.md):
+// writeBlogScaffold creates the review post unless one already exists.
+func writeBlogScaffold(root, title, slug, year string) error {
+	if existing := findPostByFilmSlug(root, slug); existing != "" {
+		fmt.Printf("Blog post already exists: %s\n", existing)
+		return nil
+	}
 
----
+	dir := filepath.Join(root, "content", "blog", time.Now().Format("2006"))
+	if err := os.MkdirAll(dir, 0o755); err != nil {
+		return err
+	}
+	path := filepath.Join(dir, trimYearSuffix(slug, year)+".md")
+	if _, err := os.Stat(path); err == nil {
+		fmt.Printf("Blog post already exists: %s\n", path)
+		return nil
+	}
+
+	scaffold := fmt.Sprintf(`---
 layout: layouts/film-review.njk
 filmSlug: %s
 date: %s
@@ -138,11 +151,37 @@ tags: Film review
 stars: 5
 ---
 
-Your review here.
+Your review of %s here.
+`, slug, time.Now().Format("2006-01-02"), title)
 
+	if err := os.WriteFile(path, []byte(scaffold), 0o644); err != nil {
+		return err
+	}
+	rel, _ := filepath.Rel(root, path)
+	fmt.Printf(`
+Created %s — write the review and set the stars.
 Title, description, and share image derive from the film data; add a
 dca: block (date, cinema, seat, rating) for a ticket stub.
-`, title, time.Now().Format("2006"), trimYearSuffix(slug, year), slug, today)
+`, rel)
+	return nil
+}
+
+// findPostByFilmSlug returns the path of a blog post already reviewing
+// this film, if any.
+func findPostByFilmSlug(root, slug string) string {
+	var found string
+	blogDir := filepath.Join(root, "content", "blog")
+	filepath.WalkDir(blogDir, func(path string, d os.DirEntry, err error) error {
+		if err != nil || d.IsDir() || !strings.HasSuffix(path, ".md") || found != "" {
+			return nil
+		}
+		content, err := os.ReadFile(path)
+		if err == nil && strings.Contains(string(content), "filmSlug: "+slug+"\n") {
+			found, _ = filepath.Rel(root, path)
+		}
+		return nil
+	})
+	return found
 }
 
 func trimYearSuffix(slug, year string) string {

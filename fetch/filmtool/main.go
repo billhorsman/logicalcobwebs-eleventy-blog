@@ -27,7 +27,7 @@ Commands:
   generate            regenerate top-100 markdown pages and top cast/director data
 
 add and search fetch film data and images without touching the top 100,
-and print a blog post scaffold for a review. Use top-100 when the TMDB
+and create a scaffold blog post for a review. Use top-100 when the TMDB
 list itself changes.
 `)
 }

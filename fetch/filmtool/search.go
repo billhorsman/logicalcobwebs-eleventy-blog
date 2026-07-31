@@ -25,6 +25,13 @@ func cmdSearch(root string, args []string) error {
 		return fmt.Errorf("no TMDB matches for %q", query)
 	}
 
+	// A single match needs no picking
+	if len(results) == 1 {
+		m, _ := results[0].(map[string]any)
+		fmt.Printf("One match: %s (%s)\n", getString(m, "title"), yearOf(getString(m, "release_date")))
+		return addFromResult(root, m)
+	}
+
 	shown := min(10, len(results))
 	for i := 0; i < shown; i++ {
 		m, _ := results[i].(map[string]any)
@@ -53,7 +60,11 @@ func cmdSearch(root string, args []string) error {
 	}
 
 	m, _ := results[n-1].(map[string]any)
-	id, ok := m["id"].(json.Number)
+	return addFromResult(root, m)
+}
+
+func addFromResult(root string, result map[string]any) error {
+	id, ok := result["id"].(json.Number)
 	if !ok {
 		return fmt.Errorf("unexpected result format")
 	}

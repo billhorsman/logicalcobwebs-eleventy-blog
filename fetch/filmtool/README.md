@@ -39,8 +39,9 @@ or paste a TMDB id or URL directly:
 ```
 
 Both fetch the film's details and credits into `_data/films/<slug>.json`,
-download the poster, backdrop, and cast profile photos, and print a blog
-post scaffold to paste into `content/blog/<year>/<name>/index.md`. The top
+download the poster, backdrop, and cast profile photos, and create a
+scaffold post at `content/blog/<year>/<name>.md` (unless the film already
+has a review). A search with a single match skips the picker. The top
 100 list is untouched.
 
 ## Maintaining the top 100

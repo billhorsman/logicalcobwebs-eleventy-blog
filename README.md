@@ -48,9 +48,9 @@ See [fetch/filmtool/README.md](fetch/filmtool/README.md) for full details.
    ./bin/filmtool add https://www.themoviedb.org/movie/1295400-den-sidste-viking
    ```
 
-2. The command prints a blog post scaffold. Paste it into
-   `content/blog/<year>/<film-name>/index.md`, write the review, and set
-   the star rating in `{% outOfFive 5 %}`.
+2. A scaffold post is created at `content/blog/<year>/<film-name>.md`
+   (unless a review already exists). Write the review and set `stars:`
+   in the frontmatter.
 
 3. Check it locally with `npm start`. The cast grid and film details
    render from the fetched data — no generation step needed.
