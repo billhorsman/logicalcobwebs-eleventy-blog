@@ -1,0 +1,21 @@
+---
+layout: layouts/post.njk
+---
+{% include "film-backdrop-and-poster.njk" %}
+
+{% outOfFive %}
+
+{{ content | safe }}
+
+{% if dca %}
+<section class="ticket-stub">
+  <a href="https://www.dca.org.uk/">
+    <span>DCA</span>
+    {% dcaTicket %}
+  </a>
+</section>
+{% endif %}
+
+{% include "cast-grid.njk" %}
+{% include "film-detail.njk" %}
+{% include "top_films_link.njk" %}

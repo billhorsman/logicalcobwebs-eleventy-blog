@@ -1,10 +1,7 @@
 ---
-title: The Secret Agent
-ogImage: content/bill/films/backdrops/the-secret-agent-2025.jpg
-description: Bill's review of The Secret Agent — ⭐⭐⭐⭐⭐
+layout: layouts/film-review.njk
 filmSlug: the-secret-agent-2025
 date: 2026-03-13
-author: Bill Horsman
 tags: ["Film review", "DCA"]
 dca:
   date: "2026-03-12 19:45"
@@ -13,10 +10,6 @@ dca:
   rating: "15"
 stars: 5
 ---
-
-{% include "film-backdrop-and-poster.njk" %}
-
-{% outOfFive %}
 
 I can't say enough good things about this film. First of all, the style. I'd have to ask someone who lived in that part of Brazil in 1977 but it felt just like it was filmed in Recife in 1977, in exactly the same way that [Nouvelle Vague](../../2025/nouvelle-vague/) did. Spellbinding. The music was perfect, the film stock (of which I know very little) was perfect. I knew I was going to love it just a few minutes in.
 
@@ -33,14 +26,3 @@ _The iconic Beetle from the opening scene_
 <img src="group.jpg" alt="A group of people sitting down and talking. A man in a green shirt is smiling and looking at the camera.">
 
 _Dona Sebastiana's "refugees"_
-
-<section class="ticket-stub">
-  <a href="https://www.dca.org.uk/">
-    <span>DCA</span>
-    {% dcaTicket %}
-  </a>
-</section>
-
-{% include "cast-grid.njk" %}
-{% include "film-detail.njk" %}
-{% include "top_films_link.njk" %}

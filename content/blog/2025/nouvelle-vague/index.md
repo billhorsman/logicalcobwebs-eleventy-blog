@@ -1,10 +1,7 @@
 ---
-title: Nouvelle Vague
-ogImage: content/bill/films/backdrops/nouvelle-vague-2025.jpg
-description: Bill's review of Nouvelle Vague — ⭐⭐⭐⭐⭐
+layout: layouts/film-review.njk
 filmSlug: nouvelle-vague-2025
 date: 2025-12-10
-author: Bill Horsman
 tags: Film review
 dca:
   date: "2025-12-10 20:00"
@@ -13,10 +10,6 @@ dca:
   rating: "12A"
 stars: 5
 ---
-
-{% include "film-backdrop-and-poster.njk" %}
-
-{% outOfFive %}
 
 What a beautiful film. It was made in 2025 but feels exactly like it was shot in 1960 — like a documentary of the making of Breathless. In black and white of course, but it goes further than that. It's a deep attention to all the details.
 
@@ -31,14 +24,3 @@ _Seberg and Belmondo in 1960_
 _Deutch and Dullin in 2025_
 
 There's a good [behind the scenes writeup](https://www.netflix.com/tudum/articles/nouvelle-vague-behind-the-scenes) on Netflix.
-
-<section class="ticket-stub">
-  <a href="https://www.dca.org.uk/">
-    <span>DCA</span>
-    {% dcaTicket %}
-  </a>
-</section>
-
-{% include "cast-grid.njk" %}
-{% include "film-detail.njk" %}
-{% include "top_films_link.njk" %}

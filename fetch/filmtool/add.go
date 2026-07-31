@@ -128,28 +128,21 @@ func downloadProfileImages(root string, film *Film) error {
 func printBlogScaffold(title, slug, year string) {
 	today := time.Now().Format("2006-01-02")
 	fmt.Printf(`
-Done. Blog post scaffold (e.g. content/blog/%s/%s/index.md):
+Done. Blog post scaffold for %s (e.g. content/blog/%s/%s.md):
 
 ---
-title: "%s"
-ogImage: content/bill/films/backdrops/%s.jpg
-description: "Bill's review of %s — ⭐⭐⭐⭐⭐"
+layout: layouts/film-review.njk
 filmSlug: %s
 date: %s
-author: Bill Horsman
 tags: Film review
 stars: 5
 ---
 
-{%% include "film-backdrop-and-poster.njk" %%}
-
-{%% outOfFive %%}
-
 Your review here.
 
-{%% include "cast-grid.njk" %%}
-{%% include "film-detail.njk" %%}
-`, time.Now().Format("2006"), trimYearSuffix(slug, year), title, slug, title, slug, today)
+Title, description, and share image derive from the film data; add a
+dca: block (date, cinema, seat, rating) for a ticket stub.
+`, title, time.Now().Format("2006"), trimYearSuffix(slug, year), slug, today)
 }
 
 func trimYearSuffix(slug, year string) string {
