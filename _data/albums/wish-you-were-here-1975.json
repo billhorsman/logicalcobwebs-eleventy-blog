@@ -1,0 +1,189 @@
+{
+  "artist": "Pink Floyd",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "ef063b60-3206-466c-a7d8-7d317fcdf9fc",
+            "name": "acid rock"
+          },
+          {
+            "count": 22,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "58e325d5-54fd-4e98-b39a-3aa6bc319273",
+            "name": "blues rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "93244085-20e5-4f16-9067-1d19143b3810",
+            "name": "classic rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "8d275a8d-154a-4bcb-8b5a-f56306ad4bcb",
+            "name": "progressive"
+          },
+          {
+            "count": 57,
+            "disambiguation": "",
+            "id": "ae9b8279-3959-48d8-8a88-741a7f6d4a48",
+            "name": "progressive rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "d698ece0-6fed-4262-b446-42c98b73b65a",
+            "name": "psychedelic"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "2aeb5340-c474-4677-b9a6-35ddac9b6a58",
+            "name": "psychedelic pop"
+          },
+          {
+            "count": 45,
+            "disambiguation": "",
+            "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+            "name": "psychedelic rock"
+          },
+          {
+            "count": 30,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "baaf713d-1e4e-459e-a058-60d89ce1f9df",
+            "name": "rock opera"
+          },
+          {
+            "count": 16,
+            "disambiguation": "",
+            "id": "532dcf83-5641-446d-b007-51292b401650",
+            "name": "space rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f729e6f8-30dc-4b81-9ff4-f4e7de82225d",
+            "name": "symphonic rock"
+          }
+        ],
+        "id": "83d91898-7763-47d7-b03b-b92132375c47",
+        "name": "Pink Floyd",
+        "sort-name": "Pink Floyd",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Pink Floyd"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1975-09-12",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "608b0471-7531-4854-a348-e698c69cb699",
+      "name": "ambient"
+    },
+    {
+      "count": 16,
+      "disambiguation": "",
+      "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+      "name": "art rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+      "name": "experimental rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+      "name": "jazz"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "8d275a8d-154a-4bcb-8b5a-f56306ad4bcb",
+      "name": "progressive"
+    },
+    {
+      "count": 25,
+      "disambiguation": "",
+      "id": "ae9b8279-3959-48d8-8a88-741a7f6d4a48",
+      "name": "progressive rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "d698ece0-6fed-4262-b446-42c98b73b65a",
+      "name": "psychedelic"
+    },
+    {
+      "count": 7,
+      "disambiguation": "",
+      "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+      "name": "psychedelic rock"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "532dcf83-5641-446d-b007-51292b401650",
+      "name": "space rock"
+    }
+  ],
+  "id": "1a272023-10d3-38ee-bab3-317b55fcc21d",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "wish-you-were-here-1975",
+  "title": "Wish You Were Here",
+  "top-genres": [
+    "progressive rock",
+    "art rock",
+    "psychedelic rock",
+    "rock",
+    "progressive"
+  ],
+  "year": "1975"
+}
