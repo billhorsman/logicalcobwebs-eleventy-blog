@@ -89,8 +89,35 @@ func addAlbum(root, mbid string, force bool) error {
 		return err
 	}
 
-	fmt.Printf("\n%s — %s (%s)\nAdd %q to _data/top_albums.json (and _data/top_5_albums.json?) to show it.\n",
-		title, data["artist"], year, slug)
+	fmt.Printf("\n%s — %s (%s)\n", title, data["artist"], year)
+	return addToTop100(root, slug)
+}
+
+// addToTop100 appends the album to _data/top_albums.json (re-sorting by
+// release date) while the list is still filling up. Once it holds 100,
+// curation takes over: swaps are made by hand.
+func addToTop100(root, slug string) error {
+	slugs, err := readTopAlbums(root)
+	if err != nil {
+		return err
+	}
+	for _, s := range slugs {
+		if s == slug {
+			fmt.Printf("Already in the top 100 (%d/100).\n", len(slugs))
+			return nil
+		}
+	}
+	if len(slugs) >= 100 {
+		fmt.Printf("The top 100 is full — swap %q in by hand (and re-run sort) if it deserves a place.\n", slug)
+		return nil
+	}
+	if err := writeTopAlbums(root, append(slugs, slug)); err != nil {
+		return err
+	}
+	if err := sortTopAlbums(root); err != nil {
+		return err
+	}
+	fmt.Printf("Added to the top 100 (%d/100).\n", len(slugs)+1)
 	return nil
 }
 

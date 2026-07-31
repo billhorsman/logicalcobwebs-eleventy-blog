@@ -13,15 +13,48 @@ func topAlbumsPath(root string) string {
 	return filepath.Join(root, "_data", "top_albums.json")
 }
 
-// cmdSort orders _data/top_albums.json by first release date (title
-// breaks ties), matching how the film top 100 is sorted.
-func cmdSort(root string) error {
+func readTopAlbums(root string) ([]string, error) {
 	raw, err := os.ReadFile(topAlbumsPath(root))
 	if err != nil {
-		return err
+		return nil, err
 	}
 	var slugs []string
 	if err := json.Unmarshal(raw, &slugs); err != nil {
+		return nil, err
+	}
+	return slugs, nil
+}
+
+// writeTopAlbums matches top_films.json's style: tab-indented with a
+// trailing newline.
+func writeTopAlbums(root string, slugs []string) error {
+	var buf bytes.Buffer
+	enc := json.NewEncoder(&buf)
+	enc.SetEscapeHTML(false)
+	enc.SetIndent("", "\t")
+	if err := enc.Encode(slugs); err != nil {
+		return err
+	}
+	return os.WriteFile(topAlbumsPath(root), buf.Bytes(), 0o644)
+}
+
+func cmdSort(root string) error {
+	if err := sortTopAlbums(root); err != nil {
+		return err
+	}
+	slugs, err := readTopAlbums(root)
+	if err != nil {
+		return err
+	}
+	fmt.Printf("Sorted %d albums\n", len(slugs))
+	return nil
+}
+
+// sortTopAlbums orders _data/top_albums.json by first release date
+// (title breaks ties), matching how the film top 100 is sorted.
+func sortTopAlbums(root string) error {
+	slugs, err := readTopAlbums(root)
+	if err != nil {
 		return err
 	}
 
@@ -52,18 +85,5 @@ func cmdSort(root string) error {
 	for i, a := range albums {
 		sorted[i] = a.slug
 	}
-
-	// Same style as top_films.json: tab-indented with a trailing newline
-	var buf bytes.Buffer
-	enc := json.NewEncoder(&buf)
-	enc.SetEscapeHTML(false)
-	enc.SetIndent("", "\t")
-	if err := enc.Encode(sorted); err != nil {
-		return err
-	}
-	if err := os.WriteFile(topAlbumsPath(root), buf.Bytes(), 0o644); err != nil {
-		return err
-	}
-	fmt.Printf("Sorted %d albums\n", len(sorted))
-	return nil
+	return writeTopAlbums(root, sorted)
 }

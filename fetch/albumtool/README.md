@@ -19,7 +19,9 @@ go -C fetch/albumtool build -o ../../bin/albumtool .
 
 Both write `_data/albums/<slug>.json` and download the front cover to
 `content/albums/covers/<slug>.jpg`. A search with a single match skips
-the picker.
+the picker. While the top 100 has fewer than 100 entries, added albums
+join it automatically (kept in release-date order); once it's full,
+swaps are made by hand.
 
 ## Curating the top 100 (and top 5)
 
