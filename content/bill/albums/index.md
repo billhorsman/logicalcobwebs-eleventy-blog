@@ -1,6 +1,7 @@
 ---
 title: Albums
 permalink: /bill/albums/
+ogImage: content/bill/albums/montage.jpg
 eleventyComputed:
   description: "Bill Horsman's top {{ top_albums.length }} albums, from {{ albums[top_albums[0]].year }} to {{ albums[top_albums[top_albums.length - 1]].year }}."
 ---

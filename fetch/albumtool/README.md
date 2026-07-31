@@ -68,6 +68,15 @@ different edition's tracklist:
 
 `./bin/albumtool tracks` (no arguments) backfills albums without one.
 
+## OpenGraph montage
+
+The albums index shares as a grid of 18 covers sampled across the top
+100. Regenerate it after the list changes much:
+
+```sh
+./bin/albumtool montage
+```
+
 ## Curating the top 100 (and top 5)
 
 Like films, the lists are curated by hand:

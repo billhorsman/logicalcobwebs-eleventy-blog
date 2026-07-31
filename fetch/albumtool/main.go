@@ -25,6 +25,7 @@ Commands:
   covers              retry missing covers (Cover Art Archive, then Discogs)
   links               backfill album.link listen links from MusicBrainz
   tracks [<slug> <release>]  backfill missing tracklists, or pin one edition's
+  montage             regenerate the OpenGraph cover grid for the index
 `)
 }
 
@@ -56,6 +57,8 @@ func main() {
 		err = cmdLinks(root)
 	case "tracks":
 		err = cmdTracks(root, args)
+	case "montage":
+		err = cmdMontage(root)
 	case "help", "-h", "--help":
 		usage()
 		return
