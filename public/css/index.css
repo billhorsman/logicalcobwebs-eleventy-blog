@@ -106,7 +106,9 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 100dvh;
+  /* min-, not height: a fixed height caps the sticky nav-header's
+     containing block at one viewport, so it scrolls away on long pages */
+  min-height: 100dvh;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */

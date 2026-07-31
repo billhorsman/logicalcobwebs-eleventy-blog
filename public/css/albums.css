@@ -19,6 +19,12 @@ body.albums main {
 	max-width: 64rem;
 }
 
+/* The default header backdrop-filter grayscales what shows through it,
+   which visibly dulls the vibrant gold */
+body.albums .nav-header {
+	backdrop-filter: blur(3px);
+}
+
 .album-grid {
 	margin: 2rem 0;
 
