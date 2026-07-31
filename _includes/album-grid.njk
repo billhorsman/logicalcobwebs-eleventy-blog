@@ -5,7 +5,11 @@
 {%- for slug in gridSlugs %}
 {%- set album = albums[slug] %}
 <a href="/bill/albums/{{ slug }}/" class="album-card">
+{%- if slug | albumCoverExists %}
 <img src="/bill/albums/covers/{{ slug }}.jpg" alt="Cover of {{ album.title }} by {{ album.artist }}" loading="lazy">
+{%- else %}
+<div class="album-card-no-cover"><i class="fa-solid fa-record-vinyl"></i></div>
+{%- endif %}
 {%- if showRank %}<span class="album-card-rank">{{ loop.index }}</span>{% endif %}
 <span class="album-card-title">{{ album.title }}</span>
 <span class="album-card-artist">{{ album.artist }} · {{ album.year }}</span>

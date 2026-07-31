@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
@@ -104,6 +105,11 @@ export default async function(eleventyConfig) {
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);
+
+	// Not every album has cover art on the Cover Art Archive; templates
+	// show a placeholder instead of referencing a missing file.
+	eleventyConfig.addFilter("albumCoverExists", (slug) =>
+		existsSync(`content/bill/albums/covers/${slug}.jpg`));
 	eleventyConfig.addPlugin(pluginDcaTicket);
 
 	eleventyConfig.addPlugin(IdAttributePlugin, {

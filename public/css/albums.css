@@ -85,6 +85,20 @@ body.albums main {
 	height: 1.75rem;
 }
 
+.album-card-no-cover {
+	align-items: center;
+	aspect-ratio: 1;
+	background: var(--subtle-link-background-color);
+	border-radius: 4px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	display: flex;
+	font-size: 3rem;
+	justify-content: center;
+	margin-bottom: 0.35rem;
+	opacity: 0.6;
+	width: 100%;
+}
+
 .album-card-title {
 	font-weight: bold;
 	line-height: 1.2;

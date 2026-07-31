@@ -32,7 +32,11 @@ eleventyComputed:
 </nav>
 
 <article class="album">
+  {%- if slug | albumCoverExists %}
   <img class="album-cover" src="/bill/albums/covers/{{ slug }}.jpg" alt="Cover of {{ album.title }} by {{ album.artist }}">
+  {%- else %}
+  <div class="album-cover album-card-no-cover"><i class="fa-solid fa-record-vinyl"></i></div>
+  {%- endif %}
 
   <h1>{{ album.title }}</h1>
 
