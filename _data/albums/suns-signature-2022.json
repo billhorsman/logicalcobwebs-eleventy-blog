@@ -1,0 +1,68 @@
+{
+  "artist": "Sun’s Signature",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "Elizabeth Fraser and Damon Reece",
+        "genres": [],
+        "id": "f9021e5d-3f01-4ce1-8d10-9a5a81978c19",
+        "name": "Sun’s Signature",
+        "sort-name": "Sun’s Signature",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Sun’s Signature"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2022-06-18",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+      "name": "art pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f0c26658-95b8-46b8-b167-fdc9a659465b",
+      "name": "chamber folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+      "name": "downtempo"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+      "name": "folk"
+    }
+  ],
+  "id": "2c926392-c58f-4479-8166-e494bc2fee79",
+  "primary-type": "EP",
+  "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "suns-signature-2022",
+  "title": "Sun’s Signature",
+  "top-genres": [
+    "art pop",
+    "chamber folk",
+    "downtempo",
+    "electronic",
+    "folk"
+  ],
+  "year": "2022"
+}

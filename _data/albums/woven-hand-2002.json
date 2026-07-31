@@ -1,0 +1,72 @@
+{
+  "artist": "Wovenhand",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "dark country/folk music group",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0b48a36c-630f-4ee7-8cf3-480e3dd8be65",
+            "name": "alternative folk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "34d08b64-7426-42e1-959e-48af44352fcd",
+            "name": "progressive folk"
+          }
+        ],
+        "id": "7b288ade-8d1e-4abc-b6b0-84eddfcb7ecc",
+        "name": "Wovenhand",
+        "sort-name": "Wovenhand",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Wovenhand"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2002-03-25",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "eba5e1b2-cbff-3eeb-89d2-318b639648a4",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "woven-hand-2002",
+  "title": "Woven Hand",
+  "top-genres": [
+    "folk rock",
+    "rock"
+  ],
+  "year": "2002"
+}

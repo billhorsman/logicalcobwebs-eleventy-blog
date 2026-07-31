@@ -1,0 +1,91 @@
+{
+  "artist": "Dead Kennedys",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "American punk rock band",
+        "genres": [
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "055a6e4d-d929-42ac-ba7a-9d063b254ea5",
+            "name": "hardcore punk"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+            "name": "punk"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "bd7e1d40-43b1-4ba5-97b3-05b891466962",
+            "name": "punk rock"
+          }
+        ],
+        "id": "37c78aeb-d196-42b5-b991-6afb4fc9bc2e",
+        "name": "Dead Kennedys",
+        "sort-name": "Dead Kennedys",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Dead Kennedys"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1987-05",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "055a6e4d-d929-42ac-ba7a-9d063b254ea5",
+      "name": "hardcore punk"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+      "name": "punk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "bd7e1d40-43b1-4ba5-97b3-05b891466962",
+      "name": "punk rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "794ff79a-994a-4ecf-96e9-b7aa510a215f",
+      "name": "surf punk"
+    }
+  ],
+  "id": "6aa789e7-862c-3359-a536-4c01857af850",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [
+    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+  ],
+  "secondary-types": [
+    "Compilation"
+  ],
+  "slug": "give-me-convenience-or-give-me-death-1987",
+  "title": "Give Me Convenience or Give Me Death",
+  "top-genres": [
+    "punk",
+    "hardcore punk",
+    "rock",
+    "punk rock",
+    "surf punk"
+  ],
+  "year": "1987"
+}

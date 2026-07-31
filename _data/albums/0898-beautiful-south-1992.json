@@ -1,0 +1,109 @@
+{
+  "artist": "The Beautiful South",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "650bda08-20ca-4012-b873-3b68c5768bdf",
+            "name": "blue-eyed soul"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f1c9b874-7ef2-4e79-9419-c0bcb5f33a30",
+            "name": "britpop"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "f0843e91-c025-4dd7-8aef-6fe3d35470d9",
+            "name": "chamber pop"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "f390be72-360b-41bb-a310-6a2e638779d2",
+            "name": "indie pop"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "c88a8b97-ba4b-4d45-916f-4c4a779ccd89",
+            "name": "jazz pop"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "name": "pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "7d0c6a6b-5d56-4b1e-a8c7-e32194f246b9",
+            "name": "soft rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "d13290c7-581a-4aa7-85ad-450b35261bf8",
+            "name": "sophisti-pop"
+          }
+        ],
+        "id": "eec43ebc-815a-4105-b1cb-205b8f57b4fa",
+        "name": "The Beautiful South",
+        "sort-name": "Beautiful South, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Beautiful South"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1992-03-25",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "839acc6b-1a41-3293-b55e-7bf6bb0da289",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "0898-beautiful-south-1992",
+  "title": "0898 Beautiful South",
+  "top-genres": [
+    "pop rock",
+    "rock",
+    "pop"
+  ],
+  "year": "1992"
+}

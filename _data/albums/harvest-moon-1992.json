@@ -1,0 +1,103 @@
+{
+  "artist": "Neil Young",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "CA",
+        "disambiguation": "Canadian singer, songwriter & musician",
+        "genres": [
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "93244085-20e5-4f16-9067-1d19143b3810",
+            "name": "classic rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "c11e4253-a888-4a2a-adde-c274b748d0b3",
+            "name": "contemporary folk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+            "name": "country"
+          },
+          {
+            "count": 8,
+            "disambiguation": "",
+            "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+            "name": "country rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+            "name": "folk rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab",
+            "name": "hard rock"
+          },
+          {
+            "count": 11,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "75167b8b-44e4-407b-9d35-effe87b223cf",
+        "name": "Neil Young",
+        "sort-name": "Young, Neil",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Neil Young"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1992-10-27",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+      "name": "country rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "6c153d3a-cf36-37ea-8409-0e48b428315f",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "harvest-moon-1992",
+  "title": "Harvest Moon",
+  "top-genres": [
+    "rock",
+    "folk rock",
+    "country rock"
+  ],
+  "year": "1992"
+}

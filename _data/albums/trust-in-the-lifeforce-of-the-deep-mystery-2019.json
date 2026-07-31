@@ -1,0 +1,103 @@
+{
+  "artist": "The Comet Is Coming",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+            "name": "dance"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "name": "electronica"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "fe4ba6a1-9873-4fd0-a12b-a70c81818514",
+            "name": "funk"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+            "name": "jazz"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "2377ff19-83e7-4873-b425-dce6d1ad4ef4",
+            "name": "jazz fusion"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "848ecccf-e7fa-4439-a8ab-9dd3c31b4cf6",
+            "name": "nu jazz"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+            "name": "psychedelic rock"
+          }
+        ],
+        "id": "2b82372f-8c85-4b47-a9fc-36fe4d4df5b4",
+        "name": "The Comet Is Coming",
+        "sort-name": "Comet Is Coming, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Comet Is Coming"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2019-03-15",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+      "name": "jazz"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "1e4899d0-6ee0-499d-85e5-2d248dfe1023",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "trust-in-the-lifeforce-of-the-deep-mystery-2019",
+  "title": "Trust in the Lifeforce of the Deep Mystery",
+  "top-genres": [
+    "jazz",
+    "electronic",
+    "rock"
+  ],
+  "year": "2019"
+}

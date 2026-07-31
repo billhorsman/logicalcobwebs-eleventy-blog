@@ -1,0 +1,86 @@
+{
+  "artist": "Ramones",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "US punk rock band",
+        "genres": [
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "60e21d01-ce21-4127-86b7-aada79558dab",
+            "name": "pop punk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "618704fc-daac-44a2-92c9-89e3b1a2fc8c",
+            "name": "power pop"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+            "name": "punk"
+          },
+          {
+            "count": 21,
+            "disambiguation": "",
+            "id": "bd7e1d40-43b1-4ba5-97b3-05b891466962",
+            "name": "punk rock"
+          }
+        ],
+        "id": "d6ed7887-a401-47a8-893c-34b967444d26",
+        "name": "Ramones",
+        "sort-name": "Ramones",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Ramones"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1976-04-23",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "618704fc-daac-44a2-92c9-89e3b1a2fc8c",
+      "name": "power pop"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+      "name": "punk"
+    },
+    {
+      "count": 13,
+      "disambiguation": "",
+      "id": "bd7e1d40-43b1-4ba5-97b3-05b891466962",
+      "name": "punk rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "7de1e321-4a53-3feb-b83e-f1dab88bf952",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "ramones-1976",
+  "title": "Ramones",
+  "top-genres": [
+    "punk rock",
+    "punk",
+    "power pop",
+    "rock"
+  ],
+  "year": "1976"
+}

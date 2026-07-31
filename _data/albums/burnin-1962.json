@@ -1,0 +1,85 @@
+{
+  "artist": "John Lee Hooker",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "US blues singer, songwriter & guitarist",
+        "genres": [
+          {
+            "count": 15,
+            "disambiguation": "",
+            "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+            "name": "blues"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "58e325d5-54fd-4e98-b39a-3aa6bc319273",
+            "name": "blues rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "1a46845c-ed4d-48c5-a93f-45bb85cf56d1",
+            "name": "country blues"
+          },
+          {
+            "count": 8,
+            "disambiguation": "",
+            "id": "b0702eb4-2951-4e1f-bbcd-dd9b0ec63c7c",
+            "name": "delta blues"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "8164d906-055d-4ca8-9ab2-14204b301cc3",
+            "name": "electric blues"
+          }
+        ],
+        "id": "b0122194-c49a-46a1-ade7-84d1d76bd8e9",
+        "name": "John Lee Hooker",
+        "sort-name": "Hooker, John Lee",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "John Lee Hooker"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1962",
+  "genres": [
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+      "name": "blues"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "b0702eb4-2951-4e1f-bbcd-dd9b0ec63c7c",
+      "name": "delta blues"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "8164d906-055d-4ca8-9ab2-14204b301cc3",
+      "name": "electric blues"
+    }
+  ],
+  "id": "77a02f01-a52b-3f6e-88f5-5c6dd429317f",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "burnin-1962",
+  "title": "Burnin’",
+  "top-genres": [
+    "blues",
+    "delta blues",
+    "electric blues"
+  ],
+  "year": "1962"
+}

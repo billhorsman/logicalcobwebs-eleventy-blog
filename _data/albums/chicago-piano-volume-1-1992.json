@@ -1,0 +1,71 @@
+{
+  "artist": "Jimmy and Mama Yancey",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "310c2c5c-38a7-49ce-9d24-6f27e22bd203",
+            "name": "boogie-woogie"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+            "name": "jazz"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "e671e0de-b37d-4a49-8bb3-7fec87f49975",
+            "name": "piano blues"
+          }
+        ],
+        "id": "78a7f57a-a276-45f6-b63c-96d941e244d2",
+        "name": "Jimmy Yancey",
+        "sort-name": "Yancey, Jimmy",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": " and ",
+      "name": "Jimmy"
+    },
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+            "name": "blues"
+          }
+        ],
+        "id": "14c8b7d3-5943-4997-99b0-2ca430a0ee13",
+        "name": "Mama Yancey",
+        "sort-name": "Yancey, Mama",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Mama Yancey"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1992",
+  "genres": [],
+  "id": "2e1c6cf2-c614-36e0-98cf-fdedd3883271",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "chicago-piano-volume-1-1992",
+  "title": "Chicago Piano, Volume 1",
+  "top-genres": [],
+  "year": "1992"
+}

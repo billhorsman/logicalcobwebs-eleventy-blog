@@ -1,0 +1,129 @@
+{
+  "artist": "Cocteau Twins",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "1c6e4eae-915d-4662-a7ff-038920b67d9e",
+            "name": "ambient techno"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "c4a72fcd-e291-43c8-a546-9ce1764ff31b",
+            "name": "dark wave"
+          },
+          {
+            "count": 15,
+            "disambiguation": "",
+            "id": "6242615b-5620-465b-b6fb-2e593e90cbad",
+            "name": "dream pop"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "348a3ac2-4cad-4c93-8b3d-ec595ba60f80",
+            "name": "ethereal wave"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "d9858aef-25bf-478b-b135-b900aa1f0fd1",
+            "name": "gothic rock"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "a4012b2e-5c27-4f81-8781-9ae5998d882c",
+            "name": "shoegaze"
+          }
+        ],
+        "id": "000fc734-b7e1-4a01-92d1-f544261b43f5",
+        "name": "Cocteau Twins",
+        "sort-name": "Cocteau Twins",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Cocteau Twins"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1982-09-01",
+  "genres": [
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "6242615b-5620-465b-b6fb-2e593e90cbad",
+      "name": "dream pop"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+      "name": "experimental"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "d9858aef-25bf-478b-b135-b900aa1f0fd1",
+      "name": "gothic rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+      "name": "new wave"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+      "name": "post-punk"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "a4012b2e-5c27-4f81-8781-9ae5998d882c",
+      "name": "shoegaze"
+    }
+  ],
+  "id": "9e49ba16-74f0-389e-9b76-7a13c7171a00",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "garlands-1982",
+  "title": "Garlands",
+  "top-genres": [
+    "dream pop",
+    "post-punk",
+    "electronic",
+    "gothic rock",
+    "new wave"
+  ],
+  "year": "1982"
+}

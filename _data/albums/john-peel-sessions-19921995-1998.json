@@ -1,0 +1,72 @@
+{
+  "artist": "The Wedding Present",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "17cee13b-8725-43d1-a52a-6786933c0166",
+            "name": "c86"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          }
+        ],
+        "id": "707622da-475f-48e1-905d-248718df6521",
+        "name": "The Wedding Present",
+        "sort-name": "Wedding Present, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Wedding Present"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1998-07-07",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "d251e0b8-1023-33e4-955a-74239a2b70e6",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [
+    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+    "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+  ],
+  "secondary-types": [
+    "Compilation",
+    "Live"
+  ],
+  "slug": "john-peel-sessions-19921995-1998",
+  "title": "John Peel Sessions 1992–1995",
+  "top-genres": [
+    "indie rock",
+    "rock"
+  ],
+  "year": "1998"
+}

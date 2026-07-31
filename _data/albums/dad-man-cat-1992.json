@@ -1,0 +1,68 @@
+{
+  "artist": "Corduroy",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "acid jazz group",
+        "genres": [
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "7dc2b20f-3953-4874-b9bf-41b8ba06d20c",
+            "name": "acid jazz"
+          }
+        ],
+        "id": "207c2d32-c90b-4a3d-aa67-d958dd18cef4",
+        "name": "Corduroy",
+        "sort-name": "Corduroy",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Corduroy"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1992",
+  "genres": [
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "7dc2b20f-3953-4874-b9bf-41b8ba06d20c",
+      "name": "acid jazz"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+      "name": "jazz"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f3c43ae8-839a-4523-b295-cfa4eba6c911",
+      "name": "jazz-funk"
+    }
+  ],
+  "id": "5b3e242c-2961-3446-944d-de26db9c1076",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "dad-man-cat-1992",
+  "title": "Dad Man Cat",
+  "top-genres": [
+    "acid jazz",
+    "electronic",
+    "jazz",
+    "jazz-funk"
+  ],
+  "year": "1992"
+}

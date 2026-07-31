@@ -1,0 +1,207 @@
+{
+  "artist": "Amon Tobin",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "BR",
+        "disambiguation": "Brazilian electronic music artist",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "608b0471-7531-4854-a348-e698c69cb699",
+            "name": "ambient"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "bab69b07-8bb9-4415-b666-c37609cef80b",
+            "name": "club"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+            "name": "downtempo"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "6732427a-0d04-4a15-b9e5-b4b5b9532f8f",
+            "name": "drill and bass"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "462f9321-6103-49c9-b6db-96219bce6f62",
+            "name": "drum and bass"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "1b50083b-1afa-4778-82c8-548b309af783",
+            "name": "dubstep"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
+            "name": "electro"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "name": "electronica"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "3832a068-e169-40cb-9638-d0b04342f3a3",
+            "name": "experimental electronic"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "e254f865-58ea-4483-9b2f-1bc65febcd71",
+            "name": "future bass"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "51cfaac4-6696-480b-8f1b-27cfc789109c",
+            "name": "grime"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+            "name": "idm"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ea9b6ec3-fc8f-4c55-b2f9-19bd4511a986",
+            "name": "jungle"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "848ecccf-e7fa-4439-a8ab-9dd3c31b4cf6",
+            "name": "nu jazz"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "9a339aa8-a0e5-450c-95a7-b11517bb508f",
+            "name": "trap"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+            "name": "trip hop"
+          }
+        ],
+        "id": "630662ea-1c7d-4208-99fd-ba3afec20f0c",
+        "name": "Amon Tobin",
+        "sort-name": "Tobin, Amon",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Amon Tobin"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1997-04-25",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "63eddc75-dbad-4a05-a365-e30d1e87bca8",
+      "name": "breaks"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+      "name": "downtempo"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "462f9321-6103-49c9-b6db-96219bce6f62",
+      "name": "drum and bass"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+      "name": "instrumental"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+      "name": "jazz"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "6294b8c8-42d7-4f32-a888-1d77acce495a",
+      "name": "jazzstep"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "32bea60c-e201-4241-8ed4-228636d34a97",
+      "name": "leftfield"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "848ecccf-e7fa-4439-a8ab-9dd3c31b4cf6",
+      "name": "nu jazz"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "8d275a8d-154a-4bcb-8b5a-f56306ad4bcb",
+      "name": "progressive"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "d698ece0-6fed-4262-b446-42c98b73b65a",
+      "name": "psychedelic"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+      "name": "trip hop"
+    }
+  ],
+  "id": "c1f40fac-2abd-3f0c-a635-26d166766b46",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "bricolage-1997",
+  "title": "Bricolage",
+  "top-genres": [
+    "drum and bass",
+    "leftfield",
+    "nu jazz",
+    "trip hop",
+    "breaks"
+  ],
+  "year": "1997"
+}

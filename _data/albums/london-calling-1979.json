@@ -1,0 +1,141 @@
+{
+  "artist": "The Clash",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "70s–80s British punk rock band",
+        "genres": [
+          {
+            "count": 10,
+            "disambiguation": "",
+            "id": "509c006f-67c2-4c54-a568-d2b415cb0642",
+            "name": "dance-punk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "fe4ba6a1-9873-4fd0-a12b-a70c81818514",
+            "name": "funk"
+          },
+          {
+            "count": 8,
+            "disambiguation": "",
+            "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+            "name": "new wave"
+          },
+          {
+            "count": 8,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+            "name": "punk"
+          },
+          {
+            "count": 21,
+            "disambiguation": "",
+            "id": "bd7e1d40-43b1-4ba5-97b3-05b891466962",
+            "name": "punk rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "fab69fe7-de95-43f7-9629-67e520dfbebb",
+            "name": "reggae rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "8f92558c-2baa-4758-8c38-615519e9deda",
+        "name": "The Clash",
+        "sort-name": "Clash, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Clash"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1979-12-14",
+  "genres": [
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+      "name": "new wave"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+      "name": "post-punk"
+    },
+    {
+      "count": 8,
+      "disambiguation": "",
+      "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+      "name": "punk"
+    },
+    {
+      "count": 9,
+      "disambiguation": "",
+      "id": "bd7e1d40-43b1-4ba5-97b3-05b891466962",
+      "name": "punk rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "02b2f720-d06e-42ce-85c2-1ecd4191ffcb",
+      "name": "reggae"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "fab69fe7-de95-43f7-9629-67e520dfbebb",
+      "name": "reggae rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+      "name": "rockabilly"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "65877068-2116-4af6-89a2-838179a7e103",
+      "name": "ska"
+    }
+  ],
+  "id": "8d73e45e-7ca1-3cb4-ae28-6da76196c17c",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "london-calling-1979",
+  "title": "London Calling",
+  "top-genres": [
+    "punk rock",
+    "punk",
+    "new wave",
+    "ska",
+    "rock"
+  ],
+  "year": "1979"
+}

@@ -1,0 +1,72 @@
+{
+  "artist": "Fontaines D.C.",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "IE",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "d9858aef-25bf-478b-b135-b900aa1f0fd1",
+            "name": "gothic rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+        "name": "Fontaines D.C.",
+        "sort-name": "Fontaines D.C.",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Fontaines D.C."
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2019-04-12",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+      "name": "post-punk"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "84c01ae7-82e5-4965-a5b6-7aeaf539f85c",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "dogrel-2019",
+  "title": "Dogrel",
+  "top-genres": [
+    "rock",
+    "post-punk"
+  ],
+  "year": "2019"
+}

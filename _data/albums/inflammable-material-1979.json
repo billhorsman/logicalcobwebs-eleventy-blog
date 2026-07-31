@@ -1,0 +1,73 @@
+{
+  "artist": "Stiff Little Fingers",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "618704fc-daac-44a2-92c9-89e3b1a2fc8c",
+            "name": "power pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+            "name": "punk"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "bd7e1d40-43b1-4ba5-97b3-05b891466962",
+            "name": "punk rock"
+          }
+        ],
+        "id": "022865bc-84c9-4002-b6c1-d5fc6e12b7d8",
+        "name": "Stiff Little Fingers",
+        "sort-name": "Stiff Little Fingers",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Stiff Little Fingers"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1979-02-02",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+      "name": "punk"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "bd7e1d40-43b1-4ba5-97b3-05b891466962",
+      "name": "punk rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "a4e97980-2b8b-3f87-8424-a35863623d88",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "inflammable-material-1979",
+  "title": "Inflammable Material",
+  "top-genres": [
+    "punk",
+    "punk rock",
+    "rock"
+  ],
+  "year": "1979"
+}
