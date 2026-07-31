@@ -87,7 +87,7 @@ function barcode(rand, x, y, width, height) {
 }
 
 function qrCode(content, x, y, size) {
-	const qr = new QRCode({ content, padding: 0, ecl: "M" });
+	const qr = new QRCode({ content, padding: 0, ecl: "L" });
 	const modules = qr.qrcode.modules;
 	const cell = size / modules.length;
 	const rects = [];
@@ -114,13 +114,19 @@ export default function (eleventyConfig) {
 		const price = dca.price || "£10.00";
 		const cinema = dca.cinema || "Cinema One";
 		const when = ticketDate(dca.date);
-		const canonicalUrl = `${SITE_URL}${this.page.url}`;
-
 		// The film's TMDB id doubles as the ticket's reference number and
 		// the barcode seed; without a filmSlug, fall back to the URL.
 		const film = this.ctx.filmSlug && this.ctx.films?.[this.ctx.filmSlug];
 		const reference = film?.id ? String(film.id) : "";
 		const rand = mulberry32(hash(reference || this.page.url));
+
+		// Short /t/<id> links (301-redirected to the post by _redirects,
+		// see content/redirects.njk) keep the QR code at version 2 —
+		// 25x25 modules, denser than the original tickets' version 3.
+		// The scheme is omitted to save a QR version; phones still open it.
+		const qrContent = reference
+			? `${SITE_URL.replace("https://", "")}/t/${reference}`
+			: `${SITE_URL.replace("https://", "")}${this.page.url}`;
 
 		const label = `Ticket stub for seat ${seat} in the DCA's ${cinema.toLowerCase()} on ${when.long}`;
 
@@ -141,7 +147,7 @@ export default function (eleventyConfig) {
     <text x="60" y="106" font-size="11">Standard - ${escapeXML(price)}</text>
     ${barcode(rand, 60, 116, 130, 15)}
     ${referenceText}
-    ${qrCode(canonicalUrl, 252, 26, 84)}
+    ${qrCode(qrContent, 252, 26, 84)}
   </g>
 </svg>`;
 	});
