@@ -3,6 +3,7 @@ pagination:
   data: top_albums
   size: 1
   alias: slug
+  addAllPagesToCollections: true
 permalink: "/bill/albums/{{ slug }}/"
 eleventyComputed:
   title: "{{ albums[slug].title }}"
