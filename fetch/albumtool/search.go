@@ -11,12 +11,19 @@ import (
 
 func cmdSearch(root string, args []string) error {
 	if len(args) == 0 {
-		return fmt.Errorf("usage: albumtool search <title>")
+		return fmt.Errorf("usage: albumtool search <title> [by <artist>]")
 	}
+
+	// "wish you were here by pink floyd" narrows the search by artist —
+	// useful when the title alone is drowned in covers and tributes
 	query := strings.Join(args, " ")
+	luceneQuery := fmt.Sprintf("releasegroup:%q AND primarytype:album", query)
+	if title, artist, found := strings.Cut(query, " by "); found {
+		luceneQuery = fmt.Sprintf("releasegroup:%q AND artist:%q AND primarytype:album", title, artist)
+	}
 
 	data, err := mbGet("release-group", url.Values{
-		"query": {fmt.Sprintf("releasegroup:%q AND primarytype:album", query)},
+		"query": {luceneQuery},
 		"limit": {"10"},
 	})
 	if err != nil {

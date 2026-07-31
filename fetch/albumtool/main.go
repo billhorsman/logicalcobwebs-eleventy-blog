@@ -18,7 +18,7 @@ func usage() {
 	fmt.Fprint(os.Stderr, `Usage: albumtool <command> [arguments]
 
 Commands:
-  search <title>      search MusicBrainz by title, pick a match, then add it
+  search <title> [by <artist>]  search MusicBrainz, pick a match, then add it
   add <mbid-or-url>   fetch one release group by MusicBrainz id or URL
   sort                sort _data/top_albums.json by first release date
   cover <slug> <release>  replace an album's cover with a specific release's front image

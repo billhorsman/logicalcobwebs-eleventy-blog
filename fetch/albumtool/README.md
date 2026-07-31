@@ -14,6 +14,7 @@ go -C fetch/albumtool build -o ../../bin/albumtool .
 
 ```sh
 ./bin/albumtool search little girl blue
+./bin/albumtool search wish you were here by pink floyd
 ./bin/albumtool add https://musicbrainz.org/release-group/19ca48c1-af98-3000-bc9a-97ef5fa3e3be
 ```
 
