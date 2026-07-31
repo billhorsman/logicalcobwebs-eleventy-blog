@@ -3,6 +3,10 @@ permalink: /_redirects
 layout: false
 eleventyExcludeFromCollections: true
 ---
+# lgc.li is a Netlify domain alias; force every request over to the
+# canonical domain (the ! is needed because content exists at the path)
+https://lgc.li/* https://logicalcobwebs.com/:splat 301!
+http://lgc.li/* https://logicalcobwebs.com/:splat 301!
 {%- for post in collections.posts %}
 {%- if post.data.dca and post.data.filmSlug %}
 /{{ films[post.data.filmSlug].id }} {{ post.url }} 301
