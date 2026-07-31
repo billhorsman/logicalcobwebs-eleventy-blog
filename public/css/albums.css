@@ -251,6 +251,7 @@ ol.track-list {
 
 .album-listen-wrap {
 	margin-top: 2rem;
+	text-align: right;
 }
 
 .album-listen {
@@ -260,6 +261,11 @@ ol.track-list {
 	display: inline-block;
 	padding: 0.25rem 0.75rem;
 	text-decoration: none;
+
+	&:hover,
+	a:focus-visible {
+		color: var(--background-color);
+	}
 }
 
 album-top-five-badge {
