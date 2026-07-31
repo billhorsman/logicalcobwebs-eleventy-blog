@@ -10,7 +10,7 @@ eleventyComputed:
 ---
 {%- set album = albums[slug] %}
 {%- set position = top_albums.indexOf(slug) + 1 %}
-{%- set topFiveRank = top_5_albums.indexOf(slug) + 1 %}
+{%- set inTopFive = top_5_albums.includes(slug) %}
 
 <nav class="albums-nav">
   <div class="prev">
@@ -43,12 +43,21 @@ eleventyComputed:
 
   <p class="album-artist">
     <strong>{{ album.artist }}</strong> · {{ album.year }}
-    {%- if topFiveRank %} · <span class="album-top-five-badge">Top 5 — #{{ topFiveRank }}</span>{% endif %}
+    {%- if inTopFive %} · <span class="album-top-five-badge">Top 5</span>{% endif %}
   </p>
 
   {%- if album["top-genres"].length %}
   <p class="album-genres">
     {{ album["top-genres"] | join(", ") }}
+  </p>
+  {%- endif %}
+
+  {%- if album["album-link"] %}
+  <p>
+    <a class="album-listen" href="{{ album["album-link"] }}">
+      <i class="fa-solid fa-headphones"></i>
+      Listen
+    </a>
   </p>
   {%- endif %}
 </article>

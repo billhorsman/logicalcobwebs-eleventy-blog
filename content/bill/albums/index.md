@@ -19,7 +19,6 @@ If you only listen to {{ top_5_albums.length }} albums&hellip;
 
 <section class="album-grid top-five">
 {% set gridSlugs = top_5_albums %}
-{% set showRank = true %}
 {% include "album-grid.njk" %}
 </section>
 
@@ -27,6 +26,5 @@ If you only listen to {{ top_5_albums.length }} albums&hellip;
 
 <section class="album-grid">
 {% set gridSlugs = top_albums %}
-{% set showRank = false %}
 {% include "album-grid.njk" %}
 </section>

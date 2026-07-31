@@ -57,20 +57,6 @@ body.albums main {
 	}
 }
 
-.album-card-rank {
-	background: var(--badge-background-color);
-	border: 1px solid var(--border-color);
-	border-radius: 50%;
-	font-weight: bold;
-	line-height: 1.75rem;
-	position: absolute;
-	text-align: center;
-	top: -0.5rem;
-	left: -0.5rem;
-	width: 1.75rem;
-	height: 1.75rem;
-}
-
 .album-card-no-cover {
 	align-items: center;
 	aspect-ratio: 1;
@@ -121,6 +107,23 @@ article.album {
 	& .album-genres {
 		font-style: italic;
 		opacity: 0.75;
+	}
+}
+
+.album-listen {
+	background: var(--cta-background-color);
+	border-radius: 0.25rem;
+	color: var(--cta-color);
+	display: inline-block;
+	padding: 0.35rem 0.9rem;
+	text-decoration: none;
+
+	&:hover {
+		background: var(--cta-background-color-hover);
+	}
+
+	& i {
+		color: var(--gold);
 	}
 }
 
