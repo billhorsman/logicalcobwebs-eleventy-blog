@@ -15,7 +15,7 @@ Almost impossible to pick, so this is me throwing in some to start with. I'm exp
 
 ### Top 5
 
-If you only listen to {{ top_5_albums.length }} albums&hellip;
+If you only listen to {{ top_5_albums.length }} albums&hellip; well, that would be surprising. At the moment, these are my top 5. They may change from time to time but Nina Simone will always be in there. _Little Girl Blue_ is secretly my #1.
 
 <section class="album-grid top-five">
 {% set gridSlugs = top_5_albums %}
