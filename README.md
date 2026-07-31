@@ -79,3 +79,9 @@ be run individually: `sync`, `sort`, `generate`.)
 
 To show a review quote on a film's top-100 page, add a JSON file to
 `_data/films/reviews/<slug>.json`.
+
+## Albums (work in progress)
+
+`bin/albumtool` does the same for albums (MusicBrainz + Cover Art
+Archive) feeding the unlinked, noindexed `/albums` section. See
+[fetch/albumtool/README.md](fetch/albumtool/README.md).

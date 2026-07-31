@@ -1,0 +1,50 @@
+---
+pagination:
+  data: top_albums
+  size: 1
+  alias: slug
+permalink: "/albums/{{ slug }}/"
+eleventyComputed:
+  title: "{{ albums[slug].title }}"
+---
+{%- css %}{% include "public/css/albums.css" %}{% endcss %}
+{%- set album = albums[slug] %}
+{%- set position = top_albums.indexOf(slug) + 1 %}
+{%- set topFiveRank = top_5_albums.indexOf(slug) + 1 %}
+
+<nav class="albums-nav">
+  <div class="prev">
+    {%- if pagination.href.previous %}
+      <a href="{{ pagination.href.previous }}"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    {%- else %}
+      <span><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</span>
+    {%- endif %}
+  </div>
+  <div>
+    <a class="simple" href="/albums/">{{ position }} / {{ top_albums.length }}</a>
+  </div>
+  <div class="next">
+    {%- if pagination.href.next %}
+      <a href="{{ pagination.href.next }}">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    {%- else %}
+      <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
+    {%- endif %}
+  </div>
+</nav>
+
+<article class="album">
+  <img class="album-cover" src="/albums/covers/{{ slug }}.jpg" alt="Cover of {{ album.title }} by {{ album.artist }}">
+
+  <h1>{{ album.title }}</h1>
+
+  <p class="album-artist">
+    <strong>{{ album.artist }}</strong> · {{ album.year }}
+    {%- if topFiveRank %} · <span class="album-top-five-badge">Top 5 — #{{ topFiveRank }}</span>{% endif %}
+  </p>
+
+  {%- if album["top-genres"].length %}
+  <p class="album-genres">
+    {{ album["top-genres"] | join(", ") }}
+  </p>
+  {%- endif %}
+</article>
