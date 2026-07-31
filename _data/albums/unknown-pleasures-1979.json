@@ -1,0 +1,86 @@
+{
+  "artist": "Joy Division",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "d9858aef-25bf-478b-b135-b900aa1f0fd1",
+            "name": "gothic rock"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+            "name": "new wave"
+          },
+          {
+            "count": 24,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "9a58fda3-f4ed-4080-a3a5-f457aac9fcdd",
+        "name": "Joy Division",
+        "sort-name": "Joy Division",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Joy Division"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1979-06-15",
+  "genres": [
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "d9858aef-25bf-478b-b135-b900aa1f0fd1",
+      "name": "gothic rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+      "name": "new wave"
+    },
+    {
+      "count": 15,
+      "disambiguation": "",
+      "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+      "name": "post-punk"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "42352def-1aab-3000-b548-895ebd869cb6",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "unknown-pleasures-1979",
+  "title": "Unknown Pleasures",
+  "top-genres": [
+    "post-punk",
+    "gothic rock",
+    "rock",
+    "new wave"
+  ],
+  "year": "1979"
+}

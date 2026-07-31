@@ -1,0 +1,81 @@
+{
+  "artist": "Bill Callahan",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "2c765e49-a12e-45eb-b628-f8b9cc0a0250",
+            "name": "americana"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "36917620-240a-4fed-abcb-7be611ac3834",
+            "name": "indie folk"
+          }
+        ],
+        "id": "c309d914-93af-4b3f-8058-d79c75ea89da",
+        "name": "Bill Callahan",
+        "sort-name": "Callahan, Bill",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Bill Callahan"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2026-02-27",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "5f9cba3d-1a9f-46cd-8c49-7ed78d1f3354",
+      "name": "alternative country"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "2c765e49-a12e-45eb-b628-f8b9cc0a0250",
+      "name": "americana"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "984e6cb2-823e-4709-a23b-233f7f2ee3aa",
+      "name": "country folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "455f264b-db00-4716-991d-fbd32dc24523",
+      "name": "singer-songwriter"
+    }
+  ],
+  "id": "349e0f25-131d-4f12-bd04-3c1ff84f74b0",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "my-days-of-58-2026",
+  "title": "My Days of 58",
+  "top-genres": [
+    "alternative country",
+    "americana",
+    "country folk",
+    "folk rock",
+    "singer-songwriter"
+  ],
+  "year": "2026"
+}

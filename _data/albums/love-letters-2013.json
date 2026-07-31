@@ -1,0 +1,123 @@
+{
+  "artist": "Metronomy",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "name": "art pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "3f3388b4-e36a-4bf8-a0be-66b10d92aaa4",
+            "name": "electropop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f390be72-360b-41bb-a310-6a2e638779d2",
+            "name": "indie pop"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "9e7ae1de-d5f2-46a5-b105-11c7367dc70d",
+            "name": "indietronica"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "041b2388-b2d7-4fd9-a3cd-fa49e3195089",
+            "name": "new rave"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+            "name": "synth-pop"
+          }
+        ],
+        "id": "93eb7110-0bc9-4d3f-816b-4b52ef982ec8",
+        "name": "Metronomy",
+        "sort-name": "Metronomy",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Metronomy"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2013-12-06",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+      "name": "art pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "9e7ae1de-d5f2-46a5-b105-11c7367dc70d",
+      "name": "indietronica"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "cd99451c-f6d5-47c7-8d49-6c08b51e61aa",
+      "name": "neo-psychedelia"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+      "name": "synth-pop"
+    }
+  ],
+  "id": "cc017d98-a67c-4128-9b48-36e147b2f1cd",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "love-letters-2013",
+  "title": "Love Letters",
+  "top-genres": [
+    "synth-pop",
+    "art pop",
+    "electronic",
+    "indietronica",
+    "neo-psychedelia"
+  ],
+  "year": "2013"
+}

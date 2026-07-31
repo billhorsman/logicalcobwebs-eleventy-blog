@@ -1,0 +1,60 @@
+{
+  "artist": "Dan Mangan",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "CA",
+        "disambiguation": "Canadian indie rock singer/songwriter",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "f6698423-6857-48ae-b73d-341c18175aa7",
+        "name": "Dan Mangan",
+        "sort-name": "Mangan, Dan",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Dan Mangan"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2010-08-10",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "09386810-527a-458a-b793-925c439db75d",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "nice-nice-very-nice-2010",
+  "title": "Nice, Nice, Very Nice",
+  "top-genres": [
+    "folk rock",
+    "rock"
+  ],
+  "year": "2010"
+}

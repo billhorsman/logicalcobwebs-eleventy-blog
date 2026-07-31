@@ -1,0 +1,123 @@
+{
+  "artist": "Leonard Cohen",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "CA",
+        "disambiguation": "Canadian singer‐songwriter and poet",
+        "genres": [
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "58e325d5-54fd-4e98-b39a-3aa6bc319273",
+            "name": "blues rock"
+          },
+          {
+            "count": 6,
+            "disambiguation": "",
+            "id": "c11e4253-a888-4a2a-adde-c274b748d0b3",
+            "name": "contemporary folk"
+          },
+          {
+            "count": 10,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "15570d3c-756e-429e-ad67-653cb29ae886",
+            "name": "poetry"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "name": "pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "65314b12-0e08-43fa-ba33-baaa7b874c15",
+        "name": "Leonard Cohen",
+        "sort-name": "Cohen, Leonard",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Leonard Cohen"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2016-10-21",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+      "name": "art pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f0c26658-95b8-46b8-b167-fdc9a659465b",
+      "name": "chamber folk"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "455f264b-db00-4716-991d-fbd32dc24523",
+      "name": "singer-songwriter"
+    }
+  ],
+  "id": "99599db8-0e36-4a93-b0e8-350e9d7502a9",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "you-want-it-darker-2016",
+  "title": "You Want It Darker",
+  "top-genres": [
+    "rock",
+    "folk rock",
+    "singer-songwriter",
+    "art pop",
+    "chamber folk"
+  ],
+  "year": "2016"
+}

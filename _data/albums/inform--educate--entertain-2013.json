@@ -1,0 +1,110 @@
+{
+  "artist": "Public Service Broadcasting",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "British rock four‐piece",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "name": "electronica"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "9e7ae1de-d5f2-46a5-b105-11c7367dc70d",
+            "name": "indietronica"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+            "name": "instrumental"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ba318056-9ddf-46cd-8b95-61fc993b962d",
+            "name": "krautrock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0bfffa19-4e4a-4bf7-bf53-6ec44f0a2f8e",
+            "name": "post-rock"
+          }
+        ],
+        "id": "93834e82-3a0b-4ec2-a2e4-6eca0a497e6d",
+        "name": "Public Service Broadcasting",
+        "sort-name": "Public Service Broadcasting",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Public Service Broadcasting"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2013-05-06",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+      "name": "instrumental"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0bfffa19-4e4a-4bf7-bf53-6ec44f0a2f8e",
+      "name": "post-rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "82a75107-a04a-4b68-8b5a-da8119c23a21",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "inform--educate--entertain-2013",
+  "title": "Inform – Educate – Entertain",
+  "top-genres": [
+    "electronic",
+    "instrumental",
+    "post-rock",
+    "rock"
+  ],
+  "year": "2013"
+}

@@ -16,6 +16,8 @@
       <meta property="og:image" content="{% shareImageUri ogImage %}">
     {% endif %}
 
+    {% if noindex %}<meta name="robots" content="noindex">
+    {% endif -%}
     <meta name="color-scheme" content="light dark">
 
     <link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">

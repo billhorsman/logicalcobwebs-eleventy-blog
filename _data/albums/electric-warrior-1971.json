@@ -1,0 +1,104 @@
+{
+  "artist": "T. Rex",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "UK band",
+        "genres": [
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+            "name": "folk rock"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "54d89e62-5bfb-42bc-a321-9230e6fdcd75",
+            "name": "glam rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "507757f0-a63c-422b-93f1-f1d77462033f",
+            "name": "psychedelic folk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "2aeb5340-c474-4677-b9a6-35ddac9b6a58",
+            "name": "psychedelic pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+            "name": "psychedelic rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "c842d29f-a297-48cd-bb71-4f77fd672b16",
+        "name": "T. Rex",
+        "sort-name": "T. Rex",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "T. Rex"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1971-09-24",
+  "genres": [
+    {
+      "count": 10,
+      "disambiguation": "",
+      "id": "54d89e62-5bfb-42bc-a321-9230e6fdcd75",
+      "name": "glam rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab",
+      "name": "hard rock"
+    },
+    {
+      "count": 7,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+      "name": "rock and roll"
+    }
+  ],
+  "id": "e53310bf-8ccc-3d7f-a0b7-5ca4dbababcb",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "electric-warrior-1971",
+  "title": "Electric Warrior",
+  "top-genres": [
+    "glam rock",
+    "rock",
+    "hard rock",
+    "rock and roll"
+  ],
+  "year": "1971"
+}

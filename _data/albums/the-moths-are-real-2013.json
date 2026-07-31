@@ -1,0 +1,31 @@
+{
+  "artist": "Serafina Steer",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [],
+        "id": "351f6c24-3f74-4e03-b0a4-ab2d909b9209",
+        "name": "Serafina Steer",
+        "sort-name": "Steer, Serafina",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Serafina Steer"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2013-01-04",
+  "genres": [],
+  "id": "cd4f0025-8eb3-4802-8609-e35a0e9f2fd0",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "the-moths-are-real-2013",
+  "title": "The Moths Are Real",
+  "top-genres": [],
+  "year": "2013"
+}

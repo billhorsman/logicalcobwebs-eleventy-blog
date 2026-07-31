@@ -1,0 +1,31 @@
+{
+  "artist": "Kiran Leonard",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "Oldham, UK composer and musician",
+        "genres": [],
+        "id": "5dfe107b-b9c2-42c4-a2e6-34f056bd4563",
+        "name": "Kiran Leonard",
+        "sort-name": "Leonard, Kiran",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Kiran Leonard"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2012-01-23",
+  "genres": [],
+  "id": "bdd7dfd6-67a6-4250-a000-9347b0798a88",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "bowler-hat-soup-2012",
+  "title": "Bowler Hat Soup",
+  "top-genres": [],
+  "year": "2012"
+}

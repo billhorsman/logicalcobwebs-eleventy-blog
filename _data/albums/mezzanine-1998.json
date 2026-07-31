@@ -1,0 +1,147 @@
+{
+  "artist": "Massive Attack",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "8301f73c-9166-4108-bfeb-4fd22dc19083",
+            "name": "alternative dance"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "608b0471-7531-4854-a348-e698c69cb699",
+            "name": "ambient"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "bab69b07-8bb9-4415-b666-c37609cef80b",
+            "name": "club"
+          },
+          {
+            "count": 11,
+            "disambiguation": "",
+            "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+            "name": "downtempo"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "c72a5d45-75a8-4b35-9f48-67e49eb4b5e5",
+            "name": "dub"
+          },
+          {
+            "count": 15,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "name": "electronica"
+          },
+          {
+            "count": 20,
+            "disambiguation": "",
+            "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+            "name": "trip hop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "cd1ad933-1ca9-4de4-a60d-ad5fe143c827",
+            "name": "uk street soul"
+          }
+        ],
+        "id": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+        "name": "Massive Attack",
+        "sort-name": "Massive Attack",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Massive Attack"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1998-04-17",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "8301f73c-9166-4108-bfeb-4fd22dc19083",
+      "name": "alternative dance"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+      "name": "downtempo"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "c72a5d45-75a8-4b35-9f48-67e49eb4b5e5",
+      "name": "dub"
+    },
+    {
+      "count": 10,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+      "name": "electronica"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "32bea60c-e201-4241-8ed4-228636d34a97",
+      "name": "leftfield"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "53ceafec-ced4-4bec-ac57-d00cbf3a0c29",
+      "name": "post-industrial"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "d698ece0-6fed-4262-b446-42c98b73b65a",
+      "name": "psychedelic"
+    },
+    {
+      "count": 16,
+      "disambiguation": "",
+      "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+      "name": "trip hop"
+    }
+  ],
+  "id": "6f9f6899-c0d3-311d-ae87-a10ae6bc53a9",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "mezzanine-1998",
+  "title": "Mezzanine",
+  "top-genres": [
+    "trip hop",
+    "electronic",
+    "downtempo",
+    "electronica",
+    "leftfield"
+  ],
+  "year": "1998"
+}

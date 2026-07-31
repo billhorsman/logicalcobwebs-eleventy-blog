@@ -1,0 +1,237 @@
+{
+  "artist": "Radiohead",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 42,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "2cdcecfe-3e7c-4055-ab34-78eceabe4d9b",
+            "name": "ambient pop"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "name": "art pop"
+          },
+          {
+            "count": 29,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f1c9b874-7ef2-4e79-9419-c0bcb5f33a30",
+            "name": "britpop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f0843e91-c025-4dd7-8aef-6fe3d35470d9",
+            "name": "chamber pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "eee90717-3eee-41bd-b463-003c180544bd",
+            "name": "crossover prog"
+          },
+          {
+            "count": 13,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "c4a69842-f891-4569-9506-1882aa5db433",
+            "name": "electronic rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "name": "electronica"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "name": "experimental"
+          },
+          {
+            "count": 14,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+            "name": "idm"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "9e7ae1de-d5f2-46a5-b105-11c7367dc70d",
+            "name": "indietronica"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "a493b79c-4072-4371-a14c-446b1027982a",
+            "name": "post-britpop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "bbb1310c-24cb-4fc9-97c4-f93e4549f1e2",
+            "name": "post-grunge"
+          },
+          {
+            "count": 18,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead",
+        "sort-name": "Radiohead",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Radiohead"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2000-08-03",
+  "genres": [
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "608b0471-7531-4854-a348-e698c69cb699",
+      "name": "ambient"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "2cdcecfe-3e7c-4055-ab34-78eceabe4d9b",
+      "name": "ambient pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+      "name": "art pop"
+    },
+    {
+      "count": 9,
+      "disambiguation": "",
+      "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+      "name": "art rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "b1c0c2ad-e5ae-4bb6-a1be-d66e195fd2d7",
+      "name": "avant-garde"
+    },
+    {
+      "count": 12,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+      "name": "electronica"
+    },
+    {
+      "count": 9,
+      "disambiguation": "",
+      "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+      "name": "experimental rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+      "name": "idm"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "9e7ae1de-d5f2-46a5-b105-11c7367dc70d",
+      "name": "indietronica"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "32bea60c-e201-4241-8ed4-228636d34a97",
+      "name": "leftfield"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0bfffa19-4e4a-4bf7-bf53-6ec44f0a2f8e",
+      "name": "post-rock"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "e75c0549-ad55-39e3-8025-c72c5d4a3c5d",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "kid-a-2000",
+  "title": "Kid A",
+  "top-genres": [
+    "electronic",
+    "art rock",
+    "experimental rock",
+    "alternative rock",
+    "rock"
+  ],
+  "year": "2000"
+}

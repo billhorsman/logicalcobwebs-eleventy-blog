@@ -1,0 +1,183 @@
+{
+  "artist": "The Beatles",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "UK rock band, “The Fab Four”",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f1c9b874-7ef2-4e79-9419-c0bcb5f33a30",
+            "name": "britpop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "93244085-20e5-4f16-9067-1d19143b3810",
+            "name": "classic rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "caec8f8d-d862-4b62-9942-5622c2c18446",
+            "name": "mainstream rock"
+          },
+          {
+            "count": 15,
+            "disambiguation": "",
+            "id": "c979d6c8-fa9e-47c3-86d6-754a7f89ea18",
+            "name": "merseybeat"
+          },
+          {
+            "count": 28,
+            "disambiguation": "",
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "name": "pop"
+          },
+          {
+            "count": 23,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 16,
+            "disambiguation": "",
+            "id": "2aeb5340-c474-4677-b9a6-35ddac9b6a58",
+            "name": "psychedelic pop"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+            "name": "psychedelic rock"
+          },
+          {
+            "count": 47,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+            "name": "rock and roll"
+          }
+        ],
+        "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "name": "The Beatles",
+        "sort-name": "Beatles, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Beatles"
+    }
+  ],
+  "disambiguation": "The White Album",
+  "first-release-date": "1968-11-22",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+      "name": "art rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "decc967b-5b70-453b-9107-0b4e7a00505f",
+      "name": "beat music"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "58e325d5-54fd-4e98-b39a-3aa6bc319273",
+      "name": "blues rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "93244085-20e5-4f16-9067-1d19143b3810",
+      "name": "classic rock"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+      "name": "experimental"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+      "name": "folk"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab",
+      "name": "hard rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "c979d6c8-fa9e-47c3-86d6-754a7f89ea18",
+      "name": "merseybeat"
+    },
+    {
+      "count": 11,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "d698ece0-6fed-4262-b446-42c98b73b65a",
+      "name": "psychedelic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "146ef761-5ad9-48b4-b0b3-483104f7da48",
+      "name": "psychedelic rock"
+    },
+    {
+      "count": 24,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "055be730-dcad-31bf-b550-45ba9c202aa3",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "the-beatles-1968",
+  "title": "The Beatles",
+  "top-genres": [
+    "rock",
+    "pop",
+    "pop rock",
+    "experimental",
+    "hard rock"
+  ],
+  "year": "1968"
+}

@@ -1,0 +1,84 @@
+{
+  "artist": "The Dandy Warhols",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "f390be72-360b-41bb-a310-6a2e638779d2",
+            "name": "indie pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "cd99451c-f6d5-47c7-8d49-6c08b51e61aa",
+            "name": "neo-psychedelia"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "id": "5f572b31-8fd9-45ae-9beb-358c98d839df",
+        "name": "The Dandy Warhols",
+        "sort-name": "Dandy Warhols, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "The Dandy Warhols"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2000-06-12",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "86870fef-fddd-390c-a639-85720706e0d8",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "thirteen-tales-from-urban-bohemia-2000",
+  "title": "Thirteen Tales From Urban Bohemia",
+  "top-genres": [
+    "rock",
+    "alternative rock"
+  ],
+  "year": "2000"
+}

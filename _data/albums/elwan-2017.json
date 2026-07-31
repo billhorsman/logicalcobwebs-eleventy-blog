@@ -1,0 +1,66 @@
+{
+  "artist": "Tinariwen",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "ML",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "47394ce1-1a4d-45d2-8ee2-9b6340bb124a",
+            "name": "desert blues"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "70c145aa-fed6-4b20-9d75-48b2c3b208f2",
+            "name": "traditional pop"
+          }
+        ],
+        "id": "5c98fc12-be83-4246-ae5b-2184192913b9",
+        "name": "Tinariwen",
+        "sort-name": "Tinariwen",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Tinariwen"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2017-02-10",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "47394ce1-1a4d-45d2-8ee2-9b6340bb124a",
+      "name": "desert blues"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "19e99efe-9237-45aa-bded-7edd095dec23",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "elwan-2017",
+  "title": "Elwan",
+  "top-genres": [
+    "desert blues",
+    "rock"
+  ],
+  "year": "2017"
+}

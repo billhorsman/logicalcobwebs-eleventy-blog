@@ -1,0 +1,116 @@
+{
+  "artist": "Nina Simone",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+            "name": "blues"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "6ed4e4d1-9a97-4e2c-b8df-083754f154f4",
+            "name": "classical"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          },
+          {
+            "count": 10,
+            "disambiguation": "",
+            "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+            "name": "jazz"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "64e0bd76-822f-4549-a6fe-9858561282d1",
+            "name": "pop soul"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "31be54b2-4d0c-42df-aa44-c496c7b4c3c3",
+            "name": "r&b"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "1b5e7b16-336b-473e-a364-5120413a9827",
+            "name": "soul"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "e70f0aa3-9531-448c-8182-7ff34e3d74f8",
+            "name": "soul jazz"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "782dc157-d1a5-42b9-9174-d329c24a7ef3",
+            "name": "vocal jazz"
+          }
+        ],
+        "id": "2944824d-4c26-476f-a981-be849081942f",
+        "name": "Nina Simone",
+        "sort-name": "Simone, Nina",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Nina Simone"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1958-06-24",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+      "name": "blues"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+      "name": "jazz"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "e70f0aa3-9531-448c-8182-7ff34e3d74f8",
+      "name": "soul jazz"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "782dc157-d1a5-42b9-9174-d329c24a7ef3",
+      "name": "vocal jazz"
+    }
+  ],
+  "id": "19ca48c1-af98-3000-bc9a-97ef5fa3e3be",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "little-girl-blue-1958",
+  "title": "Little Girl Blue",
+  "top-genres": [
+    "blues",
+    "jazz",
+    "soul jazz",
+    "vocal jazz"
+  ],
+  "year": "1958"
+}

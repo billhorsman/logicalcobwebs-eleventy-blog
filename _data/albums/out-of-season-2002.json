@@ -1,0 +1,131 @@
+{
+  "artist": "Beth Gibbons & Rustin Man",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          }
+        ],
+        "id": "5adcb9d9-5ea2-428d-af46-ef626966e106",
+        "name": "Beth Gibbons",
+        "sort-name": "Gibbons, Beth",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": " & ",
+      "name": "Beth Gibbons"
+    },
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [],
+        "id": "79b1f58c-ac99-40de-8e5c-a86f6b340bf2",
+        "name": "Rustin Man",
+        "sort-name": "Rustin Man",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Rustin Man"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2002-10-28",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0b48a36c-630f-4ee7-8cf3-480e3dd8be65",
+      "name": "alternative folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "608b0471-7531-4854-a348-e698c69cb699",
+      "name": "ambient"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+      "name": "downtempo"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+      "name": "folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "f390be72-360b-41bb-a310-6a2e638779d2",
+      "name": "indie pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+      "name": "trip hop"
+    }
+  ],
+  "id": "20c64f88-7893-3ff1-8ec2-ff53ac7fcf33",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "out-of-season-2002",
+  "title": "Out of Season",
+  "top-genres": [
+    "downtempo",
+    "electronic",
+    "alternative folk",
+    "ambient",
+    "folk"
+  ],
+  "year": "2002"
+}

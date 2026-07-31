@@ -1,0 +1,117 @@
+{
+  "artist": "Calexico",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "2c765e49-a12e-45eb-b628-f8b9cc0a0250",
+            "name": "americana"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+            "name": "country"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+            "name": "folk rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "36917620-240a-4fed-abcb-7be611ac3834",
+            "name": "indie folk"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          }
+        ],
+        "id": "5e372a49-5672-4fb8-ba14-18c90780c4f9",
+        "name": "Calexico",
+        "sort-name": "Calexico",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Calexico"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2000-05-08",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "2c765e49-a12e-45eb-b628-f8b9cc0a0250",
+      "name": "americana"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "36917620-240a-4fed-abcb-7be611ac3834",
+      "name": "indie folk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0bfffa19-4e4a-4bf7-bf53-6ec44f0a2f8e",
+      "name": "post-rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "905c1899-3027-4d29-8d9c-bbeef2c8628a",
+      "name": "southern rock"
+    }
+  ],
+  "id": "34e3cbd6-649a-39b4-b5db-e2d4c857eb3c",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "hot-rail-2000",
+  "title": "Hot Rail",
+  "top-genres": [
+    "rock",
+    "americana",
+    "folk rock",
+    "indie folk",
+    "indie rock"
+  ],
+  "year": "2000"
+}
