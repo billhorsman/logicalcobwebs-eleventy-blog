@@ -833,11 +833,10 @@ sup {
 blockquote {
   border-width: 0 0 0 1px;
   border-style: solid;
-  border-image: linear-gradient(to bottom, var(--color-muted), transparent);
-  border-image-slice: 1;
   color: var(--color-muted);
   padding-left: 1rem;
   margin: 1rem 0 1rem 0.5rem;
+  text-align: left;
 }
 
 .cta {
