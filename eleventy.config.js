@@ -231,6 +231,13 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addAsyncShortcode(
 		"outOfFive",
 		async function(rating) {
+			// With no argument, the rating comes from `stars` in frontmatter
+			if (rating === undefined) {
+				rating = this.ctx.stars;
+			}
+			if (typeof rating !== "number" || rating < 0 || rating > 5) {
+				throw new Error(`outOfFive needs a rating of 0-5, from its argument or \`stars\` frontmatter (page: ${this.page.inputPath})`);
+			}
 			const stars = [];
 			for (let i = 0; i < 5; i++) {
 				if (i < rating) {

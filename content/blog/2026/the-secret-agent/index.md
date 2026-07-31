@@ -11,11 +11,12 @@ dca:
   cinema: Cinema Two
   seat: B5
   rating: "15"
+stars: 5
 ---
 
 {% include "film-backdrop-and-poster.njk" %}
 
-{% outOfFive 5 %}
+{% outOfFive %}
 
 I can't say enough good things about this film. First of all, the style. I'd have to ask someone who lived in that part of Brazil in 1977 but it felt just like it was filmed in Recife in 1977, in exactly the same way that [Nouvelle Vague](../../2025/nouvelle-vague/) did. Spellbinding. The music was perfect, the film stock (of which I know very little) was perfect. I knew I was going to love it just a few minutes in.
 

@@ -11,11 +11,12 @@ dca:
   cinema: Cinema One
   seat: D7
   rating: "12A"
+stars: 5
 ---
 
 {% include "film-backdrop-and-poster.njk" %}
 
-{% outOfFive 5 %}
+{% outOfFive %}
 
 What a beautiful film. It was made in 2025 but feels exactly like it was shot in 1960 — like a documentary of the making of Breathless. In black and white of course, but it goes further than that. It's a deep attention to all the details.
 

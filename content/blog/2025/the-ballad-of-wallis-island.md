@@ -11,11 +11,12 @@ dca:
   cinema: Cinema Two
   seat: B4
   rating: "12A"
+stars: 5
 ---
 
 {% include "film-backdrop-and-poster.njk" %}
 
-{% outOfFive 5 %}
+{% outOfFive %}
 
 Funny and touching, I loved this. Lots of laugh out loud writing but in a very human way. Sweet but not saccharine. I would defintely see this again.
 

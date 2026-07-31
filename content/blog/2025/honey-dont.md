@@ -6,11 +6,12 @@ filmSlug: honey-dont-2025
 date: 2025-09-26
 author: Bill Horsman
 tags: Film review
+stars: 4
 ---
 
 {% include "film-backdrop-and-poster.njk" %}
 
-{% outOfFive 4 %}
+{% outOfFive %}
 
 From the opening credits I was hooked: a disjointed drive through a desolate looking Albuquerque with credits shown on the sides of buildings, road signs, hoardings and shop names. It would have been cheaper, I suspect, to digitally superimpose the credits onto the buildings but I'm pretty sure these were real pieces of graffiti and art. A nice touch.
 

@@ -138,11 +138,12 @@ filmSlug: %s
 date: %s
 author: Bill Horsman
 tags: Film review
+stars: 5
 ---
 
 {%% include "film-backdrop-and-poster.njk" %%}
 
-{%% outOfFive 5 %%}
+{%% outOfFive %%}
 
 Your review here.
 

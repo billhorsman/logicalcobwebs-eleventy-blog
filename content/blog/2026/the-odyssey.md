@@ -6,11 +6,12 @@ filmSlug: the-odyssey-2026
 date: 2026-07-29
 author: Bill Horsman
 tags: Film review
+stars: 3
 ---
 
 {% include "film-backdrop-and-poster.njk" %}
 
-{% outOfFive 3 %}
+{% outOfFive %}
 
 When I found out this Nolan epic was being shown in 35mm at Dundee Contemporary Arts, I had to see it. So much hype, so much star power. Great cinematography. Accomplished acting. Good music. Time didn't drag, which is an achievement in a nearly 3 hour film, but it didn't excite me. Ultimately, disappointing.
 

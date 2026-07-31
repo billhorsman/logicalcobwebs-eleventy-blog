@@ -6,11 +6,12 @@ filmSlug: taxi-2015
 date: 2026-04-04
 author: Bill Horsman
 tags: Film review
+stars: 5
 ---
 
 {% include "film-backdrop-and-poster.njk" %}
 
-{% outOfFive 5 %}
+{% outOfFive %}
 
 Another cracking film on [Mubi](https://mubi.com/). Not sure if it's called "Taxi Tehran" or just "Taxi" but it's wonderful. Director Jafar Panahi circumvents being banned from filmmaking by seemingly filming the whole thing from his taxi dashcam. Random strangers share stories on their journeys, only they're really actors. A lovely pace and tone. Particularly poignant given the current war and violence.
 
