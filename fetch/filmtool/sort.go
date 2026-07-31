@@ -52,18 +52,22 @@ func cmdSort(root string) error {
 		sorted[i] = film.Slug
 	}
 
-	// top_films.json is tab-indented with a trailing newline (unlike the
-	// generated data files), so keep that style to avoid diff noise.
-	var buf bytes.Buffer
-	enc := json.NewEncoder(&buf)
-	enc.SetEscapeHTML(false)
-	enc.SetIndent("", "\t")
-	if err := enc.Encode(sorted); err != nil {
-		return err
-	}
-	if err := os.WriteFile(topFilmsPath(root), buf.Bytes(), 0o644); err != nil {
+	if err := writeTopFilms(root, sorted); err != nil {
 		return err
 	}
 	fmt.Printf("Sorted %d films\n", len(sorted))
 	return nil
+}
+
+// writeTopFilms writes _data/top_films.json in its established style:
+// tab-indented with a trailing newline (unlike the generated data files).
+func writeTopFilms(root string, slugs []string) error {
+	var buf bytes.Buffer
+	enc := json.NewEncoder(&buf)
+	enc.SetEscapeHTML(false)
+	enc.SetIndent("", "\t")
+	if err := enc.Encode(slugs); err != nil {
+		return err
+	}
+	return os.WriteFile(topFilmsPath(root), buf.Bytes(), 0o644)
 }

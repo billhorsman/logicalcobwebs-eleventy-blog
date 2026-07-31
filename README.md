@@ -59,17 +59,23 @@ A reviewed film does not have to be in the top 100.
 
 ## Rebuilding the top 100
 
-The top 100 is driven by a [TMDB list](https://www.themoviedb.org/list/8291691).
-After changing the list there:
+Film data comes from a [TMDB list](https://www.themoviedb.org/list/8291691)
+holding every film of interest (not just the top 100); the top 100 itself
+is the hand-curated `_data/top_films.json`. To change it:
 
-```sh
-./bin/filmtool sync        # fetch data + images for new films on the list
-./bin/filmtool sort        # order _data/top_films.json by release date
-./bin/filmtool generate    # regenerate content/bill/films/*.md pages
-```
+1. Add the film to the TMDB list (if it isn't already on it).
+2. Add its slug to `_data/top_films.json` (anywhere — it gets sorted),
+   and remove one to keep it at 100.
+3. Run:
 
-Then review the diff and commit. `sort` renumbers the films, so run
-`generate` after it to keep the page numbering consistent.
+   ```sh
+   ./bin/filmtool top-100
+   ```
+
+This syncs film data and images from the TMDB list, sorts
+`_data/top_films.json` by release date, and regenerates the film pages
+with the new numbering. Review the diff and commit. (The steps can also
+be run individually: `sync`, `sort`, `generate`.)
 
 To show a review quote on a film's top-100 page, add a JSON file to
 `_data/films/reviews/<slug>.json`.

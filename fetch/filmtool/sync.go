@@ -12,6 +12,17 @@ import (
 // The TMDB list holding the top 100 films: https://www.themoviedb.org/list/8291691
 const topFilmsListID = 8291691
 
+// cmdTop100 rebuilds the top 100 in one go: sync, sort, then generate.
+func cmdTop100(root string, args []string) error {
+	if err := cmdSync(root, args); err != nil {
+		return err
+	}
+	if err := cmdSort(root); err != nil {
+		return err
+	}
+	return cmdGenerate(root)
+}
+
 // cmdSync is the port of fetch.rb: it pulls every film on the TMDB top-100
 // list and makes sure its data file and images exist locally.
 func cmdSync(root string, args []string) error {
@@ -69,6 +80,9 @@ func cmdSync(root string, args []string) error {
 			return err
 		}
 	}
+
+	// Note: the TMDB list holds every film of interest, not just the top
+	// 100 — _data/top_films.json is curated by hand and never written here.
 
 	// Profile photos for everyone shown on cast cards, across all films.
 	for _, slug := range slugs {
