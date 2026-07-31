@@ -40,7 +40,7 @@
         <a href="/">Home</a>
         <a href="/bill">Bill</a>
         <a href="/bill/films">Films</a>
-        <a href="/bill/albums" {% if page.url == "/bill/albums/" %}aria-current="page"{% endif %}>Albums</a>
+        <a href="/bill/albums" {% if page.url.startsWith("/bill/albums/") %}aria-current="page"{% endif %}>Albums</a>
       </nav>
     </header>
 
