@@ -58,6 +58,12 @@ eleventyComputed:
     {%- if inTopFive %} · <album-top-five-badge>Top 5</album-top-five-badge>{% endif %}
   </p>
 
+  {%- if album_notes[slug] %}
+  <blockquote class="album-note">
+    {{ album_notes[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
+  </blockquote>
+  {%- endif %}
+
   {%- if album.tracks.length %}
   <section class="album-tracks">
     {%- for disc in album.tracks %}

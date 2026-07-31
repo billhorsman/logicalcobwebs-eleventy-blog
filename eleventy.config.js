@@ -1,4 +1,5 @@
 import { existsSync } from "node:fs";
+import yaml from "js-yaml";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
@@ -110,6 +111,9 @@ export default async function(eleventyConfig) {
 	// show a placeholder instead of referencing a missing file.
 	eleventyConfig.addFilter("albumCoverExists", (slug) =>
 		existsSync(`content/bill/albums/covers/${slug}.jpg`));
+
+	// YAML data files, e.g. _data/album_notes.yaml
+	eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 	eleventyConfig.addPlugin(pluginDcaTicket);
 
 	eleventyConfig.addPlugin(IdAttributePlugin, {
