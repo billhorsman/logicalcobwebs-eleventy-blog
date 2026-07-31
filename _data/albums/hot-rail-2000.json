@@ -113,5 +113,82 @@
     "indie folk",
     "indie rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:17",
+          "position": 1,
+          "title": "El picador"
+        },
+        {
+          "length": "3:31",
+          "position": 2,
+          "title": "Ballad of Cable Hogue"
+        },
+        {
+          "length": "1:17",
+          "position": 3,
+          "title": "Ritual Road Map"
+        },
+        {
+          "length": "7:46",
+          "position": 4,
+          "title": "Fade"
+        },
+        {
+          "length": "4:09",
+          "position": 5,
+          "title": "Untitled III"
+        },
+        {
+          "length": "4:15",
+          "position": 6,
+          "title": "Sonic Wind"
+        },
+        {
+          "length": "3:35",
+          "position": 7,
+          "title": "Muleta"
+        },
+        {
+          "length": "3:35",
+          "position": 8,
+          "title": "Mid-Town"
+        },
+        {
+          "length": "4:04",
+          "position": 9,
+          "title": "Service and Repair"
+        },
+        {
+          "length": "2:39",
+          "position": 10,
+          "title": "Untitled II"
+        },
+        {
+          "length": "4:52",
+          "position": 11,
+          "title": "Drenched"
+        },
+        {
+          "length": "1:31",
+          "position": 12,
+          "title": "16 Track Scratch"
+        },
+        {
+          "length": "5:13",
+          "position": 13,
+          "title": "Tres avisos"
+        },
+        {
+          "length": "4:01",
+          "position": 14,
+          "title": "Hot Rail"
+        }
+      ]
+    }
+  ],
   "year": "2000"
 }

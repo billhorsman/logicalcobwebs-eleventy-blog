@@ -138,5 +138,67 @@
     "pop",
     "indie pop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:50",
+          "position": 1,
+          "title": "Faron Young"
+        },
+        {
+          "length": "3:46",
+          "position": 2,
+          "title": "Bonny"
+        },
+        {
+          "length": "3:57",
+          "position": 3,
+          "title": "Appetite"
+        },
+        {
+          "length": "4:09",
+          "position": 4,
+          "title": "When Love Breaks Down"
+        },
+        {
+          "length": "4:32",
+          "position": 5,
+          "title": "Goodbye Lucille #1"
+        },
+        {
+          "length": "4:21",
+          "position": 6,
+          "title": "Hallelujah"
+        },
+        {
+          "length": "3:58",
+          "position": 7,
+          "title": "Moving the River"
+        },
+        {
+          "length": "4:40",
+          "position": 8,
+          "title": "Horsin’ Around"
+        },
+        {
+          "length": "5:20",
+          "position": 9,
+          "title": "Desire As"
+        },
+        {
+          "length": "2:25",
+          "position": 10,
+          "title": "Blueberry Pies"
+        },
+        {
+          "length": "4:30",
+          "position": 11,
+          "title": "When the Angels"
+        }
+      ]
+    }
+  ],
   "year": "1985"
 }

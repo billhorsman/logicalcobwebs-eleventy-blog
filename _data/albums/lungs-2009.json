@@ -150,5 +150,77 @@
     "art pop",
     "chamber pop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:13",
+          "position": 1,
+          "title": "Dog Days Are Over"
+        },
+        {
+          "length": "3:52",
+          "position": 2,
+          "title": "Rabbit Heart (Raise It Up)"
+        },
+        {
+          "length": "3:05",
+          "position": 3,
+          "title": "I’m Not Calling You a Liar"
+        },
+        {
+          "length": "3:34",
+          "position": 4,
+          "title": "Howl"
+        },
+        {
+          "length": "2:04",
+          "position": 5,
+          "title": "Kiss With a Fist"
+        },
+        {
+          "length": "3:39",
+          "position": 6,
+          "title": "Girl With One Eye"
+        },
+        {
+          "length": "3:44",
+          "position": 7,
+          "title": "Drumming Song"
+        },
+        {
+          "length": "4:09",
+          "position": 8,
+          "title": "Between Two Lungs"
+        },
+        {
+          "length": "4:16",
+          "position": 9,
+          "title": "Cosmic Love"
+        },
+        {
+          "length": "2:57",
+          "position": 10,
+          "title": "My Boy Builds Coffins"
+        },
+        {
+          "length": "3:13",
+          "position": 11,
+          "title": "Hurricane Drunk"
+        },
+        {
+          "length": "4:40",
+          "position": 12,
+          "title": "Blinding"
+        },
+        {
+          "length": "2:49",
+          "position": 13,
+          "title": "You’ve Got the Love"
+        }
+      ]
+    }
+  ],
   "year": "2009"
 }

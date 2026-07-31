@@ -148,5 +148,77 @@
     "rock",
     "space rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "5:56",
+          "position": 1,
+          "title": "Harmonium"
+        },
+        {
+          "length": "6:37",
+          "position": 2,
+          "title": "Lo Boob Oscillator"
+        },
+        {
+          "length": "4:06",
+          "position": 3,
+          "title": "Mountain"
+        },
+        {
+          "length": "4:13",
+          "position": 4,
+          "title": "Revox"
+        },
+        {
+          "length": "3:36",
+          "position": 5,
+          "title": "French Disko"
+        },
+        {
+          "length": "4:48",
+          "position": 6,
+          "title": "Exploding Head Movie"
+        },
+        {
+          "length": "3:53",
+          "position": 7,
+          "title": "Eloge D'Eros"
+        },
+        {
+          "length": "2:12",
+          "position": 8,
+          "title": "Tone Burst (Country)"
+        },
+        {
+          "length": "13:33",
+          "position": 9,
+          "title": "Animal or Vegetable (A Wonderful Wooden Reason)"
+        },
+        {
+          "length": "3:18",
+          "position": 10,
+          "title": "John Cage Bubblegum"
+        },
+        {
+          "length": "2:36",
+          "position": 11,
+          "title": "Sadistic"
+        },
+        {
+          "length": "2:23",
+          "position": 12,
+          "title": "Farfisa"
+        },
+        {
+          "length": "5:52",
+          "position": 13,
+          "title": "Tempter"
+        }
+      ]
+    }
+  ],
   "year": "1995"
 }

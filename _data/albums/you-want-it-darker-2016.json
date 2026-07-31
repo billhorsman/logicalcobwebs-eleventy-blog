@@ -120,5 +120,57 @@
     "art pop",
     "chamber folk"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:44",
+          "position": 1,
+          "title": "You Want It Darker"
+        },
+        {
+          "length": "4:02",
+          "position": 2,
+          "title": "Treaty"
+        },
+        {
+          "length": "3:28",
+          "position": 3,
+          "title": "On the Level"
+        },
+        {
+          "length": "3:47",
+          "position": 4,
+          "title": "Leaving the Table"
+        },
+        {
+          "length": "3:36",
+          "position": 5,
+          "title": "If I Didn’t Have Your Love"
+        },
+        {
+          "length": "4:22",
+          "position": 6,
+          "title": "Traveling Light"
+        },
+        {
+          "length": "4:22",
+          "position": 7,
+          "title": "It Seemed the Better Way"
+        },
+        {
+          "length": "4:23",
+          "position": 8,
+          "title": "Steer Your Way"
+        },
+        {
+          "length": "3:27",
+          "position": 9,
+          "title": "String Reprise / Treaty"
+        }
+      ]
+    }
+  ],
   "year": "2016"
 }

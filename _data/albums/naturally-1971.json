@@ -101,5 +101,72 @@
     "folk rock",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:39",
+          "position": 1,
+          "title": "Call Me the Breeze"
+        },
+        {
+          "length": "2:28",
+          "position": 2,
+          "title": "Call the Doctor"
+        },
+        {
+          "length": "2:25",
+          "position": 3,
+          "title": "Don’t Go to Strangers"
+        },
+        {
+          "length": "2:39",
+          "position": 4,
+          "title": "Woman I Love"
+        },
+        {
+          "length": "3:25",
+          "position": 5,
+          "title": "Magnolia"
+        },
+        {
+          "length": "2:33",
+          "position": 6,
+          "title": "Clyde"
+        },
+        {
+          "length": "2:25",
+          "position": 7,
+          "title": "Crazy Mama"
+        },
+        {
+          "length": "2:28",
+          "position": 8,
+          "title": "Nowhere to Run"
+        },
+        {
+          "length": "2:27",
+          "position": 9,
+          "title": "After Midnight"
+        },
+        {
+          "length": "2:43",
+          "position": 10,
+          "title": "River Runs Deep"
+        },
+        {
+          "length": "2:46",
+          "position": 11,
+          "title": "Bringing It Back"
+        },
+        {
+          "length": "3:13",
+          "position": 12,
+          "title": "Crying Eyes"
+        }
+      ]
+    }
+  ],
   "year": "1971"
 }

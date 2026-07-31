@@ -62,5 +62,62 @@
     "dub",
     "reggae"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:36",
+          "position": 1,
+          "title": "Dyon-Anaswa"
+        },
+        {
+          "length": "3:37",
+          "position": 2,
+          "title": "Return of the Super Ape"
+        },
+        {
+          "length": "3:25",
+          "position": 3,
+          "title": "Tell Me Something Good"
+        },
+        {
+          "length": "3:23",
+          "position": 4,
+          "title": "Bird in Hand"
+        },
+        {
+          "length": "3:25",
+          "position": 5,
+          "title": "Crab Yars"
+        },
+        {
+          "length": "3:34",
+          "position": 6,
+          "title": "Jah Jah Ah Natty Dread"
+        },
+        {
+          "length": "3:46",
+          "position": 7,
+          "title": "Psyche & Trim"
+        },
+        {
+          "length": "3:26",
+          "position": 8,
+          "title": "The Lion"
+        },
+        {
+          "length": "3:24",
+          "position": 9,
+          "title": "Huzza a Hana"
+        },
+        {
+          "length": "3:30",
+          "position": 10,
+          "title": "High Rankin Sammy"
+        }
+      ]
+    }
+  ],
   "year": "1978"
 }

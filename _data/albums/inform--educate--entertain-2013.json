@@ -107,5 +107,67 @@
     "post-rock",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:12",
+          "position": 1,
+          "title": "Inform – Educate – Entertain"
+        },
+        {
+          "length": "3:58",
+          "position": 2,
+          "title": "Spitfire"
+        },
+        {
+          "length": "3:58",
+          "position": 3,
+          "title": "Theme From PSB"
+        },
+        {
+          "length": "3:20",
+          "position": 4,
+          "title": "Signal 30"
+        },
+        {
+          "length": "3:50",
+          "position": 5,
+          "title": "Night Mail"
+        },
+        {
+          "length": "1:51",
+          "position": 6,
+          "title": "Qomolangma"
+        },
+        {
+          "length": "3:56",
+          "position": 7,
+          "title": "ROYGBIV"
+        },
+        {
+          "length": "3:42",
+          "position": 8,
+          "title": "The Now Generation"
+        },
+        {
+          "length": "4:54",
+          "position": 9,
+          "title": "Lit Up"
+        },
+        {
+          "length": "3:47",
+          "position": 10,
+          "title": "Everest"
+        },
+        {
+          "length": "5:50",
+          "position": 11,
+          "title": "Late Night Final"
+        }
+      ]
+    }
+  ],
   "year": "2013"
 }

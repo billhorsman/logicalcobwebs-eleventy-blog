@@ -78,5 +78,77 @@
     "techno",
     "trip hop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "0:50",
+          "position": 1,
+          "title": "Listen"
+        },
+        {
+          "length": "5:13",
+          "position": 2,
+          "title": "My Mate Paul"
+        },
+        {
+          "length": "7:28",
+          "position": 3,
+          "title": "Let’s Get Killed"
+        },
+        {
+          "length": "6:40",
+          "position": 4,
+          "title": "Gritty Shaker"
+        },
+        {
+          "length": "1:21",
+          "position": 5,
+          "title": "Head Rush on Lafayette"
+        },
+        {
+          "length": "6:24",
+          "position": 6,
+          "title": "Rodney Yates"
+        },
+        {
+          "length": "5:50",
+          "position": 7,
+          "title": "Radio 7"
+        },
+        {
+          "length": "0:51",
+          "position": 8,
+          "title": "The Parcus & Madder Show"
+        },
+        {
+          "length": "4:47",
+          "position": 9,
+          "title": "Slashers Revenge"
+        },
+        {
+          "length": "6:45",
+          "position": 10,
+          "title": "Freaknik"
+        },
+        {
+          "length": "5:43",
+          "position": 11,
+          "title": "Caddell Returns"
+        },
+        {
+          "length": "6:33",
+          "position": 12,
+          "title": "Don’t Die Just Yet"
+        },
+        {
+          "length": "0:59",
+          "position": 13,
+          "title": "For You"
+        }
+      ]
+    }
+  ],
   "year": "1997"
 }

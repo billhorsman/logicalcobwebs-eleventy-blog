@@ -83,5 +83,57 @@
     "hip hop",
     "east coast hip hop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:55",
+          "position": 1,
+          "title": "Shame on a Nuh"
+        },
+        {
+          "length": "2:56",
+          "position": 2,
+          "title": "Clan in da Front"
+        },
+        {
+          "length": "4:21",
+          "position": 3,
+          "title": "Can It Be All So Simple"
+        },
+        {
+          "length": "4:11",
+          "position": 4,
+          "title": "Method Man"
+        },
+        {
+          "length": "4:39",
+          "position": 5,
+          "title": "Da Mystery of Chessboxin’"
+        },
+        {
+          "length": "3:34",
+          "position": 6,
+          "title": "Wu‐Tang Clan Ain’t"
+        },
+        {
+          "length": "4:07",
+          "position": 7,
+          "title": "C.R.E.A.M."
+        },
+        {
+          "length": "4:37",
+          "position": 8,
+          "title": "Protect Ya Neck"
+        },
+        {
+          "length": "4:51",
+          "position": 9,
+          "title": "Tearz / Conclusion"
+        }
+      ]
+    }
+  ],
   "year": "1993"
 }

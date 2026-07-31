@@ -204,5 +204,102 @@
     "trip hop",
     "breaks"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "5:53",
+          "position": 1,
+          "title": "Stoney Street"
+        },
+        {
+          "length": "5:02",
+          "position": 2,
+          "title": "Easy Muffin"
+        },
+        {
+          "length": "5:24",
+          "position": 3,
+          "title": "Yasawas"
+        },
+        {
+          "length": "5:22",
+          "position": 4,
+          "title": "Creatures"
+        },
+        {
+          "length": "6:08",
+          "position": 5,
+          "title": "Chomp Samba"
+        },
+        {
+          "length": "4:56",
+          "position": 6,
+          "title": "New York Editor"
+        },
+        {
+          "length": "5:10",
+          "position": 7,
+          "title": "Defocus"
+        },
+        {
+          "length": "4:36",
+          "position": 8,
+          "title": "The Nasty"
+        },
+        {
+          "length": "5:05",
+          "position": 9,
+          "title": "Bitter & Twisted"
+        },
+        {
+          "length": "5:27",
+          "position": 10,
+          "title": "Wires & Snakes"
+        },
+        {
+          "length": "5:44",
+          "position": 11,
+          "title": "One Day in My Garden"
+        },
+        {
+          "length": "7:19",
+          "position": 12,
+          "title": "Dream Sequence"
+        },
+        {
+          "length": "6:11",
+          "position": 13,
+          "title": "One Small Step"
+        },
+        {
+          "length": "7:09",
+          "position": 14,
+          "title": "Mission"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "5:49",
+          "position": 1,
+          "title": "Daytrip"
+        },
+        {
+          "length": "6:54",
+          "position": 2,
+          "title": "Shiny Things"
+        },
+        {
+          "length": "6:18",
+          "position": 3,
+          "title": "Creatures (Hidden Agenda Defocused mix)"
+        }
+      ]
+    }
+  ],
   "year": "1997"
 }

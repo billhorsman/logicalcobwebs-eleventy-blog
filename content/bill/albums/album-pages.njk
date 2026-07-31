@@ -72,4 +72,22 @@ eleventyComputed:
     </a>
   </p>
   {%- endif %}
+
+  {%- if album.tracks.length %}
+  <section class="album-tracks">
+    {%- for disc in album.tracks %}
+    {%- if album.tracks.length > 1 %}
+    <h2>Disc {{ loop.index }}{% if disc.title %} · {{ disc.title }}{% endif %}</h2>
+    {%- endif %}
+    <ol class="track-list">
+      {%- for track in disc.tracks %}
+      <li>
+        <track-title>{{ track.title }}</track-title>
+        {%- if track.length %}<track-length>{{ track.length }}</track-length>{% endif %}
+      </li>
+      {%- endfor %}
+    </ol>
+    {%- endfor %}
+  </section>
+  {%- endif %}
 </article>

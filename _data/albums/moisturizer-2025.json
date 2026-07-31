@@ -102,5 +102,72 @@
     "indie pop",
     "pop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:51",
+          "position": 1,
+          "title": "CPR"
+        },
+        {
+          "length": "2:27",
+          "position": 2,
+          "title": "liquidize"
+        },
+        {
+          "length": "3:08",
+          "position": 3,
+          "title": "catch these fists"
+        },
+        {
+          "length": "3:47",
+          "position": 4,
+          "title": "davina mccall"
+        },
+        {
+          "length": "2:26",
+          "position": 5,
+          "title": "jennifer’s body"
+        },
+        {
+          "length": "3:24",
+          "position": 6,
+          "title": "mangetout"
+        },
+        {
+          "length": "2:58",
+          "position": 7,
+          "title": "pond song"
+        },
+        {
+          "length": "3:26",
+          "position": 8,
+          "title": "pokemon"
+        },
+        {
+          "length": "2:56",
+          "position": 9,
+          "title": "pillow talk"
+        },
+        {
+          "length": "3:13",
+          "position": 10,
+          "title": "don’t speak"
+        },
+        {
+          "length": "3:46",
+          "position": 11,
+          "title": "11:21"
+        },
+        {
+          "length": "4:03",
+          "position": 12,
+          "title": "u and me at home"
+        }
+      ]
+    }
+  ],
   "year": "2025"
 }

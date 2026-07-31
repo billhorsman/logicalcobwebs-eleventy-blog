@@ -126,5 +126,72 @@
     "pop rock",
     "country"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "1:24",
+          "position": 1,
+          "title": "Welcome to the Working Week"
+        },
+        {
+          "length": "3:33",
+          "position": 2,
+          "title": "Miracle Man"
+        },
+        {
+          "length": "2:43",
+          "position": 3,
+          "title": "No Dancing"
+        },
+        {
+          "length": "2:53",
+          "position": 4,
+          "title": "Blame It on Cain"
+        },
+        {
+          "length": "3:26",
+          "position": 5,
+          "title": "Alison"
+        },
+        {
+          "length": "2:11",
+          "position": 6,
+          "title": "Sneaky Feelings"
+        },
+        {
+          "length": "2:50",
+          "position": 7,
+          "title": "(The Angels Wanna Wear My) Red Shoes"
+        },
+        {
+          "length": "3:16",
+          "position": 8,
+          "title": "Less Than Zero"
+        },
+        {
+          "length": "1:38",
+          "position": 9,
+          "title": "Mystery Dance"
+        },
+        {
+          "length": "2:36",
+          "position": 10,
+          "title": "Pay It Back"
+        },
+        {
+          "length": "3:02",
+          "position": 11,
+          "title": "I’m Not Angry"
+        },
+        {
+          "length": "3:23",
+          "position": 12,
+          "title": "Waiting for the End of the World"
+        }
+      ]
+    }
+  ],
   "year": "1977"
 }

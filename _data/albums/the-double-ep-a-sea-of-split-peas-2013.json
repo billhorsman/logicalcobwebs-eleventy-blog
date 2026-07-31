@@ -99,5 +99,77 @@
     "lo-fi",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "How to Carve a Carrot Into a Rose",
+      "tracks": [
+        {
+          "length": "5:50",
+          "position": 1,
+          "title": "Out of the Woodwork"
+        },
+        {
+          "length": "3:36",
+          "position": 2,
+          "title": "Don't Apply Compression Gently"
+        },
+        {
+          "length": "5:12",
+          "position": 3,
+          "title": "Avant Gardener"
+        },
+        {
+          "length": "3:28",
+          "position": 4,
+          "title": "History Eraser"
+        },
+        {
+          "length": "2:54",
+          "position": 5,
+          "title": "David"
+        },
+        {
+          "length": "5:51",
+          "position": 6,
+          "title": "Anonymous Club"
+        }
+      ]
+    },
+    {
+      "title": "I've Got a Friend Called Emily Ferris",
+      "tracks": [
+        {
+          "length": "3:28",
+          "position": 1,
+          "title": "Lance Jr"
+        },
+        {
+          "length": "7:42",
+          "position": 2,
+          "title": "Are You Looking After Yourself?"
+        },
+        {
+          "length": "3:52",
+          "position": 3,
+          "title": "Scotty Says"
+        },
+        {
+          "length": "4:33",
+          "position": 4,
+          "title": "Canned Tomatoes (Whole)"
+        },
+        {
+          "length": "7:07",
+          "position": 5,
+          "title": "Porcelain"
+        },
+        {
+          "length": "2:47",
+          "position": 6,
+          "title": "Ode to Odetta"
+        }
+      ]
+    }
+  ],
   "year": "2013"
 }

@@ -150,5 +150,67 @@
     "folk",
     "contemporary folk"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:40",
+          "position": 1,
+          "title": "Talkin’ Bout a Revolution"
+        },
+        {
+          "length": "4:57",
+          "position": 2,
+          "title": "Fast Car"
+        },
+        {
+          "length": "3:25",
+          "position": 3,
+          "title": "Across the Lines"
+        },
+        {
+          "length": "1:50",
+          "position": 4,
+          "title": "Behind the Wall"
+        },
+        {
+          "length": "3:14",
+          "position": 5,
+          "title": "Baby Can I Hold You"
+        },
+        {
+          "length": "4:39",
+          "position": 6,
+          "title": "Mountains o’ Things"
+        },
+        {
+          "length": "3:57",
+          "position": 7,
+          "title": "She’s Got Her Ticket"
+        },
+        {
+          "length": "2:06",
+          "position": 8,
+          "title": "Why?"
+        },
+        {
+          "length": "3:12",
+          "position": 9,
+          "title": "For My Lover"
+        },
+        {
+          "length": "3:01",
+          "position": 10,
+          "title": "If Not Now…"
+        },
+        {
+          "length": "3:10",
+          "position": 11,
+          "title": "For You"
+        }
+      ]
+    }
+  ],
   "year": "1988"
 }

@@ -186,5 +186,37 @@
     "rock",
     "progressive"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "13:31",
+          "position": 1,
+          "title": "Shine On You Crazy Diamond, Parts 1–5"
+        },
+        {
+          "length": "7:27",
+          "position": 2,
+          "title": "Welcome to the Machine"
+        },
+        {
+          "length": "5:08",
+          "position": 3,
+          "title": "Have a Cigar"
+        },
+        {
+          "length": "5:40",
+          "position": 4,
+          "title": "Wish You Were Here"
+        },
+        {
+          "length": "12:23",
+          "position": 5,
+          "title": "Shine On You Crazy Diamond, Parts 6–9"
+        }
+      ]
+    }
+  ],
   "year": "1975"
 }

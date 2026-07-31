@@ -24,6 +24,7 @@ Commands:
   cover <slug> <release>  replace an album's cover with a specific release's front image
   covers              retry missing covers (Cover Art Archive, then Discogs)
   links               backfill album.link listen links from MusicBrainz
+  tracks [<slug> <release>]  backfill missing tracklists, or pin one edition's
 `)
 }
 
@@ -53,6 +54,8 @@ func main() {
 		err = cmdCovers(root)
 	case "links":
 		err = cmdLinks(root)
+	case "tracks":
+		err = cmdTracks(root, args)
 	case "help", "-h", "--help":
 		usage()
 		return

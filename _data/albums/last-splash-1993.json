@@ -63,5 +63,87 @@
     "alternative rock",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "1:57",
+          "position": 1,
+          "title": "New Year"
+        },
+        {
+          "length": "3:34",
+          "position": 2,
+          "title": "Cannonball"
+        },
+        {
+          "length": "2:48",
+          "position": 3,
+          "title": "Invisible Man"
+        },
+        {
+          "length": "2:07",
+          "position": 4,
+          "title": "No Aloha"
+        },
+        {
+          "length": "4:12",
+          "position": 5,
+          "title": "Roi"
+        },
+        {
+          "length": "3:02",
+          "position": 6,
+          "title": "Do You Love Me Now?"
+        },
+        {
+          "length": "2:00",
+          "position": 7,
+          "title": "Flipside"
+        },
+        {
+          "length": "1:44",
+          "position": 8,
+          "title": "I Just Wanna Get Along"
+        },
+        {
+          "length": "4:37",
+          "position": 9,
+          "title": "Mad Lucas"
+        },
+        {
+          "length": "2:41",
+          "position": 10,
+          "title": "Divine Hammer"
+        },
+        {
+          "length": "1:32",
+          "position": 11,
+          "title": "S.O.S."
+        },
+        {
+          "length": "2:56",
+          "position": 12,
+          "title": "Hag"
+        },
+        {
+          "length": "2:32",
+          "position": 13,
+          "title": "Saints"
+        },
+        {
+          "length": "3:22",
+          "position": 14,
+          "title": "Drivin’ on 9"
+        },
+        {
+          "length": "0:43",
+          "position": 15,
+          "title": "Roi (reprise)"
+        }
+      ]
+    }
+  ],
   "year": "1993"
 }

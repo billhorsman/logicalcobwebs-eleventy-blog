@@ -151,5 +151,92 @@
     "jazz",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:30",
+          "position": 1,
+          "title": "Back in the Good Old World (Gypsy)"
+        },
+        {
+          "length": "2:35",
+          "position": 2,
+          "title": "Los Angeles Mood (Chromium Descensions)"
+        },
+        {
+          "length": "4:29",
+          "position": 3,
+          "title": "Los Angeles Theme (Another Private Dick)"
+        },
+        {
+          "length": "4:04",
+          "position": 4,
+          "title": "New York Theme (Hey, You Can Have That Heartattack Outside Buddy)"
+        },
+        {
+          "length": "2:38",
+          "position": 5,
+          "title": "New York Mood (A New Haircut and a Busted Lip)"
+        },
+        {
+          "length": "1:58",
+          "position": 6,
+          "title": "Baby I’m Not a Baby Anymore (Beatrice Theme)"
+        },
+        {
+          "length": "2:47",
+          "position": 7,
+          "title": "Good Old World (waltz)"
+        },
+        {
+          "length": "3:06",
+          "position": 8,
+          "title": "Carnival (Brunello Del Montalcino)"
+        },
+        {
+          "length": "5:20",
+          "position": 9,
+          "title": "On the Other Side of the World"
+        },
+        {
+          "length": "2:19",
+          "position": 10,
+          "title": "Good Old World (Gypsy instrumental)"
+        },
+        {
+          "length": "2:38",
+          "position": 11,
+          "title": "Paris Mood (Un de Fromage)"
+        },
+        {
+          "length": "4:00",
+          "position": 12,
+          "title": "Dragging a Dead Priest"
+        },
+        {
+          "length": "4:10",
+          "position": 13,
+          "title": "Helsinki Mood"
+        },
+        {
+          "length": "2:17",
+          "position": 14,
+          "title": "Carnival Bob’s Confession"
+        },
+        {
+          "length": "3:57",
+          "position": 15,
+          "title": "Good Old World (waltz)"
+        },
+        {
+          "length": "4:00",
+          "position": 16,
+          "title": "On the Other Side of the World (instrumental)"
+        }
+      ]
+    }
+  ],
   "year": "1991"
 }

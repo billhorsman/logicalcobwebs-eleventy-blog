@@ -81,5 +81,72 @@
     "rock",
     "indie rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:03",
+          "position": 1,
+          "title": "The Changingman"
+        },
+        {
+          "length": "4:53",
+          "position": 2,
+          "title": "Porcelain Gods"
+        },
+        {
+          "length": "5:23",
+          "position": 3,
+          "title": "I Walk on Gilded Splinters"
+        },
+        {
+          "length": "3:39",
+          "position": 4,
+          "title": "You Do Something to Me"
+        },
+        {
+          "length": "4:43",
+          "position": 5,
+          "title": "Woodcutter's Son"
+        },
+        {
+          "length": "4:55",
+          "position": 6,
+          "title": "Time Passes..."
+        },
+        {
+          "length": "4:20",
+          "position": 7,
+          "title": "Stanley Road"
+        },
+        {
+          "length": "3:18",
+          "position": 8,
+          "title": "Broken Stones"
+        },
+        {
+          "length": "3:52",
+          "position": 9,
+          "title": "Out of the Sinking"
+        },
+        {
+          "length": "2:39",
+          "position": 10,
+          "title": "Pink on White Walls"
+        },
+        {
+          "length": "7:12",
+          "position": 11,
+          "title": "Whirlpools End"
+        },
+        {
+          "length": "3:14",
+          "position": 12,
+          "title": "Wings of Speed"
+        }
+      ]
+    }
+  ],
   "year": "1995"
 }

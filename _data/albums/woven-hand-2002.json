@@ -68,5 +68,62 @@
     "folk rock",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:10",
+          "position": 1,
+          "title": "The Good Hand"
+        },
+        {
+          "length": "3:44",
+          "position": 2,
+          "title": "My Russia"
+        },
+        {
+          "length": "4:58",
+          "position": 3,
+          "title": "Blue Pail Fever"
+        },
+        {
+          "length": "3:01",
+          "position": 4,
+          "title": "Glass Eye"
+        },
+        {
+          "length": "5:07",
+          "position": 5,
+          "title": "Wooden Brother"
+        },
+        {
+          "length": "2:54",
+          "position": 6,
+          "title": "Ain't No Sunshine"
+        },
+        {
+          "length": "4:55",
+          "position": 7,
+          "title": "Story and Pictures"
+        },
+        {
+          "length": "3:27",
+          "position": 8,
+          "title": "Arrowhead"
+        },
+        {
+          "length": "4:16",
+          "position": 9,
+          "title": "Your Russia"
+        },
+        {
+          "length": "4:12",
+          "position": 10,
+          "title": "Last Fist"
+        }
+      ]
+    }
+  ],
   "year": "2002"
 }

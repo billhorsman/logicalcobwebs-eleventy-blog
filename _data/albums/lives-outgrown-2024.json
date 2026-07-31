@@ -72,5 +72,62 @@
     "psychedelic folk",
     "singer-songwriter"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:55",
+          "position": 1,
+          "title": "Tell Me Who You Are Today"
+        },
+        {
+          "length": "5:26",
+          "position": 2,
+          "title": "Floating on a Moment"
+        },
+        {
+          "length": "3:35",
+          "position": 3,
+          "title": "Burden of Life"
+        },
+        {
+          "length": "5:42",
+          "position": 4,
+          "title": "Lost Changes"
+        },
+        {
+          "length": "4:47",
+          "position": 5,
+          "title": "Rewind"
+        },
+        {
+          "length": "4:15",
+          "position": 6,
+          "title": "Reaching Out"
+        },
+        {
+          "length": "3:44",
+          "position": 7,
+          "title": "Oceans"
+        },
+        {
+          "length": "4:25",
+          "position": 8,
+          "title": "For Sale"
+        },
+        {
+          "length": "3:54",
+          "position": 9,
+          "title": "Beyond the Sun"
+        },
+        {
+          "length": "6:10",
+          "position": 10,
+          "title": "Whispering Love"
+        }
+      ]
+    }
+  ],
   "year": "2024"
 }

@@ -144,5 +144,67 @@
     "alternative rock",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:17",
+          "position": 1,
+          "title": "Only Shallow"
+        },
+        {
+          "length": "2:38",
+          "position": 2,
+          "title": "Loomer"
+        },
+        {
+          "length": "0:57",
+          "position": 3,
+          "title": "Touched"
+        },
+        {
+          "length": "5:31",
+          "position": 4,
+          "title": "To Here Knows When"
+        },
+        {
+          "length": "4:12",
+          "position": 5,
+          "title": "When You Sleep"
+        },
+        {
+          "length": "5:35",
+          "position": 6,
+          "title": "I Only Said"
+        },
+        {
+          "length": "3:59",
+          "position": 7,
+          "title": "Come In Alone"
+        },
+        {
+          "length": "5:19",
+          "position": 8,
+          "title": "Sometimes"
+        },
+        {
+          "length": "3:37",
+          "position": 9,
+          "title": "Blown a Wish"
+        },
+        {
+          "length": "5:33",
+          "position": 10,
+          "title": "What You Want"
+        },
+        {
+          "length": "6:58",
+          "position": 11,
+          "title": "Soon"
+        }
+      ]
+    }
+  ],
   "year": "1991"
 }

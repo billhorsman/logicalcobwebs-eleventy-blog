@@ -156,5 +156,67 @@
     "house",
     "alternative rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:50",
+          "position": 1,
+          "title": "Movin' on Up"
+        },
+        {
+          "length": "5:17",
+          "position": 2,
+          "title": "Slip Inside This House"
+        },
+        {
+          "length": "6:54",
+          "position": 3,
+          "title": "Don't Fight It, Feel It"
+        },
+        {
+          "length": "3:38",
+          "position": 4,
+          "title": "Higher Than the Sun"
+        },
+        {
+          "length": "5:02",
+          "position": 5,
+          "title": "Inner Flight"
+        },
+        {
+          "length": "10:22",
+          "position": 6,
+          "title": "Come Together"
+        },
+        {
+          "length": "7:03",
+          "position": 7,
+          "title": "Loaded"
+        },
+        {
+          "length": "5:39",
+          "position": 8,
+          "title": "Damaged"
+        },
+        {
+          "length": "6:01",
+          "position": 9,
+          "title": "I'm Comin' Down"
+        },
+        {
+          "length": "7:38",
+          "position": 10,
+          "title": "Higher Than the Sun (A Dub Symphony in Two Parts)"
+        },
+        {
+          "length": "3:45",
+          "position": 11,
+          "title": "Shine Like Stars"
+        }
+      ]
+    }
+  ],
   "year": "1991"
 }

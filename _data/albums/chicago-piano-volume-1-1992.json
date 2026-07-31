@@ -67,5 +67,82 @@
   "slug": "chicago-piano-volume-1-1992",
   "title": "Chicago Piano, Volume 1",
   "top-genres": [],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "",
+          "position": 1,
+          "title": "Mournful Blues"
+        },
+        {
+          "length": "",
+          "position": 2,
+          "title": "Yancey Special"
+        },
+        {
+          "length": "",
+          "position": 3,
+          "title": "How Long Blues"
+        },
+        {
+          "length": "",
+          "position": 4,
+          "title": "Yanceys's Bugle Call"
+        },
+        {
+          "length": "",
+          "position": 5,
+          "title": "35th and Dearborn"
+        },
+        {
+          "length": "",
+          "position": 6,
+          "title": "Shave 'em Dry"
+        },
+        {
+          "length": "",
+          "position": 7,
+          "title": "Salute to Pinetop"
+        },
+        {
+          "length": "",
+          "position": 8,
+          "title": "Blues for Albert"
+        },
+        {
+          "length": "",
+          "position": 9,
+          "title": "Yancey Special (second version)"
+        },
+        {
+          "length": "",
+          "position": 10,
+          "title": "Make me a Pallet on the Floor (w/ Mama)"
+        },
+        {
+          "length": "",
+          "position": 11,
+          "title": "Four O'Clock Blues (w/ Mama)"
+        },
+        {
+          "length": "",
+          "position": 12,
+          "title": "Monkey Woman Blues (w/ Mama)"
+        },
+        {
+          "length": "",
+          "position": 13,
+          "title": "Santa Fe Blues (w/ Mama)"
+        },
+        {
+          "length": "",
+          "position": 14,
+          "title": "How Long Blues (w/ Mama)"
+        }
+      ]
+    }
+  ],
   "year": "1992"
 }

@@ -65,5 +65,37 @@
     "electronic",
     "folk"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "6:43",
+          "position": 1,
+          "title": "Underwater"
+        },
+        {
+          "length": "5:38",
+          "position": 2,
+          "title": "Golden Air"
+        },
+        {
+          "length": "4:57",
+          "position": 3,
+          "title": "Bluedusk"
+        },
+        {
+          "length": "7:24",
+          "position": 4,
+          "title": "Apples"
+        },
+        {
+          "length": "2:26",
+          "position": 5,
+          "title": "Make Lovely the Day"
+        }
+      ]
+    }
+  ],
   "year": "2022"
 }

@@ -114,5 +114,67 @@
     "jazz",
     "jazz-funk"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:09",
+          "position": 1,
+          "title": "The Revolution Will Not Be Televised"
+        },
+        {
+          "length": "4:28",
+          "position": 2,
+          "title": "Save the Children"
+        },
+        {
+          "length": "3:37",
+          "position": 3,
+          "title": "Lady Day and John Coltrane"
+        },
+        {
+          "length": "3:22",
+          "position": 4,
+          "title": "Home Is Where the Hatred Is"
+        },
+        {
+          "length": "3:23",
+          "position": 5,
+          "title": "When You Are Who You Are"
+        },
+        {
+          "length": "3:31",
+          "position": 6,
+          "title": "I Think I’ll Call It Morning"
+        },
+        {
+          "length": "4:55",
+          "position": 7,
+          "title": "Pieces of a Man"
+        },
+        {
+          "length": "4:03",
+          "position": 8,
+          "title": "A Sign of the Ages"
+        },
+        {
+          "length": "3:14",
+          "position": 9,
+          "title": "Or Down You Fall"
+        },
+        {
+          "length": "4:51",
+          "position": 10,
+          "title": "The Needle’s Eye"
+        },
+        {
+          "length": "9:26",
+          "position": 11,
+          "title": "The Prisoner"
+        }
+      ]
+    }
+  ],
   "year": "1971"
 }

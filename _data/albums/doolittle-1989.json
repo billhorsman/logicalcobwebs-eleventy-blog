@@ -108,5 +108,87 @@
     "post-hardcore",
     "slacker rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:52",
+          "position": 1,
+          "title": "Debaser"
+        },
+        {
+          "length": "1:56",
+          "position": 2,
+          "title": "Tame"
+        },
+        {
+          "length": "2:05",
+          "position": 3,
+          "title": "Wave of Mutilation"
+        },
+        {
+          "length": "2:35",
+          "position": 4,
+          "title": "I Bleed"
+        },
+        {
+          "length": "3:22",
+          "position": 5,
+          "title": "Here Comes Your Man"
+        },
+        {
+          "length": "2:21",
+          "position": 6,
+          "title": "Dead"
+        },
+        {
+          "length": "2:56",
+          "position": 7,
+          "title": "Monkey Gone to Heaven"
+        },
+        {
+          "length": "2:06",
+          "position": 8,
+          "title": "Mr. Grieves"
+        },
+        {
+          "length": "1:24",
+          "position": 9,
+          "title": "Crackity Jones"
+        },
+        {
+          "length": "2:44",
+          "position": 10,
+          "title": "La La Love You"
+        },
+        {
+          "length": "3:52",
+          "position": 11,
+          "title": "No. 13 Baby"
+        },
+        {
+          "length": "1:50",
+          "position": 12,
+          "title": "There Goes My Gun"
+        },
+        {
+          "length": "3:31",
+          "position": 13,
+          "title": "Hey"
+        },
+        {
+          "length": "2:25",
+          "position": 14,
+          "title": "Silver"
+        },
+        {
+          "length": "2:45",
+          "position": 15,
+          "title": "Gouge Away"
+        }
+      ]
+    }
+  ],
   "year": "1989"
 }

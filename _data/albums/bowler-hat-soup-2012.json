@@ -27,5 +27,92 @@
   "slug": "bowler-hat-soup-2012",
   "title": "Bowler Hat Soup",
   "top-genres": [],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "1:51",
+          "position": 1,
+          "title": "Dear Lincoln"
+        },
+        {
+          "length": "4:25",
+          "position": 2,
+          "title": "Brunswick Street"
+        },
+        {
+          "length": "3:25",
+          "position": 3,
+          "title": "Port-Ainé"
+        },
+        {
+          "length": "1:28",
+          "position": 4,
+          "title": "Whisky Bath"
+        },
+        {
+          "length": "1:10",
+          "position": 5,
+          "title": "Sea of Eyes"
+        },
+        {
+          "length": "6:32",
+          "position": 6,
+          "title": "Smilin' Morn"
+        },
+        {
+          "length": "7:04",
+          "position": 7,
+          "title": "Drysdale"
+        },
+        {
+          "length": "2:27",
+          "position": 8,
+          "title": "Wild Walks"
+        },
+        {
+          "length": "2:18",
+          "position": 9,
+          "title": "There's No Future in Us"
+        },
+        {
+          "length": "1:51",
+          "position": 10,
+          "title": "Oakland Highball"
+        },
+        {
+          "length": "1:36",
+          "position": 11,
+          "title": "Bora Bora"
+        },
+        {
+          "length": "1:44",
+          "position": 12,
+          "title": "The Battle of Hoopla Bay"
+        },
+        {
+          "length": "5:22",
+          "position": 13,
+          "title": "Geraldo's Farm"
+        },
+        {
+          "length": "2:06",
+          "position": 14,
+          "title": "Knots"
+        },
+        {
+          "length": "2:39",
+          "position": 15,
+          "title": "Hoopla (reprise)"
+        },
+        {
+          "length": "4:47",
+          "position": 16,
+          "title": "A Purpose"
+        }
+      ]
+    }
+  ],
   "year": "2012"
 }

@@ -89,5 +89,67 @@
     "pop",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:59",
+          "position": 1,
+          "title": "Fall"
+        },
+        {
+          "length": "4:34",
+          "position": 2,
+          "title": "Prayer for the Dying"
+        },
+        {
+          "length": "3:38",
+          "position": 3,
+          "title": "Snow"
+        },
+        {
+          "length": "3:54",
+          "position": 4,
+          "title": "Lo"
+        },
+        {
+          "length": "3:24",
+          "position": 5,
+          "title": "Undertow"
+        },
+        {
+          "length": "2:49",
+          "position": 6,
+          "title": "Ora"
+        },
+        {
+          "length": "3:59",
+          "position": 7,
+          "title": "We, the Drowned"
+        },
+        {
+          "length": "1:50",
+          "position": 8,
+          "title": "Anahorish"
+        },
+        {
+          "length": "3:57",
+          "position": 9,
+          "title": "Tender"
+        },
+        {
+          "length": "4:00",
+          "position": 10,
+          "title": "Funeral Suit"
+        },
+        {
+          "length": "4:26",
+          "position": 11,
+          "title": "Barton"
+        }
+      ]
+    }
+  ],
   "year": "2016"
 }

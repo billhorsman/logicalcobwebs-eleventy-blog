@@ -57,6 +57,17 @@ If a cover is wrong, ugly, or missing:
 The index crops covers to square in CSS, so a slightly-off scan only
 loses a sliver at the edges.
 
+## Tracklists
+
+Album pages list the tracks of the earliest official release. To use a
+different edition's tracklist:
+
+```sh
+./bin/albumtool tracks <slug> https://musicbrainz.org/release/<mbid>
+```
+
+`./bin/albumtool tracks` (no arguments) backfills albums without one.
+
 ## Curating the top 100 (and top 5)
 
 Like films, the lists are curated by hand:

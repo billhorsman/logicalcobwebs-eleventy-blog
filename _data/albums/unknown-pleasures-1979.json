@@ -83,5 +83,62 @@
     "rock",
     "new wave"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:32",
+          "position": 1,
+          "title": "Disorder"
+        },
+        {
+          "length": "4:49",
+          "position": 2,
+          "title": "Day of the Lords"
+        },
+        {
+          "length": "3:05",
+          "position": 3,
+          "title": "Candidate"
+        },
+        {
+          "length": "4:29",
+          "position": 4,
+          "title": "Insight"
+        },
+        {
+          "length": "4:48",
+          "position": 5,
+          "title": "New Dawn Fades"
+        },
+        {
+          "length": "3:57",
+          "position": 6,
+          "title": "She’s Lost Control"
+        },
+        {
+          "length": "3:56",
+          "position": 7,
+          "title": "Shadowplay"
+        },
+        {
+          "length": "2:39",
+          "position": 8,
+          "title": "Wilderness"
+        },
+        {
+          "length": "2:16",
+          "position": 9,
+          "title": "Interzone"
+        },
+        {
+          "length": "5:53",
+          "position": 10,
+          "title": "I Remember Nothing"
+        }
+      ]
+    }
+  ],
   "year": "1979"
 }

@@ -50,5 +50,67 @@
     "pop",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:53",
+          "position": 1,
+          "title": "Resister"
+        },
+        {
+          "length": "3:08",
+          "position": 2,
+          "title": "Something for the Pain"
+        },
+        {
+          "length": "3:37",
+          "position": 3,
+          "title": "Arm Yourself"
+        },
+        {
+          "length": "3:24",
+          "position": 4,
+          "title": "Between Stars"
+        },
+        {
+          "length": "3:21",
+          "position": 5,
+          "title": "Wolf & Bird"
+        },
+        {
+          "length": "3:25",
+          "position": 6,
+          "title": "Paradise"
+        },
+        {
+          "length": "3:08",
+          "position": 7,
+          "title": "Ocean Song"
+        },
+        {
+          "length": "3:47",
+          "position": 8,
+          "title": "Revolution of Mind"
+        },
+        {
+          "length": "3:32",
+          "position": 9,
+          "title": "Dopamine"
+        },
+        {
+          "length": "2:25",
+          "position": 10,
+          "title": "Resister Reprise"
+        },
+        {
+          "length": "2:19",
+          "position": 11,
+          "title": "Human"
+        }
+      ]
+    }
+  ],
   "year": "2018"
 }

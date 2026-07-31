@@ -95,5 +95,162 @@
   "top-genres": [
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:19",
+          "position": 1,
+          "title": "In the City"
+        },
+        {
+          "length": "4:04",
+          "position": 2,
+          "title": "Away From the Numbers"
+        },
+        {
+          "length": "2:26",
+          "position": 3,
+          "title": "All Around the World"
+        },
+        {
+          "length": "2:32",
+          "position": 4,
+          "title": "The Modern World"
+        },
+        {
+          "length": "3:28",
+          "position": 5,
+          "title": "News of the World"
+        },
+        {
+          "length": "3:03",
+          "position": 6,
+          "title": "Billy Hunt"
+        },
+        {
+          "length": "2:50",
+          "position": 7,
+          "title": "English Rose"
+        },
+        {
+          "length": "3:31",
+          "position": 8,
+          "title": "Mr. Clean"
+        },
+        {
+          "length": "2:55",
+          "position": 9,
+          "title": "David Watts"
+        },
+        {
+          "length": "2:35",
+          "position": 10,
+          "title": "‘A’ Bomb in Wardour Street"
+        },
+        {
+          "length": "4:03",
+          "position": 11,
+          "title": "Down in the Tube Station at Midnight"
+        },
+        {
+          "length": "3:50",
+          "position": 12,
+          "title": "Strange Town"
+        },
+        {
+          "length": "3:11",
+          "position": 13,
+          "title": "The Butterfly Collector"
+        },
+        {
+          "length": "3:14",
+          "position": 14,
+          "title": "When You’re Young"
+        },
+        {
+          "length": "3:00",
+          "position": 15,
+          "title": "Smithers‐Jones"
+        },
+        {
+          "length": "3:42",
+          "position": 16,
+          "title": "Thick as Thieves"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:29",
+          "position": 1,
+          "title": "The Eton Rifles"
+        },
+        {
+          "length": "2:56",
+          "position": 2,
+          "title": "Going Underground"
+        },
+        {
+          "length": "3:00",
+          "position": 3,
+          "title": "Dreams of Children"
+        },
+        {
+          "length": "3:18",
+          "position": 4,
+          "title": "That’s Entertainment"
+        },
+        {
+          "length": "2:19",
+          "position": 5,
+          "title": "Start!"
+        },
+        {
+          "length": "3:15",
+          "position": 6,
+          "title": "Man in the Corner Shop"
+        },
+        {
+          "length": "3:27",
+          "position": 7,
+          "title": "Funeral Pyre (Aug. 1983 remix)"
+        },
+        {
+          "length": "2:52",
+          "position": 8,
+          "title": "Absolute Beginners"
+        },
+        {
+          "length": "3:36",
+          "position": 9,
+          "title": "Tales From the Riverbank"
+        },
+        {
+          "length": "2:57",
+          "position": 10,
+          "title": "Town Called Malice"
+        },
+        {
+          "length": "3:34",
+          "position": 11,
+          "title": "Precious"
+        },
+        {
+          "length": "3:37",
+          "position": 12,
+          "title": "The Bitterest Pill (I Ever Had to Swallow)"
+        },
+        {
+          "length": "3:22",
+          "position": 13,
+          "title": "Beat Surrender"
+        }
+      ]
+    }
+  ],
   "year": "1983"
 }

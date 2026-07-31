@@ -64,5 +64,72 @@
     "jazz",
     "jazz-funk"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:26",
+          "position": 1,
+          "title": "Chowdown"
+        },
+        {
+          "length": "4:23",
+          "position": 2,
+          "title": "Long Cool & Bubbly"
+        },
+        {
+          "length": "4:44",
+          "position": 3,
+          "title": "The Girl Who Was Death"
+        },
+        {
+          "length": "4:03",
+          "position": 4,
+          "title": "How to Steal the World"
+        },
+        {
+          "length": "4:43",
+          "position": 5,
+          "title": "Frug in G major"
+        },
+        {
+          "length": "5:01",
+          "position": 6,
+          "title": "Electric Soup"
+        },
+        {
+          "length": "4:59",
+          "position": 7,
+          "title": "Ponytail"
+        },
+        {
+          "length": "4:08",
+          "position": 8,
+          "title": "Harry Palmer"
+        },
+        {
+          "length": "4:30",
+          "position": 9,
+          "title": "E‐Type"
+        },
+        {
+          "length": "3:32",
+          "position": 10,
+          "title": "Skirt Alert"
+        },
+        {
+          "length": "3:03",
+          "position": 11,
+          "title": "Six Plus One"
+        },
+        {
+          "length": "4:37",
+          "position": 12,
+          "title": "Money Is"
+        }
+      ]
+    }
+  ],
   "year": "1992"
 }

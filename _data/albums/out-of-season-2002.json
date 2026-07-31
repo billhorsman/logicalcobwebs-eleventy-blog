@@ -128,5 +128,62 @@
     "ambient",
     "folk"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:40",
+          "position": 1,
+          "title": "Mysteries"
+        },
+        {
+          "length": "3:42",
+          "position": 2,
+          "title": "Tom the Model"
+        },
+        {
+          "length": "4:26",
+          "position": 3,
+          "title": "Show"
+        },
+        {
+          "length": "5:10",
+          "position": 4,
+          "title": "Romance"
+        },
+        {
+          "length": "3:49",
+          "position": 5,
+          "title": "Sand River"
+        },
+        {
+          "length": "4:11",
+          "position": 6,
+          "title": "Spider Monkey"
+        },
+        {
+          "length": "2:51",
+          "position": 7,
+          "title": "Resolve"
+        },
+        {
+          "length": "3:54",
+          "position": 8,
+          "title": "Drake"
+        },
+        {
+          "length": "6:48",
+          "position": 9,
+          "title": "Funny Time of Year"
+        },
+        {
+          "length": "4:21",
+          "position": 10,
+          "title": "Rustin Man"
+        }
+      ]
+    }
+  ],
   "year": "2002"
 }

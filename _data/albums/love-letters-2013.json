@@ -120,5 +120,112 @@
     "indietronica",
     "neo-psychedelia"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "1:03",
+          "position": 1,
+          "title": "The Upsetter (commented track)"
+        },
+        {
+          "length": "4:18",
+          "position": 2,
+          "title": "The Upsetter"
+        },
+        {
+          "length": "0:56",
+          "position": 3,
+          "title": "I’m Aquarius (commented track)"
+        },
+        {
+          "length": "4:02",
+          "position": 4,
+          "title": "I’m Aquarius"
+        },
+        {
+          "length": "0:38",
+          "position": 5,
+          "title": "Monstrous (commented track)"
+        },
+        {
+          "length": "3:53",
+          "position": 6,
+          "title": "Monstrous"
+        },
+        {
+          "length": "0:33",
+          "position": 7,
+          "title": "Love Letters (commented track)"
+        },
+        {
+          "length": "5:16",
+          "position": 8,
+          "title": "Love Letters"
+        },
+        {
+          "length": "1:01",
+          "position": 9,
+          "title": "Month of Sundays (commented track)"
+        },
+        {
+          "length": "3:27",
+          "position": 10,
+          "title": "Month of Sundays"
+        },
+        {
+          "length": "1:09",
+          "position": 11,
+          "title": "Boy Racers (commented track)"
+        },
+        {
+          "length": "4:19",
+          "position": 12,
+          "title": "Boy Racers"
+        },
+        {
+          "length": "0:42",
+          "position": 13,
+          "title": "Call Me (commented track)"
+        },
+        {
+          "length": "3:52",
+          "position": 14,
+          "title": "Call Me"
+        },
+        {
+          "length": "0:43",
+          "position": 15,
+          "title": "The Most Immaculate Haircut (commented track)"
+        },
+        {
+          "length": "4:31",
+          "position": 16,
+          "title": "The Most Immaculate Haircut"
+        },
+        {
+          "length": "0:48",
+          "position": 17,
+          "title": "Reservoir (commented track)"
+        },
+        {
+          "length": "3:15",
+          "position": 18,
+          "title": "Reservoir"
+        },
+        {
+          "length": "1:09",
+          "position": 19,
+          "title": "Never Wanted (commented track)"
+        },
+        {
+          "length": "4:36",
+          "position": 20,
+          "title": "Never Wanted"
+        }
+      ]
+    }
+  ],
   "year": "2013"
 }

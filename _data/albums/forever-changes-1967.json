@@ -120,5 +120,67 @@
     "rock",
     "psychedelic pop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:15",
+          "position": 1,
+          "title": "Alone Again Or"
+        },
+        {
+          "length": "3:25",
+          "position": 2,
+          "title": "A House Is Not a Motel"
+        },
+        {
+          "length": "3:15",
+          "position": 3,
+          "title": "Andmoreagain"
+        },
+        {
+          "length": "3:25",
+          "position": 4,
+          "title": "The Daily Planet"
+        },
+        {
+          "length": "2:57",
+          "position": 5,
+          "title": "Old Man"
+        },
+        {
+          "length": "4:45",
+          "position": 6,
+          "title": "The Red Telephone"
+        },
+        {
+          "length": "3:30",
+          "position": 7,
+          "title": "Maybe the People Would Be the Times or Between Clark and Hilldale"
+        },
+        {
+          "length": "5:24",
+          "position": 8,
+          "title": "Live and Let Live"
+        },
+        {
+          "length": "3:00",
+          "position": 9,
+          "title": "The Good Humor Man He Sees Everything Like This"
+        },
+        {
+          "length": "2:20",
+          "position": 10,
+          "title": "Bummer in the Summer"
+        },
+        {
+          "length": "6:49",
+          "position": 11,
+          "title": "You Set the Scene"
+        }
+      ]
+    }
+  ],
   "year": "1967"
 }

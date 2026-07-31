@@ -324,5 +324,67 @@
     "dance-pop",
     "experimental"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:11",
+          "position": 1,
+          "title": "Human Behaviour"
+        },
+        {
+          "length": "4:52",
+          "position": 2,
+          "title": "Crying"
+        },
+        {
+          "length": "4:43",
+          "position": 3,
+          "title": "Venus as a Boy"
+        },
+        {
+          "length": "3:21",
+          "position": 4,
+          "title": "There’s More to Life Than This (recorded live at the Milk Bar toilets)"
+        },
+        {
+          "length": "4:33",
+          "position": 5,
+          "title": "Like Someone in Love"
+        },
+        {
+          "length": "3:58",
+          "position": 6,
+          "title": "Big Time Sensuality"
+        },
+        {
+          "length": "5:24",
+          "position": 7,
+          "title": "One Day"
+        },
+        {
+          "length": "3:55",
+          "position": 8,
+          "title": "Aeroplane"
+        },
+        {
+          "length": "4:56",
+          "position": 9,
+          "title": "Come to Me"
+        },
+        {
+          "length": "4:59",
+          "position": 10,
+          "title": "Violently Happy"
+        },
+        {
+          "length": "3:32",
+          "position": 11,
+          "title": "The Anchor Song"
+        }
+      ]
+    }
+  ],
   "year": "1993"
 }

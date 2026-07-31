@@ -220,7 +220,40 @@ article.album {
 	}
 }
 
-a.album-listen {
+a.album-tracks {
+	margin: 2rem auto 0;
+	text-align: left;
+
+	& h2 {
+		font-size: 1rem;
+		margin: 1.5rem 0 0.5rem;
+	}
+}
+
+ol.track-list {
+	margin: 0;
+	padding-left: 1.75rem;
+
+	& li {
+		padding: 0.2rem 0;
+
+		&::marker {
+			color: var(--color-muted);
+		}
+	}
+
+	& track-title {
+		display: inline;
+	}
+
+	& track-length {
+		color: var(--color-muted);
+		font-variant-numeric: tabular-nums;
+		float: right;
+	}
+}
+
+.album-listen {
 	background: var(--color);
 	border-radius: 100vh;
 	color: var(--background-color);

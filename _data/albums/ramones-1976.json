@@ -83,5 +83,82 @@
     "power pop",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:14",
+          "position": 1,
+          "title": "Blitzkrieg Bop"
+        },
+        {
+          "length": "2:32",
+          "position": 2,
+          "title": "Beat on the Brat"
+        },
+        {
+          "length": "1:33",
+          "position": 3,
+          "title": "Judy Is a Punk"
+        },
+        {
+          "length": "2:25",
+          "position": 4,
+          "title": "I Wanna Be Your Boyfriend"
+        },
+        {
+          "length": "1:56",
+          "position": 5,
+          "title": "Chain Saw"
+        },
+        {
+          "length": "1:36",
+          "position": 6,
+          "title": "Now I Wanna Sniff Some Glue"
+        },
+        {
+          "length": "2:38",
+          "position": 7,
+          "title": "I Don’t Wanna Go Down to the Basement"
+        },
+        {
+          "length": "2:15",
+          "position": 8,
+          "title": "Loudmouth"
+        },
+        {
+          "length": "1:57",
+          "position": 9,
+          "title": "Havana Affair"
+        },
+        {
+          "length": "1:59",
+          "position": 10,
+          "title": "Listen to My Heart"
+        },
+        {
+          "length": "2:22",
+          "position": 11,
+          "title": "53rd & 3rd"
+        },
+        {
+          "length": "1:52",
+          "position": 12,
+          "title": "Let’s Dance"
+        },
+        {
+          "length": "1:43",
+          "position": 13,
+          "title": "I Don’t Wanna Walk Around With You"
+        },
+        {
+          "length": "2:11",
+          "position": 14,
+          "title": "Today Your Love, Tomorrow the World"
+        }
+      ]
+    }
+  ],
   "year": "1976"
 }

@@ -102,5 +102,67 @@
     "garage rock revival",
     "garage punk"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:37",
+          "position": 1,
+          "title": "Rich"
+        },
+        {
+          "length": "2:36",
+          "position": 2,
+          "title": "Date With the Night"
+        },
+        {
+          "length": "1:51",
+          "position": 3,
+          "title": "Man"
+        },
+        {
+          "length": "1:50",
+          "position": 4,
+          "title": "Tick"
+        },
+        {
+          "length": "3:00",
+          "position": 5,
+          "title": "Black Tongue"
+        },
+        {
+          "length": "2:01",
+          "position": 6,
+          "title": "Pin"
+        },
+        {
+          "length": "2:17",
+          "position": 7,
+          "title": "Cold Light"
+        },
+        {
+          "length": "5:15",
+          "position": 8,
+          "title": "No No No"
+        },
+        {
+          "length": "3:41",
+          "position": 9,
+          "title": "Maps"
+        },
+        {
+          "length": "4:02",
+          "position": 10,
+          "title": "Y Control"
+        },
+        {
+          "length": "7:28",
+          "position": 11,
+          "title": "Modern Romance / Poor Song"
+        }
+      ]
+    }
+  ],
   "year": "2003"
 }

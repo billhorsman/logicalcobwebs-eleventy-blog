@@ -144,5 +144,72 @@
     "rock",
     "pop punk"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:40",
+          "position": 1,
+          "title": "10:15 Saturday Night"
+        },
+        {
+          "length": "2:15",
+          "position": 2,
+          "title": "Accuracy"
+        },
+        {
+          "length": "2:48",
+          "position": 3,
+          "title": "Grinding Halt"
+        },
+        {
+          "length": "3:39",
+          "position": 4,
+          "title": "Another Day"
+        },
+        {
+          "length": "2:58",
+          "position": 5,
+          "title": "Object"
+        },
+        {
+          "length": "1:58",
+          "position": 6,
+          "title": "Subway Song"
+        },
+        {
+          "length": "2:25",
+          "position": 7,
+          "title": "Foxy Lady"
+        },
+        {
+          "length": "2:16",
+          "position": 8,
+          "title": "Meat Hook"
+        },
+        {
+          "length": "2:34",
+          "position": 9,
+          "title": "So What"
+        },
+        {
+          "length": "3:19",
+          "position": 10,
+          "title": "Fire In Cairo"
+        },
+        {
+          "length": "2:41",
+          "position": 11,
+          "title": "It’s Not You"
+        },
+        {
+          "length": "4:21",
+          "position": 12,
+          "title": "Three Imaginary Boys / The Weedy Burton"
+        }
+      ]
+    }
+  ],
   "year": "1979"
 }

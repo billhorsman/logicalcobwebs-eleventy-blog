@@ -96,5 +96,72 @@
     "britpop",
     "pop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:15",
+          "position": 1,
+          "title": "Pure Morning"
+        },
+        {
+          "length": "3:18",
+          "position": 2,
+          "title": "Brick Shithouse"
+        },
+        {
+          "length": "3:58",
+          "position": 3,
+          "title": "You Don’t Care About Us"
+        },
+        {
+          "length": "5:20",
+          "position": 4,
+          "title": "Ask for Answers"
+        },
+        {
+          "length": "4:09",
+          "position": 5,
+          "title": "Without You I’m Nothing"
+        },
+        {
+          "length": "3:49",
+          "position": 6,
+          "title": "Allergic (to Thoughts of Mother Earth)"
+        },
+        {
+          "length": "2:59",
+          "position": 7,
+          "title": "The Crawl"
+        },
+        {
+          "length": "3:34",
+          "position": 8,
+          "title": "Every You Every Me"
+        },
+        {
+          "length": "5:45",
+          "position": 9,
+          "title": "My Sweet Prince"
+        },
+        {
+          "length": "3:06",
+          "position": 10,
+          "title": "Summer’s Gone"
+        },
+        {
+          "length": "3:01",
+          "position": 11,
+          "title": "Scared of Girls"
+        },
+        {
+          "length": "22:39",
+          "position": 12,
+          "title": "Burger Queen / Evil Dildo"
+        }
+      ]
+    }
+  ],
   "year": "1998"
 }

@@ -69,5 +69,62 @@
     "rock",
     "gothic rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:54",
+          "position": 1,
+          "title": "Double Dare"
+        },
+        {
+          "length": "4:59",
+          "position": 2,
+          "title": "In the Flat Field"
+        },
+        {
+          "length": "4:08",
+          "position": 3,
+          "title": "A God in an Alcove"
+        },
+        {
+          "length": "2:14",
+          "position": 4,
+          "title": "Dive"
+        },
+        {
+          "length": "4:32",
+          "position": 5,
+          "title": "The Spy in the Cab"
+        },
+        {
+          "length": "3:35",
+          "position": 6,
+          "title": "Small Talk Stinks"
+        },
+        {
+          "length": "2:06",
+          "position": 7,
+          "title": "Telegram Sam"
+        },
+        {
+          "length": "3:32",
+          "position": 8,
+          "title": "St. Vitus Dance"
+        },
+        {
+          "length": "3:47",
+          "position": 9,
+          "title": "Stigmata Martyr"
+        },
+        {
+          "length": "7:07",
+          "position": 10,
+          "title": "Nerves"
+        }
+      ]
+    }
+  ],
   "year": "1980"
 }

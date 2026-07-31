@@ -98,5 +98,82 @@
     "indie rock",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:43",
+          "position": 1,
+          "title": "Rid of Me"
+        },
+        {
+          "length": "3:50",
+          "position": 2,
+          "title": "Legs"
+        },
+        {
+          "length": "2:59",
+          "position": 3,
+          "title": "Reeling"
+        },
+        {
+          "length": "1:58",
+          "position": 4,
+          "title": "Snake"
+        },
+        {
+          "length": "4:32",
+          "position": 5,
+          "title": "Hook"
+        },
+        {
+          "length": "2:49",
+          "position": 6,
+          "title": "50ft Queenie"
+        },
+        {
+          "length": "2:39",
+          "position": 7,
+          "title": "Driving"
+        },
+        {
+          "length": "2:58",
+          "position": 8,
+          "title": "Ecstasy"
+        },
+        {
+          "length": "2:48",
+          "position": 9,
+          "title": "Hardly Wait"
+        },
+        {
+          "length": "5:13",
+          "position": 10,
+          "title": "Rub ’Til It Bleeds"
+        },
+        {
+          "length": "3:16",
+          "position": 11,
+          "title": "Easy"
+        },
+        {
+          "length": "2:43",
+          "position": 12,
+          "title": "M‐Bike"
+        },
+        {
+          "length": "3:53",
+          "position": 13,
+          "title": "Yuri‐G"
+        },
+        {
+          "length": "4:18",
+          "position": 14,
+          "title": "Goodnight"
+        }
+      ]
+    }
+  ],
   "year": "1993"
 }

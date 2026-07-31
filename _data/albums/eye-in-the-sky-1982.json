@@ -162,5 +162,62 @@
     "soft rock",
     "pop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "1:48",
+          "position": 1,
+          "title": "Sirius (instrumental)"
+        },
+        {
+          "length": "4:33",
+          "position": 2,
+          "title": "Eye in the Sky"
+        },
+        {
+          "length": "4:49",
+          "position": 3,
+          "title": "Children of the Moon"
+        },
+        {
+          "length": "2:09",
+          "position": 4,
+          "title": "Gemini"
+        },
+        {
+          "length": "7:17",
+          "position": 5,
+          "title": "Silence and I"
+        },
+        {
+          "length": "4:19",
+          "position": 6,
+          "title": "You’re Gonna Get Your Fingers Burned"
+        },
+        {
+          "length": "4:50",
+          "position": 7,
+          "title": "Psychobabble"
+        },
+        {
+          "length": "3:34",
+          "position": 8,
+          "title": "Mammagamma (instrumental)"
+        },
+        {
+          "length": "3:52",
+          "position": 9,
+          "title": "Step by Step"
+        },
+        {
+          "length": "4:52",
+          "position": 10,
+          "title": "Old and Wise"
+        }
+      ]
+    }
+  ],
   "year": "1982"
 }

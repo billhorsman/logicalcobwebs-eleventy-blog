@@ -102,5 +102,37 @@
     "progressive electronic",
     "electro"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "22:30",
+          "position": 1,
+          "title": "Autobahn"
+        },
+        {
+          "length": "6:20",
+          "position": 2,
+          "title": "Kometenmelodie 1"
+        },
+        {
+          "length": "5:44",
+          "position": 3,
+          "title": "Kometenmelodie 2"
+        },
+        {
+          "length": "3:43",
+          "position": 4,
+          "title": "Mitternacht"
+        },
+        {
+          "length": "4:00",
+          "position": 5,
+          "title": "Morgenspaziergang"
+        }
+      ]
+    }
+  ],
   "year": "1974"
 }

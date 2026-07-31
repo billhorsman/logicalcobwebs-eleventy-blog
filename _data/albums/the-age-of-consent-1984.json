@@ -108,5 +108,72 @@
     "hi-nrg",
     "sophisti-pop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:03",
+          "position": 1,
+          "title": "Why?"
+        },
+        {
+          "length": "4:43",
+          "position": 2,
+          "title": "Ain’t Necessarily So"
+        },
+        {
+          "length": "4:15",
+          "position": 3,
+          "title": "Screaming"
+        },
+        {
+          "length": "3:56",
+          "position": 4,
+          "title": "No More War"
+        },
+        {
+          "length": "5:08",
+          "position": 5,
+          "title": "Love and Money"
+        },
+        {
+          "length": "5:03",
+          "position": 6,
+          "title": "Smalltown Boy"
+        },
+        {
+          "length": "2:40",
+          "position": 7,
+          "title": "Heatwave"
+        },
+        {
+          "length": "4:18",
+          "position": 8,
+          "title": "Junk"
+        },
+        {
+          "length": "4:20",
+          "position": 9,
+          "title": "Need a Man Blues"
+        },
+        {
+          "length": "6:04",
+          "position": 10,
+          "title": "I Feel Love / Johnnie Remember Me"
+        },
+        {
+          "length": "9:05",
+          "position": 11,
+          "title": "Smalltown Boy (full 12″ version)"
+        },
+        {
+          "length": "7:46",
+          "position": 12,
+          "title": "Why? (full 12″ version)"
+        }
+      ]
+    }
+  ],
   "year": "1984"
 }

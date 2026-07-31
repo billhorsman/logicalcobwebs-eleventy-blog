@@ -103,5 +103,117 @@
     "power pop",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "",
+          "position": 1,
+          "title": "Lovers of Today"
+        },
+        {
+          "length": "",
+          "position": 2,
+          "title": "Peter and the Pets"
+        },
+        {
+          "length": "",
+          "position": 3,
+          "title": "The Whole of the Law"
+        },
+        {
+          "length": "",
+          "position": 4,
+          "title": "Another Girl, Another Planet"
+        },
+        {
+          "length": "",
+          "position": 5,
+          "title": "Special View (a.k.a. Telescopic Love)"
+        },
+        {
+          "length": "",
+          "position": 6,
+          "title": "The Beast"
+        },
+        {
+          "length": "",
+          "position": 7,
+          "title": "It’s the Truth"
+        },
+        {
+          "length": "",
+          "position": 8,
+          "title": "No Peace for the Wicked"
+        },
+        {
+          "length": "",
+          "position": 9,
+          "title": "The Immortal Story"
+        },
+        {
+          "length": "",
+          "position": 10,
+          "title": "From Here to Eternity"
+        },
+        {
+          "length": "",
+          "position": 11,
+          "title": "In Betweens"
+        },
+        {
+          "length": "",
+          "position": 12,
+          "title": "No Solution"
+        },
+        {
+          "length": "",
+          "position": 13,
+          "title": "Curtains for You"
+        },
+        {
+          "length": "",
+          "position": 14,
+          "title": "Someone Who Cares"
+        },
+        {
+          "length": "",
+          "position": 15,
+          "title": "Miles From Nowhere"
+        },
+        {
+          "length": "",
+          "position": 16,
+          "title": "Instrumental"
+        },
+        {
+          "length": "",
+          "position": 17,
+          "title": "Your Chosen Life"
+        },
+        {
+          "length": "",
+          "position": 18,
+          "title": "Baby’s Got a Gun"
+        },
+        {
+          "length": "",
+          "position": 19,
+          "title": "Why Don’t You Kill Yourself"
+        },
+        {
+          "length": "",
+          "position": 20,
+          "title": "Oh Lucinda (Love Becomes a Habit)"
+        },
+        {
+          "length": "",
+          "position": 21,
+          "title": "Big Sleep"
+        }
+      ]
+    }
+  ],
   "year": "1992"
 }

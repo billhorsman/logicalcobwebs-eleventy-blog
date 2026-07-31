@@ -234,5 +234,147 @@
     "classic rock",
     "hard rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:20",
+          "position": 1,
+          "title": "In the Flesh?"
+        },
+        {
+          "length": "2:30",
+          "position": 2,
+          "title": "The Thin Ice"
+        },
+        {
+          "length": "3:11",
+          "position": 3,
+          "title": "Another Brick in the Wall, Part 1"
+        },
+        {
+          "length": "1:51",
+          "position": 4,
+          "title": "The Happiest Days of Our Lives"
+        },
+        {
+          "length": "4:01",
+          "position": 5,
+          "title": "Another Brick in the Wall, Part 2"
+        },
+        {
+          "length": "5:34",
+          "position": 6,
+          "title": "Mother"
+        },
+        {
+          "length": "2:50",
+          "position": 7,
+          "title": "Goodbye Blue Sky"
+        },
+        {
+          "length": "2:07",
+          "position": 8,
+          "title": "Empty Spaces"
+        },
+        {
+          "length": "3:33",
+          "position": 9,
+          "title": "Young Lust"
+        },
+        {
+          "length": "3:35",
+          "position": 10,
+          "title": "One of My Turns"
+        },
+        {
+          "length": "4:17",
+          "position": 11,
+          "title": "Don’t Leave Me Now"
+        },
+        {
+          "length": "1:18",
+          "position": 12,
+          "title": "Another Brick in the Wall, Part 3"
+        },
+        {
+          "length": "1:15",
+          "position": 13,
+          "title": "Goodbye Cruel World"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:44",
+          "position": 1,
+          "title": "Hey You"
+        },
+        {
+          "length": "2:43",
+          "position": 2,
+          "title": "Is There Anybody Out There?"
+        },
+        {
+          "length": "3:27",
+          "position": 3,
+          "title": "Nobody Home"
+        },
+        {
+          "length": "1:36",
+          "position": 4,
+          "title": "Vera"
+        },
+        {
+          "length": "1:29",
+          "position": 5,
+          "title": "Bring the Boys Back Home"
+        },
+        {
+          "length": "6:26",
+          "position": 6,
+          "title": "Comfortably Numb"
+        },
+        {
+          "length": "1:38",
+          "position": 7,
+          "title": "The Show Must Go On"
+        },
+        {
+          "length": "4:20",
+          "position": 8,
+          "title": "In the Flesh"
+        },
+        {
+          "length": "4:27",
+          "position": 9,
+          "title": "Run Like Hell"
+        },
+        {
+          "length": "4:00",
+          "position": 10,
+          "title": "Waiting for the Worms"
+        },
+        {
+          "length": "0:32",
+          "position": 11,
+          "title": "Stop"
+        },
+        {
+          "length": "5:22",
+          "position": 12,
+          "title": "The Trial"
+        },
+        {
+          "length": "1:44",
+          "position": 13,
+          "title": "Outside the Wall"
+        }
+      ]
+    }
+  ],
   "year": "1979"
 }

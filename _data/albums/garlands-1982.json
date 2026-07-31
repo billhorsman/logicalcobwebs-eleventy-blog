@@ -126,5 +126,52 @@
     "gothic rock",
     "new wave"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:35",
+          "position": 1,
+          "title": "Blood Bitch"
+        },
+        {
+          "length": "4:03",
+          "position": 2,
+          "title": "Wax and Wane"
+        },
+        {
+          "length": "2:43",
+          "position": 3,
+          "title": "But I’m Not"
+        },
+        {
+          "length": "3:56",
+          "position": 4,
+          "title": "Blind Dumb Deaf"
+        },
+        {
+          "length": "5:14",
+          "position": 5,
+          "title": "Shallow Then Halo"
+        },
+        {
+          "length": "5:04",
+          "position": 6,
+          "title": "The Hollow Men"
+        },
+        {
+          "length": "4:30",
+          "position": 7,
+          "title": "Garlands"
+        },
+        {
+          "length": "5:21",
+          "position": 8,
+          "title": "Grail Overfloweth"
+        }
+      ]
+    }
+  ],
   "year": "1982"
 }

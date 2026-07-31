@@ -138,5 +138,132 @@
     "downtempo",
     "avant-garde"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "0:59",
+          "position": 1,
+          "title": "Ready Lets Go"
+        },
+        {
+          "length": "5:21",
+          "position": 2,
+          "title": "Music Is Math"
+        },
+        {
+          "length": "0:38",
+          "position": 3,
+          "title": "Beware the Friendly Stranger"
+        },
+        {
+          "length": "3:35",
+          "position": 4,
+          "title": "Gyroscope"
+        },
+        {
+          "length": "1:15",
+          "position": 5,
+          "title": "Dandelion"
+        },
+        {
+          "length": "6:13",
+          "position": 6,
+          "title": "Sunshine Recorder"
+        },
+        {
+          "length": "1:22",
+          "position": 7,
+          "title": "In the Annexe"
+        },
+        {
+          "length": "5:30",
+          "position": 8,
+          "title": "Julie and Candy"
+        },
+        {
+          "length": "1:17",
+          "position": 9,
+          "title": "The Smallest Weird Number"
+        },
+        {
+          "length": "4:20",
+          "position": 10,
+          "title": "1969"
+        },
+        {
+          "length": "0:35",
+          "position": 11,
+          "title": "Energy Warning"
+        },
+        {
+          "length": "4:19",
+          "position": 12,
+          "title": "The Beach at Redpoint"
+        },
+        {
+          "length": "1:12",
+          "position": 13,
+          "title": "Opening the Mouth"
+        },
+        {
+          "length": "7:03",
+          "position": 14,
+          "title": "Alpha and Omega"
+        },
+        {
+          "length": "0:27",
+          "position": 15,
+          "title": "I Saw Drones"
+        },
+        {
+          "length": "3:53",
+          "position": 16,
+          "title": "The Devil Is in the Details"
+        },
+        {
+          "length": "1:41",
+          "position": 17,
+          "title": "A Is to B as B Is to C"
+        },
+        {
+          "length": "1:09",
+          "position": 18,
+          "title": "Over the Horizon Radar"
+        },
+        {
+          "length": "3:56",
+          "position": 19,
+          "title": "Dawn Chorus"
+        },
+        {
+          "length": "1:27",
+          "position": 20,
+          "title": "Diving Station"
+        },
+        {
+          "length": "5:14",
+          "position": 21,
+          "title": "You Could Feel the Sky"
+        },
+        {
+          "length": "2:52",
+          "position": 22,
+          "title": "Corsair"
+        },
+        {
+          "length": "1:44",
+          "position": 23,
+          "title": "Magic Window"
+        },
+        {
+          "length": "2:11",
+          "position": 24,
+          "title": "From One Source All Things Depend"
+        }
+      ]
+    }
+  ],
   "year": "2002"
 }

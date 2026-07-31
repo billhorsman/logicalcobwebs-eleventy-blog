@@ -138,5 +138,67 @@
     "pop rock",
     "art pop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:37",
+          "position": 1,
+          "title": "Changes"
+        },
+        {
+          "length": "3:12",
+          "position": 2,
+          "title": "Oh! You Pretty Things"
+        },
+        {
+          "length": "2:56",
+          "position": 3,
+          "title": "Eight Line Poem"
+        },
+        {
+          "length": "3:54",
+          "position": 4,
+          "title": "Life on Mars?"
+        },
+        {
+          "length": "2:53",
+          "position": 5,
+          "title": "Kooks"
+        },
+        {
+          "length": "5:07",
+          "position": 6,
+          "title": "Quicksand"
+        },
+        {
+          "length": "3:07",
+          "position": 7,
+          "title": "Fill Your Heart"
+        },
+        {
+          "length": "3:57",
+          "position": 8,
+          "title": "Andy Warhol"
+        },
+        {
+          "length": "4:12",
+          "position": 9,
+          "title": "Song for Bob Dylan"
+        },
+        {
+          "length": "3:19",
+          "position": 10,
+          "title": "Queen Bitch"
+        },
+        {
+          "length": "5:24",
+          "position": 11,
+          "title": "The Bewlay Brothers"
+        }
+      ]
+    }
+  ],
   "year": "1971"
 }

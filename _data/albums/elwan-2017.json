@@ -63,5 +63,152 @@
     "desert blues",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:44",
+          "position": 1,
+          "title": "Tiwàyyen"
+        },
+        {
+          "length": "3:25",
+          "position": 2,
+          "title": "Sastanàqqàm"
+        },
+        {
+          "length": "3:40",
+          "position": 3,
+          "title": "Nizzagh Ijbal"
+        },
+        {
+          "length": "3:23",
+          "position": 4,
+          "title": "Hayati"
+        },
+        {
+          "length": "3:46",
+          "position": 5,
+          "title": "Ittus"
+        },
+        {
+          "length": "4:26",
+          "position": 6,
+          "title": "Ténéré Tàqqàl"
+        },
+        {
+          "length": "3:33",
+          "position": 7,
+          "title": "Imidiwàn n‐àkall‐in"
+        },
+        {
+          "length": "4:14",
+          "position": 8,
+          "title": "Talyat"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:40",
+          "position": 1,
+          "title": "Assàwt"
+        },
+        {
+          "length": "2:48",
+          "position": 2,
+          "title": "Arhegh ad annàgh"
+        },
+        {
+          "length": "5:03",
+          "position": 3,
+          "title": "Nànnuflày"
+        },
+        {
+          "length": "1:27",
+          "position": 4,
+          "title": "Intro Flute Fog Edaghàn"
+        },
+        {
+          "length": "3:05",
+          "position": 5,
+          "title": "Fog Edaghàn"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:45",
+          "position": 1,
+          "title": "Tiwàyyen"
+        },
+        {
+          "length": "3:25",
+          "position": 2,
+          "title": "Sastanàqqàm"
+        },
+        {
+          "length": "3:40",
+          "position": 3,
+          "title": "Nizzagh Ijbal"
+        },
+        {
+          "length": "3:23",
+          "position": 4,
+          "title": "Hayati"
+        },
+        {
+          "length": "3:46",
+          "position": 5,
+          "title": "Ittus"
+        },
+        {
+          "length": "4:26",
+          "position": 6,
+          "title": "Ténéré Tàqqàl"
+        },
+        {
+          "length": "3:33",
+          "position": 7,
+          "title": "Imidiwàn N-àkall-In"
+        },
+        {
+          "length": "4:14",
+          "position": 8,
+          "title": "Talyat"
+        },
+        {
+          "length": "3:40",
+          "position": 9,
+          "title": "Assàwt"
+        },
+        {
+          "length": "2:48",
+          "position": 10,
+          "title": "Arhegh Ad Annàgh"
+        },
+        {
+          "length": "5:03",
+          "position": 11,
+          "title": "Nànnuflày"
+        },
+        {
+          "length": "1:27",
+          "position": 12,
+          "title": "Intro Flute Fog Edaghàn"
+        },
+        {
+          "length": "3:07",
+          "position": 13,
+          "title": "Fog Edaghan"
+        }
+      ]
+    }
+  ],
   "year": "2017"
 }

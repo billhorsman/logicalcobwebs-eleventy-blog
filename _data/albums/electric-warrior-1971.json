@@ -101,5 +101,67 @@
     "hard rock",
     "rock and roll"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:41",
+          "position": 1,
+          "title": "Mambo Sun"
+        },
+        {
+          "length": "4:30",
+          "position": 2,
+          "title": "Cosmic Dancer"
+        },
+        {
+          "length": "4:13",
+          "position": 3,
+          "title": "Jeepster"
+        },
+        {
+          "length": "3:49",
+          "position": 4,
+          "title": "Monolith"
+        },
+        {
+          "length": "3:03",
+          "position": 5,
+          "title": "Lean Woman Blues"
+        },
+        {
+          "length": "4:28",
+          "position": 6,
+          "title": "Get It On"
+        },
+        {
+          "length": "3:14",
+          "position": 7,
+          "title": "Planet Queen"
+        },
+        {
+          "length": "2:33",
+          "position": 8,
+          "title": "Girl"
+        },
+        {
+          "length": "4:01",
+          "position": 9,
+          "title": "The Motivator"
+        },
+        {
+          "length": "2:25",
+          "position": 10,
+          "title": "Life’s a Gas"
+        },
+        {
+          "length": "3:40",
+          "position": 11,
+          "title": "Rip Off"
+        }
+      ]
+    }
+  ],
   "year": "1971"
 }

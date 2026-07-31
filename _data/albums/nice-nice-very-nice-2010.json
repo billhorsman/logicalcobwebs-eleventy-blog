@@ -57,5 +57,72 @@
     "folk rock",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:31",
+          "position": 1,
+          "title": "Road Regrets"
+        },
+        {
+          "length": "4:05",
+          "position": 2,
+          "title": "Robots"
+        },
+        {
+          "length": "3:38",
+          "position": 3,
+          "title": "The Indie Queens Are Waiting"
+        },
+        {
+          "length": "3:49",
+          "position": 4,
+          "title": "Sold"
+        },
+        {
+          "length": "5:49",
+          "position": 5,
+          "title": "Fair Verona"
+        },
+        {
+          "length": "3:45",
+          "position": 6,
+          "title": "You Silly Git"
+        },
+        {
+          "length": "2:41",
+          "position": 7,
+          "title": "Tina's Glorious Comeback"
+        },
+        {
+          "length": "3:22",
+          "position": 8,
+          "title": "Et Les Mots Croisés"
+        },
+        {
+          "length": "3:37",
+          "position": 9,
+          "title": "Some People"
+        },
+        {
+          "length": "3:17",
+          "position": 10,
+          "title": "Pine for Cedars"
+        },
+        {
+          "length": "3:53",
+          "position": 11,
+          "title": "Basket"
+        },
+        {
+          "length": "2:30",
+          "position": 12,
+          "title": "Set the Sails"
+        }
+      ]
+    }
+  ],
   "year": "2010"
 }

@@ -68,5 +68,72 @@
     "indie rock",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:04",
+          "position": 1,
+          "title": "California"
+        },
+        {
+          "length": "4:27",
+          "position": 2,
+          "title": "Come Play With Me"
+        },
+        {
+          "length": "4:49",
+          "position": 3,
+          "title": "Flying Saucer"
+        },
+        {
+          "length": "3:19",
+          "position": 4,
+          "title": "Softly Softly"
+        },
+        {
+          "length": "3:14",
+          "position": 5,
+          "title": "Spangle"
+        },
+        {
+          "length": "2:38",
+          "position": 6,
+          "title": "So Long, Baby"
+        },
+        {
+          "length": "3:28",
+          "position": 7,
+          "title": "Gazebo"
+        },
+        {
+          "length": "2:45",
+          "position": 8,
+          "title": "Him or Me (What’s It Gonna Be?)"
+        },
+        {
+          "length": "3:45",
+          "position": 9,
+          "title": "Love Machine"
+        },
+        {
+          "length": "2:23",
+          "position": 10,
+          "title": "Go, Man, Go"
+        },
+        {
+          "length": "2:12",
+          "position": 11,
+          "title": "Drive"
+        },
+        {
+          "length": "3:18",
+          "position": 12,
+          "title": "Sports Car"
+        }
+      ]
+    }
+  ],
   "year": "1998"
 }

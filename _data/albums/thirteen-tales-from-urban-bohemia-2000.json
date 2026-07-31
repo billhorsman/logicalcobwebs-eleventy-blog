@@ -81,5 +81,77 @@
     "rock",
     "alternative rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "5:20",
+          "position": 1,
+          "title": "Godless"
+        },
+        {
+          "length": "5:20",
+          "position": 2,
+          "title": "Mohammed"
+        },
+        {
+          "length": "5:41",
+          "position": 3,
+          "title": "Nietzsche"
+        },
+        {
+          "length": "3:23",
+          "position": 4,
+          "title": "Country Leaver"
+        },
+        {
+          "length": "3:08",
+          "position": 5,
+          "title": "Solid"
+        },
+        {
+          "length": "3:25",
+          "position": 6,
+          "title": "Horse Pills"
+        },
+        {
+          "length": "3:11",
+          "position": 7,
+          "title": "Get Off"
+        },
+        {
+          "length": "5:57",
+          "position": 8,
+          "title": "Sleep"
+        },
+        {
+          "length": "4:08",
+          "position": 9,
+          "title": "Cool Scene"
+        },
+        {
+          "length": "3:32",
+          "position": 10,
+          "title": "Bohemian Like You"
+        },
+        {
+          "length": "3:56",
+          "position": 11,
+          "title": "Shakin'"
+        },
+        {
+          "length": "3:35",
+          "position": 12,
+          "title": "Big Indian"
+        },
+        {
+          "length": "5:36",
+          "position": 13,
+          "title": "The Gospel"
+        }
+      ]
+    }
+  ],
   "year": "2000"
 }

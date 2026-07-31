@@ -192,5 +192,62 @@
     "art rock",
     "classic rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "1:11",
+          "position": 1,
+          "title": "Speak to Me"
+        },
+        {
+          "length": "2:44",
+          "position": 2,
+          "title": "Breathe"
+        },
+        {
+          "length": "3:34",
+          "position": 3,
+          "title": "On the Run"
+        },
+        {
+          "length": "7:03",
+          "position": 4,
+          "title": "Time"
+        },
+        {
+          "length": "4:47",
+          "position": 5,
+          "title": "The Great Gig in the Sky"
+        },
+        {
+          "length": "6:37",
+          "position": 6,
+          "title": "Money"
+        },
+        {
+          "length": "7:43",
+          "position": 7,
+          "title": "Us and Them"
+        },
+        {
+          "length": "3:27",
+          "position": 8,
+          "title": "Any Colour You Like"
+        },
+        {
+          "length": "3:52",
+          "position": 9,
+          "title": "Brain Damage"
+        },
+        {
+          "length": "2:04",
+          "position": 10,
+          "title": "Eclipse"
+        }
+      ]
+    }
+  ],
   "year": "1973"
 }

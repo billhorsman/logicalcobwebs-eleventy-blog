@@ -74,5 +74,122 @@
     "ska",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "Encore",
+      "tracks": [
+        {
+          "length": "3:18",
+          "position": 1,
+          "title": "Black Skin Blue Eyed Boys"
+        },
+        {
+          "length": "5:05",
+          "position": 2,
+          "title": "B.L.M."
+        },
+        {
+          "length": "5:01",
+          "position": 3,
+          "title": "Vote for Me"
+        },
+        {
+          "length": "3:35",
+          "position": 4,
+          "title": "The Lunatics"
+        },
+        {
+          "length": "3:56",
+          "position": 5,
+          "title": "Breaking Point"
+        },
+        {
+          "length": "2:46",
+          "position": 6,
+          "title": "Blam Blam Fever"
+        },
+        {
+          "length": "3:53",
+          "position": 7,
+          "title": "10 Commandments"
+        },
+        {
+          "length": "3:05",
+          "position": 8,
+          "title": "Embarrassed by You"
+        },
+        {
+          "length": "5:27",
+          "position": 9,
+          "title": "The Life and Times (of a Man Called Depression)"
+        },
+        {
+          "length": "4:36",
+          "position": 10,
+          "title": "We Sell Hope"
+        }
+      ]
+    },
+    {
+      "title": "Live",
+      "tracks": [
+        {
+          "length": "3:13",
+          "position": 1,
+          "title": "Gangsters"
+        },
+        {
+          "length": "2:51",
+          "position": 2,
+          "title": "A Message to You, Rudy"
+        },
+        {
+          "length": "4:49",
+          "position": 3,
+          "title": "Nite Klub"
+        },
+        {
+          "length": "3:16",
+          "position": 4,
+          "title": "Friday Night, Saturday Morning"
+        },
+        {
+          "length": "4:42",
+          "position": 5,
+          "title": "Stereotype"
+        },
+        {
+          "length": "3:53",
+          "position": 6,
+          "title": "Redemption Song"
+        },
+        {
+          "length": "2:38",
+          "position": 7,
+          "title": "Monkey Man"
+        },
+        {
+          "length": "2:04",
+          "position": 8,
+          "title": "Too Much Too Young"
+        },
+        {
+          "length": "3:33",
+          "position": 9,
+          "title": "Enjoy Yourself (It’s Later Than You Think)"
+        },
+        {
+          "length": "5:40",
+          "position": 10,
+          "title": "Ghost Town"
+        },
+        {
+          "length": "3:25",
+          "position": 11,
+          "title": "All the Time in the World"
+        }
+      ]
+    }
+  ],
   "year": "2019"
 }

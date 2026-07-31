@@ -144,5 +144,102 @@
     "pop rock",
     "progressive pop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:42",
+          "position": 1,
+          "title": "Turn to Stone"
+        },
+        {
+          "length": "4:08",
+          "position": 2,
+          "title": "It’s Over"
+        },
+        {
+          "length": "3:48",
+          "position": 3,
+          "title": "Sweet Talkin’ Woman"
+        },
+        {
+          "length": "3:52",
+          "position": 4,
+          "title": "Across the Border"
+        },
+        {
+          "length": "4:02",
+          "position": 5,
+          "title": "Night in the City"
+        },
+        {
+          "length": "4:30",
+          "position": 6,
+          "title": "Starlight"
+        },
+        {
+          "length": "3:51",
+          "position": 7,
+          "title": "Jungle"
+        },
+        {
+          "length": "1:21",
+          "position": 8,
+          "title": "Believe Me Now"
+        },
+        {
+          "length": "4:38",
+          "position": 9,
+          "title": "Steppin’ Out"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:20",
+          "position": 1,
+          "title": "Standin’ in the Rain"
+        },
+        {
+          "length": "5:10",
+          "position": 2,
+          "title": "Big Wheels"
+        },
+        {
+          "length": "4:13",
+          "position": 3,
+          "title": "Summer and Lightning"
+        },
+        {
+          "length": "5:05",
+          "position": 4,
+          "title": "Mr. Blue Sky"
+        },
+        {
+          "length": "3:26",
+          "position": 5,
+          "title": "Sweet Is the Night"
+        },
+        {
+          "length": "5:05",
+          "position": 6,
+          "title": "The Whale"
+        },
+        {
+          "length": "4:21",
+          "position": 7,
+          "title": "Birmingham Blues"
+        },
+        {
+          "length": "4:40",
+          "position": 8,
+          "title": "Wild West Hero"
+        }
+      ]
+    }
+  ],
   "year": "1977"
 }

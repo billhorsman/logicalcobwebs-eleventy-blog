@@ -94,5 +94,57 @@
     "british folk rock",
     "folk rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "5:47",
+          "position": 1,
+          "title": "Solid Air"
+        },
+        {
+          "length": "2:52",
+          "position": 2,
+          "title": "Over the Hill"
+        },
+        {
+          "length": "3:01",
+          "position": 3,
+          "title": "Don't Want to Know"
+        },
+        {
+          "length": "6:19",
+          "position": 4,
+          "title": "I'd Rather Be the Devil"
+        },
+        {
+          "length": "3:36",
+          "position": 5,
+          "title": "Go Down Easy"
+        },
+        {
+          "length": "3:18",
+          "position": 6,
+          "title": "Dreams by the Sea"
+        },
+        {
+          "length": "3:43",
+          "position": 7,
+          "title": "May You Never"
+        },
+        {
+          "length": "2:55",
+          "position": 8,
+          "title": "The Man in the Station"
+        },
+        {
+          "length": "3:22",
+          "position": 9,
+          "title": "The Easy Blues"
+        }
+      ]
+    }
+  ],
   "year": "1973"
 }

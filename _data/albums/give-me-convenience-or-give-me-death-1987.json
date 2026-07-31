@@ -88,5 +88,102 @@
     "punk rock",
     "surf punk"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:23",
+          "position": 1,
+          "title": "Police Truck"
+        },
+        {
+          "length": "2:38",
+          "position": 2,
+          "title": "Too Drunk to Fuck"
+        },
+        {
+          "length": "3:26",
+          "position": 3,
+          "title": "California über alles"
+        },
+        {
+          "length": "3:01",
+          "position": 4,
+          "title": "The Man With the Dogs"
+        },
+        {
+          "length": "1:38",
+          "position": 5,
+          "title": "In Sight"
+        },
+        {
+          "length": "2:38",
+          "position": 6,
+          "title": "Life Sentence"
+        },
+        {
+          "length": "0:54",
+          "position": 7,
+          "title": "A Child and His Lawnmower"
+        },
+        {
+          "length": "3:43",
+          "position": 8,
+          "title": "Holiday in Cambodia"
+        },
+        {
+          "length": "2:17",
+          "position": 9,
+          "title": "I Fought the Law"
+        },
+        {
+          "length": "4:22",
+          "position": 10,
+          "title": "Saturday Night Holocaust"
+        },
+        {
+          "length": "5:53",
+          "position": 11,
+          "title": "Pull My Strings"
+        },
+        {
+          "length": "0:20",
+          "position": 12,
+          "title": "Short Songs"
+        },
+        {
+          "length": "2:05",
+          "position": 13,
+          "title": "Straight A’s"
+        },
+        {
+          "length": "4:17",
+          "position": 14,
+          "title": "Kinky Sex Makes the World Go ’Round"
+        },
+        {
+          "length": "3:44",
+          "position": 15,
+          "title": "The Prey"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:20",
+          "position": 1,
+          "title": "Buzzbomb From Pasadena"
+        },
+        {
+          "length": "5:10",
+          "position": 2,
+          "title": "Night of the Living Rednecks"
+        }
+      ]
+    }
+  ],
   "year": "1987"
 }

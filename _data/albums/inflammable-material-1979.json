@@ -70,5 +70,92 @@
     "punk rock",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:36",
+          "position": 1,
+          "title": "Suspect Device"
+        },
+        {
+          "length": "2:28",
+          "position": 2,
+          "title": "State of Emergency"
+        },
+        {
+          "length": "0:59",
+          "position": 3,
+          "title": "Here We Are Nowhere"
+        },
+        {
+          "length": "3:10",
+          "position": 4,
+          "title": "Wasted Life"
+        },
+        {
+          "length": "2:04",
+          "position": 5,
+          "title": "No More of That"
+        },
+        {
+          "length": "3:32",
+          "position": 6,
+          "title": "Barbed Wire Love"
+        },
+        {
+          "length": "1:58",
+          "position": 7,
+          "title": "White Noise"
+        },
+        {
+          "length": "3:03",
+          "position": 8,
+          "title": "Breakout"
+        },
+        {
+          "length": "3:14",
+          "position": 9,
+          "title": "Law and Order"
+        },
+        {
+          "length": "2:39",
+          "position": 10,
+          "title": "Rough Trade"
+        },
+        {
+          "length": "8:10",
+          "position": 11,
+          "title": "Johnny Was"
+        },
+        {
+          "length": "2:44",
+          "position": 12,
+          "title": "Alternative Ulster"
+        },
+        {
+          "length": "4:21",
+          "position": 13,
+          "title": "Closed Groove"
+        },
+        {
+          "length": "2:44",
+          "position": 14,
+          "title": "Suspect Device (single version)"
+        },
+        {
+          "length": "2:39",
+          "position": 15,
+          "title": "78 RPM"
+        },
+        {
+          "length": "17:41",
+          "position": 16,
+          "title": "Jake Burns Interview by Alan Parker (13/6/01), Part 1"
+        }
+      ]
+    }
+  ],
   "year": "1979"
 }

@@ -114,5 +114,57 @@
     "synth-pop",
     "pop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:13",
+          "position": 1,
+          "title": "Sleepwalk"
+        },
+        {
+          "length": "3:50",
+          "position": 2,
+          "title": "Passing Strangers"
+        },
+        {
+          "length": "4:05",
+          "position": 3,
+          "title": "New Europeans"
+        },
+        {
+          "length": "4:08",
+          "position": 4,
+          "title": "Private Lives"
+        },
+        {
+          "length": "7:08",
+          "position": 5,
+          "title": "Astradyne"
+        },
+        {
+          "length": "6:34",
+          "position": 6,
+          "title": "Mr. X"
+        },
+        {
+          "length": "5:19",
+          "position": 7,
+          "title": "Western Promise"
+        },
+        {
+          "length": "4:54",
+          "position": 8,
+          "title": "Vienna"
+        },
+        {
+          "length": "4:23",
+          "position": 9,
+          "title": "All Stood Still"
+        }
+      ]
+    }
+  ],
   "year": "1980"
 }

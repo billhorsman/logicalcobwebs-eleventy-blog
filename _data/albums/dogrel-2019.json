@@ -69,5 +69,67 @@
     "rock",
     "post-punk"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "1:46",
+          "position": 1,
+          "title": "Big"
+        },
+        {
+          "length": "2:32",
+          "position": 2,
+          "title": "Sha Sha Sha"
+        },
+        {
+          "length": "4:08",
+          "position": 3,
+          "title": "Too Real"
+        },
+        {
+          "length": "4:00",
+          "position": 4,
+          "title": "Television Screens"
+        },
+        {
+          "length": "4:51",
+          "position": 5,
+          "title": "Hurricane Laughter"
+        },
+        {
+          "length": "3:00",
+          "position": 6,
+          "title": "Roy’s Tune"
+        },
+        {
+          "length": "4:57",
+          "position": 7,
+          "title": "The Lotts"
+        },
+        {
+          "length": "2:16",
+          "position": 8,
+          "title": "Chequeless Reckless"
+        },
+        {
+          "length": "2:32",
+          "position": 9,
+          "title": "Liberty Belle"
+        },
+        {
+          "length": "5:00",
+          "position": 10,
+          "title": "Boys in the Better Land"
+        },
+        {
+          "length": "4:53",
+          "position": 11,
+          "title": "Dublin City Sky"
+        }
+      ]
+    }
+  ],
   "year": "2019"
 }

@@ -119,5 +119,62 @@
     "blues",
     "blues rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "7:17",
+          "position": 1,
+          "title": "Tupelo"
+        },
+        {
+          "length": "5:11",
+          "position": 2,
+          "title": "Say Goodbye to the Little Girl Tree"
+        },
+        {
+          "length": "3:50",
+          "position": 3,
+          "title": "Train Long‐Suffering"
+        },
+        {
+          "length": "5:06",
+          "position": 4,
+          "title": "Black Crow King"
+        },
+        {
+          "length": "7:39",
+          "position": 5,
+          "title": "Knockin’ on Joe"
+        },
+        {
+          "length": "5:28",
+          "position": 6,
+          "title": "Wanted Man"
+        },
+        {
+          "length": "6:09",
+          "position": 7,
+          "title": "Blind Lemon Jefferson"
+        },
+        {
+          "length": "4:06",
+          "position": 8,
+          "title": "In the Ghetto"
+        },
+        {
+          "length": "2:39",
+          "position": 9,
+          "title": "The Moon Is in the Gutter"
+        },
+        {
+          "length": "4:51",
+          "position": 10,
+          "title": "The Six Strings That Drew Blood"
+        }
+      ]
+    }
+  ],
   "year": "1985"
 }

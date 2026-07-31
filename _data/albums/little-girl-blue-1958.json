@@ -113,5 +113,67 @@
     "soul jazz",
     "vocal jazz"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:00",
+          "position": 1,
+          "title": "Mood Indigo"
+        },
+        {
+          "length": "3:09",
+          "position": 2,
+          "title": "Don’t Smoke in Bed"
+        },
+        {
+          "length": "2:26",
+          "position": 3,
+          "title": "He Needs Me"
+        },
+        {
+          "length": "4:12",
+          "position": 4,
+          "title": "Little Girl Blue"
+        },
+        {
+          "length": "3:18",
+          "position": 5,
+          "title": "Love Me or Leave Me"
+        },
+        {
+          "length": "3:33",
+          "position": 6,
+          "title": "My Baby Just Cares for Me"
+        },
+        {
+          "length": "5:25",
+          "position": 7,
+          "title": "Good Bait"
+        },
+        {
+          "length": "3:50",
+          "position": 8,
+          "title": "Plain Gold Ring"
+        },
+        {
+          "length": "3:58",
+          "position": 9,
+          "title": "You’ll Never Walk Alone"
+        },
+        {
+          "length": "4:03",
+          "position": 10,
+          "title": "Porgy"
+        },
+        {
+          "length": "3:05",
+          "position": 11,
+          "title": "Central Park Blues"
+        }
+      ]
+    }
+  ],
   "year": "1958"
 }

@@ -138,5 +138,112 @@
     "ska",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:19",
+          "position": 1,
+          "title": "London Calling"
+        },
+        {
+          "length": "2:08",
+          "position": 2,
+          "title": "Brand New Cadillac"
+        },
+        {
+          "length": "3:54",
+          "position": 3,
+          "title": "Jimmy Jazz"
+        },
+        {
+          "length": "2:44",
+          "position": 4,
+          "title": "Hateful"
+        },
+        {
+          "length": "3:27",
+          "position": 5,
+          "title": "Rudie Can’t Fail"
+        },
+        {
+          "length": "3:19",
+          "position": 6,
+          "title": "Spanish Bombs"
+        },
+        {
+          "length": "3:53",
+          "position": 7,
+          "title": "The Right Profile"
+        },
+        {
+          "length": "3:46",
+          "position": 8,
+          "title": "Lost in the Supermarket"
+        },
+        {
+          "length": "3:47",
+          "position": 9,
+          "title": "Clampdown"
+        },
+        {
+          "length": "3:08",
+          "position": 10,
+          "title": "The Guns of Brixton"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:10",
+          "position": 1,
+          "title": "Wrong ’Em Boyo"
+        },
+        {
+          "length": "3:55",
+          "position": 2,
+          "title": "Death or Glory"
+        },
+        {
+          "length": "1:48",
+          "position": 3,
+          "title": "Koka Kola"
+        },
+        {
+          "length": "3:49",
+          "position": 4,
+          "title": "The Card Cheat"
+        },
+        {
+          "length": "4:03",
+          "position": 5,
+          "title": "Lover’s Rock"
+        },
+        {
+          "length": "2:56",
+          "position": 6,
+          "title": "Four Horsemen"
+        },
+        {
+          "length": "3:06",
+          "position": 7,
+          "title": "I’m Not Down"
+        },
+        {
+          "length": "5:33",
+          "position": 8,
+          "title": "Revolution Rock"
+        },
+        {
+          "length": "3:07",
+          "position": 9,
+          "title": "Train in Vain"
+        }
+      ]
+    }
+  ],
   "year": "1979"
 }

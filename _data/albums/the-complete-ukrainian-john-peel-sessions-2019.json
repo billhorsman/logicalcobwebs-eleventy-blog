@@ -82,5 +82,97 @@
     "non-music",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:00",
+          "position": 1,
+          "title": "Davni Chasy"
+        },
+        {
+          "length": "3:20",
+          "position": 2,
+          "title": "Cherez Richku, Cherez Hai"
+        },
+        {
+          "length": "2:32",
+          "position": 3,
+          "title": "Svitit Misyats"
+        },
+        {
+          "length": "1:24",
+          "position": 4,
+          "title": "Tiutiunnyk"
+        },
+        {
+          "length": "2:09",
+          "position": 5,
+          "title": "Zadumov Didochok"
+        },
+        {
+          "length": "2:29",
+          "position": 6,
+          "title": "Yikhav Kozak Za Dunai"
+        },
+        {
+          "length": "2:27",
+          "position": 7,
+          "title": "Hude Dnipro Hude"
+        },
+        {
+          "length": "2:35",
+          "position": 8,
+          "title": "Katrusya"
+        },
+        {
+          "length": "2:53",
+          "position": 9,
+          "title": "Vasya Vasilyok"
+        },
+        {
+          "length": "2:02",
+          "position": 10,
+          "title": "Sertsem I Dusheyu"
+        },
+        {
+          "length": "3:25",
+          "position": 11,
+          "title": "Zavtra"
+        },
+        {
+          "length": "7:22",
+          "position": 12,
+          "title": "Verkhovyno"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "56:05",
+          "position": 1,
+          "title": "In Conversation"
+        },
+        {
+          "length": "7:44",
+          "position": 2,
+          "title": "Verkhovyno"
+        },
+        {
+          "length": "5:25",
+          "position": 3,
+          "title": "Vasya Vasilyok / Hude Dnipro Dude (live)"
+        },
+        {
+          "length": "3:25",
+          "position": 4,
+          "title": "Davni Chasy"
+        }
+      ]
+    }
+  ],
   "year": "2019"
 }

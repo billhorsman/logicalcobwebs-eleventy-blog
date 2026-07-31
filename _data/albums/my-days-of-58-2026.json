@@ -78,5 +78,72 @@
     "folk rock",
     "singer-songwriter"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "6:59",
+          "position": 1,
+          "title": "Why Do Men Sing"
+        },
+        {
+          "length": "3:42",
+          "position": 2,
+          "title": "The Man I’m Supposed to Be"
+        },
+        {
+          "length": "6:04",
+          "position": 3,
+          "title": "Pathol O.G."
+        },
+        {
+          "length": "7:24",
+          "position": 4,
+          "title": "Stepping Out for Air"
+        },
+        {
+          "length": "5:11",
+          "position": 5,
+          "title": "Lonely City"
+        },
+        {
+          "length": "5:19",
+          "position": 6,
+          "title": "Empathy"
+        },
+        {
+          "length": "4:52",
+          "position": 7,
+          "title": "West Texas"
+        },
+        {
+          "length": "3:48",
+          "position": 8,
+          "title": "Computer"
+        },
+        {
+          "length": "3:51",
+          "position": 9,
+          "title": "Lake Winnebago"
+        },
+        {
+          "length": "4:48",
+          "position": 10,
+          "title": "Highway Born"
+        },
+        {
+          "length": "4:26",
+          "position": 11,
+          "title": "And Dream Land"
+        },
+        {
+          "length": "4:29",
+          "position": 12,
+          "title": "The World Is Still"
+        }
+      ]
+    }
+  ],
   "year": "2026"
 }

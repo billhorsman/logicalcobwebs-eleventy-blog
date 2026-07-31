@@ -27,5 +27,102 @@
   "slug": "the-moths-are-real-2013",
   "title": "The Moths Are Real",
   "top-genres": [],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "5:01",
+          "position": 1,
+          "title": "Night Before Mutiny"
+        },
+        {
+          "length": "3:17",
+          "position": 2,
+          "title": "Machine Room"
+        },
+        {
+          "length": "3:29",
+          "position": 3,
+          "title": "Ballad of Brick Lane"
+        },
+        {
+          "length": "4:31",
+          "position": 4,
+          "title": "Lady Fortune"
+        },
+        {
+          "length": "3:31",
+          "position": 5,
+          "title": "Skinny Dipping"
+        },
+        {
+          "length": "4:13",
+          "position": 6,
+          "title": "The Removal Man"
+        },
+        {
+          "length": "3:46",
+          "position": 7,
+          "title": "World of Love"
+        },
+        {
+          "length": "1:53",
+          "position": 8,
+          "title": "Has Anyone Ever Liked You?"
+        },
+        {
+          "length": "3:10",
+          "position": 9,
+          "title": "Island Odessy"
+        },
+        {
+          "length": "3:39",
+          "position": 10,
+          "title": "Alien Invasion"
+        },
+        {
+          "length": "4:36",
+          "position": 11,
+          "title": "Disco Compilation"
+        },
+        {
+          "length": "4:12",
+          "position": 12,
+          "title": "The Moths Are Real"
+        }
+      ]
+    },
+    {
+      "title": "Moth Club Boiler Woes",
+      "tracks": [
+        {
+          "length": "2:07",
+          "position": 1,
+          "title": "Sexual Jealousy"
+        },
+        {
+          "length": "2:27",
+          "position": 2,
+          "title": "Fergus' Song"
+        },
+        {
+          "length": "1:49",
+          "position": 3,
+          "title": "The Third Letter"
+        },
+        {
+          "length": "2:33",
+          "position": 4,
+          "title": "Afraid or Not."
+        },
+        {
+          "length": "2:24",
+          "position": 5,
+          "title": "Moth Club Boiler Woes (interlude)"
+        }
+      ]
+    }
+  ],
   "year": "2013"
 }

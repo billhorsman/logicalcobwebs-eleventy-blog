@@ -89,5 +89,62 @@
     "post-hardcore",
     "power pop"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:30",
+          "position": 1,
+          "title": "Crystal"
+        },
+        {
+          "length": "3:32",
+          "position": 2,
+          "title": "Don’t Want to Know If You Are Lonely"
+        },
+        {
+          "length": "2:30",
+          "position": 3,
+          "title": "I Don’t Know for Sure"
+        },
+        {
+          "length": "4:29",
+          "position": 4,
+          "title": "Sorry Somehow"
+        },
+        {
+          "length": "4:38",
+          "position": 5,
+          "title": "Too Far Down"
+        },
+        {
+          "length": "6:07",
+          "position": 6,
+          "title": "Hardly Getting Over It"
+        },
+        {
+          "length": "3:02",
+          "position": 7,
+          "title": "Dead Set on Destruction"
+        },
+        {
+          "length": "2:50",
+          "position": 8,
+          "title": "Eiffel Tower High"
+        },
+        {
+          "length": "3:41",
+          "position": 9,
+          "title": "No Promise Have I Made"
+        },
+        {
+          "length": "3:10",
+          "position": 10,
+          "title": "All This I’ve Done for You"
+        }
+      ]
+    }
+  ],
   "year": "1986"
 }

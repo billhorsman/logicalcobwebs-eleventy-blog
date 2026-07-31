@@ -95,5 +95,67 @@
     "downtempo",
     "acid jazz"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "5:07",
+          "position": 1,
+          "title": "Mysterons"
+        },
+        {
+          "length": "4:14",
+          "position": 2,
+          "title": "Sour Times"
+        },
+        {
+          "length": "3:58",
+          "position": 3,
+          "title": "Strangers"
+        },
+        {
+          "length": "4:20",
+          "position": 4,
+          "title": "It Could Be Sweet"
+        },
+        {
+          "length": "4:56",
+          "position": 5,
+          "title": "Wandering Star"
+        },
+        {
+          "length": "3:48",
+          "position": 6,
+          "title": "It’s a Fire"
+        },
+        {
+          "length": "3:58",
+          "position": 7,
+          "title": "Numb"
+        },
+        {
+          "length": "5:10",
+          "position": 8,
+          "title": "Roads"
+        },
+        {
+          "length": "3:41",
+          "position": 9,
+          "title": "Pedestal"
+        },
+        {
+          "length": "5:04",
+          "position": 10,
+          "title": "Biscuit"
+        },
+        {
+          "length": "5:09",
+          "position": 11,
+          "title": "Glory Box"
+        }
+      ]
+    }
+  ],
   "year": "1994"
 }

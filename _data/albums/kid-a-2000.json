@@ -234,5 +234,62 @@
     "alternative rock",
     "rock"
   ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:11",
+          "position": 1,
+          "title": "Everything in Its Right Place"
+        },
+        {
+          "length": "4:45",
+          "position": 2,
+          "title": "Kid A"
+        },
+        {
+          "length": "5:52",
+          "position": 3,
+          "title": "The National Anthem"
+        },
+        {
+          "length": "5:56",
+          "position": 4,
+          "title": "How to Disappear Completely"
+        },
+        {
+          "length": "3:43",
+          "position": 5,
+          "title": "Treefingers"
+        },
+        {
+          "length": "5:16",
+          "position": 6,
+          "title": "Optimistic"
+        },
+        {
+          "length": "3:31",
+          "position": 7,
+          "title": "In Limbo"
+        },
+        {
+          "length": "5:09",
+          "position": 8,
+          "title": "Idioteque"
+        },
+        {
+          "length": "4:36",
+          "position": 9,
+          "title": "Morning Bell"
+        },
+        {
+          "length": "6:59",
+          "position": 10,
+          "title": "Motion Picture Soundtrack"
+        }
+      ]
+    }
+  ],
   "year": "2000"
 }
