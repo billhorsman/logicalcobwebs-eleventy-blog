@@ -63,11 +63,11 @@ eleventyComputed:
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
-  {%- if film_notes[slug] -%}
-    <blockquote>
-      {{ film_notes[slug] | markdownInline | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
-    </blockquote>
-  {%- endif -%}
+  {%- if film_notes[slug] %}
+  <section class="film-note">
+    {{ film_notes[slug] | markdown | safe }}
+  </section>
+  {%- endif %}
 
   <section class="cast-grid">
     <div class="cast-grid-cards">
