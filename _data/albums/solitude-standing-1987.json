@@ -1,0 +1,198 @@
+{
+  "artist": "Suzanne Vega",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "American singer-songwriter",
+        "genres": [
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "0b48a36c-630f-4ee7-8cf3-480e3dd8be65",
+            "name": "alternative folk"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "name": "art pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f0843e91-c025-4dd7-8aef-6fe3d35470d9",
+            "name": "chamber pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "c11e4253-a888-4a2a-adde-c274b748d0b3",
+            "name": "contemporary folk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+            "name": "downtempo"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+            "name": "folk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "abb2374f-30e5-4d3e-b417-2caf78ef1f6c",
+            "name": "folk pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "name": "pop"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+            "name": "pop rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "cf119120-7df5-47d7-9dec-49f8837a4e40",
+        "name": "Suzanne Vega",
+        "sort-name": "Vega, Suzanne",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Suzanne Vega"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1987-04",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "6242615b-5620-465b-b6fb-2e593e90cbad",
+      "name": "dream pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "abb2374f-30e5-4d3e-b417-2caf78ef1f6c",
+      "name": "folk pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock"
+    },
+    {
+      "count": 3,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "b53a036b-06c6-3d94-82a3-092598b44675",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "solitude-standing-1987",
+  "spotify": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg",
+  "title": "Solitude Standing",
+  "top-genres": [
+    "pop rock",
+    "rock",
+    "dream pop",
+    "folk pop",
+    "folk rock"
+  ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:09",
+          "position": 1,
+          "title": "Tom’s Diner"
+        },
+        {
+          "length": "3:52",
+          "position": 2,
+          "title": "Luka"
+        },
+        {
+          "length": "6:19",
+          "position": 3,
+          "title": "Ironbound / Fancy Poultry"
+        },
+        {
+          "length": "4:16",
+          "position": 4,
+          "title": "In the Eye"
+        },
+        {
+          "length": "2:48",
+          "position": 5,
+          "title": "Night Vision"
+        },
+        {
+          "length": "4:49",
+          "position": 6,
+          "title": "Solitude Standing"
+        },
+        {
+          "length": "4:14",
+          "position": 7,
+          "title": "Calypso"
+        },
+        {
+          "length": "3:57",
+          "position": 8,
+          "title": "Language"
+        },
+        {
+          "length": "4:04",
+          "position": 9,
+          "title": "Gypsy"
+        },
+        {
+          "length": "5:13",
+          "position": 10,
+          "title": "Wooden Horse (Caspar Hauser’s Song)"
+        },
+        {
+          "length": "2:41",
+          "position": 11,
+          "title": "Tom’s Diner (reprise)"
+        }
+      ]
+    }
+  ],
+  "year": "1987"
+}

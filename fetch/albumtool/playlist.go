@@ -138,6 +138,9 @@ func cmdPlaylist(root string, args []string) error {
 	uris = valid
 
 	if *exportTracks {
+		if len(uris) == 0 {
+			return fmt.Errorf("no tracks could be fetched (%d album(s) skipped) — likely still rate-limited; try later", missing)
+		}
 		path := "spotify-track-uris.txt"
 		if err := os.WriteFile(path, []byte(strings.Join(uris, "\n")+"\n"), 0o644); err != nil {
 			return err
