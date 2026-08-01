@@ -272,16 +272,19 @@ ol.track-list {
 }
 
 .album-listen {
-	background: var(--color);
+	/* Spotify green; dark text holds ~10:1 contrast in both themes */
+	--spotify-green: #65d46e;
+	background: var(--spotify-green);
 	border-radius: 100vh;
-	color: var(--background-color);
+	color: oklch(15% 0 0);
 	display: inline-block;
 	padding: 0.25rem 0.75rem;
 	text-decoration: none;
 
 	&:hover,
-	a:focus-visible {
-		color: var(--background-color);
+	&:focus-visible {
+		background: color-mix(in srgb, var(--spotify-green) 85%, white);
+		color: oklch(15% 0 0);
 	}
 }
 
