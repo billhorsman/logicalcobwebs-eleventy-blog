@@ -67,8 +67,10 @@ eleventyComputed:
   {%- endif %}
 
   {%- if inTopFive %}
-    <p>This album is in my top {{ top_5_albums.length }}.</p>
-	{%- endif %}
+    <p>This album is in my top {{ top_5_albums.length }} 🎉</p>
+  {%- elseif top_albums.includes(slug) %}
+    <p>This album is in my top {{ top_albums.length }}.</p>
+  {%- endif %}
 
   {%- if album.tracks.length %}
   <section class="album-tracks">
