@@ -37,7 +37,8 @@ func cmdPlaylist(root string, args []string) error {
 
 	fs := flag.NewFlagSet("playlist", flag.ExitOnError)
 	into := fs.String("into", "", "add tracks to an existing playlist (id or URL) instead of creating one")
-	export := fs.Bool("export", false, "write track URIs to a file to paste into the Spotify desktop app")
+	export := fs.Bool("export", false, "write album URIs to a file (offline) to paste into the Spotify desktop app")
+	exportTracks := fs.Bool("export-tracks", false, "write track URIs to a file (uses the API) to paste into the Spotify desktop app")
 	fs.Parse(args)
 	name := "Bill's Top 100 Albums"
 	if fs.NArg() > 0 {
@@ -66,7 +67,9 @@ func cmdPlaylist(root string, args []string) error {
 
 	var playlist map[string]any
 	var playlistID string
-	if *into != "" {
+	if *exportTracks {
+		// no playlist needed; URIs are written to a file below
+	} else if *into != "" {
 		playlistID = *into
 		if i := strings.LastIndex(playlistID, "/playlist/"); i >= 0 {
 			playlistID = playlistID[i+len("/playlist/"):]
@@ -138,6 +141,15 @@ func cmdPlaylist(root string, args []string) error {
 		}
 	}
 	uris = valid
+
+	if *exportTracks {
+		path := "spotify-track-uris.txt"
+		if err := os.WriteFile(path, []byte(strings.Join(uris, "\n")+"\n"), 0o644); err != nil {
+			return err
+		}
+		fmt.Printf("\nWrote %d track URIs to %s — copy and paste into a playlist in the desktop app.\n", len(uris), path)
+		return nil
+	}
 
 	if err := addTracks(token, playlistID, uris); err != nil {
 		return err
