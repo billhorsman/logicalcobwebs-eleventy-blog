@@ -281,10 +281,16 @@ ol.track-list {
 	padding: 0.25rem 0.75rem;
 	text-decoration: none;
 
+	&:visited,
+	&:hover,
+	&:focus,
+	&:focus-visible {
+		color: oklch(15% 0 0);
+	}
+
 	&:hover,
 	&:focus-visible {
 		background: color-mix(in srgb, var(--spotify-green) 85%, white);
-		color: oklch(15% 0 0);
 	}
 }
 
