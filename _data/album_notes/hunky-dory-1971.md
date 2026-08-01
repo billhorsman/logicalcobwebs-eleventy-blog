@@ -1,0 +1,1 @@
+Recorded onto cassette from someone, this album accompanied me on many car journeys. Perfect music. I could have picked many more albums from David Bowie, who also starred in one of [my top 100 films](/bill/films/the-man-who-fell-to-earth-1976/).
