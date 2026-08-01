@@ -6,6 +6,7 @@ import (
 	"crypto/sha256"
 	"encoding/base64"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io"
 	"net/http"
@@ -29,9 +30,12 @@ func cmdPlaylist(root string, args []string) error {
 		return fmt.Errorf("SPOTIFY_CLIENT_ID is not set (in the environment or .env);\ncreate an app at https://developer.spotify.com/dashboard with redirect URI %s", spotifyRedirect)
 	}
 
+	fs := flag.NewFlagSet("playlist", flag.ExitOnError)
+	into := fs.String("into", "", "add tracks to an existing playlist (id or URL) instead of creating one")
+	fs.Parse(args)
 	name := "Bill's Top 100 Albums"
-	if len(args) > 0 {
-		name = strings.Join(args, " ")
+	if fs.NArg() > 0 {
+		name = strings.Join(fs.Args(), " ")
 	}
 
 	slugs, err := readSlugList(topAlbumsPath(root))
@@ -50,15 +54,30 @@ func cmdPlaylist(root string, args []string) error {
 	}
 	fmt.Printf("Authorised as %s\n", getString(me, "id"))
 
-	playlist, err := spotifyPost(token, "https://api.spotify.com/v1/me/playlists", map[string]any{
-		"name":        name,
-		"description": "The albums from logicalcobwebs.com/bill/albums, in release-date order.",
-		"public":      true,
-	})
-	if err != nil {
-		return err
+	var playlist map[string]any
+	var playlistID string
+	if *into != "" {
+		playlistID = *into
+		if i := strings.LastIndex(playlistID, "/playlist/"); i >= 0 {
+			playlistID = playlistID[i+len("/playlist/"):]
+			playlistID, _, _ = strings.Cut(playlistID, "?")
+		}
+		playlist, err = spotifyGet(token, "https://api.spotify.com/v1/playlists/"+playlistID)
+		if err != nil {
+			return err
+		}
+		fmt.Printf("Adding to existing playlist %q\n", getString(playlist, "name"))
+	} else {
+		playlist, err = spotifyPost(token, "https://api.spotify.com/v1/me/playlists", map[string]any{
+			"name":        name,
+			"description": "The albums from logicalcobwebs.com/bill/albums, in release-date order.",
+			"public":      true,
+		})
+		if err != nil {
+			return err
+		}
+		playlistID = getString(playlist, "id")
 	}
-	playlistID := getString(playlist, "id")
 
 	var uris []string
 	missing := 0
@@ -99,16 +118,52 @@ func cmdPlaylist(root string, args []string) error {
 		fmt.Printf("%s: %d tracks\n", slug, len(items))
 	}
 
-	for start := 0; start < len(uris); start += 100 {
-		batch := uris[start:min(start+100, len(uris))]
-		if _, err := spotifyPost(token, "https://api.spotify.com/v1/playlists/"+playlistID+"/tracks", map[string]any{"uris": batch}); err != nil {
-			return err
+	// Only real track URIs; anything else 403s the whole batch
+	valid := uris[:0]
+	for _, u := range uris {
+		if strings.HasPrefix(u, "spotify:track:") {
+			valid = append(valid, u)
+		} else {
+			fmt.Printf("Skipping non-track URI %q\n", u)
 		}
+	}
+	uris = valid
+
+	if err := addTracks(token, playlistID, uris); err != nil {
+		return err
 	}
 
 	fmt.Printf("\nCreated %q: %d tracks from %d albums (%d skipped)\n%s\n",
 		name, len(uris), len(slugs)-missing, missing, getString(map[string]any{"u": externalURL(playlist)}, "u"))
 	return nil
+}
+
+// addTracks adds URIs in batches, bisecting on failure so one bad
+// entry (or a mid-run error) is pinpointed instead of failing the lot.
+func addTracks(token, playlistID string, uris []string) error {
+	if len(uris) == 0 {
+		return nil
+	}
+	_, err := spotifyPost(token, "https://api.spotify.com/v1/playlists/"+playlistID+"/tracks", map[string]any{"uris": uris})
+	if err == nil {
+		return nil
+	}
+	if len(uris) > 100 {
+		mid := len(uris) / 2
+		if err := addTracks(token, playlistID, uris[:mid]); err != nil {
+			return err
+		}
+		return addTracks(token, playlistID, uris[mid:])
+	}
+	if len(uris) == 1 {
+		fmt.Printf("Could not add %s: %v\n", uris[0], err)
+		return nil
+	}
+	mid := len(uris) / 2
+	if err := addTracks(token, playlistID, uris[:mid]); err != nil {
+		return err
+	}
+	return addTracks(token, playlistID, uris[mid:])
 }
 
 // searchSpotifyAlbum finds an album by title and artist, returning its
@@ -192,10 +247,12 @@ func spotifyAuthorize(clientID string) (string, error) {
 	}
 	var tokenData struct {
 		AccessToken string `json:"access_token"`
+		Scope       string `json:"scope"`
 	}
 	if err := json.Unmarshal(body, &tokenData); err != nil {
 		return "", err
 	}
+	fmt.Printf("Granted scopes: %s\n", tokenData.Scope)
 	return tokenData.AccessToken, nil
 }
 
