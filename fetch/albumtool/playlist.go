@@ -11,6 +11,7 @@ import (
 	"io"
 	"net/http"
 	"net/url"
+	"os"
 	"os/exec"
 	"strconv"
 	"strings"
@@ -36,6 +37,7 @@ func cmdPlaylist(root string, args []string) error {
 
 	fs := flag.NewFlagSet("playlist", flag.ExitOnError)
 	into := fs.String("into", "", "add tracks to an existing playlist (id or URL) instead of creating one")
+	export := fs.Bool("export", false, "write track URIs to a file to paste into the Spotify desktop app")
 	fs.Parse(args)
 	name := "Bill's Top 100 Albums"
 	if fs.NArg() > 0 {
@@ -60,7 +62,9 @@ func cmdPlaylist(root string, args []string) error {
 
 	var playlist map[string]any
 	var playlistID string
-	if *into != "" {
+	if *export {
+		// no playlist needed; URIs are written to a file below
+	} else if *into != "" {
 		playlistID = *into
 		if i := strings.LastIndex(playlistID, "/playlist/"); i >= 0 {
 			playlistID = playlistID[i+len("/playlist/"):]
@@ -132,6 +136,24 @@ func cmdPlaylist(root string, args []string) error {
 		}
 	}
 	uris = valid
+
+	if *export {
+		path := "spotify-track-uris.txt"
+		if err := os.WriteFile(path, []byte(strings.Join(uris, "\n")+"\n"), 0o644); err != nil {
+			return err
+		}
+		fmt.Printf(`
+Wrote %d track URIs to %s.
+
+To fill a playlist without the API: open the playlist in the Spotify
+DESKTOP app, then copy the file's entire contents and paste (Cmd+V)
+directly into the playlist. Spotify resolves the URIs into tracks.
+
+  cat %s | pbcopy
+
+`, len(uris), path, path)
+		return nil
+	}
 
 	if err := addTracks(token, playlistID, uris); err != nil {
 		return err
