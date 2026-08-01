@@ -1,0 +1,152 @@
+{
+  "artist": "Amanda Palmer",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "66e222b5-4a1f-4626-90c6-d0f7029d7dec",
+            "name": "dark cabaret"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          }
+        ],
+        "id": "3c0eb318-d2ba-45aa-9077-b83746cc56da",
+        "name": "Amanda Palmer",
+        "sort-name": "Palmer, Amanda",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Amanda Palmer"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2008-09-13",
+  "genres": [
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "c42f1db0-34c6-3b81-8570-c29bfeb9c214",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "who-killed-amanda-palmer-2008",
+  "title": "Who Killed Amanda Palmer",
+  "top-genres": [
+    "alternative rock",
+    "pop",
+    "pop rock",
+    "rock"
+  ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:37",
+          "position": 1,
+          "title": "Astronaut: A Short History of Nearly Nothing"
+        },
+        {
+          "length": "2:44",
+          "position": 2,
+          "title": "Runs in the Family"
+        },
+        {
+          "length": "5:58",
+          "position": 3,
+          "title": "Ampersand"
+        },
+        {
+          "length": "4:47",
+          "position": 4,
+          "title": "Leeds United"
+        },
+        {
+          "length": "4:36",
+          "position": 5,
+          "title": "Blake Says"
+        },
+        {
+          "length": "3:29",
+          "position": 6,
+          "title": "Strength Through Music"
+        },
+        {
+          "length": "4:48",
+          "position": 7,
+          "title": "Guitar Hero"
+        },
+        {
+          "length": "5:43",
+          "position": 8,
+          "title": "Have to Drive"
+        },
+        {
+          "length": "2:50",
+          "position": 9,
+          "title": "What’s the Use of Wond’rin?"
+        },
+        {
+          "length": "2:08",
+          "position": 10,
+          "title": "Oasis"
+        },
+        {
+          "length": "5:35",
+          "position": 11,
+          "title": "The Point of It All"
+        },
+        {
+          "length": "6:03",
+          "position": 12,
+          "title": "Another Year: A Short History of Almost Something"
+        },
+        {
+          "length": "4:45",
+          "position": 13,
+          "title": "I Google You (live 2008.08.05)"
+        }
+      ]
+    }
+  ],
+  "year": "2008"
+}
