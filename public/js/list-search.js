@@ -24,6 +24,11 @@
 
 	async function applyFilter() {
 		const q = fold(input.value.trim());
+		// Match only at word starts: "order" finds New Order, not recorder
+		const matcher = q
+			? new RegExp("(^|[^a-z0-9])" + q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))
+			: null;
+		const matches = (text) => matcher.test(fold(text));
 		const idx = await loadIndex();
 		for (const card of scope.querySelectorAll("[data-search-slug]")) {
 			const entry = idx.get(card.dataset.searchSlug);
@@ -45,11 +50,11 @@
 				show(null);
 				continue;
 			}
-			if (fold(entry.primary).includes(q)) {
+			if (matches(entry.primary)) {
 				show(null);
 				continue;
 			}
-			const deepHit = entry.deep.find((d) => fold(d).includes(q));
+			const deepHit = entry.deep.find(matches);
 			if (deepHit) {
 				show(deepHit);
 			} else {
