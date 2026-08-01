@@ -16,6 +16,8 @@
 
 main {
   justify-content: flex-start;
+  /* Match the albums section width; the film list stays one per row */
+  max-width: 64rem;
 }
 
 nav.films {
