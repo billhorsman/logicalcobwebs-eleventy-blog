@@ -87,6 +87,7 @@ album-grid-cards {
 	&:focus-visible,
 	&:hover {
 		outline: none;
+		text-decoration: none;
 
 		& album-card-title {
 			text-decoration-color: var(--color-highlight);
