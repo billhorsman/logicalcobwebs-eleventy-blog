@@ -12,7 +12,9 @@ import (
 	"net/http"
 	"net/url"
 	"os/exec"
+	"strconv"
 	"strings"
+	"time"
 )
 
 // cmdPlaylist builds (or rebuilds) a Spotify playlist containing every
@@ -70,7 +72,7 @@ func cmdPlaylist(root string, args []string) error {
 	} else {
 		playlist, err = spotifyPost(token, "https://api.spotify.com/v1/me/playlists", map[string]any{
 			"name":        name,
-			"description": "The albums from logicalcobwebs.com/bill/albums, in release-date order.",
+			"description": "Bill's favourite albums, in release-date order.",
 			"public":      true,
 		})
 		if err != nil {
@@ -146,6 +148,7 @@ func addTracks(token, playlistID string, uris []string) error {
 	}
 	_, err := spotifyPost(token, "https://api.spotify.com/v1/playlists/"+playlistID+"/tracks", map[string]any{"uris": uris})
 	if err == nil {
+		time.Sleep(500 * time.Millisecond)
 		return nil
 	}
 	if len(uris) > 100 {
@@ -155,9 +158,9 @@ func addTracks(token, playlistID string, uris []string) error {
 		}
 		return addTracks(token, playlistID, uris[mid:])
 	}
-	if len(uris) == 1 {
-		fmt.Printf("Could not add %s: %v\n", uris[0], err)
-		return nil
+	if len(uris) <= 10 {
+		fmt.Printf("Could not add a batch of %d tracks: %v\n", len(uris), err)
+		return err
 	}
 	mid := len(uris) / 2
 	if err := addTracks(token, playlistID, uris[:mid]); err != nil {
@@ -269,25 +272,38 @@ func spotifyPost(token, apiURL string, payload map[string]any) (map[string]any, 
 }
 
 func spotifyRequest(token, method, apiURL string, body []byte) (map[string]any, error) {
-	req, err := http.NewRequest(method, apiURL, bytes.NewReader(body))
-	if err != nil {
-		return nil, err
+	for attempt := 0; ; attempt++ {
+		req, err := http.NewRequest(method, apiURL, bytes.NewReader(body))
+		if err != nil {
+			return nil, err
+		}
+		req.Header.Set("Authorization", "Bearer "+token)
+		if body != nil {
+			req.Header.Set("Content-Type", "application/json")
+		}
+		resp, err := http.DefaultClient.Do(req)
+		if err != nil {
+			return nil, err
+		}
+		respBody, err := io.ReadAll(resp.Body)
+		resp.Body.Close()
+		if err != nil {
+			return nil, err
+		}
+		if resp.StatusCode == http.StatusTooManyRequests && attempt < 5 {
+			wait := 5 * time.Second
+			if s := resp.Header.Get("Retry-After"); s != "" {
+				if n, err := strconv.Atoi(s); err == nil {
+					wait = time.Duration(n+1) * time.Second
+				}
+			}
+			fmt.Printf("Rate limited; waiting %s…\n", wait)
+			time.Sleep(wait)
+			continue
+		}
+		if resp.StatusCode >= 300 {
+			return nil, fmt.Errorf("%s %s: %s: %s", method, apiURL, resp.Status, respBody)
+		}
+		return decodeJSON(bytes.NewReader(respBody))
 	}
-	req.Header.Set("Authorization", "Bearer "+token)
-	if body != nil {
-		req.Header.Set("Content-Type", "application/json")
-	}
-	resp, err := http.DefaultClient.Do(req)
-	if err != nil {
-		return nil, err
-	}
-	defer resp.Body.Close()
-	respBody, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return nil, err
-	}
-	if resp.StatusCode >= 300 {
-		return nil, fmt.Errorf("%s %s: %s: %s", method, apiURL, resp.Status, respBody)
-	}
-	return decodeJSON(bytes.NewReader(respBody))
 }
