@@ -17,6 +17,6 @@
     <dd class="cast one-line">{{ film | cast }}.</dd>
   </dl>
   {%- if review -%}
-    <blockquote class="review">{{ review | safe }}</blockquote>
+    <blockquote class="review">{{ review | markdownInline | safe }}</blockquote>
   {%- endif -%}
 </a>

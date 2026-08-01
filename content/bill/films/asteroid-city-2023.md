@@ -47,9 +47,9 @@ description: "In an American desert town circa 1955, the itinerary of a Junior S
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
-  {%- if films.reviews[slug] -%}
+  {%- if film_notes[slug] -%}
     <blockquote>
-      {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
+      {{ film_notes[slug] | markdownInline | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
     </blockquote>
   {%- endif -%}
 

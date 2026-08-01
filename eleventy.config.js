@@ -121,6 +121,8 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addDataExtension("md", (contents) => contents);
 	const markdownRenderer = markdownIt({ html: true });
 	eleventyConfig.addFilter("markdown", (content) => markdownRenderer.render(content || ""));
+	// Inline variant: no wrapping <p>, for quotes flowing around other markup
+	eleventyConfig.addFilter("markdownInline", (content) => markdownRenderer.renderInline((content || "").trim()));
 	eleventyConfig.addPlugin(pluginDcaTicket);
 
 	eleventyConfig.addPlugin(IdAttributePlugin, {

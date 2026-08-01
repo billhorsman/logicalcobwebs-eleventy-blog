@@ -32,7 +32,7 @@ If you only watch {{ must_see_films.list.length }} films&hellip;
 
 <ul class="film-list">
 {% for filmSlug in must_see_films.list %}
-  {% set review = films.reviews[filmSlug] %}
+  {% set review = film_notes[filmSlug] %}
   <li>
     {% include "film.njk" %}
   </li>

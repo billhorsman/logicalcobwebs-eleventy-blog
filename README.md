@@ -77,8 +77,8 @@ This syncs film data and images from the TMDB list, sorts
 with the new numbering. Review the diff and commit. (The steps can also
 be run individually: `sync`, `sort`, `generate`.)
 
-To show a review quote on a film's top-100 page, add a JSON file to
-`_data/films/reviews/<slug>.json`.
+To show a review quote on a film's top-100 page, add a markdown file
+at `_data/film_notes/<slug>.md`.
 
 ## Albums (work in progress)
 

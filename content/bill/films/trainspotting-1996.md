@@ -47,9 +47,9 @@ description: "Hilarious but harrowing, the film charts the disintegration of the
     Directed by <strong>{{ film | directors }}</strong>
   </p>
 
-  {%- if films.reviews[slug] -%}
+  {%- if film_notes[slug] -%}
     <blockquote>
-      {{ films.reviews[slug] | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
+      {{ film_notes[slug] | markdownInline | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
     </blockquote>
   {%- endif -%}
 
