@@ -15,6 +15,9 @@ import (
 	"path/filepath"
 	"regexp"
 	"strings"
+	"unicode"
+
+	"golang.org/x/text/unicode/norm"
 )
 
 const (
@@ -187,12 +190,20 @@ func marshalPretty(v any) ([]byte, error) {
 
 var nonSlugChars = regexp.MustCompile(`[^a-z0-9 ]+`)
 
-// slugify matches filmtool's slug rules: lowercase ascii, spaces to
-// dashes, then the release year.
+// slugify: lowercase, fold accents to their base letters ("À" -> "a"),
+// strip everything else, spaces to dashes, then the release year.
+// (filmtool's older rule drops accented characters entirely.)
 func slugify(title, year string) string {
 	s := strings.ToLower(title)
+	s = norm.NFD.String(s)
+	s = strings.Map(func(r rune) rune {
+		if unicode.Is(unicode.Mn, r) {
+			return -1
+		}
+		return r
+	}, s)
 	s = nonSlugChars.ReplaceAllString(s, "")
-	s = strings.ReplaceAll(s, " ", "-")
+	s = strings.Join(strings.Fields(s), "-")
 	return s + "-" + year
 }
 

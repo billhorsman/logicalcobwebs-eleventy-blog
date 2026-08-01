@@ -1,0 +1,127 @@
+{
+  "artist": "Édith Piaf",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "FR",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "b8a07a90-2b50-4257-8f1e-69846b582432",
+            "name": "cabaret"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "b7864789-29e6-4965-84e4-463baaa869df",
+            "name": "chanson française"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "7232f728-cc2d-4e55-8504-2e230860b422",
+            "name": "chanson réaliste"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "name": "pop"
+          }
+        ],
+        "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+        "name": "Édith Piaf",
+        "sort-name": "Piaf, Édith",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "Édith Piaf"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1993",
+  "genres": [],
+  "id": "fe91c5ba-aa3f-4e44-996c-151e5ed4de57",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [
+    "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+  ],
+  "secondary-types": [
+    "Live"
+  ],
+  "slug": "-lolympia-1962-1993",
+  "title": "À l'Olympia 1962",
+  "top-genres": [],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "1:46",
+          "position": 1,
+          "title": "Introduction"
+        },
+        {
+          "length": "4:23",
+          "position": 2,
+          "title": "Roulez tambours"
+        },
+        {
+          "length": "2:56",
+          "position": 3,
+          "title": "Le Diable de la Bastille"
+        },
+        {
+          "length": "4:06",
+          "position": 4,
+          "title": "Musique à tout va"
+        },
+        {
+          "length": "3:21",
+          "position": 5,
+          "title": "Le Petit Brouillard"
+        },
+        {
+          "length": "4:02",
+          "position": 6,
+          "title": "Le Droit d’aimer"
+        },
+        {
+          "length": "3:40",
+          "position": 7,
+          "title": "Le Billard électrique"
+        },
+        {
+          "length": "3:08",
+          "position": 8,
+          "title": "Toi tu l’entends pas"
+        },
+        {
+          "length": "3:23",
+          "position": 9,
+          "title": "À quoi ça sert l’amour ?"
+        },
+        {
+          "length": "3:02",
+          "position": 10,
+          "title": "Non je ne regrette rien"
+        },
+        {
+          "length": "3:19",
+          "position": 11,
+          "title": "La Foule"
+        },
+        {
+          "length": "5:14",
+          "position": 12,
+          "title": "Milord"
+        }
+      ]
+    }
+  ],
+  "year": "1993"
+}
