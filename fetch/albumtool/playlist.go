@@ -37,8 +37,7 @@ func cmdPlaylist(root string, args []string) error {
 
 	fs := flag.NewFlagSet("playlist", flag.ExitOnError)
 	into := fs.String("into", "", "add tracks to an existing playlist (id or URL) instead of creating one")
-	export := fs.Bool("export", false, "write album URIs to a file (offline) to paste into the Spotify desktop app")
-	exportTracks := fs.Bool("export-tracks", false, "write track URIs to a file (uses the API) to paste into the Spotify desktop app")
+	exportTracks := fs.Bool("export-tracks", false, "write track URIs to a file to paste into the Spotify desktop app")
 	fs.Parse(args)
 	name := "Bill's Top 100 Albums"
 	if fs.NArg() > 0 {
@@ -48,10 +47,6 @@ func cmdPlaylist(root string, args []string) error {
 	slugs, err := readSlugList(topAlbumsPath(root))
 	if err != nil {
 		return err
-	}
-
-	if *export {
-		return exportAlbumURIs(root, slugs)
 	}
 
 	token, err := spotifyAuthorize(clientID)
@@ -157,43 +152,6 @@ func cmdPlaylist(root string, args []string) error {
 
 	fmt.Printf("\nCreated %q: %d tracks from %d albums (%d skipped)\n%s\n",
 		name, len(uris), len(slugs)-missing, missing, getString(map[string]any{"u": externalURL(playlist)}, "u"))
-	return nil
-}
-
-// exportAlbumURIs writes spotify:album: URIs from the saved data — no
-// API calls, so it works even while the API is rate-limiting us. The
-// desktop app expands pasted album URIs into their full tracklists.
-func exportAlbumURIs(root string, slugs []string) error {
-	var uris []string
-	missing := 0
-	for _, slug := range slugs {
-		data, err := readAlbumData(root, slug)
-		if err != nil {
-			return err
-		}
-		spotify := getString(data, "spotify")
-		if spotify == "" {
-			fmt.Printf("No Spotify link for %s — skipped\n", slug)
-			missing++
-			continue
-		}
-		id := strings.TrimPrefix(spotify, "https://open.spotify.com/album/")
-		uris = append(uris, "spotify:album:"+id)
-	}
-	path := "spotify-album-uris.txt"
-	if err := os.WriteFile(path, []byte(strings.Join(uris, "\n")+"\n"), 0o644); err != nil {
-		return err
-	}
-	fmt.Printf(`
-Wrote %d album URIs to %s (%d albums without Spotify links skipped).
-
-To fill a playlist without the API: open the playlist in the Spotify
-DESKTOP app, copy the file's contents, and paste (Cmd+V) directly into
-the playlist. Spotify expands each album into its tracks.
-
-  cat %s | pbcopy
-
-`, len(uris), path, missing, path)
 	return nil
 }
 

@@ -89,7 +89,10 @@ To build a playlist of every top-100 album:
    lacked Spotify links for are found via Spotify search and their
    links saved back into the data.
 
-Re-running creates a new playlist (delete the old one in Spotify).
+Re-running creates a new playlist (delete the old one in Spotify), or
+use `-into <playlist-url>` to fill an existing one. If the API is
+rate-limited, `playlist -export-tracks` writes track URIs to a file to
+paste directly into a playlist in the Spotify desktop app.
 
 ## OpenGraph montage
 
