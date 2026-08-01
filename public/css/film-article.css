@@ -123,6 +123,7 @@ section.cast-grid {
 	& .cast-card {
 		text-align: center;
 		overflow: hidden;
+		max-width: 220px;
 
 		& img {
 			width: 100%;
