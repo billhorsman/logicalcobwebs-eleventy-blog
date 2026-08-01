@@ -5,7 +5,8 @@
   --black-bean: #340914;
 
   --background-color: var(--mimi-pink);
-  --background-color-80: var(--background-color);
+  /* Translucent, so the header's backdrop blur has something to show */
+  --background-color-80: color-mix(in srgb, var(--background-color) 80%, transparent);
   --color: var(--black-bean);
 
   @supports (color: light-dark(black, white)) {
