@@ -1,0 +1,152 @@
+{
+  "artist": "Half Man Half Biscuit",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "17cee13b-8725-43d1-a52a-6786933c0166",
+            "name": "c86"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "6cec5b4d-3c64-44a6-914d-3e833432f631",
+            "name": "folk punk"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          }
+        ],
+        "id": "10eb06ab-0695-4057-97a5-bea9eeb6fb6d",
+        "name": "Half Man Half Biscuit",
+        "sort-name": "Half Man Half Biscuit",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Half Man Half Biscuit"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2002-09-23",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+      "name": "post-punk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "058e9fa9-b2ed-3228-9379-c3bcb108a3fe",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "cammell-laird-social-club-2002",
+  "spotify": "https://open.spotify.com/album/0duA9cxY4tXuXTpkIxRWjf",
+  "title": "Cammell Laird Social Club",
+  "top-genres": [
+    "post-punk",
+    "indie rock",
+    "rock"
+  ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "2:32",
+          "position": 1,
+          "title": "The Light at the End of the Tunnel (Is the Light of an Oncoming Train)"
+        },
+        {
+          "length": "3:32",
+          "position": 2,
+          "title": "When the Evening Sun Goes Down"
+        },
+        {
+          "length": "3:25",
+          "position": 3,
+          "title": "San Antonio Foam Party"
+        },
+        {
+          "length": "3:28",
+          "position": 4,
+          "title": "Them's the Vagaries"
+        },
+        {
+          "length": "2:14",
+          "position": 5,
+          "title": "If I Had Possession Over Pancake Day"
+        },
+        {
+          "length": "4:32",
+          "position": 6,
+          "title": "The Referee's Alphabet"
+        },
+        {
+          "length": "3:37",
+          "position": 7,
+          "title": "She's in Broadstairs"
+        },
+        {
+          "length": "3:24",
+          "position": 8,
+          "title": "Tyrolean Knockabout"
+        },
+        {
+          "length": "3:07",
+          "position": 9,
+          "title": "Breaking News"
+        },
+        {
+          "length": "2:36",
+          "position": 10,
+          "title": "27 Yards of Dental Floss"
+        },
+        {
+          "length": "2:28",
+          "position": 11,
+          "title": "Paradise Lost (You're the Reason Why)"
+        },
+        {
+          "length": "6:23",
+          "position": 12,
+          "title": "Thy Damnation Slumbereth Not"
+        },
+        {
+          "length": "0:24",
+          "position": 13,
+          "title": "Stavanger Töestub"
+        }
+      ]
+    }
+  ],
+  "year": "2002"
+}
