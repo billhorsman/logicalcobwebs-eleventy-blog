@@ -48,10 +48,9 @@ func cmdPlaylist(root string, args []string) error {
 	if err != nil {
 		return err
 	}
-	userID := getString(me, "id")
-	fmt.Printf("Authorised as %s\n", userID)
+	fmt.Printf("Authorised as %s\n", getString(me, "id"))
 
-	playlist, err := spotifyPost(token, "https://api.spotify.com/v1/users/"+url.PathEscape(userID)+"/playlists", map[string]any{
+	playlist, err := spotifyPost(token, "https://api.spotify.com/v1/me/playlists", map[string]any{
 		"name":        name,
 		"description": "The albums from logicalcobwebs.com/bill/albums, in release-date order.",
 		"public":      true,
