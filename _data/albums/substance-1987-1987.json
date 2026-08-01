@@ -1,0 +1,302 @@
+{
+  "artist": "New Order",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "UK synth pop band",
+        "genres": [
+          {
+            "count": 10,
+            "disambiguation": "",
+            "id": "8301f73c-9166-4108-bfeb-4fd22dc19083",
+            "name": "alternative dance"
+          },
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+            "name": "dance"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "2c473395-9cd5-465d-8d85-c308de067c04",
+            "name": "dance-rock"
+          },
+          {
+            "count": 12,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+            "name": "house"
+          },
+          {
+            "count": 20,
+            "disambiguation": "",
+            "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+            "name": "new wave"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "name": "pop"
+          },
+          {
+            "count": 14,
+            "disambiguation": "",
+            "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+            "name": "post-punk"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 9,
+            "disambiguation": "",
+            "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+            "name": "synth-pop"
+          }
+        ],
+        "id": "f1106b17-dcbb-45f6-b938-199ccfab50cc",
+        "name": "New Order",
+        "sort-name": "New Order",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "New Order"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1987-08-10",
+  "genres": [
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "8301f73c-9166-4108-bfeb-4fd22dc19083",
+      "name": "alternative dance"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+      "name": "dance-pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 8,
+      "disambiguation": "",
+      "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+      "name": "new wave"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "f6d8cadd-6a5e-4ec9-9c2b-996b5332a639",
+      "name": "post-punk"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+      "name": "synth-pop"
+    }
+  ],
+  "id": "95f78ba6-4cdb-3c88-972a-4ef3220f7ad1",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [
+    "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+  ],
+  "secondary-types": [
+    "Compilation"
+  ],
+  "slug": "substance-1987-1987",
+  "spotify": "https://open.spotify.com/album/6cPKaLSK2IlpAhEXqT2Sva",
+  "title": "Substance 1987",
+  "top-genres": [
+    "new wave",
+    "alternative dance",
+    "pop",
+    "post-punk",
+    "synth-pop"
+  ],
+  "tracks": [
+    {
+      "title": "Disc One",
+      "tracks": [
+        {
+          "length": "4:23",
+          "position": 1,
+          "title": "Ceremony"
+        },
+        {
+          "length": "5:31",
+          "position": 2,
+          "title": "Everything's Gone Green"
+        },
+        {
+          "length": "6:59",
+          "position": 3,
+          "title": "Temptation"
+        },
+        {
+          "length": "7:29",
+          "position": 4,
+          "title": "Blue Monday"
+        },
+        {
+          "length": "4:43",
+          "position": 5,
+          "title": "Confusion"
+        },
+        {
+          "length": "6:37",
+          "position": 6,
+          "title": "Thieves Like Us"
+        },
+        {
+          "length": "8:02",
+          "position": 7,
+          "title": "Perfect Kiss"
+        },
+        {
+          "length": "4:48",
+          "position": 8,
+          "title": "Subculture"
+        },
+        {
+          "length": "6:29",
+          "position": 9,
+          "title": "Shellshock"
+        },
+        {
+          "length": "6:32",
+          "position": 10,
+          "title": "State of the Nation"
+        },
+        {
+          "length": "6:45",
+          "position": 11,
+          "title": "Bizarre Love Triangle"
+        },
+        {
+          "length": "5:53",
+          "position": 12,
+          "title": "True Faith"
+        }
+      ]
+    },
+    {
+      "title": "Disc Two",
+      "tracks": [
+        {
+          "length": "6:16",
+          "position": 1,
+          "title": "In a Lonely Place"
+        },
+        {
+          "length": "4:28",
+          "position": 2,
+          "title": "Procession"
+        },
+        {
+          "length": "3:25",
+          "position": 3,
+          "title": "Cries and Whispers"
+        },
+        {
+          "length": "6:59",
+          "position": 4,
+          "title": "Hurt"
+        },
+        {
+          "length": "7:20",
+          "position": 5,
+          "title": "The Beach"
+        },
+        {
+          "length": "7:38",
+          "position": 6,
+          "title": "Confused (instrumental)"
+        },
+        {
+          "length": "5:12",
+          "position": 7,
+          "title": "Lonesome Tonight"
+        },
+        {
+          "length": "3:56",
+          "position": 8,
+          "title": "Murder"
+        },
+        {
+          "length": "6:57",
+          "position": 9,
+          "title": "Thieves Like Us (instrumental)"
+        },
+        {
+          "length": "7:03",
+          "position": 10,
+          "title": "Kiss of Death"
+        },
+        {
+          "length": "7:55",
+          "position": 11,
+          "title": "Shame of the Nation"
+        },
+        {
+          "length": "5:34",
+          "position": 12,
+          "title": "1963"
+        }
+      ]
+    }
+  ],
+  "year": "1987"
+}
