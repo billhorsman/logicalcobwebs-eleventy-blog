@@ -6,8 +6,8 @@ pagination:
   addAllPagesToCollections: true
 permalink: "/bill/albums/{{ slug }}/"
 eleventyComputed:
-  title: "{{ albums[slug].title }}"
-  description: "{{ albums[slug].title }} ({{ albums[slug].year }}) by {{ albums[slug].artist }}{% if top_albums.includes(slug) %} — number {{ top_albums.indexOf(slug) + 1 }} in Bill's top 100 albums{% endif %}"
+  title: "{{ albums[slug].title | safe }}"
+  description: "{{ albums[slug].title | safe }} ({{ albums[slug].year }}) by {{ albums[slug].artist | safe }}{% if top_albums.includes(slug) %} — number {{ top_albums.indexOf(slug) + 1 }} in Bill's top 100 albums{% endif %}"
 ---
 {%- set album = albums[slug] %}
 {%- set position = top_albums.indexOf(slug) + 1 %}

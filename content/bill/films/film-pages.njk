@@ -7,8 +7,8 @@ pagination:
 permalink: "/bill/films/{{ slug }}/"
 layout: layouts/films.njk
 eleventyComputed:
-  title: "{{ films[slug].title }}"
-  description: "{{ films[slug].overview }}"
+  title: "{{ films[slug].title | safe }}"
+  description: "{{ films[slug].overview | safe }}"
   ogImage: "content/bill/films/backdrops/{{ slug }}.jpg"
 ---
 {%- set film = films[slug] %}
