@@ -72,10 +72,10 @@ is the hand-curated `_data/top_films.json`. To change it:
    ./bin/filmtool top-100
    ```
 
-This syncs film data and images from the TMDB list, sorts
-`_data/top_films.json` by release date, and regenerates the film pages
-with the new numbering. Review the diff and commit. (The steps can also
-be run individually: `sync`, `sort`, `generate`.)
+This syncs film data and images from the TMDB list and sorts
+`_data/top_films.json` by release date. Film pages render from the data
+via Eleventy pagination — there is no generate step. Review the diff
+and commit.
 
 To show a review quote on a film's top-100 page, add a markdown file
 at `_data/film_notes/<slug>.md`.

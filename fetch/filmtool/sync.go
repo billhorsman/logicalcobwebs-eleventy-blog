@@ -12,15 +12,13 @@ import (
 // The TMDB list holding the top 100 films: https://www.themoviedb.org/list/8291691
 const topFilmsListID = 8291691
 
-// cmdTop100 rebuilds the top 100 in one go: sync, sort, then generate.
+// cmdTop100 rebuilds the top 100 in one go: sync then sort. Pages
+// render from the data via Eleventy pagination — no generate step.
 func cmdTop100(root string, args []string) error {
 	if err := cmdSync(root, args); err != nil {
 		return err
 	}
-	if err := cmdSort(root); err != nil {
-		return err
-	}
-	return cmdGenerate(root)
+	return cmdSort(root)
 }
 
 // cmdSync is the port of fetch.rb: it pulls every film on the TMDB top-100

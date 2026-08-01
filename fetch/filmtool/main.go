@@ -21,10 +21,9 @@ func usage() {
 Commands:
   search <title>      search TMDB by title, pick a match, then add it
   add <id-or-url>     fetch one film by TMDB id or URL (for blog-only reviews)
-  top-100 [-force]    rebuild the top 100: sync, sort, then generate
+  top-100 [-force]    rebuild the top 100: sync then sort
   sync [-force]       refresh the top-100 films from the TMDB list
   sort                sort _data/top_films.json by release date
-  generate            regenerate top-100 markdown pages and top cast/director data
 
 add and search fetch film data and images without touching the top 100,
 and create a scaffold blog post for a review. Use top-100 when the TMDB
@@ -54,8 +53,6 @@ func main() {
 		err = cmdTop100(root, args)
 	case "sync":
 		err = cmdSync(root, args)
-	case "generate":
-		err = cmdGenerate(root)
 	case "sort":
 		err = cmdSort(root)
 	case "help", "-h", "--help":

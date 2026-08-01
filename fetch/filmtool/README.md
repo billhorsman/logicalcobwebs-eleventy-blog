@@ -51,19 +51,8 @@ hand-curated `_data/top_films.json` (edit it by hand, `sort` keeps it
 in release-date order).
 
 ```sh
-./bin/filmtool top-100    # sync from the TMDB list, sort, and generate (add -force to refetch)
+./bin/filmtool top-100    # sync from the TMDB list and sort (add -force to refetch)
 ```
-
-Or run the steps individually:
-
-```sh
-./bin/filmtool sync       # pull films from the TMDB list (add -force to refetch)
-./bin/filmtool sort       # order _data/top_films.json by release date
-./bin/filmtool generate   # regenerate content/bill/films/*.md and top cast/director data
-```
-
-`generate` reproduces the Ruby output byte-for-byte, so running it after a
-sync only changes what actually changed.
 
 ## Differences from the Ruby scripts
 

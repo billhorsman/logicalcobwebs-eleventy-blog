@@ -30,16 +30,12 @@ export default async function(eleventyConfig) {
 		.addPassthroughCopy("content/**/*.pdf", {
 			mode: "html-relative"
 		})
-		// Film pages reference posters/backdrops relatively with eleventy:ignore
+		// Film pages reference posters/backdrops/profiles with eleventy:ignore
 		// (skipping image transforms for build speed) so copy them as-is.
-		.addPassthroughCopy("content/bill/films/posters/*.jpg", {
-			mode: "html-relative"
-		})
-		.addPassthroughCopy("content/bill/films/backdrops/*.jpg", {
-			mode: "html-relative"
-		})
-		.addPassthroughCopy("content/bill/films/profiles/*.jpg", {
-			mode: "html-relative"
+		.addPassthroughCopy({
+			"content/bill/films/posters": "bill/films/posters",
+			"content/bill/films/backdrops": "bill/films/backdrops",
+			"content/bill/films/profiles": "bill/films/profiles",
 		})
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
 

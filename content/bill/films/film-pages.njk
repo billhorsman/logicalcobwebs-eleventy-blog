@@ -1,0 +1,103 @@
+---
+pagination:
+  data: top_films
+  size: 1
+  alias: slug
+  addAllPagesToCollections: true
+permalink: "/bill/films/{{ slug }}/"
+layout: layouts/films.njk
+eleventyComputed:
+  title: "{{ films[slug].title }}"
+  description: "{{ films[slug].overview }}"
+  ogImage: "content/bill/films/backdrops/{{ slug }}.jpg"
+---
+{%- set film = films[slug] %}
+{%- set position = top_films.indexOf(slug) + 1 %}
+{%- set prevFilm = films[top_films[position - 2]] if position > 1 %}
+{%- set nextFilm = films[top_films[position]] if position < top_films.length %}
+
+<nav class="films">
+  <div class="prev">
+    {%- if prevFilm %}
+    <a href="../{{ prevFilm.slug }}"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    {%- else %}
+    <span><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</span>
+    {%- endif %}
+  </div>
+  <div>
+    <a class="simple" href="../">{{ position }} / {{ top_films.length }}</a>
+  </div>
+  <div class="next">
+    {%- if nextFilm %}
+    <a href="../{{ nextFilm.slug }}">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    {%- else %}
+    <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
+    {%- endif %}
+  </div>
+  <div class="hint">
+    <span class="prev-hint">
+      <span class="sr-only">Previous film:</span>
+      {{ prevFilm.title if prevFilm else "Start of list" }}
+    </span>
+    <span class="next-hint">
+      <span class="sr-only">Next film:</span>
+      {{ nextFilm.title if nextFilm else "End of list" }}
+    </span>
+  </div>
+</nav>
+
+<article class="film slug-{{ slug }}">
+  <div class="backdrop-and-poster">
+    <img class="poster" src="/bill/films/posters/{{ slug }}.jpg" alt="" eleventy:ignore>
+    <img class="backdrop" src="/bill/films/backdrops/{{ slug }}.jpg" alt="" eleventy:ignore>
+  </div>
+
+  <h1>{{ film.title }} ({{ film | filmYear }})</h1>
+
+  <p>
+    {%- if film.language -%}Language: {{ film.language }}.{% endif %}
+    {% if film.original_title and (film.original_title | lower) != (film.title | lower) %}Also known as {{ film.original_title }}.{% endif %}
+  </p>
+
+  <p class="director">
+    Directed by <strong>{{ film | directors }}</strong>
+  </p>
+
+  {%- if film_notes[slug] -%}
+    <blockquote>
+      {{ film_notes[slug] | markdownInline | safe }} <em>—&nbsp;<a href="/bill">Bill</a></em>
+    </blockquote>
+  {%- endif -%}
+
+  <section class="cast-grid">
+    <div class="cast-grid-cards">
+      {%- for person in film.credits.cast.slice(0, 12) %}
+      <div class="cast-card">
+        {%- if person.profile_path %}
+        <img src="/bill/films/profiles/{{ person.id }}.jpg" alt="{{ person.name }}" loading="lazy" eleventy:ignore>
+        {%- else %}
+        <div class="cast-card-no-image"><i class="fa-solid fa-user"></i></div>
+        {%- endif %}
+        <div class="cast-card-info">
+          <span class="cast-card-name">{{ person.name }}</span>
+          <span class="cast-card-character">{{ person.character }}</span>
+        </div>
+      </div>
+      {%- endfor %}
+    </div>
+  </section>
+
+  {%- set filmSlug = slug %}
+  {% include "film-detail.njk" %}
+
+  {%- if related_films[slug].length %}
+  <section class="related-films">
+    <h2>Related films</h2>
+    <ul>
+      {%- for sentence in related_films[slug] %}
+      <li>{{ sentence | safe }}</li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endif %}
+</article>
