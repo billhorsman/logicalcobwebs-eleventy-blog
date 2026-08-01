@@ -26,6 +26,8 @@ import (
 // PKCE — no client secret is needed and no credentials touch this tool.
 const spotifyRedirect = "http://127.0.0.1:8123/callback"
 
+var dumped403 bool
+
 func cmdPlaylist(root string, args []string) error {
 	clientID := envValue(root, "SPOTIFY_CLIENT_ID")
 	if clientID == "" {
@@ -151,6 +153,16 @@ func addTracks(token, playlistID string, uris []string) error {
 		time.Sleep(500 * time.Millisecond)
 		return nil
 	}
+	// Same endpoint, query-parameter form — works around body-parsing quirks
+	if len(uris) <= 100 {
+		q := url.Values{"uris": {strings.Join(uris, ",")}}
+		_, qerr := spotifyPost(token, "https://api.spotify.com/v1/playlists/"+playlistID+"/tracks?"+q.Encode(), nil)
+		if qerr == nil {
+			fmt.Println("(query-parameter form succeeded)")
+			time.Sleep(500 * time.Millisecond)
+			return nil
+		}
+	}
 	if len(uris) > 100 {
 		mid := len(uris) / 2
 		if err := addTracks(token, playlistID, uris[:mid]); err != nil {
@@ -264,9 +276,13 @@ func spotifyGet(token, apiURL string) (map[string]any, error) {
 }
 
 func spotifyPost(token, apiURL string, payload map[string]any) (map[string]any, error) {
-	body, err := json.Marshal(payload)
-	if err != nil {
-		return nil, err
+	var body []byte
+	if payload != nil {
+		var err error
+		body, err = json.Marshal(payload)
+		if err != nil {
+			return nil, err
+		}
 	}
 	return spotifyRequest(token, "POST", apiURL, body)
 }
@@ -302,6 +318,14 @@ func spotifyRequest(token, method, apiURL string, body []byte) (map[string]any, 
 			continue
 		}
 		if resp.StatusCode >= 300 {
+			if resp.StatusCode == http.StatusForbidden && !dumped403 {
+				dumped403 = true
+				fmt.Println("--- 403 response headers ---")
+				for k, v := range resp.Header {
+					fmt.Printf("%s: %s\n", k, strings.Join(v, ", "))
+				}
+				fmt.Println("----------------------------")
+			}
 			return nil, fmt.Errorf("%s %s: %s: %s", method, apiURL, resp.Status, respBody)
 		}
 		return decodeJSON(bytes.NewReader(respBody))
