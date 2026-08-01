@@ -335,6 +335,9 @@ func spotifyRequest(token, method, apiURL string, body []byte) (map[string]any, 
 					wait = time.Duration(n+1) * time.Second
 				}
 			}
+			if wait > 5*time.Minute {
+				return nil, fmt.Errorf("Spotify has rate-limited this app for %s — try again after that (the -export route works immediately)", wait)
+			}
 			fmt.Printf("Rate limited; waiting %s…\n", wait)
 			time.Sleep(wait)
 			continue
