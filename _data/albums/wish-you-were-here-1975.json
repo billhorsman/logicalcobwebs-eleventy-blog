@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/6qNJATpLgC004oSMhU3tC8",
   "artist": "Pink Floyd",
   "artist-credit": [
     {
@@ -178,6 +177,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "wish-you-were-here-1975",
+  "spotify": "https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8",
   "title": "Wish You Were Here",
   "top-genres": [
     "progressive rock",

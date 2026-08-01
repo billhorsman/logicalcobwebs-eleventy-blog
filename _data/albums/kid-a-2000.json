@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/6GjwtEZcfenmOf6l18N7T7",
   "artist": "Radiohead",
   "artist-credit": [
     {
@@ -226,6 +225,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "kid-a-2000",
+  "spotify": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7",
   "title": "Kid A",
   "top-genres": [
     "electronic",

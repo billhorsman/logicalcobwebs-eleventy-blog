@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/49MNmJhZQewjt06rpwp6QR",
   "artist": "Massive Attack",
   "artist-credit": [
     {
@@ -136,6 +135,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "mezzanine-1998",
+  "spotify": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR",
   "title": "Mezzanine",
   "top-genres": [
     "trip hop",

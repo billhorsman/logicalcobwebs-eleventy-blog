@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/4m2880jivSbbyEGAKfITCa",
   "artist": "Daft Punk",
   "artist-credit": [
     {
@@ -250,6 +249,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "random-access-memories-2013",
+  "spotify": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa",
   "title": "Random Access Memories",
   "top-genres": [
     "electronic",

@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/6w0m5q6Dpse9jAsVNXPc3v",
   "artist": "Pomplamoose",
   "artist-credit": [
     {
@@ -62,6 +61,7 @@
     "Compilation"
   ],
   "slug": "best-of-2018-2018",
+  "spotify": "https://open.spotify.com/album/6w0m5q6Dpse9jAsVNXPc3v",
   "title": "Best of 2018",
   "top-genres": [
     "indie rock",

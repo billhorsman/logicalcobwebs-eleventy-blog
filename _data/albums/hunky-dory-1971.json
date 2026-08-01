@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/6fQElzBNTiEMGdIeY0hy5l",
   "artist": "David Bowie",
   "artist-credit": [
     {
@@ -130,6 +129,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "hunky-dory-1971",
+  "spotify": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l",
   "title": "Hunky Dory",
   "top-genres": [
     "rock",

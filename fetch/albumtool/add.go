@@ -67,8 +67,8 @@ func addAlbum(root, mbid string, force bool) error {
 	data["year"] = year
 	data["artist"] = artistName(credits)
 	data["top-genres"] = topGenres(data, 5)
-	if link, err := albumLink(mbid); err == nil && link != "" {
-		data["album-link"] = link
+	if link, err := spotifyURL(mbid); err == nil && link != "" {
+		data["spotify"] = link
 	}
 	if discs, err := albumTracks(mbid); err == nil && len(discs) > 0 {
 		data["tracks"] = discs

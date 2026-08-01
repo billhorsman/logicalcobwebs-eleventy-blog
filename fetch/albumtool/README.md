@@ -73,6 +73,24 @@ different edition's tracklist:
 
 `./bin/albumtool tracks` (no arguments) backfills albums without one.
 
+## Spotify
+
+Album pages link straight to Spotify (the `spotify` field, mined from
+MusicBrainz by `./bin/albumtool links`).
+
+To build a playlist of every top-100 album:
+
+1. One-time: create an app at https://developer.spotify.com/dashboard
+   with redirect URI `http://127.0.0.1:8123/callback`, and add its
+   client id to `.env` as `SPOTIFY_CLIENT_ID=...`.
+2. Run `./bin/albumtool playlist` (optionally `playlist My Name`).
+   A browser tab opens to authorise; the playlist is created on your
+   account with every album's tracks in list order. Albums MusicBrainz
+   lacked Spotify links for are found via Spotify search and their
+   links saved back into the data.
+
+Re-running creates a new playlist (delete the old one in Spotify).
+
 ## OpenGraph montage
 
 The albums index shares as a grid of 18 covers sampled across the top

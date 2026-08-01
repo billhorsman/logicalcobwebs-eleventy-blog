@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/0QD0LEYQDkrJrtVcuRBcVp",
   "artist": "John Martyn",
   "artist-credit": [
     {
@@ -88,6 +87,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "solid-air-1973",
+  "spotify": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp",
   "title": "Solid Air",
   "top-genres": [
     "folk",

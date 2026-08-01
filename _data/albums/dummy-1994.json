@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/3539EbNgIdEDGBKkUf4wno",
   "artist": "Portishead",
   "artist-credit": [
     {
@@ -88,6 +87,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "dummy-1994",
+  "spotify": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno",
   "title": "Dummy",
   "top-genres": [
     "trip hop",

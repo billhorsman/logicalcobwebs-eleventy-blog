@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/1WMVvswNzB9i2UMh9svso5",
   "artist": "The Beatles",
   "artist-credit": [
     {
@@ -172,6 +171,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "the-beatles-1968",
+  "spotify": "https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5",
   "title": "The Beatles",
   "top-genres": [
     "rock",

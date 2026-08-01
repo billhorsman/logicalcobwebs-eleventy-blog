@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/3ToX9inehiXTv17hpaOyie",
   "artist": "Ramones",
   "artist-credit": [
     {
@@ -76,6 +75,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "ramones-1976",
+  "spotify": "https://open.spotify.com/album/3ToX9inehiXTv17hpaOyie",
   "title": "Ramones",
   "top-genres": [
     "punk rock",

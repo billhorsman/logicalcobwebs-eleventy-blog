@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/3usnShwygMXVZB4IV5dwnU",
   "artist": "Electric Light Orchestra",
   "artist-credit": [
     {
@@ -136,6 +135,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "out-of-the-blue-1977",
+  "spotify": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU",
   "title": "Out of the Blue",
   "top-genres": [
     "rock",

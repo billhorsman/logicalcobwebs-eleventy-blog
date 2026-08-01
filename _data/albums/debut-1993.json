@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/7qopDhMKBIfoIM2gJcecbr",
   "artist": "Björk",
   "artist-credit": [
     {
@@ -316,6 +315,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "debut-1993",
+  "spotify": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr",
   "title": "Debut",
   "top-genres": [
     "electronic",

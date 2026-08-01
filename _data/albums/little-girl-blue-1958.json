@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/58gOQaPc4RCw8eWdTDRes7",
   "artist": "Nina Simone",
   "artist-credit": [
     {
@@ -106,6 +105,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "little-girl-blue-1958",
+  "spotify": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7",
   "title": "Little Girl Blue",
   "top-genres": [
     "blues",

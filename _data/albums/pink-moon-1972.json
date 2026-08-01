@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/5mwOo1zikswhmfHvtqVSXg",
   "artist": "Nick Drake",
   "artist-credit": [
     {
@@ -106,6 +105,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "pink-moon-1972",
+  "spotify": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg",
   "title": "Pink Moon",
   "top-genres": [
     "folk",

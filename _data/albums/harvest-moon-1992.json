@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/6o26sf5K10tmLGilihqibJ",
   "artist": "Neil Young",
   "artist-credit": [
     {
@@ -94,6 +93,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "harvest-moon-1992",
+  "spotify": "https://open.spotify.com/album/6o26sf5K10tmLGilihqibJ",
   "title": "Harvest Moon",
   "top-genres": [
     "rock",

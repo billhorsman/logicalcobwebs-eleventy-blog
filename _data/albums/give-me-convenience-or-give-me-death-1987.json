@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/5Xv8PCJ7ZMmRd3jXnJqg3V",
   "artist": "Dead Kennedys",
   "artist-credit": [
     {
@@ -80,6 +79,7 @@
     "Compilation"
   ],
   "slug": "give-me-convenience-or-give-me-death-1987",
+  "spotify": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V",
   "title": "Give Me Convenience or Give Me Death",
   "top-genres": [
     "punk",

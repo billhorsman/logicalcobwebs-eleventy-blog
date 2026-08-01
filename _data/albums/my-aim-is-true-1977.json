@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/1aucGNKimhgARC7iO2xLt2",
   "artist": "Elvis Costello",
   "artist-credit": [
     {
@@ -118,6 +117,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "my-aim-is-true-1977",
+  "spotify": "https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2",
   "title": "My Aim Is True",
   "top-genres": [
     "rock",

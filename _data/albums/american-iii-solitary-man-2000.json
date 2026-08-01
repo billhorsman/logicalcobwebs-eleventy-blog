@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/2zCyI9fuV5JrQzrO3kMwbw",
   "artist": "Johnny Cash",
   "artist-credit": [
     {
@@ -124,6 +123,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "american-iii-solitary-man-2000",
+  "spotify": "https://open.spotify.com/album/2zCyI9fuV5JrQzrO3kMwbw",
   "title": "American III: Solitary Man",
   "top-genres": [
     "country",

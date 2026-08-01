@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/3EoX33cLvVbDzWlYtvjcge",
   "artist": "Paul Weller",
   "artist-credit": [
     {
@@ -76,6 +75,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "stanley-road-1995",
+  "spotify": "https://open.spotify.com/album/3EoX33cLvVbDzWlYtvjcge",
   "title": "Stanley Road",
   "top-genres": [
     "rock",

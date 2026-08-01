@@ -10,20 +10,14 @@ import (
 	"time"
 )
 
-// album.link (Odesli) pages link out to every streaming service, but
-// are addressed by platform id. MusicBrainz releases carry streaming
-// URL relationships we can mine for one.
+// Each album links directly to Spotify. MusicBrainz releases carry
+// streaming URL relationships we can mine for the album id.
 
-var (
-	spotifyAlbum = regexp.MustCompile(`open\.spotify\.com/album/([A-Za-z0-9]+)`)
-	appleAlbum   = regexp.MustCompile(`music\.apple\.com/[a-z]{2}/album/(?:[^/]+/)?(\d+)`)
-	deezerAlbum  = regexp.MustCompile(`deezer\.com/album/(\d+)`)
-)
+var spotifyAlbum = regexp.MustCompile(`open\.spotify\.com/album/([A-Za-z0-9]+)`)
 
-// albumLink finds a streaming id among the release group's releases and
-// returns an album.link URL, preferring Spotify, then Apple, then
-// Deezer. Empty when the group has no streaming relationships.
-func albumLink(mbid string) (string, error) {
+// spotifyURL finds a Spotify album URL among the release group's
+// releases. Empty when the group has no Spotify relationship.
+func spotifyURL(mbid string) (string, error) {
 	data, err := mbGet("release", url.Values{
 		"release-group": {mbid},
 		"inc":           {"url-rels"},
@@ -32,8 +26,6 @@ func albumLink(mbid string) (string, error) {
 	if err != nil {
 		return "", err
 	}
-
-	var spotify, apple, deezer string
 	releases, _ := data["releases"].([]any)
 	for _, r := range releases {
 		m, ok := r.(map[string]any)
@@ -47,29 +39,16 @@ func albumLink(mbid string) (string, error) {
 				continue
 			}
 			urlMap, _ := relMap["url"].(map[string]any)
-			resource := getString(urlMap, "resource")
-			if match := spotifyAlbum.FindStringSubmatch(resource); match != nil && spotify == "" {
-				spotify = match[1]
-			} else if match := appleAlbum.FindStringSubmatch(resource); match != nil && apple == "" {
-				apple = match[1]
-			} else if match := deezerAlbum.FindStringSubmatch(resource); match != nil && deezer == "" {
-				deezer = match[1]
+			if match := spotifyAlbum.FindStringSubmatch(getString(urlMap, "resource")); match != nil {
+				return "https://open.spotify.com/album/" + match[1], nil
 			}
 		}
-	}
-
-	switch {
-	case spotify != "":
-		return "https://album.link/s/" + spotify, nil
-	case apple != "":
-		return "https://album.link/i/" + apple, nil
-	case deezer != "":
-		return "https://album.link/d/" + deezer, nil
 	}
 	return "", nil
 }
 
-// cmdLinks backfills album-link for every album that lacks one.
+// cmdLinks backfills the spotify field for every album that lacks one,
+// migrating old album.link values where the Spotify id is already known.
 func cmdLinks(root string) error {
 	entries, err := os.ReadDir(filepath.Join(root, "_data", "albums"))
 	if err != nil {
@@ -82,48 +61,48 @@ func cmdLinks(root string) error {
 			continue
 		}
 		slug := strings.TrimSuffix(entry.Name(), ".json")
+		data, err := readAlbumData(root, slug)
+		if err != nil {
+			return err
+		}
 
-		f, err := os.Open(albumDataPath(root, slug))
-		if err != nil {
-			return err
-		}
-		data, err := decodeJSON(f)
-		f.Close()
-		if err != nil {
-			return err
-		}
-		if getString(data, "album-link") != "" {
+		oldLink := getString(data, "album-link")
+		if getString(data, "spotify") != "" && oldLink == "" {
 			continue
 		}
+		delete(data, "album-link")
 
-		link, err := albumLink(getString(data, "id"))
-		// MusicBrainz asks for at most one request per second
-		time.Sleep(1100 * time.Millisecond)
-		if err != nil {
-			// Transient (MusicBrainz 503s when busy) — skip; a re-run
-			// picks up whatever is still missing
-			fmt.Printf("Skipping %s: %v\n", slug, err)
+		spotify := getString(data, "spotify")
+		if spotify == "" {
+			// album.link/s/<id> URLs already carry the Spotify id
+			if id, found := strings.CutPrefix(oldLink, "https://album.link/s/"); found {
+				spotify = "https://open.spotify.com/album/" + id
+			}
+		}
+		if spotify == "" {
+			spotify, err = spotifyURL(getString(data, "id"))
+			// MusicBrainz asks for at most one request per second
+			time.Sleep(1100 * time.Millisecond)
+			if err != nil {
+				fmt.Printf("Skipping %s: %v\n", slug, err)
+				missing++
+				continue
+			}
+		}
+
+		if spotify == "" {
+			fmt.Printf("No Spotify link for %s\n", slug)
 			missing++
-			continue
+		} else {
+			data["spotify"] = spotify
+			fmt.Printf("%s -> %s\n", slug, spotify)
 		}
-		if link == "" {
-			fmt.Printf("No streaming link for %s\n", slug)
-			missing++
-			continue
-		}
-
-		data["album-link"] = link
-		out, err := marshalPretty(data)
-		if err != nil {
+		if err := writeAlbumData(root, slug, data); err != nil {
 			return err
 		}
-		if err := os.WriteFile(albumDataPath(root, slug), out, 0o644); err != nil {
-			return err
-		}
-		fmt.Printf("%s -> %s\n", slug, link)
 	}
 	if missing > 0 {
-		fmt.Printf("%d album(s) without streaming links\n", missing)
+		fmt.Printf("%d album(s) without Spotify links\n", missing)
 	}
 	return nil
 }

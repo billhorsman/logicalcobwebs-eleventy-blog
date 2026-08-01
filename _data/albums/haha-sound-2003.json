@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/3AUkbuxvj1fH2jkbWI2gzn",
   "artist": "Broadcast",
   "artist-credit": [
     {
@@ -154,6 +153,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "haha-sound-2003",
+  "spotify": "https://open.spotify.com/album/3AUkbuxvj1fH2jkbWI2gzn",
   "title": "Haha Sound",
   "top-genres": [
     "electronic",

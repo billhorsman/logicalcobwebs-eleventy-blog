@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/0DzC0tyowMi2O9QfkDRvfJ",
   "artist": "Kraftwerk",
   "artist-credit": [
     {
@@ -94,6 +93,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "autobahn-1974",
+  "spotify": "https://open.spotify.com/album/0DzC0tyowMi2O9QfkDRvfJ",
   "title": "Autobahn",
   "top-genres": [
     "electronic",

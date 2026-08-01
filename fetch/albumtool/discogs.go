@@ -17,15 +17,20 @@ import (
 // the environment or .env at the repo root).
 
 func discogsToken(root string) string {
-	if token := os.Getenv("DISCOGS_TOKEN"); token != "" {
-		return token
+	return envValue(root, "DISCOGS_TOKEN")
+}
+
+// envValue reads a setting from the environment or .env at the repo root.
+func envValue(root, key string) string {
+	if v := os.Getenv(key); v != "" {
+		return v
 	}
 	content, err := os.ReadFile(filepath.Join(root, ".env"))
 	if err != nil {
 		return ""
 	}
 	for _, line := range strings.Split(string(content), "\n") {
-		if value, found := strings.CutPrefix(strings.TrimSpace(line), "DISCOGS_TOKEN="); found {
+		if value, found := strings.CutPrefix(strings.TrimSpace(line), key+"="); found {
 			return strings.Trim(value, `"'`)
 		}
 	}

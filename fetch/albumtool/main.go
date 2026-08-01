@@ -23,9 +23,10 @@ Commands:
   sort                sort _data/top_albums.json by first release date
   cover <slug> <release>  replace an album's cover with a specific release's front image
   covers              retry missing covers (Cover Art Archive, then Discogs)
-  links               backfill album.link listen links from MusicBrainz
+  links               backfill direct Spotify links from MusicBrainz
   tracks [<slug> <release>]  backfill missing tracklists, or pin one edition's
   montage             regenerate the OpenGraph cover grid for the index
+  playlist [name]     build a Spotify playlist of the top 100 (needs SPOTIFY_CLIENT_ID)
 `)
 }
 
@@ -59,6 +60,8 @@ func main() {
 		err = cmdTracks(root, args)
 	case "montage":
 		err = cmdMontage(root)
+	case "playlist":
+		err = cmdPlaylist(root, args)
 	case "help", "-h", "--help":
 		usage()
 		return

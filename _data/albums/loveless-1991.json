@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/3GH4IiI6jQAIvnHVdb5FB6",
   "artist": "My Bloody Valentine",
   "artist-credit": [
     {
@@ -136,6 +135,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "loveless-1991",
+  "spotify": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6",
   "title": "Loveless",
   "top-genres": [
     "shoegaze",

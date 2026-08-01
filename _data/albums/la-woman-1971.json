@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/7IKUTIc9UWuVngyGPtqNHS",
   "artist": "The Doors",
   "artist-credit": [
     {
@@ -160,6 +159,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "la-woman-1971",
+  "spotify": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS",
   "title": "L.A. Woman",
   "top-genres": [
     "rock",

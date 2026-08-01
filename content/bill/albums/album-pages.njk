@@ -90,11 +90,11 @@ eleventyComputed:
   </section>
   {%- endif %}
 
-  {%- if album["album-link"] %}
+  {%- if album.spotify %}
   <p class="album-listen-wrap">
-    <a class="album-listen" href="{{ album["album-link"] }}">
-      <i class="fa-solid fa-headphones"></i>
-      Listen
+    <a class="album-listen" href="{{ album.spotify }}">
+      <i class="fa-brands fa-spotify"></i>
+      Listen on Spotify
     </a>
   </p>
   {%- endif %}

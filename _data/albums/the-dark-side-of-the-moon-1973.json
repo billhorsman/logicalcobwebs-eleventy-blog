@@ -1,5 +1,4 @@
 {
-  "album-link": "https://album.link/s/3a0UOgDWw2pTajw85QPMiz",
   "artist": "Pink Floyd",
   "artist-credit": [
     {
@@ -184,6 +183,7 @@
   "secondary-type-ids": [],
   "secondary-types": [],
   "slug": "the-dark-side-of-the-moon-1973",
+  "spotify": "https://open.spotify.com/album/3a0UOgDWw2pTajw85QPMiz",
   "title": "The Dark Side of the Moon",
   "top-genres": [
     "progressive rock",
