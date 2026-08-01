@@ -1,24 +1,25 @@
 ---
 pagination:
-  data: top_albums
+  data: albums
   size: 1
   alias: slug
   addAllPagesToCollections: true
 permalink: "/bill/albums/{{ slug }}/"
 eleventyComputed:
   title: "{{ albums[slug].title }}"
-  description: "{{ albums[slug].title }} ({{ albums[slug].year }}) by {{ albums[slug].artist }} — number {{ top_albums.indexOf(slug) + 1 }} in Bill's top 100 albums"
+  description: "{{ albums[slug].title }} ({{ albums[slug].year }}) by {{ albums[slug].artist }}{% if top_albums.includes(slug) %} — number {{ top_albums.indexOf(slug) + 1 }} in Bill's top 100 albums{% endif %}"
 ---
 {%- set album = albums[slug] %}
 {%- set position = top_albums.indexOf(slug) + 1 %}
 {%- set inTopFive = top_5_albums.includes(slug) %}
 
+{%- if position %}
 {%- set prevAlbum = albums[top_albums[position - 2]] if position > 1 %}
 {%- set nextAlbum = albums[top_albums[position]] if position < top_albums.length %}
 <nav class="albums-nav">
   <div class="prev">
-    {%- if pagination.href.previous %}
-      <a href="{{ pagination.href.previous }}"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
+    {%- if prevAlbum %}
+      <a href="/bill/albums/{{ prevAlbum.slug }}/"><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</a>
     {%- else %}
       <span><i class="fa-solid fa-chevron-left fa-xs"></i> Previous</span>
     {%- endif %}
@@ -27,8 +28,8 @@ eleventyComputed:
     <a class="simple" href="/bill/albums/">{{ position }} / {{ top_albums.length }}</a>
   </div>
   <div class="next">
-    {%- if pagination.href.next %}
-      <a href="{{ pagination.href.next }}">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
+    {%- if nextAlbum %}
+      <a href="/bill/albums/{{ nextAlbum.slug }}/">Next <i class="fa-solid fa-chevron-right fa-xs"></i></a>
     {%- else %}
       <span>Next <i class="fa-solid fa-chevron-right fa-xs"></i></span>
     {%- endif %}
@@ -44,6 +45,7 @@ eleventyComputed:
     </span>
   </div>
 </nav>
+{%- endif %}
 
 <article class="album">
   {%- if slug | albumCoverExists %}

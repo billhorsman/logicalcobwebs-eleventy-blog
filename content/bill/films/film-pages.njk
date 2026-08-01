@@ -1,6 +1,6 @@
 ---
 pagination:
-  data: top_films
+  data: films
   size: 1
   alias: slug
   addAllPagesToCollections: true
@@ -13,9 +13,10 @@ eleventyComputed:
 ---
 {%- set film = films[slug] %}
 {%- set position = top_films.indexOf(slug) + 1 %}
+
+{%- if position %}
 {%- set prevFilm = films[top_films[position - 2]] if position > 1 %}
 {%- set nextFilm = films[top_films[position]] if position < top_films.length %}
-
 <nav class="films">
   <div class="prev">
     {%- if prevFilm %}
@@ -45,6 +46,7 @@ eleventyComputed:
     </span>
   </div>
 </nav>
+{%- endif %}
 
 <article class="film slug-{{ slug }}">
   <div class="backdrop-and-poster">
