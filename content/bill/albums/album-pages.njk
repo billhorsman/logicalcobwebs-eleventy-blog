@@ -56,7 +56,6 @@ eleventyComputed:
 
   <p class="album-artist">
     <strong>{{ album.artist }}</strong> · {{ album.year }}
-    {%- if inTopFive %} · <album-top-five-badge>Top 5</album-top-five-badge>{% endif %}
   </p>
 
   {%- if album_notes[slug] %}
@@ -64,6 +63,10 @@ eleventyComputed:
     {{ album_notes[slug] | markdown | safe }}
   </section>
   {%- endif %}
+
+  {%- if inTopFive %}
+    <p>This album is in my top {{ top_5_albums.length }}.</p>
+	{%- endif %}
 
   {%- if album.tracks.length %}
   <section class="album-tracks">
