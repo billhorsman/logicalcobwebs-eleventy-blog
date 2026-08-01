@@ -66,11 +66,11 @@ func cmdLinks(root string) error {
 			return err
 		}
 
+		// album-link is kept alongside spotify in case it's useful later
 		oldLink := getString(data, "album-link")
-		if getString(data, "spotify") != "" && oldLink == "" {
+		if getString(data, "spotify") != "" {
 			continue
 		}
-		delete(data, "album-link")
 
 		spotify := getString(data, "spotify")
 		if spotify == "" {
