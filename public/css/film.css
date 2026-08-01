@@ -316,3 +316,9 @@ a.film {
 .signature {
   text-align: right;
 }
+
+/* Blur-only header backdrop, like albums — the default grayscale(1)
+   dulls the content scrolling underneath */
+.nav-header {
+  backdrop-filter: blur(3px);
+}
