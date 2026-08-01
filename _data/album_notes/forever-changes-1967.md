@@ -1,0 +1,1 @@
+Worth listening to the outakes on the expanded album for [Your Mind and We Belong Together](https://open.spotify.com/track/4ea8U0XtROfZgE18dkSpDp?si=30f5c386d5234e42) — "Take 27. Sorry Knuckles. Come on, you're playing too hard on the strings."
