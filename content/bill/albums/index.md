@@ -29,7 +29,11 @@ If you only listen to {{ top_5_albums.length }} albums&hellip; well, that would 
 
 In order of release date, rather than a ranking. 
 
-<section class="album-grid">
+<p class="list-search">
+  <input type="search" data-list-search data-endpoint="/bill/albums/search.json" data-scope="#all-albums" placeholder="Search title, artist or track&hellip;" aria-label="Search the top {{ top_albums.length }} albums">
+</p>
+
+<section class="album-grid" id="all-albums">
 {% set gridSlugs = top_albums %}
 {% include "album-grid.njk" %}
 </section>

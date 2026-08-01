@@ -1,0 +1,20 @@
+---
+permalink: /bill/films/search.json
+layout: false
+eleventyExcludeFromCollections: true
+---
+[
+{%- for slug in top_films %}
+{%- set film = films[slug] %}
+{%- set names = [] %}
+{%- for person in film.credits.crew %}
+  {%- if person.job == "Director" %}
+    {%- set names = (names.push(person.name), names) %}
+  {%- endif %}
+{%- endfor %}
+{%- for person in film.credits.cast %}
+  {%- set names = (names.push(person.name), names) %}
+{%- endfor %}
+{"slug": {{ slug | dump | safe }}, "primary": {{ (film.title + " " + film.year) | dump | safe }}, "deep": {{ names | dump | safe }}}{{ "," if not loop.last }}
+{%- endfor %}
+]

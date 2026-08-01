@@ -39,7 +39,7 @@ If you only watch {{ must_see_films.list.length }} films&hellip;
 {% endfor %}
 </ul>
 
-<section class="list">
+<section class="list" id="all-films">
   <header>
     <h3>All {{ top_films.length }}</h3>
     <button type="button" data-toggle-list="posters" aria-label="Toggle view">
@@ -49,9 +49,12 @@ If you only watch {{ must_see_films.list.length }} films&hellip;
     </button>
   </header>
   <p>In order of release&hellip;</p>
+  <p class="list-search">
+    <input type="search" data-list-search data-endpoint="/bill/films/search.json" data-scope="#all-films" placeholder="Search title, actor or director&hellip;" aria-label="Search the top {{ top_films.length }} films">
+  </p>
   <ul class="film-list">
   {% for filmSlug in top_films %}
-  <li>
+  <li data-search-slug="{{ filmSlug }}">
     {% include "film.njk" %}
   </li>
   {% endfor %}

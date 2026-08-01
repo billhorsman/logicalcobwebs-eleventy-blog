@@ -1,0 +1,17 @@
+---
+permalink: /bill/albums/search.json
+layout: false
+eleventyExcludeFromCollections: true
+---
+[
+{%- for slug in top_albums %}
+{%- set album = albums[slug] %}
+{%- set tracks = [] %}
+{%- for disc in album.tracks %}
+  {%- for track in disc.tracks %}
+    {%- set tracks = (tracks.push(track.title), tracks) %}
+  {%- endfor %}
+{%- endfor %}
+{"slug": {{ slug | dump | safe }}, "primary": {{ (album.title + " " + album.artist + " " + album.year) | dump | safe }}, "deep": {{ tracks | dump | safe }}}{{ "," if not loop.last }}
+{%- endfor %}
+]

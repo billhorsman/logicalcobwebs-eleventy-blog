@@ -903,3 +903,27 @@ rating-stars {
     opacity: 0.2;
   }
 }
+
+/* Top-100 list search (films and albums) */
+.list-search input {
+  background: var(--badge-background-color);
+  border: 1px solid var(--border-color);
+  border-radius: 100vh;
+  color: var(--color);
+  font-family: var(--font-family);
+  font-size: 1rem;
+  padding: 0.4rem 1rem;
+  width: 100%;
+  max-width: 24rem;
+}
+
+.search-hidden {
+  display: none !important;
+}
+
+.search-match-hint {
+  display: block;
+  font-size: 0.8rem;
+  font-style: italic;
+  opacity: 0.7;
+}

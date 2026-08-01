@@ -3,7 +3,7 @@
 <album-grid-cards>
 {%- for slug in gridSlugs %}
 {%- set album = albums[slug] %}
-<a href="/bill/albums/{{ slug }}/" class="album-card">
+<a href="/bill/albums/{{ slug }}/" class="album-card" data-search-slug="{{ slug }}">
 {%- if slug | albumCoverExists %}
 <img src="/bill/albums/covers/{{ slug }}.jpg" alt="Cover of {{ album.title }} by {{ album.artist }}" loading="lazy">
 {%- else %}
