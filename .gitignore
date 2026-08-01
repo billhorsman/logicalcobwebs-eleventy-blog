@@ -6,3 +6,4 @@ node_modules/
 /bin/
 .env
 spotify-track-uris.txt
+spotify-album-uris.txt
