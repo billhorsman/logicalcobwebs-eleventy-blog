@@ -10,11 +10,11 @@ eleventyComputed:
 
 ## Favourite Albums
 
-{% set firstAlbum = albums[top_albums[0]] %}
-{% set lastAlbum = albums[top_albums[top_albums.length - 1]] %}
-Starting from *{{ firstAlbum.title }}* in {{ firstAlbum.year }} through to *{{ lastAlbum.title }}* in {{ lastAlbum.year }}, here are my {{ top_albums.length }} favourite albums.
+It's very hard to pick a top {{ top_albums.length }} albums, so this is me throwing in some to start with. I'm expecting to add more as I go (and to remove those that no longer make the cut).
 
-Almost impossible to pick, so this is me throwing in some to start with. I'm expecting to add more as I go (and to remove those that no longer make the cut).
+Only {{ top_artists.length }} artists appear more than once: {% namesAndCounts top_artists, 10, "albums" %}.
+
+I might have to pick a top 100 songs as well. There are lots of songs that I love aren't in this list. For example, I like [One Bourbon, One Scotch and One Beer](https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r?si=2b29f5661ce94c44) by _John Lee Hooker_ and I could just lookup whatever album that's on (or pick one of the albums it's on) but that wouldn't be quite right. 
 
 ### Top {{ top_5_albums.length }}
 

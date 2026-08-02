@@ -235,9 +235,9 @@ export default async function(eleventyConfig) {
 
 	eleventyConfig.addAsyncShortcode(
 		"namesAndCounts", 
-		async function(list, limit) {
+		async function(list, limit, unit = "films") {
 			const words = list.slice(0, limit).map((o, index) => {
-				return `${o.name} (${o.count}${index == 0 ? " films" : ""})`;
+				return `${o.name} (${o.count}${index == 0 ? " " + unit : ""})`;
 			});
 			return toSentence(words);
 		}
