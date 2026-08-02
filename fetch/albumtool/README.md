@@ -89,10 +89,21 @@ To build a playlist of every top-100 album:
    lacked Spotify links for are found via Spotify search and their
    links saved back into the data.
 
-Re-running creates a new playlist (delete the old one in Spotify), or
-use `-into <playlist-url>` to fill an existing one. If the API is
-rate-limited, `playlist -export-tracks` writes track URIs to a file to
-paste directly into a playlist in the Spotify desktop app.
+Track URIs are cached per album in `_data/albums/*.json` on first
+fetch, so rebuilds only call the API for newly added albums.
+
+### Refreshing the playlist after the top 100 changes
+
+1. `./bin/albumtool playlist -export-tracks` — regenerates
+   `spotify-track-uris.txt` in list order (cached albums are offline).
+2. In the Spotify desktop app: open the playlist, click a track,
+   select all (Cmd+A), delete.
+3. `cat spotify-track-uris.txt | pbcopy` and paste into the empty
+   playlist.
+
+The direct API route (`playlist -into <playlist-url>`) adds tracks in
+one go but currently 403s for development-mode apps; the paste route
+is the reliable one.
 
 ## OpenGraph montage
 

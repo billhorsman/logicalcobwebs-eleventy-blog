@@ -110,6 +110,17 @@ func cmdPlaylist(root string, args []string) error {
 			}
 			fmt.Printf("%s: found via Spotify search -> %s\n", slug, spotify)
 		}
+		// Track URIs are cached in the album data so rebuilds only hit
+		// the API for albums fetched for the first time
+		if cached, ok := data["spotify-tracks"].([]any); ok && len(cached) > 0 {
+			for _, u := range cached {
+				if s, ok := u.(string); ok {
+					uris = append(uris, s)
+				}
+			}
+			fmt.Printf("%s: %d tracks (cached)\n", slug, len(cached))
+			continue
+		}
 		albumID := strings.TrimPrefix(spotify, "https://open.spotify.com/album/")
 		tracks, err := spotifyGet(token, "https://api.spotify.com/v1/albums/"+albumID+"/tracks?limit=50")
 		if err != nil {
@@ -118,12 +129,18 @@ func cmdPlaylist(root string, args []string) error {
 			continue
 		}
 		items, _ := tracks["items"].([]any)
+		var albumURIs []string
 		for _, item := range items {
 			if m, ok := item.(map[string]any); ok {
-				uris = append(uris, getString(m, "uri"))
+				albumURIs = append(albumURIs, getString(m, "uri"))
 			}
 		}
-		fmt.Printf("%s: %d tracks\n", slug, len(items))
+		data["spotify-tracks"] = albumURIs
+		if err := writeAlbumData(root, slug, data); err != nil {
+			return err
+		}
+		uris = append(uris, albumURIs...)
+		fmt.Printf("%s: %d tracks\n", slug, len(albumURIs))
 	}
 
 	// Only real track URIs; anything else 403s the whole batch
