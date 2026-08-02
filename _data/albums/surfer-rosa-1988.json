@@ -1,0 +1,178 @@
+{
+  "artist": "Pixies",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 19,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 10,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "1208a8e7-e5bd-4891-9f81-9a9fdfceeb39",
+            "name": "noise pop"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "bd7e1d40-43b1-4ba5-97b3-05b891466962",
+            "name": "punk rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "b76ee78d-ec97-49e9-8ea6-cfc46ecc3b23",
+            "name": "surf rock"
+          }
+        ],
+        "id": "b6b2bb8d-54a9-491f-9607-7b546023b433",
+        "name": "Pixies",
+        "sort-name": "Pixies",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Pixies"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1988-03-21",
+  "genres": [
+    {
+      "count": 8,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "8e5474b7-f445-49a7-866d-0f8e34b0a519",
+      "name": "noise rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "aec382b7-b635-470c-9051-2f84e0b5ea1e",
+      "name": "post-hardcore"
+    },
+    {
+      "count": 7,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    }
+  ],
+  "id": "74e36cbc-a747-3ebf-a60e-51e656c87741",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "surfer-rosa-1988",
+  "spotify": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9",
+  "title": "Surfer Rosa",
+  "top-genres": [
+    "alternative rock",
+    "rock",
+    "indie rock",
+    "noise rock",
+    "post-hardcore"
+  ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:04",
+          "position": 1,
+          "title": "Bone Machine"
+        },
+        {
+          "length": "2:05",
+          "position": 2,
+          "title": "Break My Body"
+        },
+        {
+          "length": "1:48",
+          "position": 3,
+          "title": "Something Against You"
+        },
+        {
+          "length": "1:30",
+          "position": 4,
+          "title": "Broken Face"
+        },
+        {
+          "length": "3:55",
+          "position": 5,
+          "title": "Gigantic"
+        },
+        {
+          "length": "2:32",
+          "position": 6,
+          "title": "River Euphrates"
+        },
+        {
+          "length": "3:53",
+          "position": 7,
+          "title": "Where Is My Mind?"
+        },
+        {
+          "length": "2:17",
+          "position": 8,
+          "title": "Cactus"
+        },
+        {
+          "length": "1:52",
+          "position": 9,
+          "title": "Tony’s Theme"
+        },
+        {
+          "length": "2:33",
+          "position": 10,
+          "title": "Oh My Golly!"
+        },
+        {
+          "length": "4:20",
+          "position": 11,
+          "title": "Vamos"
+        },
+        {
+          "length": "1:42",
+          "position": 12,
+          "title": "I’m Amazed"
+        },
+        {
+          "length": "2:01",
+          "position": 13,
+          "title": "Brick Is Red"
+        }
+      ]
+    }
+  ],
+  "year": "1988"
+}
