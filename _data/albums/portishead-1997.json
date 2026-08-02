@@ -1,0 +1,186 @@
+{
+  "artist": "Portishead",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 7,
+            "disambiguation": "",
+            "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+            "name": "downtempo"
+          },
+          {
+            "count": 8,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "name": "electronica"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "ec5a14c7-7793-46dc-b858-470183eb63f7",
+            "name": "folktronica"
+          },
+          {
+            "count": 14,
+            "disambiguation": "",
+            "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+            "name": "trip hop"
+          }
+        ],
+        "id": "8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11",
+        "name": "Portishead",
+        "sort-name": "Portishead",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "joinphrase": "",
+      "name": "Portishead"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "1997-09-29",
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "7dc2b20f-3953-4874-b9bf-41b8ba06d20c",
+      "name": "acid jazz"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "fd7b5582-e69c-40ad-90b1-d31db33be612",
+      "name": "dark jazz"
+    },
+    {
+      "count": 4,
+      "disambiguation": "",
+      "id": "cc38aba3-48ed-439a-83b9-f81a34a66598",
+      "name": "downtempo"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "name": "electronic"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "ec5a14c7-7793-46dc-b858-470183eb63f7",
+      "name": "folktronica"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 12,
+      "disambiguation": "",
+      "id": "45eb1d9c-588c-4dc8-9394-a14b7c8f02bc",
+      "name": "trip hop"
+    }
+  ],
+  "id": "46b38f09-e90b-39eb-b04f-002da20f7f96",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "portishead-1997",
+  "spotify": "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA",
+  "title": "Portishead",
+  "top-genres": [
+    "trip hop",
+    "electronic",
+    "downtempo",
+    "acid jazz",
+    "alternative rock"
+  ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "4:42",
+          "position": 1,
+          "title": "Cowboys"
+        },
+        {
+          "length": "4:02",
+          "position": 2,
+          "title": "All Mine"
+        },
+        {
+          "length": "4:25",
+          "position": 3,
+          "title": "Undenied"
+        },
+        {
+          "length": "3:48",
+          "position": 4,
+          "title": "Half Day Closing"
+        },
+        {
+          "length": "4:01",
+          "position": 5,
+          "title": "Over"
+        },
+        {
+          "length": "6:04",
+          "position": 6,
+          "title": "Humming"
+        },
+        {
+          "length": "4:16",
+          "position": 7,
+          "title": "Mourning Air"
+        },
+        {
+          "length": "4:19",
+          "position": 8,
+          "title": "Seven Months"
+        },
+        {
+          "length": "5:02",
+          "position": 9,
+          "title": "Only You"
+        },
+        {
+          "length": "5:57",
+          "position": 10,
+          "title": "Elysium"
+        },
+        {
+          "length": "3:59",
+          "position": 11,
+          "title": "Western Eyes"
+        }
+      ]
+    }
+  ],
+  "year": "1997"
+}
