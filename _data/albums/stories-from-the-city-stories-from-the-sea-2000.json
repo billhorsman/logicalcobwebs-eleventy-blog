@@ -1,0 +1,191 @@
+{
+  "artist": "PJ Harvey",
+  "artist-credit": [
+    {
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "genres": [
+          {
+            "count": 13,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "count": 5,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "f0c26658-95b8-46b8-b167-fdc9a659465b",
+            "name": "chamber folk"
+          },
+          {
+            "count": 4,
+            "disambiguation": "",
+            "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+            "name": "folk rock"
+          },
+          {
+            "count": 11,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "455f264b-db00-4716-991d-fbd32dc24523",
+            "name": "singer-songwriter"
+          }
+        ],
+        "id": "e795e03d-b5d5-4a5f-834d-162cfb308a2c",
+        "name": "PJ Harvey",
+        "sort-name": "Harvey, PJ",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "joinphrase": "",
+      "name": "PJ Harvey"
+    }
+  ],
+  "disambiguation": "",
+  "first-release-date": "2000-10-23",
+  "genres": [
+    {
+      "count": 6,
+      "disambiguation": "",
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+      "name": "art rock"
+    },
+    {
+      "count": 2,
+      "disambiguation": "",
+      "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+      "name": "folk rock"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+      "name": "indie rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "count": 5,
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "name": "rock"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "455f264b-db00-4716-991d-fbd32dc24523",
+      "name": "singer-songwriter"
+    }
+  ],
+  "id": "71641af7-d122-326a-b0bb-f76a8d09810c",
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "slug": "stories-from-the-city-stories-from-the-sea-2000",
+  "spotify": "https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz",
+  "title": "Stories From the City, Stories From the Sea",
+  "top-genres": [
+    "alternative rock",
+    "indie rock",
+    "rock",
+    "art rock",
+    "folk rock"
+  ],
+  "tracks": [
+    {
+      "title": "",
+      "tracks": [
+        {
+          "length": "3:51",
+          "position": 1,
+          "title": "Big Exit"
+        },
+        {
+          "length": "3:20",
+          "position": 2,
+          "title": "Good Fortune"
+        },
+        {
+          "length": "3:42",
+          "position": 3,
+          "title": "A Place Called Home"
+        },
+        {
+          "length": "3:14",
+          "position": 4,
+          "title": "One Line"
+        },
+        {
+          "length": "3:59",
+          "position": 5,
+          "title": "Beautiful Feeling"
+        },
+        {
+          "length": "3:59",
+          "position": 6,
+          "title": "The Whores Hustle and the Hustlers Whore"
+        },
+        {
+          "length": "3:57",
+          "position": 7,
+          "title": "This Mess We're In"
+        },
+        {
+          "length": "3:19",
+          "position": 8,
+          "title": "You Said Something"
+        },
+        {
+          "length": "2:24",
+          "position": 9,
+          "title": "Kamikaze"
+        },
+        {
+          "length": "3:47",
+          "position": 10,
+          "title": "This Is Love"
+        },
+        {
+          "length": "5:37",
+          "position": 11,
+          "title": "Horses in My Dreams"
+        },
+        {
+          "length": "6:08",
+          "position": 12,
+          "title": "We Float"
+        }
+      ]
+    }
+  ],
+  "year": "2000"
+}
