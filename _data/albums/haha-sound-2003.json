@@ -155,6 +155,22 @@
   "secondary-types": [],
   "slug": "haha-sound-2003",
   "spotify": "https://open.spotify.com/album/3AUkbuxvj1fH2jkbWI2gzn",
+  "spotify-tracks": [
+    "spotify:track:4kxDKjbjjLKNRqoJvFe3g5",
+    "spotify:track:1zQ9HyzqFr7xpNeUszTfUf",
+    "spotify:track:0zb5S00x0wtxOnsOc7nCLU",
+    "spotify:track:16y7brCOHTuTvUDNAEqsMo",
+    "spotify:track:5ye8vmJBwoTbLt3U3MXrFY",
+    "spotify:track:0n9TVd0fEzFKbSRQY0v5CA",
+    "spotify:track:6ELPrUc5vNZg1z5OFsedwF",
+    "spotify:track:58C0xAyUC51qnwxaI7mN1v",
+    "spotify:track:7GqxKKKtTbudktLBJXzdvx",
+    "spotify:track:1UmMawozVoFgO69cgWjJWL",
+    "spotify:track:4nVH4pyGxS8pkO9Ug4Tobm",
+    "spotify:track:2AdvSoMIklD2K4kroB1mwQ",
+    "spotify:track:0We7JeHHU4z0qBG30Dppkd",
+    "spotify:track:48Nl2NdtP5xPlJpm3S95AP"
+  ],
   "title": "Haha Sound",
   "top-genres": [
     "electronic",

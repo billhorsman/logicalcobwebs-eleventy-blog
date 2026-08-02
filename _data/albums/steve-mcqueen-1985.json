@@ -131,6 +131,16 @@
   "secondary-types": [],
   "slug": "steve-mcqueen-1985",
   "spotify": "https://open.spotify.com/album/2fRgL0eDSoENHMrrGXH8Ev",
+  "spotify-tracks": [
+    "spotify:track:3EZ4qKTVEI4TJdS2wIE9As",
+    "spotify:track:0AmBiWkSLfbbOHZQUKIlDL",
+    "spotify:track:6XCGnBPjxCMo9d6TMDVsQy",
+    "spotify:track:68HHiBLRnsPldOmtfAgOcv",
+    "spotify:track:4xKQdxMbCvKsCdd9C0UXMZ",
+    "spotify:track:4cIZ0MO87HRNYFckr7iSJT",
+    "spotify:track:38eJoda9AvJdXf6E4FQJwh",
+    "spotify:track:4YO55PaOTZDWtkKolNTjHW"
+  ],
   "title": "Steve McQueen",
   "top-genres": [
     "pop rock",

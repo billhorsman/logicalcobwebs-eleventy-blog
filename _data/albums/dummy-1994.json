@@ -89,6 +89,19 @@
   "secondary-types": [],
   "slug": "dummy-1994",
   "spotify": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno",
+  "spotify-tracks": [
+    "spotify:track:2O6X9nPVVQSefg3xOQAo5u",
+    "spotify:track:6vTtCOimcPs5H1Jr9d0Aep",
+    "spotify:track:6pW8YspamPCxUwgvYttTSc",
+    "spotify:track:1cpnpMvnvmdy3hzYgd5oo9",
+    "spotify:track:7h14W1uQK7sjpVI1oVTobt",
+    "spotify:track:6JHGaBhtCbfEtOh5ea7fLI",
+    "spotify:track:7lR743VxfubUw5m9dpnR9x",
+    "spotify:track:2sW8fmnISifQTRgnRrQTYW",
+    "spotify:track:20DMYgVdOaR7sjsu8QMSoH",
+    "spotify:track:6dDcfbMUFkFDk6x93kITY7",
+    "spotify:track:3Ty7OTBNSigGEpeW2PqcsC"
+  ],
   "title": "Dummy",
   "top-genres": [
     "trip hop",

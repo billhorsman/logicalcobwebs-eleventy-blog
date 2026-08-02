@@ -227,6 +227,19 @@
   "secondary-types": [],
   "slug": "kid-a-2000",
   "spotify": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7",
+  "spotify-tracks": [
+    "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+    "spotify:track:3QDahKSqLwYJYQRbILdzS6",
+    "spotify:track:4Wgj6jzoI2gYlumXdYAB8U",
+    "spotify:track:2rtGaCAeYtmcIvuZsvgTf6",
+    "spotify:track:4LrfsgQ5AGouvH3PlxW2PC",
+    "spotify:track:1FoUsSi9BCTlNt2Vd7V8XA",
+    "spotify:track:0xivCtzVVrdeq32s8EnOO6",
+    "spotify:track:1W5XugQJGhnSATMI5n002M",
+    "spotify:track:4h37RgtBg9iynN3BIL5lFU",
+    "spotify:track:4SrRrB27n7fiRkQcPoKfpk",
+    "spotify:track:4aeCuOowYXJXrMZsVHZbfF"
+  ],
   "title": "Kid A",
   "top-genres": [
     "electronic",
