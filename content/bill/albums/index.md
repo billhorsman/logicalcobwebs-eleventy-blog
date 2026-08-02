@@ -16,12 +16,11 @@ Only {{ top_artists.length }} artists appear more than once: {% namesAndCounts t
 
 I might have to pick a top 100 songs as well. There are lots of songs that I love aren't in this list. For example, I like [One Bourbon, One Scotch and One Beer](https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r?si=2b29f5661ce94c44) by _John Lee Hooker_ and I could just lookup whatever album that's on (or pick one of the albums it's on) but that wouldn't be quite right. 
 
-<p class="album-listen-wrap">
-  <a class="album-listen" href="https://open.spotify.com/playlist/4lBmdQraZkzBSvWDrM1FEs?si=6d5b7c61c2ba4a4a">
-    <i class="fa-brands fa-spotify" aria-hidden="true"></i>
-    Listen on Spotify
-  </a>
-</p>
+Want to listen to all 90 hours?
+<a class="album-listen" href="https://open.spotify.com/playlist/4lBmdQraZkzBSvWDrM1FEs?si=6d5b7c61c2ba4a4a">
+  <i class="fa-brands fa-spotify" aria-hidden="true"></i>
+  Listen on Spotify
+</a>
 
 ### Top {{ top_5_albums.length }}
 
