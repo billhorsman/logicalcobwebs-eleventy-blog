@@ -38,6 +38,7 @@ func cmdPlaylist(root string, args []string) error {
 	fs := flag.NewFlagSet("playlist", flag.ExitOnError)
 	into := fs.String("into", "", "add tracks to an existing playlist (id or URL) instead of creating one")
 	exportTracks := fs.Bool("export-tracks", false, "write track URIs to a file to paste into the Spotify desktop app")
+	recache := fs.Bool("recache", false, "refetch cached track URIs and durations")
 	fs.Parse(args)
 	name := "Bill's Top 100 Albums"
 	if fs.NArg() > 0 {
@@ -112,7 +113,7 @@ func cmdPlaylist(root string, args []string) error {
 		}
 		// Track URIs are cached in the album data so rebuilds only hit
 		// the API for albums fetched for the first time
-		if cached, ok := data["spotify-tracks"].([]any); ok && len(cached) > 0 {
+		if cached, ok := data["spotify-tracks"].([]any); ok && len(cached) > 0 && !*recache {
 			for _, u := range cached {
 				if s, ok := u.(string); ok {
 					uris = append(uris, s)
@@ -130,12 +131,19 @@ func cmdPlaylist(root string, args []string) error {
 		}
 		items, _ := tracks["items"].([]any)
 		var albumURIs []string
+		var albumMs int64
 		for _, item := range items {
 			if m, ok := item.(map[string]any); ok {
 				albumURIs = append(albumURIs, getString(m, "uri"))
+				if d, ok := m["duration_ms"].(json.Number); ok {
+					if n, err := d.Int64(); err == nil {
+						albumMs += n
+					}
+				}
 			}
 		}
 		data["spotify-tracks"] = albumURIs
+		data["spotify-duration-ms"] = albumMs
 		if err := writeAlbumData(root, slug, data); err != nil {
 			return err
 		}
@@ -162,7 +170,21 @@ func cmdPlaylist(root string, args []string) error {
 		if err := os.WriteFile(path, []byte(strings.Join(uris, "\n")+"\n"), 0o644); err != nil {
 			return err
 		}
+		var totalMs int64
+		for _, slug := range slugs {
+			if data, err := readAlbumData(root, slug); err == nil {
+				if d, ok := data["spotify-duration-ms"].(json.Number); ok {
+					if n, err := d.Int64(); err == nil {
+						totalMs += n
+					}
+				}
+			}
+		}
 		fmt.Printf("\nWrote %d track URIs to %s — copy and paste into a playlist in the desktop app.\n", len(uris), path)
+		if totalMs > 0 {
+			hours := float64(totalMs) / 3600000
+			fmt.Printf("Total playlist length: %.1f hours\n", hours)
+		}
 		return nil
 	}
 
